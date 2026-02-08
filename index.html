@@ -189,6 +189,11 @@
                         <button @click="clearFilters" class="usa-button usa-button--unstyled font-sans-3xs text-uppercase text-primary hover:text-primary-dark margin-left-auto underline padding-right-0" v-if="activeFilterCount > 0">Clear All</button>
                     </div>
 
+                     <div class="usa-checkbox margin-bottom-3">
+                         <input class="usa-checkbox__input" id="favorites-filter" type="checkbox" v-model="showFavoritesOnly">
+                         <label class="usa-checkbox__label" for="favorites-filter">Show Favorites Only</label>
+                     </div>
+
                      <div class="margin-bottom-3">
                          <label class="usa-label margin-top-0 font-sans-sm" for="year-select">Session</label>
                          <select class="usa-select mt-2 font-sans-sm" name="year-select" id="year-select" v-model="selectedYear" @change="fetchData">
@@ -538,6 +543,11 @@
                             </div>
                         </div>
                         <div class="padding-2 flex-1 overflow-y-auto">
+                            <div class="usa-checkbox margin-bottom-3">
+                                <input class="usa-checkbox__input" id="mobile-favorites-filter" type="checkbox" v-model="showFavoritesOnly">
+                                <label class="usa-checkbox__label" for="mobile-favorites-filter">Show Favorites Only</label>
+                            </div>
+
                             <div v-if="selectedYear === 2026 || selectedAgency" class="margin-bottom-3">
                                 <label class="usa-label margin-top-0 font-sans-sm" for="drawer-sort">Sort Order</label>
                                 <select v-model="sortBy" id="drawer-sort" class="usa-select width-full font-sans-sm">
@@ -753,6 +763,15 @@
                                 <span class="usa-tag">{{ activeBill.YearAndSession }}</span>
                             </div>
                         </div>
+                        <button 
+                            @click="toggleFavorite(activeBill.BillNumber)" 
+                            class="usa-button usa-button--unstyled p-2 hover:bg-base-lightest transition-colors shrink-0 margin-right-1"
+                            :aria-label="isFavorite(activeBill.BillNumber) ? 'Remove from favorites' : 'Add to favorites'"
+                            :title="isFavorite(activeBill.BillNumber) ? 'Remove from favorites' : 'Add to favorites'"
+                            :aria-pressed="isFavorite(activeBill.BillNumber)"
+                        >
+                            <i :class="isFavorite(activeBill.BillNumber) ? 'ph-fill ph-star text-yellow-500' : 'ph ph-star text-base-light'" class="text-2xl"></i>
+                        </button>
                         <button @click="closeBill" aria-label="Close Modal" class="usa-button usa-button--unstyled p-2 hover:bg-base-lightest transition-colors shrink-0 text-base-darker">
                             <i class="ph ph-x text-2xl" aria-hidden="true"></i>
                         </button>
@@ -967,6 +986,8 @@
                 const activeBill = ref(null);
                 const pendingBillId = ref(null);
                 const showAboutModal = ref(false);
+                const favorites = ref(new Set());
+                const showFavoritesOnly = ref(false);
                 const showFilterDrawer = ref(false);
                 const drawerReady = ref(false);
                 const modalTitle = ref(null);
@@ -984,6 +1005,7 @@
                     if (selectedAgency.value) count++;
                     if (selectedSponsor.value) count++;
                     if (filterRating.value !== 'all') count++;
+                    if (showFavoritesOnly.value) count++;
                     count += filterBroad.value.length;
                     count += filterNarrow.value.length;
                     return count;
@@ -1049,6 +1071,7 @@
                     filterBroad.value = [];
                     filterNarrow.value = [];
                     filterRating.value = "all";
+                    showFavoritesOnly.value = false;
                     sortBy.value = "date";
                     updateUrl();
 
@@ -1076,6 +1099,7 @@
                     filterBroad.value = [];
                     filterNarrow.value = [];
                     filterRating.value = "all";
+                    showFavoritesOnly.value = false;
                     sortBy.value = "date";
                     activeBill.value = null;
                     showFilterDrawer.value = false;
@@ -1090,7 +1114,7 @@
                     notifyParentOfUrlChange(true);
                 };
 
-                watch([searchQuery, filterBroad, filterNarrow, sortBy, filterRating, selectedSponsor], () => { updateUrl(); });
+                watch([searchQuery, filterBroad, filterNarrow, sortBy, filterRating, selectedSponsor, showFavoritesOnly], () => { updateUrl(); });
 
                 // Enforce sort rules when year changes
                 watch(selectedYear, (newYear) => {
@@ -1143,6 +1167,8 @@
                         filterRating.value = params.get('relevance');
                     }
 
+                    if (params.get('favorites') === 'true') showFavoritesOnly.value = true;
+
                     // Apply sort parameter LAST
                     if (params.get('sort')) {
                         await nextTick();
@@ -1176,6 +1202,7 @@
                     filterBroad.value.forEach(val => params.append('broad', val));
                     filterNarrow.value.forEach(val => params.append('narrow', val));
                     if (filterRating.value !== 'all') params.set('relevance', filterRating.value);
+                    if (showFavoritesOnly.value) params.set('favorites', 'true');
                     const newUrl = `${window.location.pathname}?${params.toString()}`;
                     if (usePushState) {
                         window.history.pushState({ bill: activeBill.value?.BillNumber || null }, '', newUrl);
@@ -1308,6 +1335,11 @@
 
                 const filteredBills = computed(() => {
                     let results = allBills.value;
+
+                    // 0. Filter by Favorites
+                    if (showFavoritesOnly.value) {
+                        results = results.filter(b => favorites.value.has(`${selectedYear.value}-${b.BillNumber}`));
+                    }
 
                     // 1. Filter by Agency (and Rating)
                     if (selectedAgency.value) {
@@ -1637,6 +1669,22 @@
                     announceToScreenReader(`Download complete. ${rows.length} bills downloaded as CSV.`);
                 };
 
+                const toggleFavorite = (billNumber) => {
+                    const key = `${selectedYear.value}-${billNumber}`;
+                    const newSet = new Set(favorites.value);
+                    if (newSet.has(key)) {
+                        newSet.delete(key);
+                    } else {
+                        newSet.add(key);
+                    }
+                    favorites.value = newSet;
+                    localStorage.setItem('legi_favorites', JSON.stringify(Array.from(newSet)));
+                };
+
+                const isFavorite = (billNumber) => {
+                    return favorites.value.has(`${selectedYear.value}-${billNumber}`);
+                };
+
                 const focusFirstOption = () => {
                     const firstOption = document.querySelector('#agency-results-list li');
                     if (firstOption) firstOption.focus();
@@ -1704,6 +1752,13 @@
                 };
 
                 onMounted(async () => {
+                    const storedFavs = localStorage.getItem('legi_favorites');
+                    if (storedFavs) {
+                        try {
+                            favorites.value = new Set(JSON.parse(storedFavs));
+                        } catch (e) { console.error(e); }
+                    }
+
                     await fetchAgencies();
                     initFromUrl();
                     fetchData();
@@ -1795,6 +1850,7 @@
                     modalTitle, trapFocus, trapFocusDrawer, clearAgency, clearSponsor, clearFilters, returnToLanding, agencyFilterContainer, sponsorFilterContainer,
                     filterDrawer, focusFirstOption, announceToScreenReader,
                     filtersHeading, mobileFiltersHeading,
+                    favorites, showFavoritesOnly, toggleFavorite, isFavorite,
                     currentView, enterDashboard, handleFocusOut, scrollToFocusedItem
                 };
             }

@@ -11557,17 +11557,69 @@
   },
   "HB0375": {
     "first_seen": "2026-02-07T19:34:25.202063",
-    "last_updated": "2026-02-07T19:34:25.202063",
-    "last_seen": null,
-    "needs_download": true,
+    "last_updated": "2026-02-08T11:07:22.247799",
+    "last_seen": "2026-02-08T11:07:22.247799",
+    "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
-    "files": {},
-    "qa_results": null,
+    "files": {
+      "fiscal_note": "C:\\git\\Legi-Scanner\\data\\2024rs\\pdf\\HB0375_fn.pdf",
+      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2024rs\\pdf\\HB0375.pdf",
+      "amendments": []
+    },
+    "qa_results": {
+      "bill_summary": "This bill renames the Port of Baltimore to the Helen Delich Bentley Port of Baltimore in the Annotated Code of Maryland, codifying a 2006 executive order that honored the former maritime journalist and U.S. Representative for her contributions to the port.",
+      "start_year": 2024,
+      "end_year": null,
+      "funding": 0,
+      "responsible_party": "Maryland Port Administration",
+      "stakeholders": "The maritime industry, Port of Baltimore employees, and the general public.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill has no state or local fiscal impact as it is technical in nature. The Port of Baltimore was previously renamed by executive order in 2006, and this legislation simply updates statutory references.",
+      "agency_relevance": [
+        {
+          "agency_name": "Maryland Port Administration",
+          "is_relevant": true,
+          "relevance_explanation": "As the agency that manages and operates the port facilities, the Maryland Port Administration is directly affected by the statutory change to the port's official name, which is referenced throughout the Transportation Article governing its operations.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Transportation",
+          "is_relevant": true,
+          "relevance_explanation": "The Department of Transportation is the parent agency for the Maryland Port Administration. The bill makes technical amendments to the Transportation Article, which defines the scope and authority of the department's modal administrations.",
+          "relevance_rating": 5
+        },
+        {
+          "agency_name": "Department of Labor",
+          "is_relevant": true,
+          "relevance_explanation": "The bill amends the Business Occupations and Professions Article regarding the membership of the State Board of Pilots, a professional regulatory body that falls under the Department of Labor's oversight of occupational licensing.",
+          "relevance_rating": 3
+        },
+        {
+          "agency_name": "Maryland State Archives",
+          "is_relevant": true,
+          "relevance_explanation": "The Maryland State Archives is responsible for maintaining the Maryland Manual and official government records. This bill codifies a name change that the Archives must reflect in its records and the Maryland Manual On-Line.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The Governor's Office originally initiated the renaming of the port via executive order in 2006. This bill formally codifies that executive action into the Annotated Code of Maryland.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Secretary of State",
+          "is_relevant": true,
+          "relevance_explanation": "The Secretary of State is the principal custodian of the state's official records, including the laws and executive orders that this bill addresses and codifies.",
+          "relevance_rating": 2
+        }
+      ]
+    },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": null
+    "qa_input_hash": "d87323374d0fe997560b39753206441dcb910e388b16e8690ecc5ccc617d5f63",
+    "last_updated_local": "2026-02-08T11:07:54.437360",
+    "bill_hash": "3b43ebbfb0d07d65cb0f30ff65f2ccc1"
   },
   "HB0376": {
     "first_seen": "2026-02-07T19:39:54.540423",
@@ -15849,17 +15901,69 @@
   },
   "HB0498": {
     "first_seen": "2026-02-07T19:40:25.594334",
-    "last_updated": "2026-02-07T19:40:25.594334",
-    "last_seen": null,
-    "needs_download": true,
+    "last_updated": "2026-02-08T11:07:22.926497",
+    "last_seen": "2026-02-08T11:07:22.926497",
+    "needs_download": false,
     "needs_convert": false,
     "needs_amend": false,
     "needs_qa": false,
-    "files": {},
-    "qa_results": null,
+    "files": {
+      "fiscal_note": "C:\\git\\Legi-Scanner\\data\\2024rs\\pdf\\HB0498_fn.pdf",
+      "bill_pdf": "C:\\git\\Legi-Scanner\\data\\2024rs\\pdf\\HB0498.pdf",
+      "amendments": []
+    },
+    "qa_results": {
+      "bill_summary": "This bill updates the annual reporting requirements for the Access to Counsel in Evictions Program, which is administered by the Maryland Legal Services Corporation (MLSC). It requires more granular data to be reported to the Governor and General Assembly, including case types (such as nonpayment of rent or breach of lease), the amount paid to attorneys for each case, geographic distribution of cases, case outcomes, and specific allocations of state and federal funds to designated legal organizations.",
+      "start_year": 2024,
+      "end_year": 2027,
+      "funding": 0,
+      "responsible_party": "Maryland Legal Services Corporation (MLSC)",
+      "stakeholders": "Low-income tenants (covered individuals with household incomes at or below 50% of the median income), nonprofit legal services organizations, and the Maryland Legal Services Corporation.",
+      "fiscal_impact_summary": "According to the Fiscal Note, the bill does not directly affect State or local operations or finances. The Maryland Legal Services Corporation (MLSC) has indicated that it can handle the revised reporting requirements using its existing resources.",
+      "agency_relevance": [
+        {
+          "agency_name": "Governor's Office",
+          "is_relevant": true,
+          "relevance_explanation": "The bill mandates that the Maryland Legal Services Corporation (MLSC) submit the annual report for the Access to Counsel in Evictions Program directly to the Governor.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Administrative Office of the Courts",
+          "is_relevant": true,
+          "relevance_explanation": "The bill concerns data collection for legal representation in eviction proceedings, which are conducted within the state's court system; the agency also served as an information source for the fiscal note.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Department of Housing and Community",
+          "is_relevant": true,
+          "relevance_explanation": "The Access to Counsel in Evictions Program is central to the state's housing policy and efforts to prevent homelessness, which are primary missions of this department.",
+          "relevance_rating": 2
+        },
+        {
+          "agency_name": "Office of the Attorney General",
+          "is_relevant": true,
+          "relevance_explanation": "The Office of the Attorney General provides legal counsel to state agencies and was a designated information source for the analysis of this legislation.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Human Services",
+          "is_relevant": true,
+          "relevance_explanation": "The department assists residents facing economic need and potential homelessness, populations that are the primary beneficiaries of the legal representation program described in the bill.",
+          "relevance_rating": 1
+        },
+        {
+          "agency_name": "Department of Budget and Management",
+          "is_relevant": true,
+          "relevance_explanation": "The mandated report requires disclosure of the amount of state and federal funds allocated to designated organizations, which falls under the department's broader fiscal oversight and budget execution duties.",
+          "relevance_rating": 1
+        }
+      ]
+    },
     "amended_status": "original",
     "amend_input_hash": null,
-    "qa_input_hash": null
+    "qa_input_hash": "bd4d8273d2f449d4de4cc8f739ef37c644b6930ea0e1287f108bbb8fffa8d7af",
+    "last_updated_local": "2026-02-08T11:08:23.446026",
+    "bill_hash": "b0a0dfe2f55bd191fcadc964823583c7"
   },
   "HB0499": {
     "first_seen": "2026-02-07T19:45:55.125109",

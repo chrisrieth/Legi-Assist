@@ -3,6 +3,8 @@ import requests
 import re
 import hashlib
 import json
+import time
+from requests.exceptions import RequestException
 from bs4 import BeautifulSoup
 import pandas as pd
 from tqdm import tqdm
@@ -17,8 +19,7 @@ def download_session_data(session_year: int, state_manager) -> List[str]:
     headers = {'User-Agent': 'Mozilla/5.0 (Custom Pipeline)'}
 
     print(f"Fetching master list from {json_url}...")
-    resp = requests.get(json_url, headers=headers)
-    resp.raise_for_status()
+    resp = _fetch_with_retry(json_url, headers)
     leg_data = resp.json()
 
     # Save master list for reference
@@ -117,8 +118,7 @@ def scrape_and_download(session_year, bill_number, output_dir, headers) -> Optio
     """Scrapes the specific bill page and downloads PDFs. Returns dict of file paths or None on failure."""
     url = f'https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/{bill_number}?ys={session_year}rs'
     try:
-        r = requests.get(url, headers=headers)
-        r.raise_for_status()
+        r = _fetch_with_retry(url, headers)
     except Exception as e:
         print(f"Failed to fetch {url}: {e}")
         return None
@@ -190,13 +190,24 @@ def scrape_and_download(session_year, bill_number, output_dir, headers) -> Optio
 
     return downloaded_files
 
+def _fetch_with_retry(url, headers, retries=5, backoff=1):
+    """Retries a GET request with exponential backoff."""
+    for i in range(retries):
+        try:
+            r = requests.get(url, headers=headers, timeout=60)
+            r.raise_for_status()
+            return r
+        except RequestException as e:
+            if i == retries - 1:
+                raise e
+            time.sleep(backoff * (2 ** i))
+
 def _download_file(url, path, headers) -> bool:
     """
     Returns True if file was downloaded (new/changed), False if existed.
     Raises Exception on failure.
     """
-    r = requests.get(url, headers=headers)
-    r.raise_for_status()
+    r = _fetch_with_retry(url, headers)
     new_content = r.content
     
     if os.path.exists(path):

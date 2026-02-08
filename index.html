@@ -1669,6 +1669,40 @@
                     announceToScreenReader(`Download complete. ${rows.length} bills downloaded as CSV.`);
                 };
 
+                const setSmartCookie = (name, value, days) => {
+                    let expires = "";
+                    if (days) {
+                        const date = new Date();
+                        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                        expires = "; expires=" + date.toUTCString();
+                    }
+                    
+                    let domain = "";
+                    const hostname = window.location.hostname;
+                    if (hostname.endsWith('.maryland.gov')) {
+                        domain = "; domain=.maryland.gov";
+                    } else if (hostname.endsWith('.maryland.dev')) {
+                        domain = "; domain=.maryland.dev";
+                    }
+                    
+                    let attributes = "; SameSite=Lax";
+                    if (window.location.protocol === 'https:') {
+                        attributes = "; SameSite=None; Secure";
+                    }
+                    document.cookie = name + "=" + (encodeURIComponent(value) || "") + expires + "; path=/" + domain + attributes;
+                };
+
+                const getCookie = (name) => {
+                    const nameEQ = name + "=";
+                    const ca = document.cookie.split(';');
+                    for(let i=0;i < ca.length;i++) {
+                        let c = ca[i];
+                        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                        if (c.indexOf(nameEQ) == 0) return decodeURIComponent(c.substring(nameEQ.length,c.length));
+                    }
+                    return null;
+                };
+
                 const toggleFavorite = (billNumber) => {
                     const key = `${selectedYear.value}-${billNumber}`;
                     const newSet = new Set(favorites.value);
@@ -1678,7 +1712,15 @@
                         newSet.add(key);
                     }
                     favorites.value = newSet;
-                    localStorage.setItem('legi_favorites', JSON.stringify(Array.from(newSet)));
+                    
+                    const serialized = JSON.stringify(Array.from(newSet));
+                    try {
+                        localStorage.setItem('legi_favorites', serialized);
+                    } catch (e) { console.warn('LocalStorage failed', e); }
+                    
+                    try {
+                        setSmartCookie('legi_favorites', serialized, 365);
+                    } catch (e) { console.warn('Cookie failed', e); }
                 };
 
                 const isFavorite = (billNumber) => {
@@ -1752,12 +1794,24 @@
                 };
 
                 onMounted(async () => {
-                    const storedFavs = localStorage.getItem('legi_favorites');
-                    if (storedFavs) {
-                        try {
-                            favorites.value = new Set(JSON.parse(storedFavs));
-                        } catch (e) { console.error(e); }
-                    }
+                    let initialFavs = new Set();
+                    try {
+                        const storedFavs = localStorage.getItem('legi_favorites');
+                        if (storedFavs) {
+                            const parsed = JSON.parse(storedFavs);
+                            if (Array.isArray(parsed)) parsed.forEach(f => initialFavs.add(f));
+                        }
+                    } catch (e) { console.warn('LocalStorage read failed', e); }
+
+                    try {
+                        const cookieFavs = getCookie('legi_favorites');
+                        if (cookieFavs) {
+                            const parsed = JSON.parse(cookieFavs);
+                            if (Array.isArray(parsed)) parsed.forEach(f => initialFavs.add(f));
+                        }
+                    } catch (e) { console.warn('Cookie read failed', e); }
+                    
+                    favorites.value = initialFavs;
 
                     await fetchAgencies();
                     initFromUrl();

@@ -1627,6 +1627,13 @@
                 const openBill = (bill) => {
                     activeBill.value = bill;
                     updateUrl(true);
+
+                    if (typeof gtag === 'function') {
+                        gtag('event', 'bill_open', {
+                            'bill_number': bill.BillNumber,
+                            'session_year': selectedYear.value
+                        });
+                    }
                 };
 
                 const closeBill = () => {
@@ -1807,6 +1814,12 @@
                         newSet.delete(key);
                     } else {
                         newSet.add(key);
+                        if (typeof gtag === 'function') {
+                            gtag('event', 'bill_favorite', {
+                                'bill_number': billNumber,
+                                'session_year': selectedYear.value
+                            });
+                        }
                     }
                     favorites.value = newSet;
                     

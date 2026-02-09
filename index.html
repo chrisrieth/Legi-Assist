@@ -786,6 +786,9 @@
                             :title="isFavorite(activeBill.BillNumber) ? 'Remove from favorites' : 'Add to favorites'"
                             :aria-pressed="isFavorite(activeBill.BillNumber)"
                         >
+                            <span class="sr-only">
+                                {{ isFavorite(activeBill.BillNumber) ? 'Remove from favorites' : 'Add to favorites' }}
+                            </span>
                             <i :class="isFavorite(activeBill.BillNumber) ? 'ph-fill ph-star text-yellow-500' : 'ph ph-star text-base-light'" class="text-2xl"></i>
                         </button>
                         <button @click="closeBill" aria-label="Close bill modal" class="usa-button usa-button--unstyled p-2 hover:bg-base-lightest transition-colors shrink-0 text-base-darker">

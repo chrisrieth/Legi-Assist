@@ -785,7 +785,7 @@
                             <div class="lg:col-span-2 space-y-6 sm:space-y-8">
                                 <h3 class="font-serif-lg text-bold text-base-darker line-height-sans-3">{{ activeBill.Title }}</h3>
                                 <section v-if="getRelevance(activeBill)" aria-labelledby="relevance-heading" class="bg-primary-lighter border-l-4 border-primary p-4 sm:p-6">
-                                    <h4 id="relevance-heading" class="text-primary-darker font-bold uppercase font-serif-3xs tracking-widest mb-2">Agency Relevance: {{ selectedAgency }}</h4>
+                                    <h4 id="relevance-heading" class="font-sans-3xs font-bold text-base-dark uppercase mb-2">Agency Relevance: {{ selectedAgency }}</h4>
                                     <p class="text-base-darker font-medium leading-relaxed font-sans-md">{{ getRelevance(activeBill).relevance_explanation }}</p>
                                 </section>
 

@@ -795,16 +795,14 @@
                                 </section>
 
                                 <section v-if="activeBill.fiscal_impact_summary" aria-labelledby="fiscal-heading">
-                                    <h4 id="fiscal-heading" class="text-base-dark font-bold uppercase font-serif-3xs tracking-widest mb-3">Fiscal Impact Analysis</h4>
-                                    <div class="bg-accent-cool-lighter text-base-darker p-4 sm:p-5 border border-accent-cool-light font-sans-md">
-                                        <div v-if="activeBill.has_fiscal_note === false" class="flex items-start gap-2 mb-3 pb-3 border-b border-accent-cool-light">
-                                            <i class="ph ph-warning text-lg text-accent-cool-dark mt-0.5 shrink-0"></i>
-                                            <p class="text-base-darker font-medium italic font-sans-xs">
-                                                Disclaimer: This fiscal analysis is preliminary and may change when the fiscal and policy note incorporating agency and DLS feedback is published.
-                                            </p>
-                                        </div>
-                                        {{ activeBill.fiscal_impact_summary }}
+                                    <h4 id="fiscal-heading" class="font-sans-3xs font-bold text-base-dark uppercase mb-2">Fiscal Impact Analysis</h4>
+                                    <div v-if="activeBill.has_fiscal_note === false" class="flex items-start gap-2 mb-3 text-base-dark">
+                                        <i class="ph ph-warning text-lg text-accent-cool-dark mt-0.5 shrink-0"></i>
+                                        <p class="font-medium italic font-sans-xs">
+                                            Disclaimer: This fiscal analysis is preliminary and may change when the fiscal and policy note incorporating agency and DLS feedback is published.
+                                        </p>
                                     </div>
+                                    <p class="text-base-darker leading-relaxed font-sans-md">{{ activeBill.fiscal_impact_summary }}</p>
                                 </section>
 
                                 <div v-if="activeBill.responsible_party || activeBill.stakeholders" class="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">

@@ -1,0 +1,6 @@
+site_name: Maryland Legi-Assist
+nav:
+  - Home: index.md
+  - How it Works: how-this-works.md
+theme:
+  name: mkdocs

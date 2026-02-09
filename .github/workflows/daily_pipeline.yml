@@ -7,6 +7,7 @@ on:
 
 jobs:
   run-pipeline:
+    if: github.repository == 'Maryland-State-Innovation-Team/Legi-Assist'
     runs-on: ubuntu-latest
     permissions:
       contents: write

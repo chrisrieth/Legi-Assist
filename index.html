@@ -189,7 +189,9 @@
                 <div class="flex-1 overflow-y-auto padding-3">
                     <div class="display-flex flex-justify-between flex-align-center margin-bottom-2 width-full">
                         <h2 class="font-serif-lg text-bold margin-0" style="outline: none;" ref="filtersHeading" tabindex="-1">Filters</h2>
-                        <button @click="clearFilters" class="usa-button usa-button--unstyled font-sans-3xs text-uppercase text-primary hover:text-primary-dark margin-left-auto underline padding-right-0" v-if="activeFilterCount > 0">Clear All</button>
+                        <button @click="clearFilters" class="usa-button usa-button--unstyled font-sans-3xs text-uppercase text-primary hover:text-primary-dark margin-left-auto underline padding-right-0" v-if="activeFilterCount > 0">
+                            Clear All<span class="sr-only"> Filters</span>
+                        </button>
                     </div>
 
                      <div class="usa-checkbox margin-bottom-3">
@@ -232,6 +234,7 @@
                                 class="usa-button usa-button--unstyled position-absolute text-base-light hover:text-primary display-flex flex-align-center flex-justify-center"
                                 style="top: 50%; right: 0.5rem; transform: translateY(-50%); width: 2rem; height: 2rem;"
                             >
+                                <span class="sr-only">Clear selected agency</span>
                                 <i class="ph-fill ph-x-circle text-xl" aria-hidden="true"></i>
                             </button>
                         </div>
@@ -294,6 +297,7 @@
                                 class="usa-button usa-button--unstyled position-absolute text-base-light hover:text-primary display-flex flex-align-center flex-justify-center"
                                 style="top: 50%; right: 0.5rem; transform: translateY(-50%); width: 2rem; height: 2rem;"
                             >
+                                <span class="sr-only">Clear selected sponsor</span>
                                 <i class="ph-fill ph-x-circle text-xl" aria-hidden="true"></i>
                             </button>
                         </div>
@@ -381,7 +385,7 @@
                             </h3>
                             <a href="https://innovation.maryland.gov" target="_blank" rel="noopener" class="usa-button usa-button--primary margin-0">
                                 Visit website
-                                <span class="sr-only">(opens in new tab)</span>
+                                <span class="sr-only">of the Maryland State Innovation Team (opens in new tab)</span>
                             </a>
                         </div>
                     </div>
@@ -541,8 +545,11 @@
                         <div class="padding-2 border-bottom border-base-lighter flex justify-between items-center bg-base-lightest w-full">
                             <h2 id="drawer-title" ref="mobileFiltersHeading" tabindex="-1" class="font-serif-lg font-bold text-base-dark margin-0" style="outline: none;">Filters</h2>
                             <div class="flex items-center gap-3">
-                                <button @click="clearFilters" class="usa-button usa-button--unstyled font-sans-3xs text-uppercase text-primary hover:text-primary-dark underline padding-right-0" v-if="activeFilterCount > 0">Clear All</button>
-                                <button @click="showFilterDrawer = false" aria-label="Close filters" class="usa-button usa-button--unstyled text-base-dark hover:text-primary margin-0"><i class="ph ph-x text-xl" aria-hidden="true"></i></button>
+                                <button @click="clearFilters" class="usa-button usa-button--unstyled font-sans-3xs text-uppercase text-primary hover:text-primary-dark underline padding-right-0" v-if="activeFilterCount > 0">Clear All<span class="sr-only"> Filters</span></button>
+                                <button @click="showFilterDrawer = false" aria-label="Close filters" class="usa-button usa-button--unstyled text-base-dark hover:text-primary margin-0">
+                                    <span class="sr-only">Close filters</span>
+                                    <i class="ph ph-x text-xl" aria-hidden="true"></i>
+                                </button>
                             </div>
                         </div>
                         <div class="padding-2 flex-1 overflow-y-auto">
@@ -589,7 +596,10 @@
                                 <div v-if="selectedAgency" class="padding-1 bg-primary-lighter text-primary-darker radius-md border-1px border-primary-light margin-bottom-1">
                                     <div class="display-flex flex-align-center flex-justify-between font-sans-2xs text-bold margin-bottom-1">
                                         {{ agencySearch }}
-                                        <button @click="clearAgency" aria-label="Clear selected agency" class="usa-button usa-button--unstyled text-primary"><i class="ph ph-x-circle text-lg" aria-hidden="true"></i></button>
+                                        <button @click="clearAgency" aria-label="Clear selected agency" class="usa-button usa-button--unstyled text-primary">
+                                            <span class="sr-only">Clear selected agency</span>
+                                            <i class="ph ph-x-circle text-lg" aria-hidden="true"></i>
+                                        </button>
                                     </div>
 
                                     <label class="usa-label margin-top-0 text-primary-darker font-sans-3xs uppercase" for="mobile-relevance-select">Relevance Threshold</label>
@@ -644,7 +654,10 @@
 
                                 <div v-if="selectedSponsor" class="display-flex flex-align-center flex-justify-between padding-1 bg-primary-lighter text-primary-darker radius-md font-sans-2xs text-bold border-1px border-primary-light margin-bottom-1">
                                     {{ sponsorSearch }}
-                                    <button @click="clearSponsor" aria-label="Clear selected sponsor" class="usa-button usa-button--unstyled text-primary"><i class="ph ph-x-circle text-lg" aria-hidden="true"></i></button>
+                                    <button @click="clearSponsor" aria-label="Clear selected sponsor" class="usa-button usa-button--unstyled text-primary">
+                                        <span class="sr-only">Clear selected sponsor</span>
+                                        <i class="ph ph-x-circle text-lg" aria-hidden="true"></i>
+                                    </button>
                                 </div>
 
                                 <div 
@@ -731,7 +744,7 @@
                                     </h3>
                                     <a href="https://innovation.maryland.gov" target="_blank" rel="noopener" class="usa-button usa-button--primary margin-0">
                                         Visit website
-                                        <span class="sr-only">(opens in new tab)</span>
+                                        <span class="sr-only">of the Maryland State Innovation Team (opens in new tab)</span>
                                     </a>
                                 </div>
                             </div>
@@ -775,7 +788,8 @@
                         >
                             <i :class="isFavorite(activeBill.BillNumber) ? 'ph-fill ph-star text-yellow-500' : 'ph ph-star text-base-light'" class="text-2xl"></i>
                         </button>
-                        <button @click="closeBill" aria-label="Close Modal" class="usa-button usa-button--unstyled p-2 hover:bg-base-lightest transition-colors shrink-0 text-base-darker">
+                        <button @click="closeBill" aria-label="Close bill modal" class="usa-button usa-button--unstyled p-2 hover:bg-base-lightest transition-colors shrink-0 text-base-darker">
+                            <span class="sr-only">Close bill modal</span>
                             <i class="ph ph-x text-2xl" aria-hidden="true"></i>
                         </button>
                     </header>
@@ -911,7 +925,8 @@
                         <h2 id="about-modal-title" ref="modalTitle" tabindex="-1" class="font-serif-lg sm:font-serif-xl font-bold text-base-darker outline-none">
                             About Maryland Legi-Assist
                         </h2>
-                        <button @click="showAboutModal = false" aria-label="Close Modal" class="p-2 hover:bg-gray-100 transition-colors">
+                        <button @click="showAboutModal = false" aria-label="Close about modal" class="p-2 hover:bg-gray-100 transition-colors">
+                            <span class="sr-only">Close about modal</span>
                             <i class="ph ph-x text-2xl text-base-darker" aria-hidden="true"></i>
                         </button>
                     </header>

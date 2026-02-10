@@ -39,17 +39,7 @@ header {
 ::-webkit-scrollbar-thumb { background: #888; border-radius: 4px; }
 ::-webkit-scrollbar-thumb:hover { background: #555; }
 
-.md-flag-strip {
-    background: linear-gradient(90deg, #bf0d3e 25%, #fff 25%, #fff 50%, #000 50%, #000 75%, #e0aa0f 75%);
-    height: 8px;
-    width: 100%;
-}
 [v-cloak] { display: none; }
-
-.form-select-multi {
-    max-height: 120px;
-    overflow-y: auto;
-}
 
 .sr-only {
     position: absolute;
@@ -63,15 +53,6 @@ header {
     border: 0;
 }
 
-button:focus-visible,
-a:focus-visible,
-input:focus-visible,
-select:focus-visible,
-[tabindex="0"]:focus-visible {
-    outline: 2px solid #991b1b;
-    outline-offset: 2px;
-}
-
 button:focus:not(:focus-visible),
 a:focus:not(:focus-visible) {
     outline: none;
@@ -79,8 +60,6 @@ a:focus:not(:focus-visible) {
 
 @media (prefers-contrast: high) {
     .border-gray-200 { border-color: #000; }
-    .text-slate-500, .text-slate-600 { color: #000; }
-    .bg-red-50 { background-color: #fee; border: 1px solid #991b1b; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -90,42 +69,13 @@ a:focus:not(:focus-visible) {
         transition-duration: 0.01ms !important;
     }
     .animate-spin { animation: none; }
-    .drawer-transition { transition: none !important; }
 }
 
-/* Touch-friendly labels without visually huge checkboxes */
+/* Ensure minimum touch target size for interactive elements on touch devices */
 @media (pointer: coarse) {
-    .touch-target {
-        position: relative;
-        min-height: 44px;
-        display: flex;
-        align-items: center;
-    }
-    .touch-target::before {
-        content: '';
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        width: 44px;
-        height: 44px;
-    }
-    /* Buttons and links get proper sizing */
     button, a, select {
         min-height: 44px;
     }
-    /* Checkbox labels extend tap area without visual change */
-    .checkbox-label {
-        min-height: 44px;
-        display: flex;
-        align-items: center;
-        margin: -4px -8px;
-        padding: 4px 8px;
-    }
-}
-
-article:focus-within {
-    border-color: #fca5a5;
 }
 
 /* Filter Drawer Styles */
@@ -134,17 +84,7 @@ article:focus-within {
     backdrop-filter: blur(4px);
 }
 
-.drawer-transition {
-    transition: transform 0.3s ease-out;
-}
 
-.drawer-enter {
-    transform: translateX(-100%);
-}
-
-.drawer-open {
-    transform: translateX(0);
-}
 
 /* Fade transitions */
 .fade-enter-active, .fade-leave-active {
@@ -208,4 +148,15 @@ article:focus-within {
 }
 .usa-button--unstyled:hover {
     text-decoration: none;
+}
+
+@keyframes spin { 100% { transform: rotate(360deg); } }
+                        
+/* Inset focus rings for listbox items to prevent clipping */
+#agency-results-list li:focus,
+#sponsor-results-list li:focus,
+#mobile-agency-results-list li:focus,
+#mobile-sponsor-results-list li:focus {
+    outline: 0.25rem solid #2491ff !important;
+    outline-offset: -0.25rem !important;
 }

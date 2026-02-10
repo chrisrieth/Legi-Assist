@@ -258,7 +258,7 @@
                                 @keydown.space.prevent="selectAgency(option)"
                                 @keydown.down.prevent="focusNextItem($event, 'down', 'li')"
                                 @keydown.up.prevent="focusNextItem($event, 'up', 'li')"
-                                class="padding-105 hover:bg-base-lightest focus:bg-base-lightest cursor-pointer font-sans-2xs border-bottom border-base-lighter last:border-0 text-base-darker outline-none focus:outline-primary"
+                                class="padding-105 hover:bg-base-lightest focus:bg-base-lightest cursor-pointer font-sans-2xs border-bottom border-base-lighter last:border-0 text-base-darker outline-none"
                             >
                                 {{ option.displayName }}
                             </li>
@@ -328,7 +328,7 @@
                                 @keydown.space.prevent="selectSponsor(option)"
                                 @keydown.down.prevent="focusNextItem($event, 'down', 'li')"
                                 @keydown.up.prevent="focusNextItem($event, 'up', 'li')"
-                                class="padding-105 hover:bg-base-lightest focus:bg-base-lightest cursor-pointer font-sans-2xs border-bottom border-base-lighter last:border-0 text-base-darker outline-none focus:outline-primary"
+                                class="padding-105 hover:bg-base-lightest focus:bg-base-lightest cursor-pointer font-sans-2xs border-bottom border-base-lighter last:border-0 text-base-darker outline-none"
                             >
                                 {{ option }}
                             </li>
@@ -505,9 +505,6 @@
                          <div class="width-6 height-6 radius-pill border-2px border-top-primary margin-bottom-2" style="border-right-color: transparent; border-bottom-color: transparent; border-left-color: transparent; animation: spin 1s linear infinite;"></div>
                          <p class="font-sans-lg text-bold">Syncing Legislative Data...</p>
                      </div>
-                     <style>
-                        @keyframes spin { 100% { transform: rotate(360deg); } }
-                     </style>
 
                      <div v-else class="grid-container padding-0 desktop:padding-x-4 width-full">
 
@@ -669,7 +666,7 @@
                                         @keydown.space.prevent="selectAgency(option)"
                                         @keydown.down.prevent="focusNextItem($event, 'down', 'li')"
                                         @keydown.up.prevent="focusNextItem($event, 'up', 'li')"
-                                        class="padding-1 border-bottom border-base-lighter hover:bg-base-lightest focus:bg-base-lightest font-sans-2xs text-base-dark last:border-0 outline-none focus:outline-primary cursor-pointer"
+                                        class="padding-1 border-bottom border-base-lighter hover:bg-base-lightest focus:bg-base-lightest font-sans-2xs text-base-dark last:border-0 outline-none cursor-pointer"
                                     >
                                         {{ option.displayName }}
                                     </li>
@@ -725,7 +722,7 @@
                                         @keydown.space.prevent="selectSponsor(option)"
                                         @keydown.down.prevent="focusNextItem($event, 'down', 'li')"
                                         @keydown.up.prevent="focusNextItem($event, 'up', 'li')"
-                                        class="padding-1 border-bottom border-base-lighter hover:bg-base-lightest focus:bg-base-lightest font-sans-2xs text-base-dark last:border-0 outline-none focus:outline-primary cursor-pointer"
+                                        class="padding-1 border-bottom border-base-lighter hover:bg-base-lightest focus:bg-base-lightest font-sans-2xs text-base-dark last:border-0 outline-none cursor-pointer"
                                     >
                                         {{ option }}
                                     </li>
@@ -846,7 +843,7 @@
                     <header class="p-4 sm:p-6 border-b border-base-lighter bg-white flex justify-between items-start gap-3 shrink-0">
                         <div class="min-w-0 flex-1">
                             <div class="flex flex-wrap items-center gap-2 sm:gap-3 mb-1">
-                                <h2 id="modal-title" ref="modalTitle" tabindex="-1" class="font-serif-xl desktop:font-serif-2xl text-bold text-primary outline-none line-height-sans-2">
+                                <h2 id="modal-title" ref="modalTitle" tabindex="-1" class="font-serif-xl desktop:font-serif-2xl text-bold text-primary outline-none line-height-sans-2" style="outline: none !important; box-shadow: none !important;">
                                     {{ activeBill.BillNumber }}{{ activeBill.CrossfileBillNumber ? ' / ' + activeBill.CrossfileBillNumber : '' }}
                                 </h2>
                                 <span class="usa-tag">{{ activeBill.YearAndSession }}</span>
@@ -998,7 +995,7 @@
             >
                 <div class="bg-white shadow-2xl w-full sm:max-w-2xl max-h-[85dvh] sm:max-h-[90vh] flex flex-col overflow-hidden">
                     <header class="p-4 sm:p-6 border-b border-gray-200 bg-white flex justify-between items-center shrink-0">
-                        <h2 id="about-modal-title" ref="modalTitle" tabindex="-1" class="font-serif-lg sm:font-serif-xl font-bold text-base-darker outline-none">
+                        <h2 id="about-modal-title" ref="modalTitle" tabindex="-1" class="font-serif-lg sm:font-serif-xl font-bold text-base-darker outline-none" style="outline: none !important; box-shadow: none !important;">
                             About Maryland Legi-Assist
                         </h2>
                         <button @click="showAboutModal = false" aria-label="Close about modal" class="p-2 hover:bg-gray-100 transition-colors">

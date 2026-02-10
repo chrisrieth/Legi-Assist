@@ -547,7 +547,7 @@
                                                     Relevance: {{ getRelevance(bill).relevance_rating }}/5
                                                 </span>
 
-                                                <span v-if="isNew(bill.first_seen)" class="inline-flex flex-align-center bg-accent-cool-lighter text-accent-cool-darker padding-x-105 padding-y-05 radius-md font-sans-xs text-bold border border-accent-cool-light">New</span>
+                                                <span v-if="isNew(bill.last_updated)" class="inline-flex flex-align-center bg-accent-cool-lighter text-accent-cool-darker padding-x-105 padding-y-05 radius-md font-sans-xs text-bold border border-accent-cool-light">Updated today</span>
                                             </div>
                                         </div>
 
@@ -1535,8 +1535,8 @@
                             : 0;
 
                         // Get timestamps (default to 0 if missing)
-                        const dateA = a.first_seen ? new Date(a.first_seen).getTime() : 0;
-                        const dateB = b.first_seen ? new Date(b.first_seen).getTime() : 0;
+                        const dateA = a.last_updated ? new Date(a.last_updated).getTime() : 0;
+                        const dateB = b.last_updated ? new Date(b.last_updated).getTime() : 0;
 
                         if (sortBy.value === 'relevance' && selectedAgency.value) {
                             // Sort by Relevance (Desc), then Date (Desc)

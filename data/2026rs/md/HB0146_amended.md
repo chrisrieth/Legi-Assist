@@ -10,14 +10,18 @@ Requested: October 7, 2025
 Introduced and read first time: January 14, 2026
 Assigned to: Environment and Transportation
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted with floor amendments
+Read second time: February 15, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Environment – On–Site Wastewater Systems – Requirements for Inspection and
 3 Pumping Services and Implementation Dates
 
-4 FOR the purpose of requiring a landlord of property that is served by a certain on–site
+4 FOR the property that is served by a certain on–site
 5 wastewater system to ensure, on or before a certain date and before each new tenant
 6 occupies the property thereafter, that the system has been inspected and pumped
 7 out in a certain manner; requiring a contract for the sale of certain real property that
@@ -26,207 +30,240 @@ A BILL ENTITLED
 10 the system has been inspected and pumped out in a certain manner, subject to
 11 certain exceptions; requiring a landlord or an owner of property to notify a certain
 12 delegated approval authority of certain information regarding a failing on–site
-13 sewage disposal system under certain circumstances; extending certain dates by
-14 which the Department of the Environment is required to adopt certain regulations
-15 and by which certain individuals are required to be licensed by the State Board of
-16 On–Site Wastewater Professionals; and generally relating to on–site wastewater
-17 systems.
+13 sewage disposal system under certain circumstances; requiring a delegated approval
+14 authority to approve, to the extent practicable, the repair or replacement of any
+15 failed components of a drain field of a failing on–site wastewater system; extending
+16 certain dates by which the Department of the Environment is required to adopt
+17 certain regulations and by which certain individuals are required to be licensed by
+18 the State Board of On–Site Wastewater Professionals; and generally relating to
+19 on–site wastewater systems.
 
-18 BY repealing and reenacting, without amendments,
-19 Article – Environment
-20 Section 9–11A–01(a) and (e)
-21 Annotated Code of Maryland
-22 (2014 Replacement Volume and 2025 Supplement)
-
-23 BY adding to
-24 Article – Real Property
-25 Section 8–122 and 10–716
-26 Annotated Code of Maryland
-27 (2023 Replacement Volume and 2025 Supplement)
+20 BY repealing and reenacting, without amendments,
+21 Article – Environment
+22 Section 9–11A–01(a) and (e)
+23 Annotated Code of Maryland
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0146*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0146*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 146
 
-1 BY repealing and reenacting, with amendments,
-2 Chapter 419 of the Acts of the General Assembly of 2022
-3 Section 6 and 7
+1 (2014 Replacement Volume and 2025 Supplement)
 
-4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-5 That the Laws of Maryland read as follows:
+2 BY adding to
+3 Article – Real Property
+4 Section 8–122 and 10–716
+5 Annotated Code of Maryland
+6 (2023 Replacement Volume and 2025 Supplement)
 
-6 Article – Environment
+7 BY repealing and reenacting, with amendments,
+8 Chapter 419 of the Acts of the General Assembly of 2022
+9 Section 6 and 7
 
-7 9–11A–01.
+10 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+11 That the Laws of Maryland read as follows:
 
-8 (a) In this subtitle the following words have the meanings indicated.
+12 Article – Environment
 
-9 (e) (1) “On–site wastewater system” means:
+13 9–11A–01.
 
-10 (i) A wastewater system designed to treat and dispose of effluent on:
+14 (a) In this subtitle the following words have the meanings indicated.
 
-11 1. The same property that produces the wastewater; or
+15 (e) (1) “On–site wastewater system” means:
 
-12 2. An easement; or
+16 (i) A wastewater system designed to treat and dispose of effluent on:
 
-13 (ii) A holding tank.
+17 1. The same property that produces the wastewater; or
 
-14 (2) Except as provided in paragraph (3) of this subsection, “on–site
-15 wastewater system” includes a septic or any other on–site sewage disposal system.
+18 2. An easement; or
 
-16 (3) “On–site wastewater system” does not include a wastewater treatment
-17 system that:
+19 (ii) A holding tank.
 
-18 (i) Requires a discharge permit from the Department; or
+20 (2) Except as provided in paragraph (3) of this subsection, “on–site
+21 wastewater system” includes a septic or any other on–site sewage disposal system.
 
-19 (ii) Treats 5,000 or more gallons per day.
+22 (3) “On–site wastewater system” does not include a wastewater treatment
+23 system that:
 
-20 Article – Real Property
+24 (i) Requires a discharge permit from the DEPARTMENT OF THE ENVIRONMENT; or
 
-21 8–122.
+25 (ii) Treats 5,000 or more gallons per day.
 
-22 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-23 INDICATED.
+26 Article – Real Property
 
-24 (2) “DELEGATED APPROVAL AUTHORITY” MEANS THE LOCAL
-25 HEALTH DEPARTMENT OR COUNTY AGENCY THAT HAS RECEIVED AN ON–SITE
-26 SEWAGE DISPOSAL SYSTEM DELEGATION OF AUTHORITY BY THE DEPARTMENT OF THE ENVIRONMENT.
+27 8–122.
 
-27 (3) “ON–SITE WASTEWATER SYSTEM” HAS THE MEANING STATED IN §
-28 9–11A–01 OF THE ENVIRONMENT ARTICLE.
+28 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 146 3
 
-1 (B) ON OR BEFORE JULY 1, 2028, AND BEFORE EACH NEW TENANT
-2 OCCUPIES THE PROPERTY THEREAFTER, A LANDLORD OF PROPERTY THAT IS
-3 SERVED BY AN ON–SITE WASTEWATER SYSTEM SHALL ENSURE THAT THE SYSTEM
-4 HAS BEEN:
+1 (2) “DELEGATED APPROVAL AUTHORITY” MEANS THE LOCAL
+2 HEALTH DEPARTMENT OF THE ENVIRONMENT OR COUNTY AGENCY THAT HAS RECEIVED AN ON–SITE
+3 SEWAGE DISPOSAL SYSTEM DELEGATION OF AUTHORITY BY THE DEPARTMENT OF
+4 THE ENVIRONMENT.
 
-5 (1) INSPECTED BY AN INDIVIDUAL WHO IS LICENSED UNDER TITLE 9,
-6 SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PROPERTY TRANSFER
-7 INSPECTIONS FOR ON–SITE WASTEWATER SYSTEMS; AND
+5 (3) “ON–SITE WASTEWATER SYSTEM” HAS THE MEANING STATED IN §
+6 9–11A–01 OF THE ENVIRONMENT ARTICLE.
 
-8 (2) PUMPED OUT BY AN INDIVIDUAL WHO IS LICENSED UNDER TITLE
-9 9, SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PUMPING SERVICES
-10 FOR ON–SITE WASTEWATER SYSTEMS.
+7 (B) ON OR BEFORE JULY 1, 2028, AND BEFORE EACH NEW TENANT
+8 OCCUPIES THE PROPERTY THEREAFTER, A LANDLORD OF PROPERTY THAT IS
+9 SERVED BY AN ON–SITE WASTEWATER SYSTEM SHALL ENSURE THAT THE SYSTEM
+10 HAS BEEN:
 
-11 (C) FOR PURPOSES OF MEETING THE REQUIREMENTS UNDER SUBSECTION
-12 (B) OF THIS SECTION, A PROPERTY TRANSFER INSPECTION OR PUMPING SERVICE
-13 PERFORMED IN ACCORDANCE WITH SUBSECTION (B) OF THIS SECTION IS VALID FOR
-14 3 YEARS.
+11 (1) INSPECTED BY AN INDIVIDUAL WHO IS LICENSED UNDER TITLE 9,
+12 SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PROPERTY TRANSFER
+13 INSPECTIONS FOR ON–SITE WASTEWATER SYSTEMS; AND
 
-15 (D) IF AN INSPECTION UNDER THIS SECTION IDENTIFIES A FAILING ON–SITE
-16 WASTEWATER SYSTEM, THE LANDLORD OF THE PROPERTY SHALL NOTIFY THE
-17 DELEGATED APPROVAL AUTHORITY:
+14 (2) PUMPED OUT BY AN INDIVIDUAL WHO IS LICENSED UNDER TITLE
+15 9, SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PUMPING SERVICES
+16 FOR ON–SITE WASTEWATER SYSTEMS.
 
-18 (1) ABOUT THE FAILURE; AND
+17 (C) FOR PURPOSES OF MEETING THE REQUIREMENTS UNDER SUBSECTION
+18 (B) OF THIS SECTION, A PROPERTY TRANSFER INSPECTION OR PUMPING SERVICE
+19 PERFORMED IN ACCORDANCE WITH SUBSECTION (B) OF THIS SECTION IS VALID FOR
+20 3 YEARS.
 
-19 (2) WHEN THE SYSTEM IS FIXED.
+21 (D) (1) IF AN INSPECTION UNDER THIS SECTION IDENTIFIES A FAILING
+22 ON–SITE WASTEWATER SYSTEM, THE LANDLORD OF THE PROPERTY SHALL NOTIFY
+23 THE DELEGATED APPROVAL AUTHORITY:
 
-20 10–716.
+24 (1) (I) ABOUT THE FAILURE; AND
 
-21 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-22 INDICATED.
+25 (2) (II) WHEN THE SYSTEM IS FIXED.
 
-23 (2) “DELEGATED APPROVAL AUTHORITY” MEANS THE LOCAL
-24 HEALTH DEPARTMENT OR COUNTY AGENCY THAT HAS RECEIVED AN ON–SITE
-25 SEWAGE DISPOSAL SYSTEM DELEGATION OF AUTHORITY BY THE DEPARTMENT OF THE ENVIRONMENT.
+26 (2) A DELEGATED APPROVAL AUTHORITY SHALL APPROVE, TO THE
+27 EXTENT PRACTICABLE, THE REPAIR OR REPLACEMENT OF ANY FAILED
+28 COMPONENTS OF A DRAIN FIELD OF A FAILING ON–SITE WASTEWATER SYSTEM
+29 NECESSARY TO MEET THE REQUIREMENTS OF THIS SECTION.
 
-26 (3) “ON–SITE WASTEWATER SYSTEM” HAS THE MEANING STATED IN §
-27 9–11A–01 OF THE ENVIRONMENT ARTICLE.
+30 10–716.
 
-28 (B) THE REQUIREMENTS OF THIS SECTION DO NOT APPLY IF:
-
-29 (1) (I) 1. THE PROPERTY TRANSFER INVOLVES THE TRANSFER
-30 OF RESIDENTIAL REAL PROPERTY THAT IS BETWEEN:
+31 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+32 INDICATED.
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 146
 
-1 A. CURRENT SPOUSES;
+1 (2) “DELEGATED APPROVAL AUTHORITY” MEANS THE LOCAL
+2 HEALTH DEPARTMENT OR COUNTY AGENCY THAT HAS RECEIVED AN ON–SITE
+3 SEWAGE DISPOSAL SYSTEM DELEGATION OF AUTHORITY BY THE DEPARTMENT OF
+4 THE ENVIRONMENT.
 
-2 B. A PARENT AND A CHILD; OR
+5 (3) “ON–SITE WASTEWATER SYSTEM” HAS THE MEANING STATED IN §
+6 9–11A–01 OF THE ENVIRONMENT ARTICLE.
 
-3 C. SIBLINGS, BY WHOLE BLOOD, IF THE PROPERTY IS
-4 HELD IN TRUST;
+7 (B) THE REQUIREMENTS OF THIS SECTION DO NOT APPLY IF:
 
-5 2. THE PROPERTY’S MORTGAGE IS BEING REFINANCED;
-6 OR
+8 (1) (I) 1. THE PROPERTY TRANSFER INVOLVES THE TRANSFER
+9 OF RESIDENTIAL REAL PROPERTY THAT IS BETWEEN:
 
-7 3. THE CHANGE IN OWNERSHIP OR FORM OF
-8 OWNERSHIP DOES NOT INVOLVE THE INTRODUCTION OF NEW PARTIES; AND
+10 A. CURRENT SPOUSES;
 
-9 (II) THE ON–SITE WASTEWATER SYSTEM HAS BEEN INSPECTED
-10 WITHIN THE IMMEDIATELY PRECEDING 5–YEAR PERIOD; OR
+11 B. A PARENT AND A CHILD; OR
 
-11 (2) THE PROPERTY TRANSFER IS THE INITIAL TRANSFER AFTER
-12 CONSTRUCTION OF THE PROPERTY.
+12 C. SIBLINGS, BY WHOLE BLOOD, IF THE PROPERTY IS
+13 HELD IN TRUST;
 
-13 (C) (1) BEGINNING JULY 1, 2028, A CONTRACT FOR THE SALE OF REAL
-14 PROPERTY THAT IS SERVED BY AN ON–SITE WASTEWATER SYSTEM SHALL INCLUDE
-15 A PROVISION REQUIRING, AS A CONDITION OF THE SALE, THAT THE PURCHASER
-16 ENSURE THAT THE SYSTEM HAS BEEN:
+14 2. THE PROPERTY’S MORTGAGE IS BEING REFINANCED;
+15 OR
 
-17 (I) INSPECTED BY AN INDIVIDUAL WHO IS LICENSED UNDER
-18 TITLE 9, SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PROPERTY
-19 TRANSFER INSPECTIONS FOR ON–SITE WASTEWATER SYSTEMS; AND
+16 3. THE CHANGE IN OWNERSHIP OR FORM OF
+17 OWNERSHIP DOES NOT INVOLVE THE INTRODUCTION OF NEW PARTIES; AND
 
-20 (II) PUMPED OUT BY AN INDIVIDUAL WHO IS LICENSED UNDER
-21 TITLE 9, SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PUMPING
-22 SERVICES FOR ON–SITE WASTEWATER SYSTEMS.
+18 (II) THE ON–SITE WASTEWATER SYSTEM HAS BEEN INSPECTED
+19 WITHIN THE IMMEDIATELY PRECEDING 5–YEAR PERIOD; OR
 
-23 (2) (I) SETTLEMENT ON THE CONTRACT FOR THE SALE OF THE
-24 REAL PROPERTY MAY NOT OCCUR UNTIL THE VENDOR AND THE PURCHASER
-25 RECEIVE A REPORT ON THE PROPERTY TRANSFER INSPECTION PERFORMED UNDER
-26 PARAGRAPH (1)(I) OF THIS SUBSECTION AND CONFIRMATION OF THE PUMPING
-27 SERVICE PERFORMED UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION.
+20 (2) THE PROPERTY TRANSFER IS THE INITIAL TRANSFER AFTER
+21 CONSTRUCTION OF THE PROPERTY.
 
-28 (II) AT SETTLEMENT ON THE CONTRACT FOR THE SALE OF THE
-29 REAL PROPERTY, THE VENDOR AND THE PURCHASER SHALL EACH CERTIFY IN
-30 WRITING THAT THEY HAVE RECEIVED AND REVIEWED THE REPORT AND
-31 CONFIRMATION REQUIRED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH.
+22 (C) (1) BEGINNING JULY 1, 2028, A CONTRACT FOR THE SALE OF REAL
+23 PROPERTY THAT IS SERVED BY AN ON–SITE WASTEWATER SYSTEM SHALL INCLUDE
+24 A PROVISION REQUIRING, AS A CONDITION OF THE SALE, THAT THE PURCHASER
+25 ENSURE THAT THE SYSTEM HAS BEEN:
+
+26 (I) INSPECTED BY AN INDIVIDUAL WHO IS LICENSED UNDER
+27 TITLE 9, SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PROPERTY
+28 TRANSFER INSPECTIONS FOR ON–SITE WASTEWATER SYSTEMS; AND
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 146 5
 
-1 (D) UNLESS OTHERWISE REQUIRED AS PART OF A REAL ESTATE CONTRACT
-2 OR MORTGAGE REQUIREMENT, FOR PURPOSES OF MEETING THE REQUIREMENTS
-3 UNDER SUBSECTION (C)(1) OF THIS SECTION, A PROPERTY TRANSFER INSPECTION
-4 OR PUMPING SERVICE PERFORMED IN ACCORDANCE WITH SUBSECTION (C)(1) OF
-5 THIS SECTION IS VALID FOR 3 YEARS.
+1 (II) PUMPED OUT BY AN INDIVIDUAL WHO IS LICENSED UNDER
+2 TITLE 9, SUBTITLE 11A OF THE ENVIRONMENT ARTICLE TO PERFORM PUMPING
+3 SERVICES FOR ON–SITE WASTEWATER SYSTEMS.
 
-6 (E) IF AN INSPECTION UNDER THIS SECTION IDENTIFIES A FAILING ON–SITE
-7 WASTEWATER SYSTEM, THE OWNER OF THE PROPERTY SHALL NOTIFY THE
-8 DELEGATED APPROVAL AUTHORITY:
+4 (2) (I) SETTLEMENT ON THE CONTRACT FOR THE SALE OF THE
+5 REAL PROPERTY MAY NOT OCCUR UNTIL THE VENDOR AND THE PURCHASER
+6 RECEIVE A REPORT ON THE PROPERTY TRANSFER INSPECTION PERFORMED UNDER
+7 PARAGRAPH (1)(I) OF THIS SUBSECTION AND CONFIRMATION OF THE PUMPING
+8 SERVICE PERFORMED UNDER PARAGRAPH (1)(II) OF THIS SUBSECTION.
 
-9 (1) ABOUT THE FAILURE; AND
+9 (II) AT SETTLEMENT ON THE CONTRACT FOR THE SALE OF THE
+10 REAL PROPERTY, THE VENDOR AND THE PURCHASER SHALL EACH CERTIFY IN
+11 WRITING THAT THEY HAVE RECEIVED AND REVIEWED THE REPORT AND
+12 CONFIRMATION REQUIRED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH.
 
-10 (2) WHEN THE SYSTEM IS FIXED.
+13 (D) UNLESS OTHERWISE REQUIRED AS PART OF A REAL ESTATE CONTRACT
+14 OR MORTGAGE REQUIREMENT, FOR PURPOSES OF MEETING THE REQUIREMENTS
+15 UNDER SUBSECTION (C)(1) OF THIS SECTION, A PROPERTY TRANSFER INSPECTION
+16 OR PUMPING SERVICE PERFORMED IN ACCORDANCE WITH SUBSECTION (C)(1) OF
+17 THIS SECTION IS VALID FOR 3 YEARS.
 
-11 Chapter 419 of the Acts of 2022
+18 (E) (1) IF AN INSPECTION UNDER THIS SECTION IDENTIFIES A FAILING
+19 ON–SITE WASTEWATER SYSTEM, THE OWNER OF THE PROPERTY SHALL NOTIFY THE
+20 DELEGATED APPROVAL AUTHORITY:
 
-12 SECTION 6. AND BE IT FURTHER ENACTED, That, on or before July 1, [2025]
-13 2027, the Department of the Environment, in consultation with the State Board of
-14 On–Site Wastewater Professionals, shall adopt regulations to implement Section 2 of this
-15 Act.
+21 (1) (I) ABOUT THE FAILURE; AND
 
-16 SECTION 7. AND BE IT FURTHER ENACTED, That, on or before July 1, [2026]
-17 2028, all individuals who provide on–site wastewater services in the State shall be licensed
-18 by the State Board of On–Site Wastewater Professionals.
+22 (2) (II) WHEN THE SYSTEM IS FIXED.
 
-19 SECTION 2. AND BE IT FURTHER ENACTED, That this Act may not be
-20 interpreted to limit a mortgage company or financial institution from requiring an
-21 inspection of an on–site wastewater system as part of contract terms for the sale or transfer
-22 of real property.
+23 (2) A DELEGATED APPROVAL AUTHORITY SHALL APPROVE, TO THE
+24 EXTENT PRACTICABLE, THE REPAIR OR REPLACEMENT OF ANY FAILED
+25 COMPONENTS OF A DRAIN FIELD OF A FAILING ON–SITE WASTEWATER SYSTEM
+26 NECESSARY TO MEET THE REQUIREMENTS OF THIS SECTION.
 
-23 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-24 1, 2026.
+27 Chapter 419 of the Acts of 2022
+
+28 SECTION 6. AND BE IT FURTHER ENACTED, That, on or before July 1, [2025]
+29 2027, the Department of the Environment, in consultation with the State Board of
+30 On–Site Wastewater Professionals, shall adopt regulations to implement Section 2 of this
+31 Act.
+
+32 SECTION 7. AND BE IT FURTHER ENACTED, That, on or before July 1, [2026]
+33 2028, all individuals who provide on–site wastewater services in the State shall be licensed
+34 by the State Board of On–Site Wastewater Professionals.
 END OF PAGE 5
+
+START OF PAGE 6
+6 HOUSE BILL 146
+
+1 SECTION 2. AND BE IT FURTHER ENACTED, That this Act may not be
+2 interpreted to limit a mortgage company or financial institution from requiring an
+3 inspection of an on–site wastewater system as part of contract terms for the sale or transfer
+4 of real property.
+
+5 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+6 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 6
 </bill>

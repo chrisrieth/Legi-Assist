@@ -22,6 +22,31 @@
     <script defer src="https://cdn.maryland.gov/mdwds/0.36.0/js/mdwds-core.js"></script>
 
     <link rel="stylesheet" href="./assets/output_style.css">
+    <style>
+        /* RF-3: Increase placeholder text contrast to meet WCAG 2.1 AA 4.5:1 minimum.
+           USWDS default placeholder (#a9aeb1) fails at 2.5:1 against white.
+           #757575 achieves 4.54:1 against #ffffff. */
+        ::placeholder {
+            color: #757575 !important;
+            opacity: 1;
+        }
+        ::-webkit-input-placeholder { color: #757575 !important; opacity: 1; }
+        ::-moz-placeholder           { color: #757575 !important; opacity: 1; }
+        :-ms-input-placeholder       { color: #757575 !important; opacity: 1; }
+
+        /* Fix for MDWDS/USWDS checkbox scroll-on-focus bug.
+           .usa-checkbox__input is position:absolute but .usa-checkbox has no
+           position set, so the browser resolves the input's position against
+           the body (the next positioned ancestor). When the body has
+           overflow:hidden the browser then scrolls the sidebar to reach the
+           input's body-relative Y coordinate, causing a large unintended scroll.
+           Setting position:relative on .usa-checkbox scopes the absolute input
+           to its own wrapper, which is already in the viewport, so no scroll
+           occurs when the input receives focus. */
+        .usa-checkbox {
+            position: relative;
+        }
+    </style>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-3JEW030F57"></script>
@@ -83,13 +108,13 @@
 
                                                 <div class="margin-top-2 display-flex flex-align-center gap-1 opacity-90">
                                                     <span class="font-sans-xs text-base-dark margin-right-1">Built by</span>
-                                                    <img src="assets/innovation-website-logo-dark.png" alt="Maryland State Innovation Team" style="height: 2.5rem; width: auto;">
+                                                    <img src="assets/innovation-website-logo-dark.png" alt="Built by The Office of Governor Wes Moore Innovation Team" style="height: 2.5rem; width: auto;">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="maryland-hero__img-container" style="min-height: 0;padding-bottom:0;">
                                             <figure class="maryland-hero__image margin-0" style="max-height: 400px; overflow: hidden; width: 100%;">
-                                                <img alt="Maryland State House of Delegates Chamber" src="assets/delegates_chamber_new.jpg" style="object-fit: cover; width: 100%; height: 100%; display: block;">
+                                                <img alt="" src="assets/delegates_chamber_new.jpg" style="object-fit: cover; width: 100%; height: 100%; display: block;" role="presentation">
                                             </figure>
                                         </div>
                                     </div>
@@ -344,23 +369,25 @@
 
                     <fieldset class="usa-fieldset margin-bottom-3">
                         <legend class="usa-label margin-top-0 font-sans-sm">Broad Subjects</legend>
-                        <input 
-                            v-model="broadSubjectSearch" 
+                        <input
+                            v-model="broadSubjectSearch"
                             @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
-                            type="text" 
-                            class="usa-input margin-bottom-1 height-4 font-sans-2xs" 
-                            placeholder="Filter broad subjects..." 
+                            type="text"
+                            class="usa-input margin-bottom-1 height-4 font-sans-2xs"
+                            placeholder="Filter broad subjects..."
                             aria-label="Filter Broad Subjects"
                         >
+                        <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+                            {{ filteredBroadSubjects.length }} broad subject{{ filteredBroadSubjects.length !== 1 ? 's' : '' }} found.
+                        </div>
                         <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white" style="max-height: 10rem;">
                             <div class="usa-checkbox" v-for="sub in filteredBroadSubjects" :key="sub.Code">
                                 <input 
-                                    class="usa-checkbox__input" 
-                                    :id="'broad-'+sub.Code" 
-                                    type="checkbox" 
-                                    v-model="filterBroad" 
-                                    :value="sub.Name" 
-                                    tabindex="-1"
+                                    class="usa-checkbox__input"
+                                    :id="'broad-'+sub.Code"
+                                    type="checkbox"
+                                    v-model="filterBroad"
+                                    :value="sub.Name"
                                     @focus="scrollToFocusedItem"
                                     @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
                                     @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
@@ -375,23 +402,25 @@
 
                     <fieldset class="usa-fieldset">
                         <legend class="usa-label margin-top-0">Narrow Subjects</legend>
-                        <input 
-                            v-model="narrowSubjectSearch" 
+                        <input
+                            v-model="narrowSubjectSearch"
                             @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
-                            type="text" 
-                            class="usa-input margin-bottom-1 height-4 font-sans-2xs" 
-                            placeholder="Filter narrow subjects..." 
+                            type="text"
+                            class="usa-input margin-bottom-1 height-4 font-sans-2xs"
+                            placeholder="Filter narrow subjects..."
                             aria-label="Filter Narrow Subjects"
                         >
+                        <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+                            {{ filteredNarrowSubjects.length }} narrow subject{{ filteredNarrowSubjects.length !== 1 ? 's' : '' }} found.
+                        </div>
                         <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white" style="max-height: 10rem;">
                             <div class="usa-checkbox" v-for="sub in filteredNarrowSubjects" :key="sub.Code">
                                 <input 
-                                    class="usa-checkbox__input" 
-                                    :id="'narrow-'+sub.Code" 
-                                    type="checkbox" 
-                                    v-model="filterNarrow" 
-                                    :value="sub.Name" 
-                                    tabindex="-1"
+                                    class="usa-checkbox__input"
+                                    :id="'narrow-'+sub.Code"
+                                    type="checkbox"
+                                    v-model="filterNarrow"
+                                    :value="sub.Name"
                                     @focus="scrollToFocusedItem"
                                     @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
                                     @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
@@ -412,7 +441,7 @@
                               style="top: 50%; right: -30%; width: 120%; transform: translateY(-50%); opacity: 0.15; filter: sepia(1); pointer-events: none;">
                         
                         <div class="position-relative z-10">
-                            <p class="font-sans-xs text-uppercase text-base text-bold margin-bottom-1 margin-top-0">
+                            <p class="font-sans-xs text-uppercase text-base-darker text-bold margin-bottom-1 margin-top-0">
                                 Built By
                             </p>
                             <h3 class="font-serif-lg line-height-sans-3 text-bold text-primary-darker margin-bottom-3 margin-top-0">
@@ -452,8 +481,8 @@
                             <i class="ph ph-download-simple text-xl"></i>
                         </button>
 
-                        <button @click="showFilterDrawer = true" class="usa-button usa-button--outline usa-button--small display-flex flex-align-center gap-1 margin-right-0 margin-left-1">
-                            <i class="ph ph-funnel text-lg"></i>
+                        <button @click="showFilterDrawer = true" class="usa-button usa-button--outline usa-button--small display-flex flex-align-center gap-1 margin-right-0 margin-left-1" :aria-expanded="showFilterDrawer" aria-controls="filter-drawer">
+                            <i class="ph ph-funnel text-lg" aria-hidden="true"></i>
                             Filters
                             <span v-if="activeFilterCount > 0" class="display-inline-block width-2 height-2 bg-primary text-white radius-pill text-center text-bold font-sans-3xs leading-none flex flex-align-center flex-justify-center" style="line-height: 1;">{{ activeFilterCount }}</span>
                         </button>
@@ -494,7 +523,7 @@
                             class="usa-button usa-button--outline bg-white hover:bg-base-lightest display-flex flex-align-center gap-1 margin-0"
                             style="height: 2.5rem;"
                         >
-                            <i class="ph ph-download-simple text-lg text-primary"></i> Download CSV
+                            <i class="ph ph-download-simple text-lg text-primary" aria-hidden="true"></i> Download CSV
                         </button>
                      </div>
                  </div>
@@ -514,14 +543,9 @@
 
                         <ul class="maryland-card-group">
                             <li v-for="(bill, index) in filteredBills" :key="bill.BillNumber" class="maryland-card maryland-card--flag width-full margin-bottom-2 border-0">
-                                <div 
+                                <div
                                     class="maryland-card__container cursor-pointer shadow-1 hover:shadow-3 transition-shadow bg-white"
                                     @click="openBill(bill)"
-                                    @keydown.enter.prevent="openBill(bill)"
-                                    @keydown.space.prevent="openBill(bill)"
-                                    tabindex="0"
-                                    role="button"
-                                    :aria-label="'View details for ' + bill.BillNumber"
                                 >
                                     <div class="display-flex flex-column flex-1 padding-3">
                                         <div class="maryland-card__header padding-0 margin-bottom-1">
@@ -538,8 +562,8 @@
 
                                             <div class="display-flex flex-wrap flex-align-center gap-1 margin-top-2">
                                                 <span v-if="selectedYear === 2026 && getNextAction(bill)" class="inline-flex flex-align-center gap-1 bg-accent-warm-lighter text-base-darker padding-x-105 padding-y-05 radius-md font-sans-xs text-bold border border-accent-warm-light">
-                                                    <i class="ph ph-calendar-blank text-md"></i>
-                                                    {{ getNextAction(bill).label }}: {{ formatDate(getNextAction(bill).date) }} 
+                                                    <i class="ph ph-calendar-blank text-md" aria-hidden="true"></i>
+                                                    {{ getNextAction(bill).label }}: {{ formatDate(getNextAction(bill).date) }}
                                                     <span v-if="getNextAction(bill).isTime" class="text-normal margin-left-05">{{ formatTime(getNextAction(bill).date) }}</span>
                                                 </span>
 
@@ -555,6 +579,18 @@
                                             <p class="font-sans-md text-base-dark line-clamp-3 margin-0">
                                                 {{ bill.bill_summary }}
                                             </p>
+                                        </div>
+
+                                        <div class="margin-top-2">
+                                            <button
+                                                @click.stop="openBill(bill)"
+                                                @keydown.enter.prevent="openBill(bill)"
+                                                @keydown.space.prevent="openBill(bill)"
+                                                class="usa-button usa-button--unstyled font-sans-2xs text-primary text-bold display-flex flex-align-center gap-1"
+                                                :aria-label="'View details for ' + bill.BillNumber + ': ' + bill.Title"
+                                            >
+                                                View details <i class="ph ph-arrow-right text-sm" aria-hidden="true"></i>
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
@@ -573,7 +609,7 @@
             <!-- Mobile Drawer Reuse (Hidden by default) -->
             <transition name="fade">
                 <div v-if="showFilterDrawer" class="position-fixed inset-0 z-50 drawer-overlay desktop:display-none" @click.self="showFilterDrawer = false">
-                    <aside ref="filterDrawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title" @keydown="trapFocusDrawer" class="position-absolute inset-y-0 left-0 width-full bg-white shadow-3 display-flex flex-column" style="width: 85vw; max-width: 20rem;">
+                    <aside id="filter-drawer" ref="filterDrawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title" @keydown="trapFocusDrawer" class="position-absolute inset-y-0 left-0 width-full bg-white shadow-3 display-flex flex-column" style="width: 85vw; max-width: 20rem;">
                         <div class="padding-2 border-bottom border-base-lighter flex justify-between items-center bg-base-lightest w-full">
                             <h2 id="drawer-title" ref="mobileFiltersHeading" tabindex="-1" class="font-serif-lg font-bold text-base-dark margin-0" style="outline: none;">Filters</h2>
                             <div class="flex items-center gap-3">
@@ -738,23 +774,25 @@
                             
                             <fieldset class="usa-fieldset margin-bottom-3">
                                 <legend class="usa-label margin-top-0 font-sans-sm">Broad Subjects</legend>
-                                <input 
-                                    v-model="broadSubjectSearch" 
+                                <input
+                                    v-model="broadSubjectSearch"
                                     @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
-                                    type="text" 
-                                    class="usa-input margin-bottom-1 height-4 font-sans-2xs width-full" 
-                                    placeholder="Filter broad subjects..." 
+                                    type="text"
+                                    class="usa-input margin-bottom-1 height-4 font-sans-2xs width-full"
+                                    placeholder="Filter broad subjects..."
                                     aria-label="Filter Broad Subjects"
                                 >
+                                <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+                                    {{ filteredBroadSubjects.length }} broad subject{{ filteredBroadSubjects.length !== 1 ? 's' : '' }} found.
+                                </div>
                                 <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white margin-top-1" style="max-height: 10rem;">
                                     <div class="usa-checkbox" v-for="sub in filteredBroadSubjects" :key="sub.Code">
                                         <input 
-                                            class="usa-checkbox__input" 
-                                            :id="'mobile-broad-'+sub.Code" 
-                                            type="checkbox" 
-                                            v-model="filterBroad" 
-                                            :value="sub.Name" 
-                                            tabindex="-1"
+                                            class="usa-checkbox__input"
+                                            :id="'mobile-broad-'+sub.Code"
+                                            type="checkbox"
+                                            v-model="filterBroad"
+                                            :value="sub.Name"
                                             @focus="scrollToFocusedItem"
                                             @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
                                             @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
@@ -769,23 +807,25 @@
 
                             <fieldset class="usa-fieldset">
                                 <legend class="usa-label margin-top-0 font-sans-sm">Narrow Subjects</legend>
-                                <input 
-                                    v-model="narrowSubjectSearch" 
+                                <input
+                                    v-model="narrowSubjectSearch"
                                     @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
-                                    type="text" 
-                                    class="usa-input margin-bottom-1 height-4 font-sans-2xs width-full" 
-                                    placeholder="Filter narrow subjects..." 
+                                    type="text"
+                                    class="usa-input margin-bottom-1 height-4 font-sans-2xs width-full"
+                                    placeholder="Filter narrow subjects..."
                                     aria-label="Filter Narrow Subjects"
                                 >
+                                <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+                                    {{ filteredNarrowSubjects.length }} narrow subject{{ filteredNarrowSubjects.length !== 1 ? 's' : '' }} found.
+                                </div>
                                 <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white margin-top-1" style="max-height: 10rem;">
                                     <div class="usa-checkbox" v-for="sub in filteredNarrowSubjects" :key="sub.Code">
                                         <input 
-                                            class="usa-checkbox__input" 
-                                            :id="'mobile-narrow-'+sub.Code" 
-                                            type="checkbox" 
-                                            v-model="filterNarrow" 
-                                            :value="sub.Name" 
-                                            tabindex="-1"
+                                            class="usa-checkbox__input"
+                                            :id="'mobile-narrow-'+sub.Code"
+                                            type="checkbox"
+                                            v-model="filterNarrow"
+                                            :value="sub.Name"
                                             @focus="scrollToFocusedItem"
                                             @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
                                             @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
@@ -806,7 +846,7 @@
                                       style="top: 50%; right: -30%; width: 120%; transform: translateY(-50%); opacity: 0.15; filter: sepia(1); pointer-events: none;">
                                 
                                 <div class="position-relative z-10">
-                                    <p class="font-sans-xs text-uppercase text-base text-bold margin-bottom-1 margin-top-0">
+                                    <p class="font-sans-xs text-uppercase text-base-darker text-bold margin-bottom-1 margin-top-0">
                                         Built By
                                     </p>
                                     <h3 class="font-sans-lg line-height-sans-3 text-bold text-primary-darker margin-bottom-3 margin-top-0">
@@ -884,7 +924,7 @@
                                 <section v-if="activeBill.fiscal_impact_summary" aria-labelledby="fiscal-heading">
                                     <h4 id="fiscal-heading" class="font-sans-3xs font-bold text-base-dark uppercase mb-2">Fiscal Impact Analysis</h4>
                                     <div v-if="activeBill.has_fiscal_note === false" class="flex items-start gap-2 mb-3 text-base-dark">
-                                        <i class="ph ph-warning text-lg text-accent-cool-dark mt-0.5 shrink-0"></i>
+                                        <i class="ph ph-warning text-lg text-accent-cool-dark mt-0.5 shrink-0" aria-hidden="true"></i>
                                         <p class="font-medium italic font-sans-xs">
                                             Disclaimer: This fiscal analysis is preliminary and may change when the fiscal and policy note incorporating agency and DLS feedback is published.
                                         </p>
@@ -964,7 +1004,7 @@
                             <div class="flex flex-col sm:flex-row gap-3 items-start bg-base-lightest p-4 border border-base-lighter text-base-dark">
                                 <i class="ph ph-robot text-xl shrink-0 mt-0.5 text-base-light" aria-hidden="true"></i>
                                 <div class="font-sans-xs font-medium leading-relaxed">
-                                    <strong class="font-sans-3xs font-bold text-base-dark uppercase mb-2">Automated Summary Disclaimer</strong>
+                                    <h4 class="font-sans-3xs font-bold text-base-dark uppercase mb-2 margin-top-0">Automated Summary Disclaimer</h4>
                                     <p>
                                         The summary content, relevance ratings, and fiscal analysis displayed here were generated using AI and may contain inaccuracies. 
                                         This tool is for research assistance only. Please verify all details directly against the official 
@@ -1859,7 +1899,10 @@
                 };
 
                 const scrollToFocusedItem = (event) => {
-                    // Find the wrapper (usa-checkbox) and scroll it into view within its container
+                    // Scroll the .usa-checkbox wrapper into view using block:'nearest' so that
+                    // only the minimum scroll needed occurs. This also corrects any unintended
+                    // page-level scroll that the browser may have applied when focusing the
+                    // visually-hidden (position:absolute) USWDS checkbox input.
                     const wrapper = event.target.closest('.usa-checkbox');
                     if (wrapper) {
                         wrapper.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
@@ -1930,16 +1973,19 @@
                         }
                     } 
                     else if (type === 'search-to-checkbox') {
-                        // Search Input -> First Checkbox
-                        // Assumes the list container is the immediate next sibling of the input
-                        const container = current.nextElementSibling;
-                        if (container) {
-                             target = container.querySelector('input[type="checkbox"]');
+                        // Search Input -> First Checkbox.
+                        // Walk forward through siblings to find the overflow list container,
+                        // skipping any sr-only live-region siblings inserted for RF-7.
+                        let sibling = current.nextElementSibling;
+                        while (sibling) {
+                            const check = sibling.querySelector('input[type="checkbox"]');
+                            if (check) { target = check; break; }
+                            sibling = sibling.nextElementSibling;
                         }
                     }
 
                     if (target) {
-                        target.focus();
+                        target.focus({ preventScroll: true });
                         if(e) e.preventDefault();
                     }
                 };

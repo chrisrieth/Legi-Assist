@@ -33,6 +33,19 @@
         ::-webkit-input-placeholder { color: #757575 !important; opacity: 1; }
         ::-moz-placeholder           { color: #757575 !important; opacity: 1; }
         :-ms-input-placeholder       { color: #757575 !important; opacity: 1; }
+
+        /* Fix for MDWDS/USWDS checkbox scroll-on-focus bug.
+           .usa-checkbox__input is position:absolute but .usa-checkbox has no
+           position set, so the browser resolves the input's position against
+           the body (the next positioned ancestor). When the body has
+           overflow:hidden the browser then scrolls the sidebar to reach the
+           input's body-relative Y coordinate, causing a large unintended scroll.
+           Setting position:relative on .usa-checkbox scopes the absolute input
+           to its own wrapper, which is already in the viewport, so no scroll
+           occurs when the input receives focus. */
+        .usa-checkbox {
+            position: relative;
+        }
     </style>
 
     <!-- Google tag (gtag.js) -->
@@ -1886,7 +1899,10 @@
                 };
 
                 const scrollToFocusedItem = (event) => {
-                    // Find the wrapper (usa-checkbox) and scroll it into view within its container
+                    // Scroll the .usa-checkbox wrapper into view using block:'nearest' so that
+                    // only the minimum scroll needed occurs. This also corrects any unintended
+                    // page-level scroll that the browser may have applied when focusing the
+                    // visually-hidden (position:absolute) USWDS checkbox input.
                     const wrapper = event.target.closest('.usa-checkbox');
                     if (wrapper) {
                         wrapper.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
@@ -1957,16 +1973,19 @@
                         }
                     } 
                     else if (type === 'search-to-checkbox') {
-                        // Search Input -> First Checkbox
-                        // Assumes the list container is the immediate next sibling of the input
-                        const container = current.nextElementSibling;
-                        if (container) {
-                             target = container.querySelector('input[type="checkbox"]');
+                        // Search Input -> First Checkbox.
+                        // Walk forward through siblings to find the overflow list container,
+                        // skipping any sr-only live-region siblings inserted for RF-7.
+                        let sibling = current.nextElementSibling;
+                        while (sibling) {
+                            const check = sibling.querySelector('input[type="checkbox"]');
+                            if (check) { target = check; break; }
+                            sibling = sibling.nextElementSibling;
                         }
                     }
 
                     if (target) {
-                        target.focus();
+                        target.focus({ preventScroll: true });
                         if(e) e.preventDefault();
                     }
                 };

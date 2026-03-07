@@ -367,71 +367,111 @@
                         <input v-model="searchQuery" id="keyword-search" type="text" class="usa-input margin-top-1 width-full font-sans-sm" placeholder="Title, summary, ID...">
                     </div>
 
-                    <fieldset class="usa-fieldset margin-bottom-3">
-                        <legend class="usa-label margin-top-0 font-sans-sm">Broad Subjects</legend>
-                        <input
-                            v-model="broadSubjectSearch"
-                            @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
-                            type="text"
-                            class="usa-input margin-bottom-1 height-4 font-sans-2xs"
-                            placeholder="Filter broad subjects..."
-                            aria-label="Filter Broad Subjects"
+                    <div class="margin-bottom-3">
+                        <h3 class="usa-accordion__heading">
+                            <button
+                                type="button"
+                                class="usa-accordion__button font-sans-sm"
+                                :aria-expanded="broadSubjectsOpen"
+                                aria-controls="broad-subjects-panel"
+                                id="broad-subjects-btn"
+                                @click="broadSubjectsOpen = !broadSubjectsOpen"
+                            >
+                                Broad Subjects
+                                <span v-if="filterBroad.length > 0" class="usa-tag margin-left-1 bg-primary text-white font-sans-3xs">{{ filterBroad.length }}<span class="sr-only"> selected</span></span>
+                            </button>
+                        </h3>
+                        <div
+                            id="broad-subjects-panel"
+                            class="usa-accordion__content padding-2"
+                            :hidden="!broadSubjectsOpen"
+                            role="group"
+                            aria-labelledby="broad-subjects-btn"
                         >
-                        <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
-                            {{ filteredBroadSubjects.length }} broad subject{{ filteredBroadSubjects.length !== 1 ? 's' : '' }} found.
-                        </div>
-                        <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white" style="max-height: 10rem;">
-                            <div class="usa-checkbox" v-for="sub in filteredBroadSubjects" :key="sub.Code">
-                                <input 
-                                    class="usa-checkbox__input"
-                                    :id="'broad-'+sub.Code"
-                                    type="checkbox"
-                                    v-model="filterBroad"
-                                    :value="sub.Name"
-                                    @focus="scrollToFocusedItem"
-                                    @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
-                                    @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
-                                >
-                                <label class="usa-checkbox__label" :for="'broad-'+sub.Code">{{ sub.Name }}</label>
+                            <input
+                                v-model="broadSubjectSearch"
+                                @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
+                                type="text"
+                                class="usa-input margin-bottom-1 height-4 font-sans-2xs"
+                                placeholder="Filter broad subjects..."
+                                aria-label="Filter Broad Subjects"
+                            >
+                            <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+                                {{ filteredBroadSubjects.length }} broad subject{{ filteredBroadSubjects.length !== 1 ? 's' : '' }} found.
                             </div>
-                            <div v-if="filteredBroadSubjects.length === 0" class="font-sans-2xs text-base text-italic padding-1">
-                                No matches found
+                            <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white" style="max-height: 10rem;">
+                                <div class="usa-checkbox" v-for="sub in filteredBroadSubjects" :key="sub.Code">
+                                    <input
+                                        class="usa-checkbox__input"
+                                        :id="'broad-'+sub.Code"
+                                        type="checkbox"
+                                        v-model="filterBroad"
+                                        :value="sub.Name"
+                                        @focus="scrollToFocusedItem"
+                                        @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
+                                        @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
+                                    >
+                                    <label class="usa-checkbox__label" :for="'broad-'+sub.Code">{{ sub.Name }}</label>
+                                </div>
+                                <div v-if="filteredBroadSubjects.length === 0" class="font-sans-2xs text-base text-italic padding-1">
+                                    No matches found
+                                </div>
                             </div>
                         </div>
-                    </fieldset>
+                    </div>
 
-                    <fieldset class="usa-fieldset">
-                        <legend class="usa-label margin-top-0">Narrow Subjects</legend>
-                        <input
-                            v-model="narrowSubjectSearch"
-                            @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
-                            type="text"
-                            class="usa-input margin-bottom-1 height-4 font-sans-2xs"
-                            placeholder="Filter narrow subjects..."
-                            aria-label="Filter Narrow Subjects"
+                    <div>
+                        <h3 class="usa-accordion__heading">
+                            <button
+                                type="button"
+                                class="usa-accordion__button font-sans-sm"
+                                :aria-expanded="narrowSubjectsOpen"
+                                aria-controls="narrow-subjects-panel"
+                                id="narrow-subjects-btn"
+                                @click="narrowSubjectsOpen = !narrowSubjectsOpen"
+                            >
+                                Narrow Subjects
+                                <span v-if="filterNarrow.length > 0" class="usa-tag margin-left-1 bg-primary text-white font-sans-3xs">{{ filterNarrow.length }}<span class="sr-only"> selected</span></span>
+                            </button>
+                        </h3>
+                        <div
+                            id="narrow-subjects-panel"
+                            class="usa-accordion__content padding-2"
+                            :hidden="!narrowSubjectsOpen"
+                            role="group"
+                            aria-labelledby="narrow-subjects-btn"
                         >
-                        <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
-                            {{ filteredNarrowSubjects.length }} narrow subject{{ filteredNarrowSubjects.length !== 1 ? 's' : '' }} found.
-                        </div>
-                        <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white" style="max-height: 10rem;">
-                            <div class="usa-checkbox" v-for="sub in filteredNarrowSubjects" :key="sub.Code">
-                                <input 
-                                    class="usa-checkbox__input"
-                                    :id="'narrow-'+sub.Code"
-                                    type="checkbox"
-                                    v-model="filterNarrow"
-                                    :value="sub.Name"
-                                    @focus="scrollToFocusedItem"
-                                    @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
-                                    @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
-                                >
-                                <label class="usa-checkbox__label" :for="'narrow-'+sub.Code">{{ sub.Name }}</label>
+                            <input
+                                v-model="narrowSubjectSearch"
+                                @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
+                                type="text"
+                                class="usa-input margin-bottom-1 height-4 font-sans-2xs"
+                                placeholder="Filter narrow subjects..."
+                                aria-label="Filter Narrow Subjects"
+                            >
+                            <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+                                {{ filteredNarrowSubjects.length }} narrow subject{{ filteredNarrowSubjects.length !== 1 ? 's' : '' }} found.
                             </div>
-                            <div v-if="filteredNarrowSubjects.length === 0" class="font-sans-2xs text-base text-italic padding-1">
-                                No matches found
+                            <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white" style="max-height: 10rem;">
+                                <div class="usa-checkbox" v-for="sub in filteredNarrowSubjects" :key="sub.Code">
+                                    <input
+                                        class="usa-checkbox__input"
+                                        :id="'narrow-'+sub.Code"
+                                        type="checkbox"
+                                        v-model="filterNarrow"
+                                        :value="sub.Name"
+                                        @focus="scrollToFocusedItem"
+                                        @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
+                                        @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
+                                    >
+                                    <label class="usa-checkbox__label" :for="'narrow-'+sub.Code">{{ sub.Name }}</label>
+                                </div>
+                                <div v-if="filteredNarrowSubjects.length === 0" class="font-sans-2xs text-base text-italic padding-1">
+                                    No matches found
+                                </div>
                             </div>
                         </div>
-                    </fieldset>
+                    </div>
 
                     <hr class="border-base-light margin-y-3">
 
@@ -772,41 +812,80 @@
                                 <input v-model="searchQuery" id="mobile-keyword-input" type="text" class="usa-input width-full font-sans-sm" placeholder="Title, summary, ID...">
                             </div>
                             
-                            <fieldset class="usa-fieldset margin-bottom-3">
-                                <legend class="usa-label margin-top-0 font-sans-sm">Broad Subjects</legend>
-                                <input
-                                    v-model="broadSubjectSearch"
-                                    @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
-                                    type="text"
-                                    class="usa-input margin-bottom-1 height-4 font-sans-2xs width-full"
-                                    placeholder="Filter broad subjects..."
-                                    aria-label="Filter Broad Subjects"
+                            <div class="margin-bottom-3">
+                                <h3 class="usa-accordion__heading">
+                                    <button
+                                        type="button"
+                                        class="usa-accordion__button font-sans-sm"
+                                        :aria-expanded="broadSubjectsOpen"
+                                        aria-controls="mobile-broad-subjects-panel"
+                                        id="mobile-broad-subjects-btn"
+                                        @click="broadSubjectsOpen = !broadSubjectsOpen"
+                                    >
+                                        Broad Subjects
+                                        <span v-if="filterBroad.length > 0" class="usa-tag margin-left-1 bg-primary text-white font-sans-3xs">{{ filterBroad.length }}<span class="sr-only"> selected</span></span>
+                                    </button>
+                                </h3>
+                                <div
+                                    id="mobile-broad-subjects-panel"
+                                    class="usa-accordion__content padding-2"
+                                    :hidden="!broadSubjectsOpen"
+                                    role="group"
+                                    aria-labelledby="mobile-broad-subjects-btn"
                                 >
-                                <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
-                                    {{ filteredBroadSubjects.length }} broad subject{{ filteredBroadSubjects.length !== 1 ? 's' : '' }} found.
-                                </div>
-                                <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white margin-top-1" style="max-height: 10rem;">
-                                    <div class="usa-checkbox" v-for="sub in filteredBroadSubjects" :key="sub.Code">
-                                        <input 
-                                            class="usa-checkbox__input"
-                                            :id="'mobile-broad-'+sub.Code"
-                                            type="checkbox"
-                                            v-model="filterBroad"
-                                            :value="sub.Name"
-                                            @focus="scrollToFocusedItem"
-                                            @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
-                                            @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
-                                        >
-                                        <label class="usa-checkbox__label" :for="'mobile-broad-'+sub.Code">{{ sub.Name }}</label>
+                                    <input
+                                        v-model="broadSubjectSearch"
+                                        @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
+                                        type="text"
+                                        class="usa-input margin-bottom-1 height-4 font-sans-2xs width-full"
+                                        placeholder="Filter broad subjects..."
+                                        aria-label="Filter Broad Subjects"
+                                    >
+                                    <div class="sr-only" role="status" aria-live="polite" aria-atomic="true">
+                                        {{ filteredBroadSubjects.length }} broad subject{{ filteredBroadSubjects.length !== 1 ? 's' : '' }} found.
                                     </div>
-                                    <div v-if="filteredBroadSubjects.length === 0" class="font-sans-2xs text-base text-italic padding-1">
-                                        No matches found
+                                    <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white margin-top-1" style="max-height: 10rem;">
+                                        <div class="usa-checkbox" v-for="sub in filteredBroadSubjects" :key="sub.Code">
+                                            <input
+                                                class="usa-checkbox__input"
+                                                :id="'mobile-broad-'+sub.Code"
+                                                type="checkbox"
+                                                v-model="filterBroad"
+                                                :value="sub.Name"
+                                                @focus="scrollToFocusedItem"
+                                                @keydown.down.prevent="focusNextItem($event, 'down', 'checkbox')"
+                                                @keydown.up.prevent="focusNextItem($event, 'up', 'checkbox')"
+                                            >
+                                            <label class="usa-checkbox__label" :for="'mobile-broad-'+sub.Code">{{ sub.Name }}</label>
+                                        </div>
+                                        <div v-if="filteredBroadSubjects.length === 0" class="font-sans-2xs text-base text-italic padding-1">
+                                            No matches found
+                                        </div>
                                     </div>
                                 </div>
-                            </fieldset>
+                            </div>
 
-                            <fieldset class="usa-fieldset">
-                                <legend class="usa-label margin-top-0 font-sans-sm">Narrow Subjects</legend>
+                            <div>
+                                <h3 class="usa-accordion__heading">
+                                    <button
+                                        type="button"
+                                        class="usa-accordion__button font-sans-sm"
+                                        :aria-expanded="narrowSubjectsOpen"
+                                        aria-controls="mobile-narrow-subjects-panel"
+                                        id="mobile-narrow-subjects-btn"
+                                        @click="narrowSubjectsOpen = !narrowSubjectsOpen"
+                                    >
+                                        Narrow Subjects
+                                        <span v-if="filterNarrow.length > 0" class="usa-tag margin-left-1 bg-primary text-white font-sans-3xs">{{ filterNarrow.length }}<span class="sr-only"> selected</span></span>
+                                    </button>
+                                </h3>
+                                <div
+                                    id="mobile-narrow-subjects-panel"
+                                    class="usa-accordion__content padding-2"
+                                    :hidden="!narrowSubjectsOpen"
+                                    role="group"
+                                    aria-labelledby="mobile-narrow-subjects-btn"
+                                >
                                 <input
                                     v-model="narrowSubjectSearch"
                                     @keydown.down.prevent="focusNextItem($event, 'down', 'search-to-checkbox')"
@@ -820,7 +899,7 @@
                                 </div>
                                 <div class="border-1px border-base-lighter padding-1 overflow-y-auto bg-white margin-top-1" style="max-height: 10rem;">
                                     <div class="usa-checkbox" v-for="sub in filteredNarrowSubjects" :key="sub.Code">
-                                        <input 
+                                        <input
                                             class="usa-checkbox__input"
                                             :id="'mobile-narrow-'+sub.Code"
                                             type="checkbox"
@@ -836,7 +915,8 @@
                                         No matches found
                                     </div>
                                 </div>
-                            </fieldset>
+                                </div>
+                            </div>
 
                             <hr class="border-base-light margin-y-3">
 
@@ -1118,6 +1198,8 @@
                 const favorites = ref(new Set());
                 const showFavoritesOnly = ref(false);
                 const showFilterDrawer = ref(false);
+                const broadSubjectsOpen = ref(false);
+                const narrowSubjectsOpen = ref(false);
                 const drawerReady = ref(false);
                 const modalTitle = ref(null);
                 const filtersHeading = ref(null);
@@ -2102,7 +2184,8 @@
                     filterDrawer, focusFirstOption, announceToScreenReader,
                     filtersHeading, mobileFiltersHeading, focusNextItem,
                     favorites, showFavoritesOnly, toggleFavorite, isFavorite,
-                    currentView, enterDashboard, handleFocusOut, scrollToFocusedItem
+                    currentView, enterDashboard, handleFocusOut, scrollToFocusedItem,
+                    broadSubjectsOpen, narrowSubjectsOpen
                 };
             }
         }).mount('#app');

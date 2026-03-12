@@ -10,7 +10,11 @@ Requested: July 23, 2025
 Introduced and read first time: January 14, 2026
 Assigned to: Judiciary
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: February 27, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
@@ -38,129 +42,146 @@ A BILL ENTITLED
 
 18 (a) Unless otherwise provided, in a law, resolution, or court order, judgment, or
 19 decree that refers to publishing a legal advertisement or legal notice, words such as
-20 “newspaper” or “newspaper in general circulation” mean a PRINT AND DIGITAL publication OR DIGITAL–ONLY PUBLICATION THAT COVERS LOCAL NEWS OR INFORMATION IN MORE THAN THREE COUNTIES IN THE STATE
-21
-22 (1) [has at least four pages;
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0010*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0010*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 10
 
-1 (2)] habitually contains news items, reports of current events, editorial
-2 comments, advertising matter, and other miscellaneous information that is of public
-3 interest and is found generally in an ordinary newspaper;
+1 “newspaper” or “newspaper in general circulation” mean a PRINT ~~OR~~ <u>AND</u> DIGITAL
+2 publication <u>OR DIGITAL–ONLY PUBLICATION THAT COVERS LOCAL NEWS OR</u>
+3 <u>INFORMATION IN MORE THAN THREE COUNTIES IN THE STATE</u> that:
 
-4 [(3)] (2) has been published and distributed, by sale, from an established
-5 place of business at least once a week for 6 months or more before publication of the
-6 advertisement or notice;
+4 (1) [has at least four pages;
 
-7 [(4)] (3) has general circulation throughout the community where the
-8 publication is published; [and
+5 (2)] habitually contains news items, reports of current events, editorial
+6 comments, advertising matter, and other miscellaneous information that is of public
+7 interest and is found generally in an ordinary newspaper;
 
-9 (5)] (4) FOR A PRINT PUBLICATION:
+8 [(3)] (2) has been published and distributed, by sale, from an established
+9 place of business at least once a week for 6 months or more before publication of the
+10 advertisement or notice;
 
-10 (I) qualifies for Periodicals rates for mailing through the United
-11 States Postal Service; AND
+11 [(4)] (3) has general circulation throughout the community where the
+12 publication is published; [and
 
-12 (II) HAS AT LEAST FOUR PAGES; AND
+13 (5)] (4) FOR A PRINT PUBLICATION:
 
-13 (5) SUBJECT TO SUBSECTION (D) OF THIS SECTION, FOR A DIGITAL
-14 PUBLICATION:
+14 (I) qualifies for Periodicals rates for mailing through the United
+15 States Postal Service; AND
 
-15 (I) EMPLOYS OR RETAINS ONE OR MORE PERSONS TO CREATE,
-16 EDIT, PRODUCE, AND DISTRIBUTE ORIGINAL CONTENT CONCERNING MATTERS OF
-17 PUBLIC INTEREST THROUGH REPORTING ACTIVITIES, INCLUDING CONDUCTING
-18 INTERVIEWS, OBSERVING CURRENT EVENTS, AND REVIEWING DOCUMENTS OR
-19 OTHER INFORMATION;
+16 (II) HAS AT LEAST FOUR PAGES; AND
 
-20 (II) EMPLOYS AT LEAST ONE INDIVIDUAL FULL TIME, WORKING
-21 AT LEAST 30 HOURS PER WEEK, WHO:
+17 (5) SUBJECT TO SUBSECTION (D) OF THIS SECTION, FOR A DIGITAL
+18 PUBLICATION:
 
-22 1. RESIDES WITHIN 50 MILES OF THE COUNTY OR
-23 MUNICIPAL CORPORATION WHERE THE LEGAL ADVERTISEMENT OR LEGAL NOTICE
-24 IS REQUIRED TO BE PUBLISHED; AND
+19 (I) EMPLOYS OR RETAINS ONE OR MORE PERSONS TO CREATE,
+20 EDIT, PRODUCE, AND DISTRIBUTE ORIGINAL CONTENT CONCERNING MATTERS OF
+21 PUBLIC INTEREST THROUGH REPORTING ACTIVITIES, INCLUDING CONDUCTING
+22 INTERVIEWS, OBSERVING CURRENT EVENTS, AND REVIEWING DOCUMENTS OR
+23 OTHER INFORMATION;
 
-25 2. GATHERS, PREPARES, COLLECTS, PHOTOGRAPHS,
-26 WRITES, EDITS, REPORTS, OR PUBLISHES ORIGINAL LOCAL OR STATE NEWS FOR
-27 DISTRIBUTION IN THE COUNTY OR MUNICIPAL CORPORATION;
+24 (II) EMPLOYS AT LEAST ONE INDIVIDUAL FULL TIME, WORKING
+25 AT LEAST 30 HOURS PER WEEK, WHO:
 
-28 (III) PUBLISHES AT LEAST ONE ARTICLE PER WEEK CONCERNING
-29 MATTERS OF PUBLIC INTEREST FOR THE COUNTY OR MUNICIPAL CORPORATION
-30 DURING THE IMMEDIATELY PRECEDING 12 MONTHS; AND
+26 1. RESIDES WITHIN 50 MILES OF THE COUNTY OR
+27 MUNICIPAL CORPORATION WHERE THE LEGAL ADVERTISEMENT OR LEGAL NOTICE
+28 IS REQUIRED TO BE PUBLISHED; AND
 
-31 (IV) IF DESIGNATED AS A TAX–EXEMPT ORGANIZATION UNDER §
-32 501(C)(3) OF THE INTERNAL REVENUE CODE:
+29 2. GATHERS, PREPARES, COLLECTS, PHOTOGRAPHS,
+30 WRITES, EDITS, REPORTS, OR PUBLISHES ORIGINAL LOCAL OR STATE NEWS FOR
+31 DISTRIBUTION IN THE COUNTY OR MUNICIPAL CORPORATION;
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 10 3
 
-1 1. DECLARES IN ITS INTERNAL REVENUE SERVICE
-2 FILINGS THAT ITS MISSION INCLUDES THE COVERAGE OF LOCAL OR STATE NEWS;
-3 AND
+1 (III) PUBLISHES AT LEAST ONE ARTICLE PER WEEK CONCERNING
+2 MATTERS OF PUBLIC INTEREST FOR THE COUNTY OR MUNICIPAL CORPORATION
+3 DURING THE IMMEDIATELY PRECEDING 12 MONTHS; AND
 
-4 2. HAS NOT RECEIVED MORE THAN 50% OF ITS GROSS
-5 RECEIPTS DURING THE IMMEDIATELY PRECEDING YEAR FROM:
+4 (IV) IF DESIGNATED AS A TAX–EXEMPT ORGANIZATION UNDER §
+5 501(C)(3) OF THE INTERNAL REVENUE CODE:
 
-6 A. POLITICAL ACTION COMMITTEES OR OTHER ENTITIES
-7 DESCRIBED IN § 527 OF THE INTERNAL REVENUE CODE; OR
+6 1. DECLARES IN ITS INTERNAL REVENUE SERVICE
+7 FILINGS THAT ITS MISSION INCLUDES THE COVERAGE OF LOCAL OR STATE NEWS;
+8 AND
 
-8 B. ORGANIZATIONS THAT ARE DESIGNATED AS
-9 TAX–EXEMPT UNDER § 501(C)(4), (5), OR (6) OF THE INTERNAL REVENUE CODE.
+9 2. HAS NOT RECEIVED MORE THAN 50% OF ITS GROSS
+10 RECEIPTS DURING THE IMMEDIATELY PRECEDING YEAR FROM:
 
-10 (B) SUBJECT TO SUBSECTION (A) OF THIS SECTION, A DIGITAL
-11 PUBLICATION THAT PUBLISHES A LEGAL ADVERTISEMENT OR LEGAL NOTICE
-12 SHALL:
+11 A. POLITICAL ACTION COMMITTEES OR OTHER ENTITIES
+12 DESCRIBED IN § 527 OF THE INTERNAL REVENUE CODE; OR
 
-13 (1) MAINTAIN AN ARCHIVE OF ALL PUBLISHED LEGAL
-14 ADVERTISEMENTS AND LEGAL NOTICES THAT SHALL BE AVAILABLE TO THE PUBLIC;
-15 AND
+13 B. ORGANIZATIONS THAT ARE DESIGNATED AS
+14 TAX–EXEMPT UNDER § 501(C)(4), (5), OR (6) OF THE INTERNAL REVENUE CODE.
 
-16 (2) BE ACCESSIBLE IN THE COUNTY OR MUNICIPAL CORPORATION
-17 THAT IS REQUIRED TO PUBLISH THE LEGAL ADVERTISEMENT OR LEGAL NOTICE.
+15 (B) SUBJECT TO SUBSECTION (A) OF THIS SECTION, A DIGITAL
+16 PUBLICATION THAT PUBLISHES A LEGAL ADVERTISEMENT OR LEGAL NOTICE
+17 SHALL:
 
-18 (C) FOR PURPOSES OF THE PUBLIC GENERAL LAWS OF THE STATE, IF A
-19 LAW, RESOLUTION, COURT ORDER, JUDGMENT, OR DECREE REQUIRES A COUNTY OR
-20 MUNICIPAL CORPORATION TO PUBLISH A LEGAL ADVERTISEMENT OR LEGAL
-21 NOTICE IN A PRINT OR DIGITAL NEWSPAPER IN GENERAL CIRCULATION, THE TIME
-22 PERIOD REQUIRED FOR PUBLICATION BEGINS ON THE DATE THE FIRST
-23 ADVERTISEMENT OR NOTICE APPEARS IN PRINT OR DIGITAL FORMAT.
+18 (1) MAINTAIN AN ARCHIVE OF ALL PUBLISHED LEGAL
+19 ADVERTISEMENTS AND LEGAL NOTICES THAT SHALL BE AVAILABLE TO THE PUBLIC;
+20 AND
 
-24 [(b)] (D) Subject to subsection (a) of this section and for purposes of the public
-25 general laws of the State, in Prince George’s County, “newspaper in general circulation”
-26 includes a newspaper that:
+21 (2) BE ACCESSIBLE IN THE COUNTY OR MUNICIPAL CORPORATION
+22 THAT IS REQUIRED TO PUBLISH THE LEGAL ADVERTISEMENT OR LEGAL NOTICE.
 
-27 (1) is designated by the County Council as a newspaper of record; or
+23 (C) FOR PURPOSES OF THE PUBLIC GENERAL LAWS OF THE STATE, IF A
+24 LAW, RESOLUTION, COURT ORDER, JUDGMENT, OR DECREE REQUIRES A COUNTY OR
+25 MUNICIPAL CORPORATION TO PUBLISH A LEGAL ADVERTISEMENT OR LEGAL
+26 NOTICE IN A PRINT OR DIGITAL NEWSPAPER IN GENERAL CIRCULATION, THE TIME
+27 PERIOD REQUIRED FOR PUBLICATION BEGINS ON THE DATE THE FIRST
+28 ADVERTISEMENT OR NOTICE APPEARS IN PRINT OR DIGITAL FORMAT.
 
-28 (2) (i) qualifies under subsection (a) of this section with respect to
-29 Prince George’s County; and
+29 [(b)] (D) Subject to subsection (a) of this section and for purposes of the public
+30 general laws of the State, in Prince George’s County, “newspaper in general circulation”
+31 includes a newspaper that:
 
-30 (ii) is published by a small business as defined in § 14–201 of the
-31 State Finance and Procurement Article.
+32 (1) is designated by the County Council as a newspaper of record; or
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 10
 
-1 [(c) Subject to subsection (a) of this section and for purposes of the public general
-2 laws of the State, in Dorchester County, if a law, resolution, or court order, judgment, or
-3 decree requires the county to publish a legal advertisement or legal notice:
+1 (2) (i) qualifies under subsection (a) of this section with respect to
+2 Prince George’s County; and
 
-4 (1) any required advertisement or notice shall be published and distributed
-5 through print and digital format;
+3 (ii) is published by a small business as defined in § 14–201 of the
+4 State Finance and Procurement Article.
 
-6 (2) the time period required for publication starts once the first
-7 advertisement or notice appears in print or digital format; and
+5 [(c) Subject to subsection (a) of this section and for purposes of the public general
+6 laws of the State, in Dorchester County, if a law, resolution, or court order, judgment, or
+7 decree requires the county to publish a legal advertisement or legal notice:
 
-8 (3) if there is no print and digital publication that meets all of the
-9 qualifications under subsection (a) of this section, the advertisement or notice may be
-10 placed in any digital publication that can be accessed in Dorchester County and that
-11 regularly contains local news and information for Dorchester County.]
+8 (1) any required advertisement or notice shall be published and distributed
+9 through print and digital format;
 
-12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-13 October 1, 2026.
+10 (2) the time period required for publication starts once the first
+11 advertisement or notice appears in print or digital format; and
+
+12 (3) if there is no print and digital publication that meets all of the
+13 qualifications under subsection (a) of this section, the advertisement or notice may be
+14 placed in any digital publication that can be accessed in Dorchester County and that
+15 regularly contains local news and information for Dorchester County.]
+
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
 END OF PAGE 4
 </bill>

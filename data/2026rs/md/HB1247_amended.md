@@ -1,21 +1,25 @@
+<bill>
 START OF PAGE 1
-EMERGENCY BILL
 HOUSE BILL 1247
 
-C8 6lr3101
+C8 EMERGENCY BILL 6lr3101
 
 By: Prince George’s County Delegation
 Introduced and read first time: February 11, 2026
 Assigned to: Ways and Means and Economic Matters
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Prince George’s County – Tax Increment Financing – Extraordinary
 3 Development District – Alterations
 
-4 PG 425–26
+4 PG ~~425–25~~ 425–26
 
 5 FOR the purpose of altering the definition of “extraordinary development district” for the
 6 purpose of provisions of law governing tax increment financing to include a certain
@@ -37,251 +41,260 @@ A BILL ENTITLED
 
 21 BY repealing and reenacting, without amendments,
 22 Article – Economic Development
-23 Section 12–201(a) and (h), 12–207(a), and 12–210(b)
-24 Annotated Code of Maryland
-25 (2024 Replacement Volume and 2025 Supplement)
-
-26 BY repealing and reenacting, with amendments,
-27 Article – Economic Development
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1247*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1247*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1247
 
-1 Section 12–201(i), 12–207(c), and 12–210(a)(3)
+1 Section 12–201(a) and (h), 12–207(a), and 12–210(b)
 2 Annotated Code of Maryland
 3 (2024 Replacement Volume and 2025 Supplement)
 
-4 BY adding to
+4 BY repealing and reenacting, with amendments,
 5 Article – Economic Development
-6 Section 12–201(j)
+6 Section 12–201(i), 12–207(c), and 12–210(a)(3)
 7 Annotated Code of Maryland
 8 (2024 Replacement Volume and 2025 Supplement)
 
-9 BY repealing and reenacting, with amendments,
-10 Article – Land Use
-11 Section 18–310
+9 BY adding to
+10 Article – Economic Development
+11 Section 12–201(j)
 12 Annotated Code of Maryland
-13 (2012 Volume and 2025 Supplement)
+13 (2024 Replacement Volume and 2025 Supplement)
 
-14 Preamble
+14 BY repealing and reenacting, with amendments,
+15 Article – Land Use
+16 Section 18–310
+17 Annotated Code of Maryland
+18 (2012 Volume and 2025 Supplement)
 
-15 WHEREAS, The General Assembly of Maryland finds that the development of
-16 large–scale, high–tech, immersive entertainment venues are critical to the continued
-17 growth and competitiveness of the tourism, arts, and hospitality industries in Prince
-18 George’s County and Maryland; and
+19 Preamble
 
-19 WHEREAS, The high cost and unique technical infrastructure required for an
-20 immersive entertainment venue requires specialized financing mechanisms to ensure its
-21 successful integration into established development districts; and
+20 WHEREAS, The General Assembly of Maryland finds that the development of
+21 large–scale, high–tech, immersive entertainment venues are critical to the continued
+22 growth and competitiveness of the tourism, arts, and hospitality industries in Prince
+23 George’s County and Maryland; and
 
-22 WHEREAS, The creation of extraordinary development districts that include an
-23 immersive entertainment venue will serve a significant public purpose by generating
-24 substantial new tax revenue, creating high–skill jobs, and fostering secondary economic
-25 development in surrounding areas; and
+24 WHEREAS, The high cost and unique technical infrastructure required for an
+25 immersive entertainment venue requires specialized financing mechanisms to ensure its
+26 successful integration into established development districts; and
 
-26 WHEREAS, It is the intent of the General Assembly to provide Prince George’s
-27 County with the flexibility to use tax increment financing to support major private–sector
-28 investments; now, therefore,
+27 WHEREAS, The creation of extraordinary development districts that include an
+28 immersive entertainment venue will serve a significant public purpose by generating
+29 substantial new tax revenue, creating high–skill jobs, and fostering secondary economic
+30 development in surrounding areas; and
 
-29 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-30 That Section(s) 12–201(j) through (u) of Article – Economic Development of the Annotated
-31 Code of Maryland be renumbered to be Section(s) 12–201(k) through (v), respectively.
+31 WHEREAS, It is the intent of the General Assembly to provide Prince George’s
+32 County with the flexibility to use tax increment financing to support major private–sector
+33 investments; now, therefore,
 
-32 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
-33 as follows:
-
-34 Article – Economic Development
-
-35 12–201.
+34 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+35 That Section(s) 12–201(j) through (u) of Article – Economic Development of the Annotated
+36 Code of Maryland be renumbered to be Section(s) 12–201(k) through (v), respectively.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1247 3
 
-1 (a) In this subtitle the following words have the meanings indicated.
+1 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+2 as follows:
 
-2 (h) (1) “Development district” means a contiguous area designated by a
-3 resolution.
+3 Article – Economic Development
 
-4 (2) “Development district” includes an extraordinary development district.
+4 12–201.
 
-5 (i) “Extraordinary development district” means a development district that:
+5 (a) In this subtitle the following words have the meanings indicated.
 
-6 (1) is designated as such by resolution; and
+6 (h) (1) “Development district” means a contiguous area designated by a
+7 resolution.
 
-7 (2) (I) contains at least 50 acres, on all or part of which a federal law
-8 enforcement agency will be located; OR
+8 (2) “Development district” includes an extraordinary development district.
 
-9 (II) IS THE SITE OF AN IMMERSIVE ENTERTAINMENT VENUE.
+9 (i) “Extraordinary development district” means a development district that:
 
-10 (J) “IMMERSIVE ENTERTAINMENT VENUE” MEANS AN ENTERTAINMENT
-11 VENUE THAT:
+10 (1) is designated as such by resolution; and
 
-12 (1) IS OWNED BY A PRIVATE ENTITY;
+11 (2) (I) contains at least 50 acres, on all or part of which a federal law
+12 enforcement agency will be located; OR
 
-13 (2) HAS AT LEAST 3,000 SEATS;
+13 (II) IS THE SITE OF AN IMMERSIVE ENTERTAINMENT VENUE.
 
-14 (3) HAS AN AGGREGATE DEVELOPMENT COST OF AT LEAST
-15 $500,000,000; AND
+14 (J) “IMMERSIVE ENTERTAINMENT VENUE” MEANS AN ENTERTAINMENT
+15 VENUE THAT:
 
-16 (4) HAS AN IMMERSIVE EXPERIENCE WITH ADVANCED DISPLAY
-17 TECHNOLOGY, INCLUDING 4D VISUAL EFFECTS AND SPHERICAL LED SCREENS.
+16 (1) IS OWNED BY A PRIVATE ENTITY;
 
-18 12–207.
+17 (2) HAS AT LEAST 3,000 SEATS;
 
-19 (a) Except as provided in subsections (b) and (e) of this section, bond proceeds
-20 may be used only:
+18 (3) HAS AN AGGREGATE DEVELOPMENT COST OF AT LEAST
+19 $500,000,000; AND
 
-21 (1) to buy, lease, condemn, or otherwise acquire property, or an interest in
-22 property:
+20 (4) HAS AN IMMERSIVE EXPERIENCE WITH ADVANCED DISPLAY
+21 TECHNOLOGY, INCLUDING 4D VISUAL EFFECTS AND SPHERICAL LED SCREENS.
 
-23 (i) in the development district, a RISE zone, or a sustainable
-24 community; or
+22 12–207.
 
-25 (ii) needed for a right–of–way or other easement to or from the
-26 development district, a RISE zone, or a sustainable community;
+23 (a) Except as provided in subsections (b) and (e) of this section, bond proceeds
+24 may be used only:
 
-27 (2) for site removal;
+25 (1) to buy, lease, condemn, or otherwise acquire property, or an interest in
+26 property:
 
-28 (3) for surveys and studies;
+27 (i) in the development district, a RISE zone, or a sustainable
+28 community; or
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 1247
 
-1 (4) to relocate businesses or residents;
+1 (ii) needed for a right–of–way or other easement to or from the
+2 development district, a RISE zone, or a sustainable community;
 
-2 (5) to install utilities, construct parks and playgrounds, and for other
-3 needed improvements including:
+3 (2) for site removal;
 
-4 (i) roads to, from, or in the development district;
+4 (3) for surveys and studies;
 
-5 (ii) parking; and
+5 (4) to relocate businesses or residents;
 
-6 (iii) lighting;
+6 (5) to install utilities, construct parks and playgrounds, and for other
+7 needed improvements including:
 
-7 (6) to construct or rehabilitate buildings for a governmental purpose or use;
+8 (i) roads to, from, or in the development district;
 
-8 (7) for reserves or capitalized interest;
+9 (ii) parking; and
 
-9 (8) for necessary costs to issue bonds; and
+10 (iii) lighting;
 
-10 (9) to pay the principal of and interest on loans, advances, or indebtedness
-11 that a political subdivision incurs for a purpose specified in this section.
+11 (6) to construct or rehabilitate buildings for a governmental purpose or use;
 
-12 (c) (1) In addition to the purposes listed in subsection (a) of this section, the
-13 proceeds from bonds that Prince George’s County or the revenue authority of Prince
-14 George’s County issues may be used:
+12 (7) for reserves or capitalized interest;
 
-15 (i) for convention, conference, or visitors’ centers;
+13 (8) for necessary costs to issue bonds; and
 
-16 (II) FOR THE ACQUISITION, CONSTRUCTION, OR
-17 REHABILITATION OF AN IMMERSIVE ENTERTAINMENT VENUE LOCATED WITHIN AN
-18 EXTRAORDINARY DEVELOPMENT DISTRICT;
+14 (9) to pay the principal of and interest on loans, advances, or indebtedness
+15 that a political subdivision incurs for a purpose specified in this section.
 
-19 [(ii)] (III) to maintain infrastructure improvements and convention,
-20 conference, or visitors’ centers;
+16 (c) (1) In addition to the purposes listed in subsection (a) of this section, the
+17 proceeds from bonds that Prince George’s County or the revenue authority of Prince
+18 George’s County issues may be used:
 
-21 [(iii)] (IV) to market development district facilities and other
-22 improvements; and
+19 (i) for convention, conference, or visitors’ centers;
 
-23 [(iv)] (V) for the purpose of encouraging redevelopment in those
-24 areas listed in paragraph (2) of this subsection, to install infrastructure improvements,
-25 including:
+20 (II) FOR THE ACQUISITION, CONSTRUCTION, OR
+21 REHABILITATION OF AN IMMERSIVE ENTERTAINMENT VENUE LOCATED WITHIN AN
+22 EXTRAORDINARY DEVELOPMENT DISTRICT;
 
-26 1. streets;
+23 [(ii)] (III) to maintain infrastructure improvements and convention,
+24 conference, or visitors’ centers;
 
-27 2. parking structures of any type whether for public or
-28 private use;
+25 [(iii)] (IV) to market development district facilities and other
+26 improvements; and
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 1247 5
 
-1 3. utilities;
+1 [(iv)] (V) for the purpose of encouraging redevelopment in those
+2 areas listed in paragraph (2) of this subsection, to install infrastructure improvements,
+3 including:
 
-2 4. street lights;
+4 1. streets;
 
-3 5. stormwater management and storm drain facilities;
+5 2. parking structures of any type whether for public or
+6 private use;
 
-4 6. fencing;
+7 3. utilities;
 
-5 7. noise walls;
+8 4. street lights;
 
-6 8. retaining walls;
+9 5. stormwater management and storm drain facilities;
 
-7 9. trails;
+10 6. fencing;
 
-8 10. sidewalks;
+11 7. noise walls;
 
-9 11. pedestrian and vehicular bridges; and
+12 8. retaining walls;
 
-10 12. park facilities.
+13 9. trails;
 
-11 (2) The purpose of the authority granted by paragraph [(1)(iv)] (1)(V) of
-12 this subsection is to encourage redevelopment in:
+14 10. sidewalks;
 
-13 (i) revitalization areas designated by the county;
+15 11. pedestrian and vehicular bridges; and
 
-14 (ii) mixed use centers;
+16 12. park facilities.
 
-15 (iii) blighted areas; and
+17 (2) The purpose of the authority granted by paragraph [(1)(iv)] (1)(V) of
+18 this subsection is to encourage redevelopment in:
 
-16 (iv) the Developed Tier, growth corridors, and growth centers, as
-17 defined in the county General Plan.
+19 (i) revitalization areas designated by the county;
 
-18 12–210.
+20 (ii) mixed use centers;
 
-19 (a) (3) (i) This paragraph applies only in Prince George’s County.
+21 (iii) blighted areas; and
 
-20 (ii) Subject to § 18–310 of the Land Use Article AND
-21 NOTWITHSTANDING §§ 18–304, 18–306(D), AND 18–307(B) OF THE LAND USE
-22 ARTICLE, the Maryland–National Capital Park and Planning Commission may enter into
-23 an agreement with Prince George’s County to pay all or a portion of the property taxes
-24 levied by the county under §§ 18–304, 18–306, and 18–307 of the Land Use Article on the
-25 tax increment in an extraordinary development district in the county to the county for
-26 deposit into a special fund for the extraordinary development district AND TO PLEDGE
-27 THOSE TAXES AS SECURITY FOR BONDS ISSUED BY PRINCE GEORGE’S COUNTY.
+22 (iv) the Developed Tier, growth corridors, and growth centers, as
+23 defined in the county General Plan.
+
+24 12–210.
+
+25 (a) (3) (i) This paragraph applies only in Prince George’s County.
+
+26 (ii) Subject to § 18–310 of the Land Use Article AND
+27 NOTWITHSTANDING §§ 18–304, 18–306(D), AND 18–307(B) OF THE LAND USE
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 1247
 
-1 (iii) The agreement authorized under subparagraph (ii) of this
-2 paragraph shall:
+1 ARTICLE, the Maryland–National Capital Park and Planning Commission may enter into
+2 an agreement with Prince George’s County to pay all or a portion of the property taxes
+3 levied by the county under §§ 18–304, 18–306, and 18–307 of the Land Use Article on the
+4 tax increment in an extraordinary development district in the county to the county for
+5 deposit into a special fund for the extraordinary development district AND TO PLEDGE
+6 THOSE TAXES AS SECURITY FOR BONDS ISSUED BY PRINCE GEORGE’S COUNTY.
 
-3 1. be in writing; and
+7 (iii) The agreement authorized under subparagraph (ii) of this
+8 paragraph shall:
 
-4 2. be executed by the governing body of Prince George’s
-5 County and, on proper authorization, the Maryland–National Capital Park and Planning
-6 Commission.
+9 1. be in writing; and
 
-7 (iv) The Maryland–National Capital Park and Planning Commission
-8 may not be an obligor for any bonds issued by Prince George’s County for an extraordinary
-9 development district.
+10 2. be executed by the governing body of Prince George’s
+11 County and, on proper authorization, the Maryland–National Capital Park and Planning
+12 Commission.
 
-10 (b) The governing body of Prince George’s County may also pledge hotel rental
-11 tax revenues to the special fund.
+13 (iv) The Maryland–National Capital Park and Planning Commission
+14 may not be an obligor for any bonds issued by Prince George’s County for an extraordinary
+15 development district.
 
-12 Article – Land Use
+16 (b) The governing body of Prince George’s County may also pledge hotel rental
+17 tax revenues to the special fund.
 
-13 18–310.
+18 Article – Land Use
 
-14 The Commission may not enter into an agreement with Prince George’s County to
-15 pay AND PLEDGE AS SECURITY all or a portion of the property taxes levied by the county
-16 under §§ 18–304, 18–306, and 18–307 of this subtitle on the tax increment in an
-17 extraordinary development district in the county to the county for deposit into a special
-18 fund for an extraordinary development district under § 12–210 of the Economic
-19 Development Article until:
+19 18–310.
 
-20 (1) the governing body of Prince George’s County has adopted a resolution
-21 designating the extraordinary development district; and
+20 The Commission may not enter into an agreement with Prince George’s County to
+21 pay AND PLEDGE AS SECURITY all or a portion of the property taxes levied by the county
+22 under §§ 18–304, 18–306, and 18–307 of this subtitle on the tax increment in an
+23 extraordinary development district in the county to the county for deposit into a special
+24 fund for an extraordinary development district under § 12–210 of the Economic
+25 Development Article until:
 
-22 (2) the Commission has adopted a resolution approving the agreement.
+26 (1) the governing body of Prince George’s County has adopted a resolution
+27 designating the extraordinary development district; and
 
-23 SECTION 3. AND BE IT FURTHER ENACTED, That this Act is an emergency measure, is necessary for the immediate preservation of the public health or safety, has been passed by a yea and nay vote supported by three-fifths of all the members elected to each of the two Houses of the General Assembly, and shall take effect from the date it is enacted.
+28 (2) the Commission has adopted a resolution approving the agreement.
+
+29 SECTION 3. AND BE IT FURTHER ENACTED, That this Act ~~shall~~ ~~take~~ ~~effect~~ ~~June~~
+30 ~~1,~~ ~~2026~~ is an emergency measure, is necessary for the immediate preservation of the public
+31 health or safety, has been passed by a yea and nay vote supported by three–fifths of all the
+32 members elected to each of the two Houses of the General Assembly, and shall take effect
+33 from the date it is enacted.
 END OF PAGE 6
+</bill>

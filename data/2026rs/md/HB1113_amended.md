@@ -9,15 +9,20 @@ By: Delegates Lewis, Boyce, and Healey
 Introduced and read first time: February 11, 2026
 Assigned to: Environment and Transportation
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 4, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Vehicle Laws – Bus Obstruction Monitoring Systems and Bus Stop Zones
 
-3 For the purpose of replacing references to a bus lane monitoring system with references
+3 FOR the purpose of replacing references to a bus lane monitoring system with references
 4 to a bus obstruction monitoring system; prohibiting a person from stopping,
-5 standing, or parking a vehicle in a bus stop zone; and generally relating to bus lane and bus stop zone
+5 standing, or parking a vehicle in a bus stop zone ~~if~~ ~~a~~ ~~transit~~ ~~vehicle~~ ~~is~~ ~~present,~~ ~~subject~~
+6 ~~to~~ ~~certain~~ ~~exceptions;~~ and generally relating to bus lane and bus stop zone
 7 enforcement.
 
 8 BY repealing and reenacting, with amendments,
@@ -32,119 +37,118 @@ A BILL ENTITLED
 16 Annotated Code of Maryland
 17 (2019 Replacement Volume and 2025 Supplement)
 
-BY repealing and reenacting, without amendments,
-Article – Transportation
-Section 7–101(a) and (n), 21–1003(a), and 21–1133
-Annotated Code of Maryland
-(2020 Replacement Volume and 2025 Supplement)
-
-18 BY repealing and reenacting, with amendments,
+18 BY repealing and reenacting, without amendments,
 19 Article – Transportation
-20 Section 12–113.1(b)(7) and 21–1134
+20 Section 7–101(a) and (n), 21–1003(a), and 21–1133
 21 Annotated Code of Maryland
 22 (2020 Replacement Volume and 2025 Supplement)
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1113*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1113*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1113
 
-1 BY adding to
+1 BY repealing and reenacting, with amendments,
 2 Article – Transportation
-3 Section 21–1003(gg)
+3 Section 12–113.1(b)(7) and 21–1134
 4 Annotated Code of Maryland
 5 (2020 Replacement Volume and 2025 Supplement)
 
-6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-7 That the Laws of Maryland read as follows:
+6 ~~BY~~ ~~repealing~~ ~~and~~ ~~reenacting,~~ ~~without~~ ~~amendments,~~
+7 ~~Article~~ ~~–~~ ~~Transportation~~
+8 ~~Section~~ ~~21–1003(a)~~ ~~and~~ ~~21–1133~~
+9 ~~Annotated~~ ~~Code~~ ~~of~~ ~~Maryland~~
+10 ~~(2020~~ ~~Replacement~~ ~~Volume~~ ~~and~~ ~~2025~~ ~~Supplement)~~
 
-8 Article – Courts and Judicial Proceedings
+11 BY adding to
+12 Article – Transportation
+13 Section 21–1003(gg)
+14 Annotated Code of Maryland
+15 (2020 Replacement Volume and 2025 Supplement)
 
-9 7–302.
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
 
-10 (e) (2) (i) A citation issued as the result of any of the following systems or
-11 cameras controlled by a political subdivision shall provide that, in an uncontested case, the
-12 penalty shall be paid directly to that political subdivision:
+18 Article – Courts and Judicial Proceedings
 
-13 1. A vehicle height monitoring system;
+19 7–302.
 
-14 2. A traffic control signal monitoring system;
+20 (e) (2) (i) A citation issued as the result of any of the following systems or
+21 cameras controlled by a political subdivision shall provide that, in an uncontested case, the
+22 penalty shall be paid directly to that political subdivision:
 
-15 3. A speed monitoring system;
+23 1. A vehicle height monitoring system;
 
-16 4. A work zone speed control system;
+24 2. A traffic control signal monitoring system;
 
-17 5. A stop sign monitoring system;
+25 3. A speed monitoring system;
 
-18 6. A school bus monitoring camera;
+26 4. A work zone speed control system;
 
-19 7. A bus [lane] OBSTRUCTION monitoring system; or
+27 5. A stop sign monitoring system;
 
-20 8. A noise abatement monitoring system.
+28 6. A school bus monitoring camera;
 
-21 (ii) A citation issued as the result of any of the following systems or
-22 cameras controlled by a political subdivision shall provide that, in a contested case, the
-23 penalty shall be paid directly to the District Court:
+29 7. A bus [lane] OBSTRUCTION monitoring system; or
 
-24 1. A vehicle height monitoring system;
-
-25 2. A traffic control signal monitoring system;
-
-26 3. A speed monitoring system;
-
-27 4. A work zone speed control system;
-
-28 5. A stop sign monitoring system;
+30 8. A noise abatement monitoring system.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1113 3
 
-1 6. A school bus monitoring camera;
+1 (ii) A citation issued as the result of any of the following systems or
+2 cameras controlled by a political subdivision shall provide that, in a contested case, the
+3 penalty shall be paid directly to the District Court:
 
-2 7. A bus [lane] OBSTRUCTION monitoring system; or
+4 1. A vehicle height monitoring system;
 
-3 8. A noise abatement monitoring system.
+5 2. A traffic control signal monitoring system;
 
-4 (iii) A citation issued as the result of any of the following systems or
-5 cameras controlled by a State agency shall provide that, in an uncontested or contested
-6 case, the penalty shall be paid directly to the District Court:
+6 3. A speed monitoring system;
 
-7 1. A traffic control signal monitoring system;
+7 4. A work zone speed control system;
 
-8 2. A work zone speed control system;
+8 5. A stop sign monitoring system;
 
-9 3. A speed monitoring system; or
+9 6. A school bus monitoring camera;
 
-10 4. A bus [lane] OBSTRUCTION monitoring system.
+10 7. A bus [lane] OBSTRUCTION monitoring system; or
 
-11 10–311.
+11 8. A noise abatement monitoring system.
 
-12 (e) A recorded image of a motor vehicle produced by a bus [lane] OBSTRUCTION
-13 monitoring system in accordance with § 21–1134 of the Transportation Article is admissible
-14 in a proceeding concerning a civil citation issued under that section for a violation of §
-15 21–1003(GG) OR § 21–1133 of the Transportation Article without authentication.
+12 (iii) A citation issued as the result of any of the following systems or
+13 cameras controlled by a State agency shall provide that, in an uncontested or contested
+14 case, the penalty shall be paid directly to the District Court:
 
-16 (h) In any other judicial proceeding, a recorded image produced by a vehicle
-17 height monitoring system, traffic control signal monitoring system, speed monitoring
-18 system, work zone speed control system, stop sign monitoring system, school bus
-19 monitoring camera, or bus [lane] OBSTRUCTION monitoring system or a recorded image
-20 and any relevant recorded audio produced by a noise abatement monitoring system in
-21 conjunction with a noise measuring device is admissible as otherwise provided by law.
+15 1. A traffic control signal monitoring system;
 
-22 Article – General Provisions
+16 2. A work zone speed control system;
 
-23 4–321.
+17 3. A speed monitoring system; or
 
-24 (b) Except as provided in subsection (c) of this section, a custodian shall deny
-25 inspection of recorded images produced by:
+18 4. A bus [lane] OBSTRUCTION monitoring system.
 
-26 (7) a bus [lane] OBSTRUCTION monitoring system operated under §
-27 21–1134 of the Transportation Article;
+19 10–311.
 
-28 Article – Transportation
+20 (e) A recorded image of a motor vehicle produced by a bus [lane] OBSTRUCTION
+21 monitoring system in accordance with § 21–1134 of the Transportation Article is admissible
+22 in a proceeding concerning a civil citation issued under that section for a violation of §
+23 21–1003(GG) OR § 21–1133 of the Transportation Article without authentication.
+
+24 (h) In any other judicial proceeding, a recorded image produced by a vehicle
+25 height monitoring system, traffic control signal monitoring system, speed monitoring
+26 system, work zone speed control system, stop sign monitoring system, school bus
+27 monitoring camera, or bus [lane] OBSTRUCTION monitoring system or a recorded image
+28 and any relevant recorded audio produced by a noise abatement monitoring system in
+29 conjunction with a noise measuring device is admissible as otherwise provided by law.
+
+ARTICLE – TRANSPORTATION
 
 7–101.
 
@@ -157,450 +161,493 @@ contiguous subway, light rail, bus rapid transit, or bus transit stations.
 contiguous bus transit stations that have fixed–route bus service that operates on a
 roadway dedicated to buses.
 
-29 12–113.1.
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 1113
 
-1 (b) This section applies to:
+1 Article – General Provisions
 
-2 (7) Bus [lane] OBSTRUCTION monitoring systems under § 21–1134 of this
-3 article;
+2 4–321.
 
-4 21–1003.
+3 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+4 inspection of recorded images produced by:
 
-5 (a) The provisions of this section apply except as necessary to avoid conflict with
-6 other traffic or in compliance with law or the directions of a police officer or traffic control
-7 device.
+5 (7) a bus [lane] OBSTRUCTION monitoring system operated under §
+6 21–1134 of the Transportation Article;
 
-8 (GG) (1) (I) IN THIS SUBSECTION, “BUS STOP ZONE” MEANS THE PORTION OF ROADWAY DESIGNATED OR USED FOR LOADING AND UNLOADING PASSENGERS FROM A BUS OR TRANSIT VEHICLE.
+7 Article – Transportation
 
-(II) “BUS STOP ZONE” INCLUDES:
+15 12–113.1.
 
-1. AN AREA FOR LOADING AND UNLOADING PASSENGERS FROM A BUS OR TRANSIT VEHICLE THAT IS DESIGNATED BY SIGNAGE OR PAVEMENT MARKINGS OR IDENTIFIED IN A TRANSIT AGENCY’S PUBLISHED SCHEDULE OR ROUTE MAP;
+16 (b) This section applies to:
 
-2. A BUS TRANSIT STATION; AND
+17 (7) Bus [lane] OBSTRUCTION monitoring systems under § 21–1134 of this
+18 article;
 
-3. A TRANSIT CORRIDOR, AS DEFINED IN § 7–101 OF THIS ARTICLE, USED IN CONJUNCTION WITH A DESIGNATED BUS STOP.
+19 21–1003.
 
-(2) A PERSON MAY NOT STOP, STAND, OR PARK A VEHICLE IN A BUS STOP
-9 ZONE.
+20 (a) The provisions of this section apply except as necessary to avoid conflict with
+21 other traffic or in compliance with law or the directions of a police officer or traffic control
+22 device.
 
-16 21–1133.
+23 (GG) (1) (I) IN THIS SUBSECTION, “BUS STOP ZONE” MEANS THE
+24 PORTION OF ROADWAY DESIGNATED OR USED FOR LOADING AND UNLOADING
+25 PASSENGERS FROM A BUS OR TRANSIT VEHICLE.
 
-17 (a) Except as provided in subsection (b) of this section, a person may not drive,
-18 stand, or park a vehicle in a dedicated bus lane unless authorized by the local jurisdiction
-19 in which the dedicated bus lane is located.
+26 (II) “BUS STOP ZONE” INCLUDES:
 
-20 (b) The following vehicles may be driven, allowed to stand, or, as appropriate,
-21 parked in a dedicated bus lane:
-
-22 (1) A transit vehicle owned, operated, or contracted for by the Maryland
-23 Transit Administration, the Washington Metropolitan Area Transit Authority, or a local
-24 department of transportation;
-
-25 (2) A school bus;
-
-26 (3) A bicycle;
-
-27 (4) An emergency vehicle; and
-
-28 (5) A vehicle making a right turn at the next immediate intersection.
-
-29 21–1134.
+27 1. AN AREA FOR LOADING AND UNLOADING
+28 PASSENGERS FROM A BUS OR TRANSIT VEHICLE THAT IS DESIGNATED BY SIGNAGE
+29 OR PAVEMENT MARKINGS OR IDENTIFIED IN A TRANSIT AGENCY’S PUBLISHED
+30 SCHEDULE OR ROUTE MAP;
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 1113 5
 
-1 (a) (1) In this section the following words have the meanings indicated.
+1 2. A BUS TRANSIT STATION; AND
 
-2 (2) “Agency” means:
+2 3. A TRANSIT CORRIDOR, AS DEFINED IN § 7–101 OF
+3 THIS ARTICLE, USED IN CONJUNCTION WITH A DESIGNATED BUS STOP.
 
-3 (i) A law enforcement agency of the State or a local political
-4 subdivision that is authorized to issue a citation for a violation of the Maryland Vehicle
-5 Law or of local traffic laws or regulations;
+4 (2) A PERSON MAY NOT STOP, STAND, OR PARK A VEHICLE IN A BUS
+5 STOP ZONE ~~IF A TRANSIT VEHICLE IS PRESENT IN THE BUS STOP ZONE UNLESS THE
+6 PERSON:~~
 
-6 (ii) For a municipal corporation that does not maintain a police force,
-7 an agency established or designated by the municipal corporation to use bus [lane]
-8 OBSTRUCTION monitoring systems in accordance with this section; or
+7 ~~(1) IS AUTHORIZED BY THE LOCAL JURISDICTION IN WHICH THE BUS
+8 STOP ZONE IS LOCATED; OR~~
 
-9 (iii) A local, regional, or statewide transit agency or authority,
-10 including the Maryland Transit Administration and the Washington Metropolitan Area
-11 Transit Authority.
+9 ~~(2) (I) IS ACTIVELY ENGAGED IN THE LOADING OR UNLOADING OF
+10 PASSENGERS; AND~~
 
-12 (3) “Bus [lane] OBSTRUCTION monitoring system” means an enforcement
-13 system, including an onboard or fixed monitoring system, that is designed to capture a
-14 recorded image of a motor vehicle during the commission of a violation.
+11 ~~(II) HAS ACTIVATED THE VEHICLE’S HAZARD WARNING LIGHTS.~~
 
-15 (4) “Bus [lane] OBSTRUCTION monitoring system operator” means a
-16 representative of an agency or a contractor that operates a bus [lane] OBSTRUCTION
-17 monitoring system.
+12 21–1133.
 
-18 (5) (i) “Owner” means the registered owner of a motor vehicle or a
-19 lessee of a motor vehicle under a lease of 6 months or more.
+13 (a) Except as provided in subsection (b) of this section, a person may not drive,
+14 stand, or park a vehicle in a dedicated bus lane unless authorized by the local jurisdiction
+15 in which the dedicated bus lane is located.
 
-20 (ii) “Owner” does not include:
+16 (b) The following vehicles may be driven, allowed to stand, or, as appropriate,
+17 parked in a dedicated bus lane:
 
-21 1. A motor vehicle leasing company; or
+18 (1) A transit vehicle owned, operated, or contracted for by the Maryland
+19 Transit Administration, the Washington Metropolitan Area Transit Authority, or a local
+20 department of transportation;
 
-22 2. A holder of a special registration plate issued under Title
-23 13, Subtitle 9, Part III of this article.
+21 (2) A school bus;
 
-24 (6) “Recorded image” means an image recorded by a bus [lane]
-25 OBSTRUCTION monitoring system:
+22 (3) A bicycle;
 
-26 (i) On:
+23 (4) An emergency vehicle; and
 
-27 1. A photograph;
+24 (5) A vehicle making a right turn at the next immediate intersection.
 
-28 2. A microphotograph;
+25 21–1134.
 
-29 3. An electronic image;
+26 (a) (1) In this section the following words have the meanings indicated.
+
+27 (2) “Agency” means:
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 1113
 
-1 4. Videotape; or
+1 (i) A law enforcement agency of the State or a local political
+2 subdivision that is authorized to issue a citation for a violation of the Maryland Vehicle
+3 Law or of local traffic laws or regulations;
 
-2 5. Any other visual medium; and
+4 (ii) For a municipal corporation that does not maintain a police force,
+5 an agency established or designated by the municipal corporation to use bus [lane]
+6 OBSTRUCTION monitoring systems in accordance with this section; or
 
-3 (ii) Showing a motor vehicle and, on at least one image or portion of
-4 the recording, clearly identifying the registration plate number of the motor vehicle.
+7 (iii) A local, regional, or statewide transit agency or authority,
+8 including the Maryland Transit Administration and the Washington Metropolitan Area
+9 Transit Authority.
 
-5 (7) “Violation” means a violation of:
+10 (3) “Bus [lane] OBSTRUCTION monitoring system” means an enforcement
+11 system, including an onboard or fixed monitoring system, that is designed to capture a
+12 recorded image of a motor vehicle during the commission of a violation.
 
-6 (I) § 21–1003(GG) OF THIS TITLE; OR
+13 (4) “Bus [lane] OBSTRUCTION monitoring system operator” means a
+14 representative of an agency or a contractor that operates a bus [lane] OBSTRUCTION
+15 monitoring system.
 
-7 (II) § 21–1133 of this subtitle.
+16 (5) (i) “Owner” means the registered owner of a motor vehicle or a
+17 lessee of a motor vehicle under a lease of 6 months or more.
 
-8 (b) (1) An agency may use a bus [lane] OBSTRUCTION monitoring system that
-9 meets the requirements of this subsection to record the images of motor vehicles during the
-10 commission of a violation.
+18 (ii) “Owner” does not include:
 
-11 (2) A bus [lane] OBSTRUCTION monitoring system may be used only:
+19 1. A motor vehicle leasing company; or
 
-12 (i) When being operated by a bus [lane] OBSTRUCTION monitoring
-13 system operator;
+20 2. A holder of a special registration plate issued under Title
+21 13, Subtitle 9, Part III of this article.
 
-14 (ii) If, in accordance with the Maryland Manual on Uniform Traffic
-15 Control Devices:
+22 (6) “Recorded image” means an image recorded by a bus [lane]
+23 OBSTRUCTION monitoring system:
 
-16 1. A conspicuous road sign is placed at a reasonable distance
-17 consistent with national guidelines alerting drivers that a bus [lane] OBSTRUCTION
-18 monitoring system may be in operation in the bus lane; or
+24 (i) On:
 
-19 2. A conspicuous sign is affixed to the transit vehicle alerting
-20 drivers that the vehicle is equipped with a bus [lane] OBSTRUCTION monitoring system;
-21 and
+25 1. A photograph;
 
-22 (iii) If the BUS OBSTRUCTION MONITORING system produces video
-23 for each alleged violation that allows for the differentiation between a vehicle that is
-24 driving, standing, or parked in a dedicated bus lane in violation of § 21–1003(GG) OF THIS
-25 TITLE OR § 21–1133 of this subtitle and a vehicle that is lawfully stopped or moving in
-26 order to execute a right turn at an intersection.
+26 2. A microphotograph;
 
-27 (3) (i) A bus [lane] OBSTRUCTION monitoring system may retain only
-28 the images of vehicles that contain evidence of a violation.
+27 3. An electronic image;
 
-29 (ii) Recorded images from a bus [lane] OBSTRUCTION monitoring
-30 system:
+28 4. Videotape; or
+
+29 5. Any other visual medium; and
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 1113 7
 
-1 1. That contain evidence of a violation may be retained for
-2 up to 6 months or 60 days after final disposition of the citation, whichever is later;
+1 (ii) Showing a motor vehicle and, on at least one image or portion of
+2 the recording, clearly identifying the registration plate number of the motor vehicle.
 
-3 2. That do not contain evidence of a violation shall be
-4 destroyed within 15 days after the recorded images were first captured; and
+3 (7) “Violation” means a violation of:
 
-5 3. May not be used for any purpose other than as evidence of
-6 a violation without a warrant, subpoena, or court order.
+4 (I) § 21–1003(GG) OF THIS TITLE; OR
 
-7 (iii) A bus [lane] OBSTRUCTION monitoring system may not use
-8 biometric identification techniques, including facial recognition technology.
+5 (II) § 21–1133 of this subtitle.
 
-9 (c) (1) (i) A bus [lane] OBSTRUCTION monitoring system operator shall
-10 complete training by the manufacturer of the bus [lane] OBSTRUCTION monitoring system
-11 in the procedures for setting up, testing, and operating the bus [lane] OBSTRUCTION
-12 monitoring system.
+6 (b) (1) An agency may use a bus [lane] OBSTRUCTION monitoring system that
+7 meets the requirements of this subsection to record the images of motor vehicles during the
+8 commission of a violation.
 
-13 (ii) On completion of the training, the manufacturer shall issue a
-14 signed certificate to the bus [lane] OBSTRUCTION monitoring system operator.
+9 (2) A bus [lane] OBSTRUCTION monitoring system may be used only:
 
-15 (iii) The certificate of training shall be admitted as evidence in any
-16 court proceeding for a violation.
+10 (i) When being operated by a bus [lane] OBSTRUCTION monitoring
+11 system operator;
 
-17 (2) A bus [lane] OBSTRUCTION monitoring system operator shall fill out
-18 and sign a daily set–up log for each bus [lane] OBSTRUCTION monitoring system that:
+12 (ii) If, in accordance with the Maryland Manual on Uniform Traffic
+13 Control Devices:
 
-19 (i) States the date and time when the BUS OBSTRUCTION
-20 MONITORING system was set up;
+14 1. A conspicuous road sign is placed at a reasonable distance
+15 consistent with national guidelines alerting drivers that a bus [lane] OBSTRUCTION
+16 monitoring system may be in operation in the bus lane; or
 
-21 (ii) States that the bus [lane] OBSTRUCTION monitoring system
-22 operator successfully performed, and the device passed, the manufacturer–specified
-23 self–tests of the bus [lane] OBSTRUCTION monitoring system before producing a recorded
-24 image;
+17 2. A conspicuous sign is affixed to the transit vehicle alerting
+18 drivers that the vehicle is equipped with a bus [lane] OBSTRUCTION monitoring system;
+19 and
 
-25 (iii) Shall be kept on file; and
+20 (iii) If the BUS OBSTRUCTION MONITORING system produces video
+21 for each alleged violation that allows for the differentiation between a vehicle that is
+22 driving, standing, or parked in a dedicated bus lane in violation of § 21–1003(GG) OF THIS
+23 TITLE OR § 21–1133 of this subtitle and a vehicle that is lawfully stopped or moving in
+24 order to execute a right turn at an intersection.
 
-26 (iv) Shall be admitted as evidence in any court proceeding for a
-27 violation.
+25 (3) (i) A bus [lane] OBSTRUCTION monitoring system may retain only
+26 the images of vehicles that contain evidence of a violation.
 
-28 (d) (1) A bus [lane] OBSTRUCTION monitoring system shall undergo an
-29 annual calibration check performed by an independent calibration laboratory.
+27 (ii) Recorded images from a bus [lane] OBSTRUCTION monitoring
+28 system:
 
-30 (2) The independent calibration laboratory shall issue a signed certificate
-31 of calibration after the annual calibration check that:
+29 1. That contain evidence of a violation may be retained for
+30 up to 6 months or 60 days after final disposition of the citation, whichever is later;
 
-32 (i) Shall be kept on file; and
+31 2. That do not contain evidence of a violation shall be
+32 destroyed within 15 days after the recorded images were first captured; and
 END OF PAGE 7
 
 START OF PAGE 8
 8 HOUSE BILL 1113
 
-1 (ii) Shall be admitted as evidence in any court proceeding for a
-2 violation [of § 21–1133 of this subtitle].
+1 3. May not be used for any purpose other than as evidence of
+2 a violation without a warrant, subpoena, or court order.
 
-3 (e) (1) Unless the driver of the motor vehicle received a citation from a police
-4 officer at the time of the violation, the owner or, in accordance with subsection (h)(5) of this
-5 section, the driver of a motor vehicle is subject to a civil penalty if the motor vehicle is
-6 recorded by a bus [lane] OBSTRUCTION monitoring system during the commission of a
-7 violation.
+3 (iii) A bus [lane] OBSTRUCTION monitoring system may not use
+4 biometric identification techniques, including facial recognition technology.
 
-8 (2) A civil penalty under this section may not exceed $75.
+5 (c) (1) (i) A bus [lane] OBSTRUCTION monitoring system operator shall
+6 complete training by the manufacturer of the bus [lane] OBSTRUCTION monitoring system
+7 in the procedures for setting up, testing, and operating the bus [lane] OBSTRUCTION
+8 monitoring system.
 
-9 (3) For purposes of this section, the District Court shall prescribe:
+9 (ii) On completion of the training, the manufacturer shall issue a
+10 signed certificate to the bus [lane] OBSTRUCTION monitoring system operator.
 
-10 (i) A uniform citation form consistent with subsection (f)(1) of this
-11 section and § 7–302 of the Courts Article; and
+11 (iii) The certificate of training shall be admitted as evidence in any
+12 court proceeding for a violation.
 
-12 (ii) A civil penalty, which shall be indicated on the citation, to be paid
-13 by persons who choose to prepay the civil penalty without appearing in District Court.
+13 (2) A bus [lane] OBSTRUCTION monitoring system operator shall fill out
+14 and sign a daily set–up log for each bus [lane] OBSTRUCTION monitoring system that:
 
-14 (f) (1) Subject to the provisions of paragraphs (2) through (5) of this
-15 subsection, an agency or a contractor of the agency shall mail to the owner liable under
-16 subsection (e) of this section a citation that shall include:
+15 (i) States the date and time when the BUS OBSTRUCTION
+16 MONITORING system was set up;
 
-17 (i) The name and address of the registered owner of the vehicle;
+17 (ii) States that the bus [lane] OBSTRUCTION monitoring system
+18 operator successfully performed, and the device passed, the manufacturer–specified
+19 self–tests of the bus [lane] OBSTRUCTION monitoring system before producing a recorded
+20 image;
 
-18 (ii) The registration number of the motor vehicle involved in the
-19 violation;
+21 (iii) Shall be kept on file; and
 
-20 (iii) The violation charged;
+22 (iv) Shall be admitted as evidence in any court proceeding for a
+23 violation.
 
-21 (iv) To the extent possible, the location of the violation;
+24 (d) (1) A bus [lane] OBSTRUCTION monitoring system shall undergo an
+25 annual calibration check performed by an independent calibration laboratory.
 
-22 (v) The date and time of the violation;
+26 (2) The independent calibration laboratory shall issue a signed certificate
+27 of calibration after the annual calibration check that:
 
-23 (vi) A copy of the recorded image;
+28 (i) Shall be kept on file; and
 
-24 (vii) The amount of the civil penalty imposed and the date by which
-25 the civil penalty must be paid;
-
-26 (viii) A signed statement by a police officer employed by the local law
-27 enforcement agency that, based on inspection of the recorded images, the motor vehicle was
-28 being operated during the commission of a violation;
-
-29 (ix) A statement that the recorded image is evidence of a violation;
-30 and
+29 (ii) Shall be admitted as evidence in any court proceeding for a
+30 violation [of § 21–1133 of this subtitle].
 END OF PAGE 8
 
 START OF PAGE 9
 HOUSE BILL 1113 9
 
-1 (x) Information advising the person alleged to be liable under this
-2 section:
+1 (e) (1) Unless the driver of the motor vehicle received a citation from a police
+2 officer at the time of the violation, the owner or, in accordance with subsection (h)(5) of this
+3 section, the driver of a motor vehicle is subject to a civil penalty if the motor vehicle is
+4 recorded by a bus [lane] OBSTRUCTION monitoring system during the commission of a
+5 violation.
 
-3 1. Of the manner and time in which liability as alleged in the
-4 citation may be contested in the District Court; and
+6 (2) A civil penalty under this section may not exceed $75.
 
-5 2. That failure to pay the civil penalty or to contest liability
-6 in a timely manner is an admission of liability and may result in refusal or suspension of
-7 the motor vehicle registration.
+7 (3) For purposes of this section, the District Court shall prescribe:
 
-8 (2) (i) Subject to subparagraph (ii) of this paragraph, an agency may
-9 mail a warning notice in place of a citation to the owner liable under subsection (e) of this
-10 section.
+8 (i) A uniform citation form consistent with subsection (f)(1) of this
+9 section and § 7–302 of the Courts Article; and
 
-11 (ii) An agency shall mail a warning notice in place of a citation to an
-12 owner liable under subsection (e) of this section for a violation recorded by a bus [lane]
-13 OBSTRUCTION monitoring system during the first 45 days that the bus [lane]
-14 OBSTRUCTION monitoring system is in operation.
+10 (ii) A civil penalty, which shall be indicated on the citation, to be paid
+11 by persons who choose to prepay the civil penalty without appearing in District Court.
 
-15 (3) (i) Before mailing a citation to a motor vehicle rental company liable
-16 under subsection (e) of this section, an agency shall mail a notice to the motor vehicle rental
-17 company stating that a citation will be mailed to the motor vehicle rental company unless,
-18 within 45 days after receiving the notice, the motor vehicle rental company provides the
-19 agency with:
+12 (f) (1) Subject to the provisions of paragraphs (2) through (5) of this
+13 subsection, an agency or a contractor of the agency shall mail to the owner liable under
+14 subsection (e) of this section a citation that shall include:
 
-20 1. A statement made under oath that states the name and
-21 last known mailing address of the individual driving or renting the motor vehicle when the
-22 violation occurred;
+15 (i) The name and address of the registered owner of the vehicle;
 
-23 2. A. A statement made under oath that states that the
-24 motor vehicle rental company is unable to determine who was driving or renting the vehicle
-25 at the time the violation occurred because the motor vehicle was stolen at the time of the
-26 violation; and
+16 (ii) The registration number of the motor vehicle involved in the
+17 violation;
 
-27 B. A copy of the police report associated with the motor
-28 vehicle theft claimed under item A of this item; or
+18 (iii) The violation charged;
 
-29 3. Payment for the penalty associated with the violation.
+19 (iv) To the extent possible, the location of the violation;
 
-30 (ii) An agency may not mail a citation to a motor vehicle rental
-31 company liable under subsection (e) of this section if the motor vehicle rental company
-32 complies with subparagraph (i) of this paragraph.
+20 (v) The date and time of the violation;
 
-33 (4) Except as provided in paragraph (3) of this subsection and subsection
-34 (h)(5) of this section, a citation issued under this section shall be mailed not later than 2
-35 weeks after the alleged violation.
+21 (vi) A copy of the recorded image;
+
+22 (vii) The amount of the civil penalty imposed and the date by which
+23 the civil penalty must be paid;
+
+24 (viii) A signed statement by a police officer employed by the local law
+25 enforcement agency that, based on inspection of the recorded images, the motor vehicle was
+26 being operated during the commission of a violation;
+
+27 (ix) A statement that the recorded image is evidence of a violation;
+28 and
+
+29 (x) Information advising the person alleged to be liable under this
+30 section:
 END OF PAGE 9
 
 START OF PAGE 10
 10 HOUSE BILL 1113
 
-1 (5) A person who receives a citation under paragraph (1) of this subsection
-2 may:
+1 1. Of the manner and time in which liability as alleged in the
+2 citation may be contested in the District Court; and
 
-3 (i) Pay the civil penalty, in accordance with instructions on the
-4 citation, directly to the local jurisdiction; or
+3 2. That failure to pay the civil penalty or to contest liability
+4 in a timely manner is an admission of liability and may result in refusal or suspension of
+5 the motor vehicle registration.
 
-5 (ii) Elect to stand trial in the District Court for the alleged violation.
+6 (2) (i) Subject to subparagraph (ii) of this paragraph, an agency may
+7 mail a warning notice in place of a citation to the owner liable under subsection (e) of this
+8 section.
 
-6 (6) To mail the citation or warning notice, the Baltimore City Police
-7 Department or a contractor of the police department shall use:
+9 (ii) An agency shall mail a warning notice in place of a citation to an
+10 owner liable under subsection (e) of this section for a violation recorded by a bus [lane]
+11 OBSTRUCTION monitoring system during the first 45 days that the bus [lane]
+12 OBSTRUCTION monitoring system is in operation.
 
-8 (i) The current mailing address on file with the Administration; or
+13 (3) (i) Before mailing a citation to a motor vehicle rental company liable
+14 under subsection (e) of this section, an agency shall mail a notice to the motor vehicle rental
+15 company stating that a citation will be mailed to the motor vehicle rental company unless,
+16 within 45 days after receiving the notice, the motor vehicle rental company provides the
+17 agency with:
 
-9 (ii) If a mailing address is unavailable, the current residential
-10 address on file with the Administration.
+18 1. A statement made under oath that states the name and
+19 last known mailing address of the individual driving or renting the motor vehicle when the
+20 violation occurred;
 
-11 (g) (1) (i) A certificate alleging that a violation occurred, sworn to or
-12 affirmed by a duly authorized law enforcement officer employed or under contract with an
-13 agency, based on inspection of a recorded image produced by a bus [lane] OBSTRUCTION
-14 monitoring system, shall be evidence of the facts contained in the certificate and shall be
-15 admissible in any proceeding concerning the alleged violation without the presence or
-16 testimony of the bus [lane] OBSTRUCTION monitoring system operator who performed the
-17 requirements under subsection (c) of this section.
+21 2. A. A statement made under oath that states that the
+22 motor vehicle rental company is unable to determine who was driving or renting the vehicle
+23 at the time the violation occurred because the motor vehicle was stolen at the time of the
+24 violation; and
 
-18 (ii) If a person who received a citation under this section desires a
-19 bus [lane] OBSTRUCTION monitoring system operator to be present and testify at trial,
-20 the person shall notify the court and the agency in writing not later than 20 days before
-21 trial.
+25 B. A copy of the police report associated with the motor
+26 vehicle theft claimed under item A of this item; or
 
-22 (iii) 1. On request of a person who received a citation under this
-23 section, video of the alleged violation shall be made available to the person.
+27 3. Payment for the penalty associated with the violation.
 
-24 2. Video evidence made available under subsubparagraph 1
-25 of this subparagraph shall be admitted as evidence in any court proceeding for a violation
-26 [of § 21–1133 of this subtitle].
+28 (ii) An agency may not mail a citation to a motor vehicle rental
+29 company liable under subsection (e) of this section if the motor vehicle rental company
+30 complies with subparagraph (i) of this paragraph.
 
-27 (2) Adjudication of liability shall be based on a preponderance of evidence.
+31 (4) Except as provided in paragraph (3) of this subsection and subsection
+32 (h)(5) of this section, a citation issued under this section shall be mailed not later than 2
+33 weeks after the alleged violation.
 
-28 (h) (1) The District Court may consider in defense of an alleged violation:
-
-29 (i) Subject to paragraph (2) of this subsection, that the motor vehicle
-30 or registration plates of the motor vehicle were stolen before the violation occurred and
-31 were not under the control or in the possession of the owner at the time of the violation;
-
-32 (ii) Subject to paragraph (3) of this subsection, evidence that the
-33 person named in the citation was not operating the vehicle at the time of the violation; and
+34 (5) A person who receives a citation under paragraph (1) of this subsection
+35 may:
 END OF PAGE 10
 
 START OF PAGE 11
 HOUSE BILL 1113 11
 
-1 (iii) Any other issues and evidence that the District Court deems
-2 relevant.
+1 (i) Pay the civil penalty, in accordance with instructions on the
+2 citation, directly to the local jurisdiction; or
 
-3 (2) To demonstrate that the motor vehicle or the registration plates were
-4 stolen before the violation occurred and were not under the control or in the possession of
-5 the owner at the time of the violation, the owner shall submit proof that a police report
-6 about the stolen motor vehicle or registration plates was filed in a timely manner.
+3 (ii) Elect to stand trial in the District Court for the alleged violation.
 
-7 (3) To satisfy the evidentiary burden under paragraph (1)(ii) of this
-8 subsection, the person named in the citation shall provide to the District Court evidence to
-9 the satisfaction of the District Court of who was operating the vehicle at the time of the
-10 violation, including, at a minimum, the operator’s name and current address.
+4 (6) To mail the citation or warning notice, the Baltimore City Police
+5 Department or a contractor of the police department shall use:
 
-11 (4) (i) This paragraph applies only to a citation that involves a Class E
-12 (truck) vehicle with a registered gross weight of 26,001 pounds or more, a Class F (tractor)
-13 vehicle, a Class G (trailer) vehicle operated in combination with a Class F (tractor) vehicle,
-14 and a Class P (passenger bus) vehicle.
+6 (i) The current mailing address on file with the Administration; or
 
-15 (ii) To satisfy the evidentiary burden under paragraph (1)(ii) of this
-16 subsection, the person named in a citation described under subparagraph (i) of this
-17 paragraph may provide to the District Court a letter, sworn to or affirmed by the person
-18 and mailed by certified mail, return receipt requested, that:
+7 (ii) If a mailing address is unavailable, the current residential
+8 address on file with the Administration.
 
-19 1. States that the person named in the citation was not
-20 operating the vehicle at the time of the violation; and
+9 (g) (1) (i) A certificate alleging that a violation occurred, sworn to or
+10 affirmed by a duly authorized law enforcement officer employed or under contract with an
+11 agency, based on inspection of a recorded image produced by a bus [lane] OBSTRUCTION
+12 monitoring system, shall be evidence of the facts contained in the certificate and shall be
+13 admissible in any proceeding concerning the alleged violation without the presence or
+14 testimony of the bus [lane] OBSTRUCTION monitoring system operator who performed the
+15 requirements under subsection (c) of this section.
 
-21 2. Provides the name, address, and driver’s license
-22 identification number of the person who was operating the vehicle at the time of the
-23 violation.
+16 (ii) If a person who received a citation under this section desires a
+17 bus [lane] OBSTRUCTION monitoring system operator to be present and testify at trial,
+18 the person shall notify the court and the agency in writing not later than 20 days before
+19 trial.
 
-24 (5) (i) If the District Court finds that the person named in the citation
-25 was not operating the vehicle at the time of the violation or receives evidence under
-26 paragraph (4)(ii)2 of this subsection identifying the person driving the vehicle at the time
-27 of the violation, the clerk of the court shall provide to the agency a copy of any evidence
-28 substantiating who was operating the vehicle at the time of the violation.
+20 (iii) 1. On request of a person who received a citation under this
+21 section, video of the alleged violation shall be made available to the person.
 
-29 (ii) On the receipt of substantiating evidence from the District Court
-30 under subparagraph (i) of this paragraph, an agency may issue a new citation as provided
-31 in subsection (f) of this section to the person that the evidence indicates was operating the
-32 vehicle at the time of the violation.
+22 2. Video evidence made available under subsubparagraph 1
+23 of this subparagraph shall be admitted as evidence in any court proceeding for a violation
+24 [of § 21–1133 of this subtitle].
 
-33 (iii) A citation issued under subparagraph (ii) of this paragraph shall
-34 be mailed not later than 2 weeks after receipt of the evidence from the District Court.
+25 (2) Adjudication of liability shall be based on a preponderance of evidence.
 
-35 (i) If the civil penalty is not paid and the violation is not contested, the
-36 Administration may refuse to register or reregister the motor vehicle.
+26 (h) (1) The District Court may consider in defense of an alleged violation:
+
+27 (i) Subject to paragraph (2) of this subsection, that the motor vehicle
+28 or registration plates of the motor vehicle were stolen before the violation occurred and
+29 were not under the control or in the possession of the owner at the time of the violation;
+
+30 (ii) Subject to paragraph (3) of this subsection, evidence that the
+31 person named in the citation was not operating the vehicle at the time of the violation; and
+
+32 (iii) Any other issues and evidence that the District Court deems
+33 relevant.
 END OF PAGE 11
 
 START OF PAGE 12
 12 HOUSE BILL 1113
 
-1 (j) A violation for which a civil penalty is imposed under this section:
+1 (2) To demonstrate that the motor vehicle or the registration plates were
+2 stolen before the violation occurred and were not under the control or in the possession of
+3 the owner at the time of the violation, the owner shall submit proof that a police report
+4 about the stolen motor vehicle or registration plates was filed in a timely manner.
 
-2 (1) Is not a moving violation for the purpose of assessing points under §
-3 16–402 of this article and may not be recorded by the Administration on the driving record
-4 of the owner or driver of the vehicle;
+5 (3) To satisfy the evidentiary burden under paragraph (1)(ii) of this
+6 subsection, the person named in the citation shall provide to the District Court evidence to
+7 the satisfaction of the District Court of who was operating the vehicle at the time of the
+8 violation, including, at a minimum, the operator’s name and current address.
 
-5 (2) May be treated as a parking violation for purposes of § 26–305 of this
-6 article; and
+9 (4) (i) This paragraph applies only to a citation that involves a Class E
+10 (truck) vehicle with a registered gross weight of 26,001 pounds or more, a Class F (tractor)
+11 vehicle, a Class G (trailer) vehicle operated in combination with a Class F (tractor) vehicle,
+12 and a Class P (passenger bus) vehicle.
 
-7 (3) May not be considered in the provision of motor vehicle insurance
-8 coverage.
+13 (ii) To satisfy the evidentiary burden under paragraph (1)(ii) of this
+14 subsection, the person named in a citation described under subparagraph (i) of this
+15 paragraph may provide to the District Court a letter, sworn to or affirmed by the person
+16 and mailed by certified mail, return receipt requested, that:
 
-9 (k) (1) In consultation with the appropriate local government agencies, the
-10 Chief Judge of the District Court shall adopt procedures for the issuance of citations, trials
-11 for violations, and the collection of civil penalties imposed under this section.
+17 1. States that the person named in the citation was not
+18 operating the vehicle at the time of the violation; and
 
-12 (2) The standards and requirements for the use, processing, and disposal
-13 of recorded images and associated data established under § 12–113.1 of this article apply
-14 to citations issued under this section.
+19 2. Provides the name, address, and driver’s license
+20 identification number of the person who was operating the vehicle at the time of the
+21 violation.
 
-15 (l) (1) An agency or a contractor designated by the agency shall administer
-16 and process civil citations issued under this section in coordination with the District Court.
+22 (5) (i) If the District Court finds that the person named in the citation
+23 was not operating the vehicle at the time of the violation or receives evidence under
+24 paragraph (4)(ii)2 of this subsection identifying the person driving the vehicle at the time
+25 of the violation, the clerk of the court shall provide to the agency a copy of any evidence
+26 substantiating who was operating the vehicle at the time of the violation.
 
-17 (2) If a contractor provides, deploys, or operates a bus [lane]
-18 OBSTRUCTION monitoring system for an agency, the contractor’s fee may not be contingent
-19 on the number of citations issued or paid.
+27 (ii) On the receipt of substantiating evidence from the District Court
+28 under subparagraph (i) of this paragraph, an agency may issue a new citation as provided
+29 in subsection (f) of this section to the person that the evidence indicates was operating the
+30 vehicle at the time of the violation.
 
-20 SECTION 2. AND BE IT FURTHER ENACTED, That the publisher of the
-21 Annotated Code of Maryland, in consultation with and subject to the approval of the
-22 Department of Legislative Services, shall correct, with no further action required by the
-23 General Assembly, cross–references and terminology rendered incorrect by this Act. The
-24 publisher shall adequately describe any correction that is made in an editor’s note following
-25 the section affected.
+31 (iii) A citation issued under subparagraph (ii) of this paragraph shall
+32 be mailed not later than 2 weeks after receipt of the evidence from the District Court.
 
-26 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
-27 October 1, 2026.
+33 (i) If the civil penalty is not paid and the violation is not contested, the
+34 Administration may refuse to register or reregister the motor vehicle.
+
+35 (j) A violation for which a civil penalty is imposed under this section:
 END OF PAGE 12
+
+START OF PAGE 13
+HOUSE BILL 1113 13
+
+1 (1) Is not a moving violation for the purpose of assessing points under §
+2 16–402 of this article and may not be recorded by the Administration on the driving record
+3 of the owner or driver of the vehicle;
+
+4 (2) May be treated as a parking violation for purposes of § 26–305 of this
+5 article; and
+
+6 (3) May not be considered in the provision of motor vehicle insurance
+7 coverage.
+
+8 (k) (1) In consultation with the appropriate local government agencies, the
+9 Chief Judge of the District Court shall adopt procedures for the issuance of citations, trials
+10 for violations, and the collection of civil penalties imposed under this section.
+
+11 (2) The standards and requirements for the use, processing, and disposal
+12 of recorded images and associated data established under § 12–113.1 of this article apply
+13 to citations issued under this section.
+
+14 (l) (1) An agency or a contractor designated by the agency shall administer
+15 and process civil citations issued under this section in coordination with the District Court.
+
+16 (2) If a contractor provides, deploys, or operates a bus [lane]
+17 OBSTRUCTION monitoring system for an agency, the contractor’s fee may not be contingent
+18 on the number of citations issued or paid.
+
+19 SECTION 2. AND BE IT FURTHER ENACTED, That the publisher of the
+20 Annotated Code of Maryland, in consultation with and subject to the approval of the
+21 Department of Legislative Services, shall correct, with no further action required by the
+22 General Assembly, cross–references and terminology rendered incorrect by this Act. The
+23 publisher shall adequately describe any correction that is made in an editor’s note following
+24 the section affected.
+
+25 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+26 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 13
 </bill>

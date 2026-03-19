@@ -10,7 +10,11 @@ Requested: October 28, 2025
 Introduced and read first time: January 14, 2026
 Assigned to: Ways and Means
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2026
+
+CHAPTER ____
 
 1 AN ACT concerning
 
@@ -39,139 +43,153 @@ A BILL ENTITLED
 20 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
 21 That the Laws of Maryland read as follows:
 
-22 Article – Education
-
-23 3–2B–03.
-
-24 (a) (1) There is a Baltimore County School Board Nominating Commission.
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0096*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0096*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 96
 
-1 (b) (1) The Commission consists of [19] 21 members who shall be appointed in
-2 accordance with this subsection.
+1 Article – Education
 
-3 (2) The Commission shall reflect the rich cultural, geographic, ethnic, and
-4 racial diversity of Baltimore County.
+2 3–2B–03.
 
-5 (3) The Governor, in consultation with the County Executive of Baltimore
-6 County, shall appoint eight members, one from each legislative district that lies in whole
-7 or in part in Baltimore County.
+3 (a) (1) There is a Baltimore County School Board Nominating Commission.
 
-8 (4) The County Executive of Baltimore County shall appoint one member
-9 from the county at large.
+4 (b) (1) The Commission consists of [19] 21 members who shall be appointed in
+5 accordance with this subsection.
 
-10 (5) The following organizations each shall appoint one member:
+6 (2) The Commission shall reflect the rich cultural, geographic, ethnic, and
+7 racial diversity of Baltimore County.
 
-11 (i) The Teachers Association of Baltimore County;
+8 (3) The Governor, in consultation with the County Executive of Baltimore
+9 County, shall appoint eight members, one from each legislative district that lies in whole
+10 or in part in Baltimore County.
 
-12 (ii) The GREATER Baltimore Chamber of Commerce;
+11 (4) The County Executive of Baltimore County shall appoint one member
+12 from the county at large.
 
-13 (iii) The PTA Council of Baltimore County, Inc.;
+13 (5) The following organizations each shall appoint one member:
 
-14 (iv) Towson University;
+14 (i) The Teachers Association of Baltimore County;
 
-15 (v) The League of Women Voters of Baltimore County;
+15 (ii) The GREATER Baltimore Chamber of Commerce;
 
-16 (vi) The Baltimore County Branch of the National Association for the
-17 Advancement of Colored People;
+16 (iii) The PTA Council of Baltimore County, Inc.;
 
-18 (vii) The Baltimore County Public Schools’ Special Education
-19 Citizens’ Advisory Committee;
+17 (iv) Towson University;
 
-20 (viii) The Baltimore County Student Councils;
+18 (v) The League of Women Voters of Baltimore County;
 
-21 (ix) The Council of Administrative and Supervisory Employees;
-22 [and]
+19 (vi) The Baltimore County Branch of the National Association for the
+20 Advancement of Colored People;
 
-23 (x) The Education Support Personnel of Baltimore County;
+21 (vii) The Baltimore County Public Schools’ Special Education
+22 Citizens’ Advisory Committee;
 
-24 (XI) THE AMERICAN FEDERATION OF STATE, COUNTY AND
-25 MUNICIPAL EMPLOYEES LOCAL 3, COUNCIL 434; AND
+23 (viii) The Baltimore County Student Councils;
 
-26 (XII) THE CITIZENS ADVISORY COUNCIL FOR GIFTED AND
-27 TALENTED EDUCATION.
+24 (ix) The Council of Administrative and Supervisory Employees;
+25 [and]
+
+26 (x) The Education Support Personnel of Baltimore County;
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 96 3
 
-1 SECTION 2. AND BE IT FURTHER ENACTED, That the term of the initial member
-2 of the Greater Baltimore Chamber of Commerce under § 8–2B–03 of the Education
-3 Article, as enacted by Section 1 of this Act, shall serve the remainder of the term of the
-4 member of the Baltimore County Chamber of Commerce, subject to Section 3 of this Act.
+1 (XI) THE AMERICAN FEDERATION OF STATE, AND
+2 MUNICIPAL EMPLOYEES LOCAL 3, COUNCIL 434; AND
 
-5 SECTION 3. AND BE IT FURTHER ENACTED, That:
+3 (XII) THE CITIZENS ADVISORY COUNCIL FOR GIFTED AND
+4 TALENTED EDUCATION.
 
-6 (a) The terms of the following members of the Baltimore County School Board
-7 Nominating Commission shall terminate at the end of September 30, 2028:
+5 SECTION 2. AND BE IT FURTHER ENACTED, That the term of the initial member
+6 of the Greater Baltimore Chamber of Commerce under § 8–2B–03 of the Education
+7 Article, as enacted by Section 1 of this Act, shall serve the remainder of the term of the
+8 member of the Baltimore County Chamber of Commerce, subject to Section 3 of this Act.
 
-8 (1) each member appointed by:
+9 SECTION 3. AND BE IT FURTHER ENACTED, That:
 
-9 (i) the Baltimore County Branch of the National Association for the
-10 Advancement of Colored People;
+10 (a) The terms of the following members of the Baltimore County School Board
+11 Nominating Commission shall terminate at the end of September 30, 2028:
 
-11 (ii) the Education Support Personnel of Baltimore County;
+12 (1) each member appointed by:
 
-12 (iii) the Teachers Association of Baltimore County;
+13 (i) the Baltimore County Branch of the National Association for the
+14 Advancement of Colored People;
 
-13 (iv) Towson University;
+15 (ii) the Education Support Personnel of Baltimore County;
 
-14 (v) the League of Women Voters of Baltimore County; and
+16 (iii) the Teachers Association of Baltimore County;
 
-15 (vi) the Baltimore County Student Councils; and
+17 (iv) Towson University;
 
-16 (2) the members appointed by the Governor representing:
+18 (v) the League of Women Voters of Baltimore County; and
 
-17 (i) district 6;
+19 (vi) the Baltimore County Student Councils; and
 
-18 (ii) district 8;
+20 (2) the members appointed by the Governor representing:
 
-19 (iii) district 11; and
+21 (i) district 6;
 
-20 (iv) district 43.
+22 (ii) district 8;
 
-21 (b) The terms of the following members of the Baltimore County School Board
-22 Nominating Commission shall terminate at the end of September 30, 2030:
+23 (iii) district 11; and
 
-23 (1) each member appointed by:
+24 (iv) district 43.
 
-24 (i) the American Federation of State, County and Municipal
-25 Employees Local 3, Council 434;
+25 (b) The terms of the following members of the Baltimore County School Board
+26 Nominating Commission shall terminate at the end of September 30, 2030:
 
-26 (ii) the Citizens Advisory Council for Gifted and Talented Education;
-
-27 (iii) the Greater Baltimore Chamber of Commerce;
+27 (1) each member appointed by:
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 96
 
-1 (iv) the PTA Council of Baltimore County, Inc.;
+1 (i) the American Federation of State, and
+2 Employees Local 3, Council 434;
 
-2 (v) the Baltimore County Public Schools’ Special Education Citizens’
-3 Advisory Committee; and
+3 (ii) the Citizens Advisory Council for Gifted and Talented Education;
 
-4 (vi) the Council of Administrative and Supervisory Employees;
+4 (iii) the Greater Baltimore Chamber of Commerce;
 
-5 (2) the at–large member appointed by the County Executive of Baltimore
-6 County; and
+5 (iv) the PTA Council of Baltimore County, Inc.;
 
-7 (3) the members appointed by the Governor representing:
+6 (v) the Baltimore County Public Schools’ Special Education Citizens’
+7 Advisory Committee; and
 
-8 (i) district 7;
+8 (vi) the Council of Administrative and Supervisory Employees;
 
-9 (ii) district 10;
+9 (2) the at–large member appointed by the County Executive of Baltimore
+10 County; and
 
-10 (iii) district 42; and
+11 (3) the members appointed by the Governor representing:
 
-11 (iv) district 44.
+12 (i) district 7;
 
-12 SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
-13 October 1, 2026.
+13 (ii) district 10;
+
+14 (iii) district 42; and
+
+15 (iv) district 44.
+
+16 SECTION 4. AND BE IT FURTHER ENACTED, That this Act shall take effect
+17 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
 END OF PAGE 4
 </bill>

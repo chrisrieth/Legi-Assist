@@ -5,13 +5,19 @@ HOUSE BILL 1367
 
 J1, J5, J2 6lr2734
 
-By: Delegates Cullison, Pena–Melnyk, Bagnall, Hill, Ruth, Shetty, Alston, Guzzone, S. Johnson, Kaufman, Lopez, Martinez, Rosenberg, Ross, Taveras, White Holland, and Woorman
+By: Delegates Cullison, Pena–Melnyk, Bagnall, Hill, Ruth, ~~and Shetty~~ Shetty,
+Alston, Guzzone, S. Johnson, Kaufman, Lopez, Martinez, Rosenberg, Ross,
+Taveras, White Holland, and Woorman
 Introduced and read first time: February 13, 2026
 Assigned to: Health
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted with floor amendments
+Read second time: March 3, 2026
 
-1 AN ACT concerning
+CHAPTER ______
+
+1 AN ACT oncology
 
 2 Commission on Re–Imagining Health Care in Maryland
 
@@ -31,219 +37,239 @@ A BILL ENTITLED
 12 (i) entirely patient–centered;
 
 13 (ii) an integrated system of care, addressing all aspects of health,
-14 including somatic, behavioral, dental, vision, and hearing, at every stage of life;
+14 ~~both somatic and behavioral~~ including somatic, behavioral, dental, vision, and hearing, at
+15 every stage of life;
 
-15 (iii) founded in the concept of quality health care that provides
-16 support for the development of health care practitioners;
-
-17 (iv) accessible to and eliminates barriers for all residents of the
-18 State;
-
-19 (v) agile enough to evolve as needs of patients evolve;
-
-20 (vi) financially sustainable; and
+16 (iii) founded in the concept of quality health care that provides
+17 support for the development of health care practitioners;
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1367*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1367*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1367
 
-1 (vii) designed to ensure that health care quality and access is
-2 stronger than the existing health care system.
+1 (iv) accessible to and eliminates barriers for all residents of the State;
 
-3 (b) The Commission consists of the following members:
+2 (v) agile enough to evolve as needs of patients evolve;
 
-4 (1) three members of the Senate, appointed by the President of the Senate;
+3 (vi) financially sustainable; and
 
-5 (2) three members of the House of Delegates, appointed by the Speaker of
-6 the House;
+4 (vii) designed to ensure that health care quality and access is stronger
+5 than the existing health care system.
 
-7 (3) the Secretary of Budget and Management, or the Secretary’s designee;
+6 (b) The Commission consists of the following members:
 
-8 (4) the Secretary of Health, or the Secretary’s designee;
+7 (1) three members of the Senate, appointed by the President of the Senate;
 
-9 (5) the Maryland Insurance Commissioner, or the Commissioner’s
-10 designee;
+8 (2) three members of the House of Delegates, appointed by the Speaker of
+9 the House;
 
-11 (6) the Deputy Secretary of Health Care Financing, or the Deputy
-12 Secretary’s designee;
+10 (3) the Secretary of Budget and Management, or the Secretary’s designee;
 
-13 (7) the Executive Director of the Maryland Health Benefit Exchange, or the
-14 Executive Director’s designee;
+11 (4) the Secretary of Health, or the Secretary’s designee;
 
-15 (8) the Executive Director of the Maryland Health Care Commission, or the
-16 Executive Director’s designee;
+12 (5) the Maryland Insurance Commissioner, or the Commissioner’s
+13 designee;
 
-17 (9) the Executive Director of the Health Services Cost Review Commission,
-18 or the Executive Director’s designee;
+14 (6) the Deputy Secretary of Health Care Financing, or the Deputy
+15 Secretary’s designee;
 
-19 (10) two representatives of the Maryland Association of Counties,
-20 designated by the Executive Director of the Association:
+16 (7) the Executive Director of the Maryland Health Benefit Exchange, or the
+17 Executive Director’s designee;
 
-21 (i) one of whom shall represent an urban county; and
+18 (8) the Executive Director of the Maryland Health Care Commission, or the
+19 Executive Director’s designee;
 
-22 (ii) one of whom shall represent a rural county;
+20 (9) the Executive Director of the Health Services Cost Review Commission,
+21 or the Executive Director’s designee;
 
-23 (11) two representatives of the Maryland State Medical Society, designated
-24 by the Chief Executive Officer of the Society:
+22 (10) two representatives of the Maryland Association of Counties,
+23 designated by the Executive Director of the Association:
 
-25 (i) one of whom is an independently practicing primary care
-26 provider; and
+24 (i) one of whom shall represent an urban county; and
 
-27 (ii) one of whom is an independently practicing specialist;
+25 (ii) one of whom shall represent a rural county;
 
-28 (12) two representatives of the League of Life and Health Insurers of
-29 Maryland that are health insurers, designated by the Executive Director of the League;
+26 (11) two representatives of the Maryland State Medical Society, designated
+27 by the Chief Executive Officer of the Society:
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1367 3
 
-1 (13) one representative of the Maryland Hospital Association, designated by
-2 the President and CEO of the Association;
+1 (i) one of whom is an independently practicing primary care
+2 provider; and
 
-3 (14) one consumer member, appointed by the President of the Senate;
+3 (ii) one of whom is an independently practicing specialist;
 
-4 (15) one consumer member, appointed by the Speaker of the House; and
+4 (12) two representatives of the League of Life and Health Insurers of
+5 Maryland that are health insurers, designated by the Executive Director of the League;
 
-5 (16) the following members, appointed by the Governor:
+6 (13) one representative of the Maryland Hospital Association, designated by
+7 the President and CEO of the Association;
 
-6 (i) one representative of a managed care organization that operates
-7 in every county in the State;
+8 (14) one consumer member, appointed by the President of the Senate;
 
-8 (ii) two representatives of local health departments:
+9 (15) one consumer member, appointed by the Speaker of the House; and
 
-9 1. one of whom represents a rural community; and
+10 (16) the following members, appointed by the Governor:
 
-10 2. one of whom represents an urban community;
+11 (i) one representative of a managed care organization that operates
+12 in every county in the State;
 
-11 (iii) one chief financial officer of a health care system;
+13 (ii) two representatives of local health departments:
 
-12 (iv) one health economist;
+14 1. one of whom represents a rural community; and
 
-13 (v) one representative of a group that advocates for public health;
+15 2. one of whom represents an urban community;
 
-14 (vi) one chief executive or owner of a business located in the State,
-15 nominated by the Maryland Chamber of Commerce;
+16 (iii) one chief financial officer of a health care system;
 
-16 (vii) one representative of a labor union;
+17 (iv) one health economist;
 
-17 (viii) one representative with expertise in the practice of advanced
-18 practice clinicians; and
+18 (v) one representative of a group that advocates for public health;
 
-19 (ix) one member of the public.
+19 (vi) one chief executive or owner of a business located in the State,
+20 nominated by the Maryland Chamber of Commerce;
 
-20 (c) To the extent practicable, the membership of the Commission shall reflect the
-21 gender, racial, ethnic, and geographic diversity of the State.
+21 (vii) one representative of a labor union; ~~and~~
 
-22 (d) The Governor, President of the Senate, and Speaker of the House jointly shall
-23 designate the chair of the Commission.
+22 (viii) one representative with expertise in the practice of advanced
+23 practice clinicians; and
 
-24 (e) The Maryland Health Care Commission shall provide staff for the Commission.
+24 ~~(viii)~~ (ix) one member of the public.
 
-25 (f) A member of the Commission:
+25 (c) To the extent practicable, the membership of the Commission shall reflect the
+26 gender, racial, ethnic, and geographic diversity of the State.
 
-26 (1) may not receive compensation as a member of the Commission; but
-
-27 (2) is entitled to reimbursement for expenses under the Standard State
-28 Travel Regulations, as provided in the State budget.
-
-29 (g) To complete the work of the Commission, the Commission may, as needed:
+27 (d) The Governor, President of the Senate, and Speaker of the House jointly shall
+28 designate the chair of the Commission.
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 1367
 
-1 (1) consult with individuals and entities not represented on the
-2 Commission for expertise; and
+1 (e) The Maryland ~~Department of Health~~ Health Care Commission shall provide
+2 staff for the Commission.
 
-3 (2) form subcommittees.
+3 (f) A member of the Commission:
 
-4 (h) The Commission shall:
+4 (1) may not receive compensation as a member of the Commission; but
 
-5 (1) study:
+5 (2) is entitled to reimbursement for expenses under the Standard State
+6 Travel Regulations, as provided in the State budget.
 
-6 (i) how health care is delivered in other states and countries and
-7 how those systems are evolving;
+7 (g) To complete the work of the Commission, the Commission may, as needed:
 
-8 (ii) the role the elements of the existing health care system in the
-9 State would play in a patient–centered health care system;
+8 (1) consult with individuals and entities not represented on the
+9 Commission for expertise; and
 
-10 (iii) the role of the worker’s compensation program in an integrated
-11 system;
+10 (2) form subcommittees.
 
-12 (iv) how to delineate covered health care services, such as basic,
-13 preventive, acute illness, chronic illness, and elective;
+11 (h) The Commission shall:
 
-14 (v) new models of health care practitioner education and
-15 development;
+12 (1) study:
 
-16 (vi) how to balance patient–centered health care and cost;
+13 (i) how health care is delivered in other states and countries and
+14 how those systems are evolving;
 
-17 (vii) how to provide strong health care provider networks throughout
-18 the State so that the health care system does not decide between patients and health care
-19 practitioners;
+15 (ii) the role the elements of the existing health care system in the
+16 State would play in a patient–centered health care system;
 
-20 (viii) how to address low physician reimbursement rates relative to
-21 other states which cause health care practitioner shortages and affect access, particularly
-22 for specialists;
+17 (iii) the role of the worker’s compensation program in an integrated
+18 system;
 
-23 (ix) what roles hospitals, acute care centers, urgent care providers,
-24 and other facilities and health care practitioners would play in a new health care system;
+19 (iv) how to delineate covered health care services, such as basic,
+20 preventive, acute illness, chronic illness, and elective;
 
-25 (x) what model health care systems should be considered and how to
-26 ensure that innovation is not constrained by the current health care system; and
+21 (v) new models of health care practitioner education and
+22 development;
 
-27 (xi) how high deductibles and limited networks in health insurance
-28 coverage deter care and decrease equal access to health care in the current system; and
+23 (vi) how to balance patient–centered health care and cost;
 
-29 (2) make recommendations regarding the establishment of a new health
-30 care system in the State that meets the description of a comprehensive health care system
-31 in subsection (a)(2) of this section.
+24 (vii) how to provide strong health care provider networks throughout
+25 the State so that the health care system does not decide between patients and health care
+26 practitioners;
+
+27 (viii) how to address low physician reimbursement rates relative to
+28 other states which cause health care practitioner shortages and affect access, particularly
+29 for specialists;
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 1367 5
 
-1 (i) The Commission shall submit to the Governor and, in accordance with §
-2 2–1257 of the State Government Article, the General Assembly:
+1 (ix) what roles hospitals, acute care centers, urgent care providers,
+2 and other facilities and health care practitioners would play in a new health care system;
 
-3 (1) on or before December 1, 2027, and December 1, 2028, preliminary
-4 reports on the Commission’s activities and preliminary findings and recommendations; and
+3 (x) what model health care systems should be considered and how to
+4 ensure that innovation is not structured by the current health care system; and
 
-5 (2) on or before December 1, 2029, a final report on the Commission’s
-6 findings and recommendations.
+5 (xi) how high deductibles and limited networks in health insurance
+6 coverage deter care and decrease equal access to health care in the current system; and
 
-7 SECTION 2. AND BE IT FURTHER ENACTED, That:
+7 (2) make recommendations regarding the establishment of a new health
+8 care system in the State that meets the description of a comprehensive health care system
+9 in subsection (a)(2) of this section.
 
-8 (a) Section 1 of this Act is contingent on the Maryland Health Care Commission:
+10 (i) The Commission shall submit to the Governor and, in accordance with §
+11 2–1257 of the State Government Article, the General Assembly:
 
-9 (1) determining funding levels needed to conduct the work of the
-10 Commission as required under Section 1 of this Act; and
+12 (1) on or before December 1, 2027, and December 1, 2028, preliminary
+13 reports on the Commission’s activities and preliminary findings and recommendations; and
 
-11 (2) securing private funding to conduct the work of the Commission as
-12 required under Section 1 of this Act.
+14 (2) on or before December 1, 2029, a final report on the Commission’s
+15 findings and recommendations.
 
-13 (b) Within 5 days of receiving sufficient funding to conduct the work of the
-14 Commission as required under Section 1 of this Act, the Maryland Health Care Commission
-15 shall notify the Department of Legislative Services.
+16 SECTION 2. AND BE IT FURTHER ENACTED, That:
 
-16 (c) If notice of the receipt of the funding is received by the Department of
-17 Legislative Services on or before June 1, 2027, Section 1 of this Act shall take effect on the
-18 date the notice is received by the Department of Legislative Services in accordance with
-19 subsection (b) of this section.
+17 (a) Section 1 of this Act is contingent on the Maryland ~~Department of Health~~
+18 Health Care Commission:
 
-20 (d) If notice of the receipt of the funding is not received by the Department of
-21 Legislative Services on or before June 1, 2027, Section 1 of this Act, with no further action
-22 required by the General Assembly, shall be null and void.
+19 (1) determining funding levels needed to conduct the work of the
+20 Commission as required under Section 1 of this Act; and
 
-23 SECTION 3. AND BE IT FURTHER ENACTED, That, subject to Section 2 of this
-24 Act, this Act shall take effect June 1, 2026. Section 1 of this Act shall remain effective for a
-25 period of 4 years and, at the end of May 31, 2030, Section 1 of this Act, with no further
-26 action required by the General Assembly, shall be abrogated and of no further force and
-27 effect.
+21 (2) securing private funding to conduct the work of the Commission as
+22 required under Section 1 of this Act.
+
+23 (b) Within 5 days of receiving sufficient funding to conduct the work of the
+24 Commission as required under Section 1 of this Act, the Maryland ~~Department of Health~~
+25 Health Care Commission shall notify the Department of Legislative Services.
+
+26 (c) If notice of the receipt of the funding is received by the Department of
+27 Legislative Services on or before June 1, 2027, Section 1 of this Act shall take effect on the
+28 date the notice is received by the Department of Legislative Services in accordance with
+29 subsection (b) of this section.
+
+30 (d) If notice of the receipt of the funding is not received by the Department of
+31 Legislative Services on or before June 1, 2027, Section 1 of this Act, with no further action
+32 required by the General Assembly, shall be null and void.
 END OF PAGE 5
+
+START OF PAGE 6
+6 HOUSE BILL 1367
+
+1 SECTION 3. AND BE IT FURTHER ENACTED, That, subject to Section 2 of this
+2 Act, this Act shall take effect June 1, 2026. Section 1 of this Act shall remain effective for a
+3 period of 4 years and, at the end of May 31, 2030, Section 1 of this Act, with no further
+4 action required by the General Assembly, shall be abrogated and of no further force and
+5 effect.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 6
 </bill>
 </bill>

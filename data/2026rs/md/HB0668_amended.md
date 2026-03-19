@@ -8,73 +8,83 @@ By: St. Mary’s County Delegation
 Introduced and read first time: February 2, 2026
 Assigned to: Environment and Transportation
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 St. Mary’s County – Prohibition on Standing in Inherently Dangerous Highway
 
-3 FOR the purpose of prohibiting a person in St. Mary’s County from standing in a roadway,
+3 FOR the house of prohibiting a person in St. Mary’s County from standing in a roadway,
 4 a shoulder, a median divide, or an intersection determined by the county or a
-5 municipal corporation in the county in certain manners to be inherently dangerous; prohibiting a police
-6 officer from issuing a citation for a violation of this Act unless certain conditions are
-7 met; and generally relating to prohibiting standing in inherently dangerous
-8 roadways, shoulders, median divides, or intersections in St. Mary’s County.
+5 municipal corporation in the county <u>in certain manners</u> to be inherently dangerous;
+6 prohibiting a police officer from issuing a citation for a violation of this Act unless
+7 certain conditions are met; and generally relating to prohibiting standing in
+8 inherently dangerous roadways, shoulders, median divides, or intersections in St.
+9 Mary’s County.
 
-9 BY adding to
-10 Article – Transportation
-11 Section 21–507.1
-12 Annotated Code of Maryland
-13 (2020 Replacement Volume and 2025 Supplement)
+10 BY adding to
+11 Article – Transportation
+12 Section 21–507.1
+13 Annotated Code of Maryland
+14 (2020 Replacement Volume and 2025 Supplement)
 
-14 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-15 That the Laws of Maryland read as follows:
+15 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+16 That the Laws of Maryland read as follows:
 
-16 Article – Transportation
+17 Article – Transportation
 
-17 21–507.1.
+18 21–507.1.
 
-18 (A) THIS SECTION APPLIES ONLY IN ST. MARY’S COUNTY.
-
-19 (B) IN THIS SECTION, “INHERENTLY DANGEROUS” MEANS POSING A
-20 SERIOUS RISK OF INJURY TO A PEDESTRIAN, A DRIVER OR PASSENGER IN A VEHICLE,
-21 OR OTHER PERSONS THAT CANNOT BE MITIGATED WITH THE EXERCISE OF
-22 ORDINARY CARE.
+19 (A) THIS SECTION APPLIES ONLY IN ST. MARY’S COUNTY.
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0668*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0668*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 668
 
-1 (C) (1) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, A PERSON MAY NOT STAND IN A ROADWAY, A SHOULDER, A MEDIAN
-2 DIVIDER, OR AN INTERSECTION DETERMINED BY THE COUNTY OR A MUNICIPAL
-3 CORPORATION IN THE COUNTY TO BE INHERENTLY DANGEROUS.
-4 (2) THE COUNTY OR A MUNICIPAL CORPORATION IN THE COUNTY
-5 SHALL MAKE A DETERMINATION ON WHETHER A STATE ROADWAY, SHOULDER,
-6 MEDIAN DIVIDER, OR INTERSECTION IS INHERENTLY DANGEROUS IN
-7 CONSULTATION WITH THE STATE HIGHWAY ADMINISTRATION.
+1 (B) IN THIS SECTION, “INHERENTLY DANGEROUS” MEANS POSING A
+2 SERIOUS RISK OF INJURY TO A PEDESTRIAN, A DRIVER OR PASSENGER IN A VEHICLE,
+3 OR OTHER PERSONS THAT CANNOT BE MITIGATED WITH THE EXERCISE OF
+4 ORDINARY CARE.
 
-8 (D) (1) A POLICE OFFICER MAY NOT ISSUE A CITATION FOR A VIOLATION OF
-9 THIS SECTION UNLESS:
+5 (C) <u>(1)</u> ~~A~~ <u>SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, A</u> PERSON
+6 MAY NOT STAND IN A ROADWAY, A SHOULDER, A MEDIAN DIVIDER, OR AN
+7 INTERSECTION DETERMINED BY THE COUNTY OR A MUNICIPAL CORPORATION IN
+8 THE COUNTY TO BE INHERENTLY DANGEROUS.
 
-10 (I) THE INHERENTLY DANGEROUS ROADWAY, SHOULDER, MEDIAN
-11 DIVIDER, OR INTERSECTION HAS APPROPRIATE SIGNS INSTALLED BY THE
-12 COUNTY OR MUNICIPAL CORPORATION THAT NOTIFY THE
-13 PUBLIC THAT A PERSON MAY NOT STAND IN VIOLATION OF THIS SECTION; AND
+9 <u>(2) THE COUNTY OR A MUNICIPAL CORPORATION IN THE COUNTY</u>
+10 <u>SHALL MAKE A DETERMINATION ON WHETHER A STATE ROADWAY, SHOULDER,</u>
+11 <u>MEDIAN DIVIDER, OR INTERSECTION IS INHERENTLY DANGEROUS IN</u>
+12 <u>CONSULTATION WITH THE STATE HIGHWAY ADMINISTRATION.</u>
 
-14 (II) THE SIGNS ARE INSTALLED IN ACCORDANCE WITH THE MANUAL
-15 AND SPECIFICATIONS FOR A UNIFORM SYSTEM OF TRAFFIC CONTROL DEVICES
-16 ADOPTED BY THE STATE HIGHWAY ADMINISTRATION UNDER § 25–104 OF THIS
-17 ARTICLE.
+13 (D) <u>(1)</u> A POLICE OFFICER MAY NOT ISSUE A CITATION FOR A VIOLATION
+14 OF THIS SECTION UNLESS:
 
-18 (2) ON A STATE HIGHWAY, THE COUNTY OR A MUNICIPAL
-19 CORPORATION IN THE COUNTY MAY INSTALL THE SIGNS REQUIRED UNDER
-20 PARAGRAPH (1) OF THIS SUBSECTION ONLY WITH THE APPROVAL OF THE STATE
-21 HIGHWAY ADMINISTRATION.
+15 ~~(1)~~ <u>(I)</u> THE INHERENTLY DANGEROUS ROADWAY, SHOULDER,
+16 MEDIAN DIVIDER, OR INTERSECTION HAS APPROPRIATE SIGNS INSTALLED <u>BY THE</u>
+17 <u>COUNTY OR MUNICIPAL CORPORATION</u> THAT NOTIFY THE PUBLIC THAT A PERSON
+18 MAY NOT STAND IN VIOLATION OF THIS SECTION; AND
 
-22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-23 October 1, 2026.
+19 ~~(2)~~ <u>(II)</u> THE SIGNS ARE INSTALLED IN ACCORDANCE WITH THE
+20 MANUAL AND SPECIFICATIONS FOR A UNIFORM SYSTEM OF TRAFFIC CONTROL
+21 DEVICES ADOPTED BY THE STATE HIGHWAY ADMINISTRATION UNDER § 25–104 OF
+22 THIS ARTICLE.
+
+23 <u>(2) ON A STATE HIGHWAY, THE COUNTY OR A MUNICIPAL</u>
+24 <u>CORPORATION IN THE COUNTY MAY INSTALL THE SIGNS REQUIRED UNDER</u>
+25 <u>PARAGRAPH (1) OF THIS SUBSECTION ONLY WITH THE APPROVAL OF THE STATE</u>
+26 <u>HIGHWAY ADMINISTRATION.</u>
+
+27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+28 October 1, 2026.
 END OF PAGE 2
 </bill>

@@ -1,5 +1,3 @@
-<bill>
-START OF PAGE 1
 HOUSE BILL 931
 
 J2, J3 6lr2772
@@ -8,17 +6,21 @@ By: Delegates Hill, Alston, McComas, Taveras, Taylor, White Holland, Woods, Bagn
 Introduced and read first time: February 5, 2026
 Assigned to: Health
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 3, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Health Care Facilities – Nursing Homes – Medical Director Requirements
 
-3 FOR the purpose of requiring a physician, in order to be designated as a medical director
+3 For the purpose of requiring a physician, in order to be designated as a medical director
 4 of a nursing home, to hold a certain medical director certification or be making active
-5 progress toward obtaining the certification; requiring each nursing home to publish on
-6 the nursing home’s website certain information for the medical director of the
-7 nursing home; and generally relating to nursing home medical directors.
+5 progress toward obtaining the certification; requiring each nursing home to publish on the nursing home’s website certain
+6 information for the medical director of the nursing home; and generally relating to
+7 nursing home medical directors.
 
 8 BY repealing and reenacting, without amendments,
 9 Article – Health – General
@@ -32,135 +34,134 @@ A BILL ENTITLED
 16 Annotated Code of Maryland
 17 (2023 Replacement Volume and 2025 Supplement)
 
-18 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-19 That the Laws of Maryland read as follows:
-
-20 Article – Health – General
-
-21 19–1401.
-
-22 (a) In this subtitle the following words have the meanings indicated.
-
-23 (e) (1) “Nursing home” means a facility that offers nonacute inpatient care to
-24 patients suffering from a disease, chronic illness, condition, disability of advanced age, or
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0931*
-END OF PAGE 1
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0931*
 
 START OF PAGE 2
 2 HOUSE BILL 931
 
-1 terminal disease requiring maximal nursing care without continuous hospital services and
-2 who require medical services and nursing services rendered by or under the supervision of
-3 a licensed nurse together with convalescent, restorative, or rehabilitative services.
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
 
-4 (2) “Nursing home” does not mean a facility offering domiciliary care or
-5 personal care as those terms are defined in § 19–301 of this title.
+3 Article – Health – General
 
-6 19–1411.
+4 19–1401.
 
-7 (a) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-8 INDICATED.
+5 (a) In this subtitle the following words have the meanings indicated.
 
-9 (2) “MEDICAL DIRECTOR” MEANS THE PHYSICIAN DESIGNATED BY A
-10 NURSING HOME TO OVERSEE MEDICAL CARE AND CLINICAL POLICIES AT THE
-11 NURSING HOME IN ACCORDANCE WITH FEDERAL AND STATE LAWS AND
-12 REGULATIONS.
+6 (e) (1) “Nursing home” means a facility that offers nonacute inpatient care to
+7 patients suffering from a disease, chronic illness, condition, disability of advanced age, or
+8 terminal disease requiring maximal nursing care without continuous hospital services and
+9 who require medical services and nursing services rendered by or under the supervision of
+10 a licensed nurse together with convalescent, restorative, or rehabilitative services.
 
-13 (3) “MEDICAL DIRECTOR CERTIFICATION” MEANS:
+11 (2) “Nursing home” does not mean a facility offering domiciliary care or
+12 personal care as those terms are defined in § 19–301 of this title.
 
-14 (I) A CERTIFIED MEDICAL DIRECTOR (CMD) CERTIFICATION
-15 ISSUED BY THE POST–ACUTE AND LONG–TERM CARE MEDICAL ASSOCIATION
-16 (PALTMED); OR
+13 19–1411.
 
-17 (II) A CREDENTIAL EQUIVALENT TO A CMD CERTIFICATION
-18 APPROVED BY THE DEPARTMENT.
+14 (a) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+15 INDICATED.
 
-19 (B) (1) Each nursing home shall designate a physician WHO MEETS
-20 THE REQUIREMENTS OF SUBSECTION (C)(1) OF THIS SECTION to serve as medical
-21 director.
+16 (2) “MEDICAL DIRECTOR” MEANS THE PHYSICIAN DESIGNATED BY A
+17 NURSING HOME TO OVERSEE MEDICAL CARE AND CLINICAL POLICIES AT THE
+18 NURSING HOME IN ACCORDANCE WITH FEDERAL AND STATE LAWS AND
+19 REGULATIONS.
 
-22
-23
+20 (3) “MEDICAL DIRECTOR CERTIFICATION” MEANS A CERTIFIED MEDICAL
+21 DIRECTOR (CMD) CERTIFICATION OR A CREDENTIAL EQUIVALENT TO A CMD
+22 CERTIFICATION APPROVED BY THE DEPARTMENT.
 
-24 (2) The medical director is responsible for monitoring physician services at
-25 the nursing home.
+23 (B) (1) (I) Each nursing home shall designate a physician WHO MEETS
+24 THE REQUIREMENTS OF SUBSECTION (C)(1) OF THIS SECTION to serve as medical
+25 director.
 
-26 (3) The medical director shall report monthly to the quality assurance
-27 committee on the quality of medical care at the nursing home.
+26 (II) A PHYSICIAN MAY NOT BE A DESIGNATED MEDICAL
+27 DIRECTOR AT MORE THAN TWO LICENSED NURSING HOMES.
 
-28 (C) (1) TO QUALIFY TO BE DESIGNATED AS A MEDICAL DIRECTOR UNDER
-29 SUBSECTION (B) OF THIS SECTION, A PHYSICIAN MUST:
-
-30 (I) HOLD A VALID MEDICAL DIRECTOR CERTIFICATION; OR
-END OF PAGE 2
+28 (2) The medical director is responsible for monitoring physician services at
+29 the nursing home.
 
 START OF PAGE 3
 HOUSE BILL 931 3
 
-1 (II) BE MAKING ACTIVE PROGRESS TOWARD OBTAINING A
-2 MEDICAL DIRECTOR CERTIFICATION.
+1 (3) The medical director shall report monthly to the quality assurance
+2 committee on the quality of medical care at the nursing home.
 
-3 (2) A PHYSICIAN DESIGNATED AS A MEDICAL DIRECTOR UNDER
-4 SUBSECTION (B)(1) OF THIS SECTION SHALL SUBMIT TO THE DEPARTMENT:
+3 (C) (1) TO QUALIFY TO BE DESIGNATED AS A MEDICAL DIRECTOR UNDER
+4 SUBSECTION (B) OF THIS SECTION, A PHYSICIAN MUST:
 
-5 (I) A COPY OF THE PHYSICIAN’S MEDICAL DIRECTOR
-6 CERTIFICATION; OR
+5 (I) HOLD A VALID MEDICAL DIRECTOR CERTIFICATION; OR
 
-7 (II) EVIDENCE SATISFACTORY TO THE DEPARTMENT OF ACTIVE
-8 PROGRESS TOWARD OBTAINING A MEDICAL DIRECTOR CERTIFICATION.
+6 (II) BE MAKING ACTIVE PROGRESS TOWARD OBTAINING A
+7 MEDICAL DIRECTOR CERTIFICATION.
 
-9 (3) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A
-10 PHYSICIAN WHO WAS DESIGNATED AS A MEDICAL DIRECTOR ON OR BEFORE
-11 SEPTEMBER 30, 2026, SHALL OBTAIN A MEDICAL DIRECTOR CERTIFICATION ON OR
-12 BEFORE SEPTEMBER 30, 2030.
+8 (2) A PHYSICIAN DESIGNATED AS A MEDICAL DIRECTOR UNDER
+9 SUBSECTION (B)(1) OF THIS SECTION SHALL SUBMIT TO THE DEPARTMENT:
 
-13 (II) THE DEPARTMENT MAY GRANT A PHYSICIAN DESCRIBED
-14 UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH A TIME–LIMITED EXTENSION FOR
-15 OBTAINING A MEDICAL DIRECTOR CERTIFICATION ON A SHOWING OF GOOD CAUSE,
-16 AS DETERMINED BY THE DEPARTMENT IN REGULATION.
+10 (I) A COPY OF THE PHYSICIAN’S MEDICAL DIRECTOR
+11 CERTIFICATION; OR
 
-17 [(b)] (D) The Secretary, in consultation with the Medical and Chirurgical
-18 Faculty of Maryland, and representatives of the nursing home industry, shall:
+12 (II) EVIDENCE SATISFACTORY TO THE DEPARTMENT OF ACTIVE
+13 PROGRESS TOWARD OBTAINING A MEDICAL DIRECTOR CERTIFICATION.
 
-19 (1) [Establish qualifications for the medical director of a nursing home or
-20 anyone acting for the medical director in his or her absence;
+14 (3) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A
+15 PHYSICIAN WHO WAS DESIGNATED AS A MEDICAL DIRECTOR ON OR BEFORE
+16 SEPTEMBER 30, 2026, SHALL OBTAIN A MEDICAL DIRECTOR CERTIFICATION ON OR
+17 BEFORE SEPTEMBER 30, 2030.
 
-21 (2)] Define the duties of the medical director; and
+18 (II) THE DEPARTMENT MAY GRANT A PHYSICIAN DESCRIBED
+19 UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH A TIME–LIMITED EXTENSION FOR
+20 OBTAINING A MEDICAL DIRECTOR CERTIFICATION ON A SHOWING OF GOOD CAUSE,
+21 AS DETERMINED BY THE DEPARTMENT IN REGULATION.
 
-22 [(3)] (2) Adopt regulations for the attending physicians who treat
-23 residents of nursing homes that will provide for physician accountability.
+22 [(b)] (D) The Secretary, in consultation with the Medical and Chirurgical
+23 Faculty of Maryland, and representatives of the nursing home industry, shall:
 
-24 (E) EACH NURSING HOME SHALL PUBLISH ON THE NURSING HOME’S WEBSITE THE
-25 FOLLOWING INFORMATION FOR THE MEDICAL DIRECTOR OF THE
-26 NURSING HOME:
+24 (1) [Establish qualifications for the medical director of a nursing home or
+25 anyone acting for the medical director in his or her absence;
 
-27 (1) NAME;
+26 (2)] Define the duties of the medical director; and
 
-28 (2) PROFESSIONAL CREDENTIALS; AND
+27 [(3)] (2) Adopt regulations for the attending physicians who treat
+28 residents of nursing homes that will provide for physician accountability.
 
-29 (3) CERTIFICATION STATUS.
-END OF PAGE 3
+29 (E) EACH NURSING HOME SHALL PUBLISH ON THE NURSING HOME’S
+30 WEBSITE THE FOLLOWING INFORMATION FOR THE MEDICAL DIRECTOR OF THE
+31 NURSING HOME:
+
+32 (1) NAME;
 
 START OF PAGE 4
 4 HOUSE BILL 931
 
-1
-2
-3
-4
+1 (2) PROFESSIONAL CREDENTIALS; AND
 
-5 (F) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT THIS
-6 SECTION, INCLUDING REGULATIONS THAT ESTABLISH:
+2 (3) CERTIFICATION STATUS.
 
-7 (1) THE EDUCATIONAL AND EXPERIENTIAL REQUIREMENTS FOR A
-8 MEDICAL DIRECTOR CERTIFICATION THAT IS EQUIVALENT TO A CMD
-9 CERTIFICATION; AND
+3 (F) THE DEPARTMENT SHALL ADOPT REGULATIONS TO CARRY OUT THIS
+4 SECTION, INCLUDING REGULATIONS THAT ESTABLISH:
 
-10 (2) THE PROCESS FOR APPROVING A MEDICAL DIRECTOR
-11 CERTIFICATION.
+5 (1) THE EDUCATIONAL AND EXPERIENTIAL REQUIREMENTS FOR A
+6 MEDICAL DIRECTOR CERTIFICATION THAT IS EQUIVALENT TO A CMD
+7 CERTIFICATION; AND
 
-12 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-13 October 1, 2026.
-END OF PAGE 4</bill>
+8 (2) THE PROCESS FOR APPROVING A MEDICAL DIRECTOR
+9 CERTIFICATION.
+
+10 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+11 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.

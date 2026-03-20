@@ -1,0 +1,114 @@
+<bill>
+START OF PAGE 1
+HOUSE BILL 1456
+
+I3, N1 6lr2624
+
+By: Delegates Embry, Boyce, Lehman, and Wu
+Introduced and read first time: February 13, 2026
+Assigned to: Economic Matters
+
+A BILL ENTITLED
+
+1 AN ACT concerning
+
+2 Consumer Protection – Residential Property Advertisement – Ownership
+3 Verification
+
+4 FOR the purpose of prohibiting a commercial entity from publishing or advertising
+5 information on certain residential property unless the commercial entity verifies
+6 that the person offering the property is the property’s legal owner, or the agent of
+7 the legal owner; requiring the commercial entity to maintain the verification for a
+8 certain period of time; establishing that a certain publication or advertisement of residential real property for sale or lease made by certain individuals is considered to be verified; requiring a commercial entity that publishes or advertises
+9 certain residential property information in violation of this Act to remove the
+10 publication or advertisement; establishing that a violation of this Act is an unfair,
+11 abusive, or deceptive trade practice subject to enforcement and penalties under the
+12 Maryland Consumer Protection Act; and generally relating to the advertisement of
+13 residential property.
+
+14 BY repealing and reenacting, with amendments,
+15 Article – Commercial Law
+16 Section 13–301(14)(xlvii)
+17 Annotated Code of Maryland
+18 (2025 Replacement Volume)
+
+19 BY repealing and reenacting, without amendments,
+20 Article – Commercial Law
+21 Section 13–301(14)(xlviii)
+22 Annotated Code of Maryland
+23 (2025 Replacement Volume)
+
+24 BY adding to
+25 Article – Commercial Law
+26 Section 13–301(14)(xlix) and 14–1330
+27 Annotated Code of Maryland
+28 (2025 Replacement Volume)
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law. *hb1456*
+END OF PAGE 1
+
+START OF PAGE 2
+2 HOUSE BILL 1456
+
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
+
+3 Article – Commercial Law
+
+4 13–301.
+
+5 Unfair, abusive, or deceptive trade practices include any:
+
+6 (14) Violation of a provision of:
+
+7 (xlvii) Title 14, Subtitle 50 of this article; [or]
+
+8 (xlviii) Section 13–411.1(c)(2) of the Transportation Article; or
+
+9 (XLIX) SECTION 14–1330 OF THIS ARTICLE; OR
+
+10 14–1330.
+
+11 (A) IN THIS SECTION, “COMMERCIAL ENTITY” INCLUDES A SOCIAL MEDIA
+12 PLATFORM.
+
+13 (B) THIS SECTION APPLIES ONLY TO RESIDENTIAL PROPERTY FOR LEASE OR SALE THAT IS LOCATED IN THE STATE.
+
+(C) A COMMERCIAL ENTITY MAY NOT PUBLISH OR ADVERTISE
+14 INFORMATION ON RESIDENTIAL PROPERTY AVAILABLE FOR LEASE OR SALE ON
+15 BEHALF OF ANOTHER UNLESS THE COMMERCIAL ENTITY VERIFIES THAT THE
+16 PERSON OFFERING THE RESIDENTIAL PROPERTY FOR LEASE OR SALE IS:
+
+17 (1) THE LEGAL OWNER OF THE PROPERTY; OR
+
+18 (2) AN AGENT OF THE LEGAL OWNER OF THE PROPERTY.
+
+19 (D) A COMMERCIAL ENTITY SHALL MAINTAIN A VERIFICATION UNDER
+20 SUBSECTION (C) OF THIS SECTION FOR AT LEAST 3 YEARS.
+
+21 (E) IF A LICENSED REAL ESTATE AGENT, BROKER, OR ASSOCIATE BROKER PUBLISHES OR ADVERTISES RESIDENTIAL REAL PROPERTY FOR SALE OR LEASE, THE PUBLICATION OR ADVERTISEMENT SHALL BE CONSIDERED VERIFIED IF THE PUBLICATION OR ADVERTISEMENT:
+
+(1) WAS MADE BY THE AGENT, BROKER, OR ASSOCIATE BROKER ON A WEBSITE OR MULTIPLE LISTING SERVICE; OR
+
+(2) IS REPUBLISHED WITH CONSENT OF THE AGENT, BROKER, OR ASSOCIATE BROKER.
+
+(F) A COMMERCIAL ENTITY THAT PUBLISHES OR ADVERTISES
+22 INFORMATION IN VIOLATION OF SUBSECTION (C) OF THIS SECTION SHALL
+23 PROMPTLY REMOVE THE PUBLICATION OR ADVERTISEMENT.
+
+24 (G) A VIOLATION OF THIS SECTION IS:
+
+25 (1) AN UNFAIR, ABUSIVE, OR DECEPTIVE TRADE PRACTICE WITHIN
+26 THE MEANING OF TITLE 13 OF THIS ARTICLE; AND
+END OF PAGE 2
+
+START OF PAGE 3
+HOUSE BILL 1456 3
+
+1 (2) SUBJECT TO THE ENFORCEMENT AND PENALTY PROVISIONS
+2 CONTAINED IN TITLE 13 OF THIS ARTICLE.
+
+3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+4 October 1, 2026.
+END OF PAGE 3</bill>

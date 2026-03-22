@@ -1,0 +1,163 @@
+<bill>
+START OF PAGE 1
+HOUSE BILL 1135
+
+J2 6lr2777
+CF SB 773
+
+By: Delegates Lopez, Fraser–Hidalgo, Kaufman, Solomon, Vogel, Wims, Wolek,
+Woorman, Alston, Bagnall, Cullison, Guzzone, Hill, Martinez, Rosenberg,
+Ross, Taveras, and White Holland
+Introduced and read first time: February 11, 2026
+Assigned to: Health
+
+A BILL ENTITLED
+
+1 AN ACT concerning
+
+2 Health Occupations – Pharmacists – Vaccination Orders
+
+3 FOR the future of authorizing a pharmacist to order certain vaccinations for individuals
+4 who are at least a certain age without having to also administer the vaccination; and
+5 generally relating to the ordering of vaccinations by pharmacists.
+
+6 BY repealing and reenacting, with amendments,
+7 Article – Health Occupations
+8 Section 12–508
+9 Annotated Code of Maryland
+10 (2021 Replacement Volume and 2025 Supplement)
+
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
+
+13 Article – Health Occupations
+
+14 12–508.
+
+15 (a) (1) Subject to paragraph (4) of this subsection, a pharmacist may order
+16 [and] A VACCINATION FOR INTRANASAL ADMINISTRATION OR administer a vaccination to an individual who is at least 3
+17 years old if:
+
+18 (i) The vaccine is:
+
+19 1. An influenza vaccine;
+
+20 2. A COVID–19 vaccine; or
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law. *hb1135*
+END OF PAGE 1
+
+START OF PAGE 2
+2 HOUSE BILL 1135
+
+1 3. Used in response to a public health emergency;
+
+2 (ii) The pharmacist has completed a practical training program of at
+3 least 20 hours that is approved by the Accreditation Council for Pharmacy Education and
+4 includes:
+
+5 1. Hands–on injection techniques;
+
+6 2. Clinical evaluation of indications and contraindications of
+7 vaccines; and
+
+8 3. The recognition and treatment of emergency reactions to
+9 vaccines;
+
+10 (iii) The pharmacist has a current certificate in basic
+11 cardiopulmonary resuscitation;
+
+12 (iv) The pharmacist has completed a minimum of 2 hours of
+13 continuing pharmaceutical education related to immunizations that is approved by the
+14 Accreditation Council for Pharmacy Education as part of the license renewal requirements
+15 under § 12–309 of this title;
+
+16 (v) The pharmacist complies with the record–keeping and reporting
+17 requirements in paragraph (5) of this subsection and any corresponding regulations
+18 adopted by the Board; and
+
+19 (vi) If the vaccination is administered to an individual under the age
+20 of 18 years, OR ORDERED FOR INTRANASAL ADMINISTRATION BY A PARENT OR GUARDIAN TO AN
+21 INDIVIDUAL UNDER THE AGE OF 18 YEARS, the pharmacist informs the child vaccination
+22 patient and adult caregiver who is accompanying the child of the importance of well–child
+23 visits with a pediatric primary care provider and refers the patient to a pediatric primary
+24 care provider when appropriate.
+
+25 (2) Subject to paragraph (4) of this subsection, a pharmacist who has met
+26 the requirement of paragraph (1)(ii) through (vi) of this subsection may administer to an
+27 individual who is at least 7 years old a vaccination that is:
+
+28 (i) Recommended by the Centers for Disease Control and
+29 Prevention’s Advisory Committee on Immunization Practices; or
+
+30 (ii) Approved or authorized by the U.S. Food and Drug
+31 Administration.
+
+32 (3) Subject to paragraph (4) of this subsection, a pharmacist who has met
+33 the requirement of paragraph (1)(ii), (iii), and (iv) of this subsection may administer to an
+34 adult a vaccination that is recommended in the Centers for Disease Control and
+35 Prevention’s Health Information for International Travel.
+END OF PAGE 2
+
+START OF PAGE 3
+HOUSE BILL 1135 3
+
+1 (4) (i) A pharmacist shall ORDER OR administer a vaccination under
+2 paragraph (1), (2), or (3) of this subsection under a written protocol that:
+
+3 1. Is vaccine specific; and
+
+4 2. Meets criteria established by the Department, in
+5 consultation with the Board, the Board of Physicians, and the Board of Nursing, in
+6 regulation.
+
+7 (ii) The recommendations of the Centers for Disease Control and
+8 Prevention’s Advisory Committee on Immunization Practices cited in this section refer to
+9 federal statutes, rules, and guidance in effect:
+
+10 1. On December 31, 2024; or
+
+11 2. At a later date to account for any new vaccines
+12 recommended by the Centers for Disease Control and Prevention’s Advisory Committee on
+13 Immunization Practices after December 31, 2024.
+
+14 (5) A pharmacist shall:
+
+15 (i) Report all vaccinations administered OR ORDERED by the
+16 pharmacist, INCLUDING THE INTENDED RECIPIENT OF EACH VACCINATION ORDERED BY THE PHARMACIST to the ImmuNet Program established under § 18–109 of the Health – General
+17 Article;
+
+18 (ii) If the vaccination has been administered in accordance with a
+19 prescription, document at least one effort to inform the individual’s authorized prescriber
+20 that the vaccination has been administered; and
+
+21 (iii) Except for an influenza vaccination administered under
+22 paragraph (1) of this subsection, if the authorized prescriber is not the individual’s primary
+23 care provider or if the vaccination has not been administered in accordance with a
+24 prescription, document at least one effort to inform the individual’s primary care provider
+25 or other usual source of care that the vaccination has been administered.
+
+26 (b) The Board shall:
+
+27 (1) Set reasonable fees for the administration of vaccinations under this
+28 section; and
+
+29 (2) Adopt regulations that require a pharmacist to submit a registration
+30 form to the Board that includes verification that the pharmacist:
+
+31 (i) Has successfully completed a certification course approved by the
+32 Board that included instruction in the guidelines and recommendations of the Centers for
+33 Disease Control and Prevention regarding vaccinations in effect on December 31, 2024; and
+END OF PAGE 3
+
+START OF PAGE 4
+4 HOUSE BILL 1135
+
+1 (ii) Is certified in basic cardiopulmonary resuscitation and obtained
+2 the certification through in–person classroom instruction.
+
+3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+4 October 1, 2026.
+END OF PAGE 4
+</bill>

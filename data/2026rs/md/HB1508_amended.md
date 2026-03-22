@@ -1,0 +1,94 @@
+<bill>
+START OF PAGE 1
+HOUSE BILL 1508
+
+R1 6lr2621
+
+By: Delegates Nawrocki, Allen, Arikan, Behler, Boyce, Guyton, Jacobs, T. Morgan,
+Szeliga, Baker, Grammer, Healey, Lewis, and Stein
+Introduced and read first time: February 13, 2026
+Assigned to: Environment and Transportation
+
+A BILL ENTITLED
+
+1 AN ACT concerning
+
+2 State Highways – Highway Work Permits – Notice
+
+3 Requiring an applicant for a certain work permit on a State highway to provide
+4 certain notice including certain information to certain members of the General
+5 Assembly of an application for a work permit on a State highway; and generally
+6 relating to notice of work permits for State highways.
+
+7 BY repealing and reenacting, without amendments,
+8 Article – Transportation
+9 Section 8–646(a) and (b)(1) and (2)
+10 Annotated Code of Maryland
+11 (2020 Replacement Volume and 2025 Supplement)
+
+12 BY adding to
+13 Article – Transportation
+14 Section 8–646(e)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2025 Supplement)
+
+17 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+18 That the Laws of Maryland read as follows:
+
+19 Article – Transportation
+
+20 8–646.
+
+21 (a) Except as permitted by this section or in accordance with a permit obtained
+22 from the Administration, a person may not:
+
+23 (1) Make an opening in any State highway;
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law. *hb1508*
+END OF PAGE 1
+
+START OF PAGE 2
+2 HOUSE BILL 1508
+
+1 (2) Place any structure on any State highway;
+
+2 (3) Change or renew any structure placed on any State highway;
+
+3 (4) Dig up any State highway for any purpose, including the placement of
+4 pipes, sewers, poles, wires, or rails;
+
+5 (5) Plant or remove any tree on any State highway; or
+
+6 (6) Place any obstruction or improvement on any State highway.
+
+7 (b) (1) The Administration may issue a permit for work otherwise prohibited
+8 by subsection (a) of this section.
+
+9 (2) Work done under the permit shall be performed to the satisfaction of
+10 the Administration and under its supervision.
+
+11 (E) (1) WITHIN 10 DAYS AFTER AN APPLICANT SUBMITS AN APPLICATION FOR A PERMIT UNDER THIS
+12 SECTION FOR A TYPE 2 OR TYPE 3 PROJECT, AS DESIGNATED BY THE ADMINISTRATION, THE APPLICANT
+13 SHALL PROVIDE NOTICE OF THE
+14 APPLICATION TO EACH MEMBER OF THE GENERAL ASSEMBLY WHO REPRESENTS
+15 THE STATE LEGISLATIVE DISTRICT IN WHICH THE PROPOSED WORK IS TO BE
+16 PERFORMED.
+
+17 (2) THE NOTICE REQUIRED UNDER THIS SUBSECTION SHALL
+18 INCLUDE:
+
+19 (I) THE NAME OF THE APPLICANT;
+
+20 (II) THE LOCATION OF THE PROPOSED WORK;
+
+21 (III) THE EXPECTED STARTING DATE FOR THE PROPOSED WORK;
+22 AND
+
+23 (IV) A BRIEF DESCRIPTION OF THE NATURE OF THE PROPOSED
+24 WORK.
+
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+26 1, 2026.
+END OF PAGE 2
+</bill>

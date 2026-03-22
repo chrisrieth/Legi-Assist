@@ -1,0 +1,151 @@
+<bill>
+START OF PAGE 1
+HOUSE BILL 1611
+
+Q1 6lr3701
+
+By: Delegates Pippy, Addison, Buckel, Coley, Ebersole, Hartman, Hornberger, R. Long, Miller, Patterson, Roberson, Vogel, Wims, and Young
+Introduced and read first time: February 17, 2026
+Assigned to: Rules and Executive Nominations
+
+A BILL ENTITLED
+
+1 AN ACT concerning
+
+2 Property Tax – Credit for Dwelling House of Disabled Veterans and Surviving
+3 Spouses – Income Eligibility
+
+4 FOR the purpose of altering a certain income limitation used to establish eligibility for a
+5 property tax credit against the county and municipal corporation property tax
+6 imposed on the dwelling house of a certain disabled veteran or surviving spouse;
+9 and generally relating to a property tax
+10 credit for the dwelling house of disabled veterans and surviving spouses.
+
+11 BY repealing and reenacting, with amendments,
+12 Article – Tax – Property
+13 Section 9–265
+14 Annotated Code of Maryland
+15 (2019 Replacement Volume and 2025 Supplement)
+
+16 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+17 That the Laws of Maryland read as follows:
+
+18 Article – Tax – Property
+
+19 9–265.
+
+20 (a) (1) In this section the following words have the meanings indicated.
+
+21 (2) “Disabled veteran” means an individual who:
+
+22 (i) is honorably discharged or released under honorable
+23 circumstances from active military, naval, or air service as defined in 38 U.S.C. § 101; and
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law. *hb1611*
+END OF PAGE 1
+
+START OF PAGE 2
+2 HOUSE BILL 1611
+
+1 (ii) 1. has been declared by the U.S. Department of Veterans
+2 Affairs to have a permanent service–connected disability of at least 50% that results from
+3 blindness or any other disabling cause that:
+
+4 A. is reasonably certain to continue for the life of the veteran;
+5 and
+
+6 B. was not caused or incurred by misconduct of the veteran;
+7 or
+
+8 2. has been declared by the U.S. Department of Veterans
+9 Affairs to have a nonpermanent service–connected disability of 100% that results from
+10 blindness or any other disabling cause that was not caused or incurred by misconduct of
+11 the veteran.
+
+12 (3) “Dwelling house”:
+
+13 (i) means real property that is:
+
+14 1. the legal residence of a disabled veteran; and
+
+15 2. occupied by not more than two families; and
+
+16 (ii) includes the lot or curtilage and structures necessary to use the
+17 real property as a residence.
+
+18 (b) The Mayor and City Council of Baltimore City or the governing body of a
+19 county or municipal corporation may grant, by law, a property tax credit under this section
+20 against the county or municipal corporation property tax imposed on a dwelling house if:
+
+21 (1) the dwelling house is owned by a disabled veteran;
+
+22 (2) the disabled veteran’s federal adjusted gross income for the
+23 immediately preceding taxable year does not exceed:
+
+(I) $150,000, IF FILING AN INDIVIDUAL INCOME TAX
+RETURN; OR
+
+(II) $300,000, IF FILING A JOINT INCOME TAX RETURN; and
+
+24 (3) the application requirements of subsection (d) of this section are met.
+
+25 (c) The property tax credit granted under this section shall equal:
+
+26 (1) 50% of the county or municipal corporation property tax imposed on the
+27 dwelling house if the disabled veteran’s service–connected disability rating is at least 75%
+28 and the disabled veteran does not qualify for a property tax exemption under § 7–208 of
+29 this article; or
+
+30 (2) 25% of the county or municipal corporation property tax imposed on the
+31 dwelling house if the disabled veteran’s service–connected disability rating is at least 50%
+32 but not more than 74%.
+END OF PAGE 2
+
+START OF PAGE 3
+HOUSE BILL 1611 3
+
+1 (d) (1) A disabled veteran shall apply for the property tax credit under this
+2 section by providing to the county or municipal corporation:
+
+3 (i) a copy of the disabled veteran’s discharge certificate from active
+4 military, naval, or air service; and
+
+5 (ii) on the form provided by the county or municipal corporation, a
+6 certification of the disabled veteran’s disability from the U.S. Department of Veterans
+7 Affairs.
+
+8 (2) The disabled veteran’s certificate of disability may not be inspected by
+9 individuals other than:
+
+10 (i) the disabled veteran; or
+
+11 (ii) appropriate employees of the county or municipal corporation.
+
+12 (e) The Mayor and City Council of Baltimore City or the governing body of a
+13 county or municipal corporation may, by law, continue to provide the property tax credit
+14 under this section to the surviving spouse of the disabled veteran.
+
+15 (f) The Mayor and City Council of Baltimore City or the governing body of a
+16 county or municipal corporation may provide, by law, for:
+
+17 (1) the duration of the tax credit;
+
+18 (2) regulations and procedures for the application and uniform processing
+
+22 of requests for the tax credit;
+
+23 (3) the definition of surviving spouse and the amount and duration
+24 of the tax credit for the surviving spouse;
+
+25 (4) notwithstanding subsection (a)(2)(ii)2 of this section, eligibility
+26 criteria for the credit allowed under this section that limits the credit to individuals
+27 described under subsection (a)(2)(ii)1 of this section; and
+
+28 (5) any other provision necessary to carry out the tax credit under
+29 this section.
+
+30 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+31 1, 2026, and shall be applicable to all taxable years beginning after June 30, 2026.
+END OF PAGE 3
+</bill>

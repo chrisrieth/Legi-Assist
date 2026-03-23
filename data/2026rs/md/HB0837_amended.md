@@ -1,5 +1,3 @@
-<bill>
-START OF PAGE 1
 HOUSE BILL 837
 
 F1, J1 6lr1794
@@ -9,210 +7,198 @@ By: Delegates Ebersole, Feldmark, Boyce, Fair, and Palakovich Carr
 Introduced and read first time: February 4, 2026
 Assigned to: Ways and Means
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
-2 Education – Student Athletic Activities – Cardiovascular
-3 Prescreening
+2 Education – Student Athletic Activities – Cardiovascular Prescreening
 
-4 AN ACT concerning
-5 requiring certain nonpublic schools that offer athletic activities for students to
-6 develop policies and programs to provide certain information on sudden cardiac
-7 arrest to certain persons participating in the nonpublic school’s athletic programs;
-8 requiring a certain physical examination for student participation in an
-9 interscholastic sport to include a cardiovascular prescreening under certain
-10 circumstances; requiring an individual performing a cardiovascular prescreening to
-11 make certain notices under certain circumstances; and generally relating to
-12 cardiovascular prescreening for interscholastic sports.
+3 FOR the purpose of requiring certain nonpublic schools that offer
+4 athletic activities for students to develop policies and programs to provide certain
+5 information on sudden cardiac arrest to certain persons participating in the
+6 nonpublic school’s athletic programs; requiring a certain physical examination for
+7 student participation in an interscholastic sport to include a cardiovascular
+8 prescreening under certain circumstances; requiring an individual performing a
+9 cardiovascular prescreening to make certain notices under certain circumstances;
+10 and generally relating to cardiovascular prescreening for interscholastic sports.
 
-13 BY repealing and reenacting, with amendments,
-14 Article – Education
-15 Section 7–436
-16 Annotated Code of Maryland
-17 (2025 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, with amendments,
+12 Article – Education
+13 Section 7–436
+14 Annotated Code of Maryland
+15 (2025 Replacement Volume and 2025 Supplement)
 
-18 BY adding to
-19 Article – Education
-20 Section 7–436.1
-21 Annotated Code of Maryland
-22 (2025 Replacement Volume and 2025 Supplement)
+16 BY adding to
+17 Article – Education
+18 Section 7–436.1
+19 Annotated Code of Maryland
+20 (2025 Replacement Volume and 2025 Supplement)
 
-23 BY repealing and reenacting, without amendments,
-24 Article – Health – General
-25 Section 14–501(a)(1), (3), and (5) and (b)
-26 Annotated Code of Maryland
-27 (2023 Replacement Volume and 2025 Supplement)
-
-28 BY repealing and reenacting, with amendments,
-29 Article – Health – General
-30 Section 14–501(a)(4)
-31 Annotated Code of Maryland
-32 (2023 Replacement Volume and 2025 Supplement)
-
-33 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-34 That the Laws of Maryland read as follows:
-END OF PAGE 1
+21 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+22 [Brackets] indicate matter deleted from existing law.
+23 Underlining indicates amendments to bill.
+24 Strike out indicates matter stricken from the bill by amendment or deleted from the law by
+25 amendment.
 
 START OF PAGE 2
-HOUSE BILL 837 2
 
-1 Article – Education
+1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+2 That the Laws of Maryland read as follows:
 
-2 7–436.
+3 Article – Education
 
-3 (a) (1) In this section the following words have the meanings indicated.
+4 7–436.
 
-4 (2) (i) “Athletic activity” means:
+5 (a) (1) In this section the following words have the meanings indicated.
 
-5 1. Interscholastic athletics;
+6 (2) (i) “Athletic activity” means:
 
-6 2. An athletic contest or competition that is sponsored by or
-7 associated with a school; and
+7 1. Interscholastic athletics;
 
-8 3. Practices and scrimmages.
+8 2. An athletic contest or competition that is sponsored by or
+9 associated with a school; and
 
-9 (ii) “Athletic activity” includes cheerleading and sports sponsored by
-10 school–affiliated organizations.
+10 3. Practices and scrimmages.
 
-11 (3) “Sudden cardiac arrest” means a condition in which the heart suddenly
-12 and unexpectedly stops beating.
+11 (ii) “Athletic activity” includes cheerleading and sports sponsored by
+12 school–affiliated organizations.
 
-13 (4) “Youth sports program” means a program organized for recreational
-14 athletic competition or instruction for participants who are under the age of 19 years.
+13 (3) “Sudden cardiac arrest” means a condition in which the heart suddenly
+14 and unexpectedly stops beating.
 
-15 (b) Nothing in this section may be construed to create, establish, expand, reduce,
-16 contract, or eliminate any civil liability on the part of a county board employee, school
-17 employee, or youth sports program volunteer.
+15 (4) “Youth sports program” means a program organized for recreational
+16 athletic competition or instruction for participants who are under the age of 19 years.
 
-18 (c) (1) The Department shall develop policies and implement a program to
-19 provide awareness to coaches, school personnel, students, and the parents or guardians of
-20 students, in collaboration with the Maryland Department of Health, each county board, the
-21 Maryland Public Secondary Schools Athletic Association, the Maryland Athletic Trainers’
-22 Association, Parent Heart Watch, and licensed health care providers who treat heart
-23 issues, on:
+17 (b) Nothing in this section may be construed to create, establish, expand, reduce,
+18 contract, or eliminate any civil liability on the part of a county board employee, school
+19 employee, or youth sports program volunteer.
 
-24 (i) The nature and warning signs of sudden cardiac arrest, including
-25 fainting, difficulty breathing, chest pains, dizziness, and abnormal heart rate; and
+20 (c) (1) The Department shall develop policies and implement a program to
+21 provide awareness to coaches, school personnel, students, and the parents or guardians of
+22 students, in collaboration with the Maryland Department of Health, each county board, the
+23 Maryland Public Secondary Schools Athletic Association, the Maryland Athletic Trainers’
+24 Association, Parent Heart Watch, and licensed health care providers who treat heart
+25 issues, on:
 
-26 (ii) The risks associated with continuing to play or practice after
-27 experiencing a symptom of sudden cardiac arrest.
+26 (i) The nature and warning signs of sudden cardiac arrest, including
+27 fainting, difficulty breathing, chest pains, dizziness, and abnormal heart rate; and
 
-28 (2) The program shall include a process to verify that a coach has received
-29 information on the program developed under paragraph (1) of this subsection.
+28 (ii) The risks associated with continuing to play or practice after
+29 experiencing a symptom of sudden cardiac arrest.
 
-30 (3) (i) Before a student enrolled in a public school system in the State
-31 may participate in an authorized athletic activity, the county board shall provide a sudden
-32 cardiac arrest symptoms and warning signs information sheet to the student and a parent
-33 or guardian of the student.
-END OF PAGE 2
+30 (2) The program shall include a process to verify that a coach has received
+31 information on the program developed under paragraph (1) of this subsection.
+
+32 (3) (i) Before a student enrolled in a public school system in the State
+33 may participate in an authorized athletic activity, the county board shall provide a sudden
 
 START OF PAGE 3
-HOUSE BILL 837 3
 
-1 (ii) The student and the parent or guardian of the student shall sign
-2 a statement acknowledging receipt of the information sheet.
+1 cardiac arrest symptoms and warning signs information sheet to the student and a parent
+2 or guardian of the student.
 
-3 (iii) The Department shall create the information sheet and
-4 acknowledgment statement required under this paragraph.
+3 (ii) The student and the parent or guardian of the student shall sign
+4 a statement acknowledging receipt of the information sheet.
 
-5 (4) The Department may use materials available from the Centers for
-6 Disease Control and Prevention, Parent Heart Watch, Sudden Arrhythmia Death
-7 Syndromes Foundation, or any other appropriate entity to carry out the requirements of
-8 this subsection.
+5 (iii) The Department shall create the information sheet and
+6 acknowledgment statement required under this paragraph.
 
-9 (d) A public school may hold an informational meeting before the start of each
-10 athletic season regarding the symptoms and warning signs of sudden cardiac arrest.
+7 (4) The Department may use materials available from the Centers for
+8 Disease Control and Prevention, Parent Heart Watch, Sudden Arrhythmia Death
+9 Syndromes Foundation, or any other appropriate entity to carry out the requirements of
+10 this subsection.
 
-11 (e) (1) Before an individual participates in an authorized athletic activity on
-12 school property, the county board shall provide, or require that a third party provide:
+11 (d) A public school may hold an informational meeting before the start of each
+12 athletic season regarding the symptoms and warning signs of sudden cardiac arrest.
 
-13 (i) Information on sudden cardiac arrest to the individual and, if
-14 applicable, a parent or guardian of the individual; and
+13 (e) (1) Before an individual participates in an authorized athletic activity on
+14 school property, the county board shall provide, or require that a third party provide:
 
-15 (ii) Notice that acknowledgment of the receipt of the information by
-16 the individual and, if applicable, the parent or guardian of the individual, is required.
+15 (i) Information on sudden cardiac arrest to the individual and, if
+16 applicable, a parent or guardian of the individual; and
 
-17 (2) The information required under paragraph (1) of this subsection shall
-18 be in the form of:
+17 (ii) Notice that acknowledgment of the receipt of the information by
+18 the individual and, if applicable, the parent or guardian of the individual, is required.
 
-19 (i) A separate information sheet; or
+19 (2) The information required under paragraph (1) of this subsection shall
+20 be in the form of:
 
-20 (ii) A notice on the registration form for a youth sports program
-21 stating that information on sudden cardiac arrest is available, including directions on how
-22 to receive the information electronically.
+21 (i) A separate information sheet; or
 
-23 (3) The individual and, if applicable, the parent or guardian of the
-24 individual shall:
+22 (ii) A notice on the registration form for a youth sports program
+23 stating that information on sudden cardiac arrest is available, including directions on how
+24 to receive the information electronically.
 
-25 (i) Acknowledge receipt of the information by:
+25 (3) The individual and, if applicable, the parent or guardian of the
+26 individual shall:
 
-26 1. Signature;
+27 (i) Acknowledge receipt of the information by:
 
-27 2. Checking an acknowledgment box on the registration
-28 form; or
+28 1. Signature;
 
-29 3. Another method of written or electronic acknowledgment;
-30 and
+29 2. Checking an acknowledgment box on the registration
+30 form; or
 
-31 (ii) Return the acknowledgment to the county board or third party.
+31 3. Another method of written or electronic acknowledgment;
+32 and
 
-32 (f) (1) A youth sports program that uses a public school facility shall provide
-END OF PAGE 3
+33 (ii) Return the acknowledgment to the county board or third party.
 
 START OF PAGE 4
-HOUSE BILL 837 4
 
-1 annually to the county board or the board’s agent a statement of intent to comply for all its
-2 athletic activities with the requirements of subsection (e) of this section.
+1 (f) (1) A youth sports program that uses a public school facility shall provide
+2 annually to the county board or the board’s agent a statement of intent to comply for all its
+3 athletic activities with the requirements of subsection (e) of this section.
 
-3 (2) A youth sports program that does not use a public school facility is
-4 encouraged to follow the guidelines of this section.
+4 (2) A youth sports program that does not use a public school facility is
+5 encouraged to follow the guidelines of this section.
 
-5 (3) A NONPUBLIC SCHOOL THAT HOLDS A CERTIFICATE OF APPROVAL
-6 ISSUED BY THE STATE BOARD UNDER § 2–206 OF THIS ARTICLE SHALL DEVELOP
-7 POLICIES AND PROGRAMS TO IMPLEMENT THE REQUIREMENTS OF THIS SECTION
-8 FOR ITS STUDENT ATHLETIC ACTIVITIES.
+6 (3) A NONPUBLIC SCHOOL THAT HOLDS A CERTIFICATE OF APPROVAL
+7 ISSUED BY THE STATE BOARD UNDER § 2–206 OF THIS ARTICLE SHALL DEVELOP
+8 POLICIES AND PROGRAMS TO IMPLEMENT THE REQUIREMENTS OF THIS SECTION
+9 FOR ITS STUDENT ATHLETIC ACTIVITIES.
 
-9 7–436.1.
+10 7–436.1.
 
-10 (A) IN THIS SECTION, “CARDIOVASCULAR PRESCREENING” MEANS A SET
-11 OF QUESTIONS DESIGNED TO ASSESS AN INDIVIDUAL’S HEART HEALTH, IDENTIFY
-12 RISK FACTORS FOR HEART DISEASE, AND DETECT ANY UNDERLYING
-13 CARDIOVASCULAR ABNORMALITIES BEFORE SYMPTOMS APPEAR, INCLUDING:
+11 (A) IN THIS SECTION, “CARDIOVASCULAR PRESCREENING” MEANS A SET
+12 OF QUESTIONS DESIGNED TO ASSESS AN INDIVIDUAL’S HEART HEALTH, IDENTIFY
+13 RISK FACTORS FOR HEART DISEASE, AND DETECT ANY UNDERLYING
+14 CARDIOVASCULAR ABNORMALITIES BEFORE SYMPTOMS APPEAR, INCLUDING:
 
-14 (1) A TARGETED PERSONAL AND FAMILY HISTORY; AND
+15 (1) A TARGETED PERSONAL AND FAMILY HISTORY; AND
 
-15 (2) A PHYSICAL EXAMINATION BASED ON NATIONALLY
-16 RECOGNIZED, EVIDENCE–BASED GUIDELINES RECOMMENDED BY
-17 ORGANIZATIONS FOCUSED ON CARDIOVASCULAR CARE IN PEDIATRIC
-18 POPULATIONS.
+16 (2) A PHYSICAL EXAMINATION BASED ON NATIONALLY
+17 RECOGNIZED, EVIDENCE–BASED GUIDELINES RECOMMENDED BY
+18 ORGANIZATIONS FOCUSED ON CARDIOVASCULAR CARE IN PEDIATRIC
+19 POPULATIONS.
 
-19 (B) THIS SECTION APPLIES TO PUBLIC SCHOOLS AND NONPUBLIC
-20 SCHOOLS THAT HOLD A CERTIFICATE OF APPROVAL ISSUED BY THE STATE
-21 BOARD UNDER § 2–206 OF THIS ARTICLE.
+20 (B) THIS SECTION APPLIES TO PUBLIC SCHOOLS AND NONPUBLIC
+21 SCHOOLS THAT HOLD A CERTIFICATE OF APPROVAL ISSUED BY THE STATE
+22 BOARD UNDER § 2–206 OF THIS ARTICLE.
 
-22 (C) (1) SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION, A
-23 PHYSICAL EXAMINATION OF A STUDENT USED TO DETERMINE THE STUDENT’S
-24 PHYSICAL FITNESS TO PARTICIPATE IN AN INTERSCHOLASTIC SPORT, INCLUDING
-25 A TRY–OUT, PRACTICE, OR CONTEST OF A SCHOOL TEAM, SHALL INCLUDE A FREE
-26 CARDIOVASCULAR PRESCREENING IN ACCORDANCE WITH THIS SECTION BEFORE
-27 THE STUDENT PARTICIPATES IN THE INTERSCHOLASTIC SPORT.
+23 (C) (1) SUBJECT TO THE REQUIREMENTS OF THIS SUBSECTION, A
+24 PHYSICAL EXAMINATION OF A STUDENT USED TO DETERMINE THE STUDENT’S
+25 PHYSICAL FITNESS TO PARTICIPATE IN AN INTERSCHOLASTIC SPORT, INCLUDING
+26 A TRY–OUT, PRACTICE, OR CONTEST OF A SCHOOL TEAM, SHALL INCLUDE A FREE
+27 CARDIOVASCULAR PRESCREENING IN ACCORDANCE WITH THIS SECTION BEFORE
+28 THE STUDENT PARTICIPATES IN THE INTERSCHOLASTIC SPORT.
 
-28 (2) THE CARDIOVASCULAR PRESCREENING SHALL BE OFFERED AS
-29 PART OF THE PROCESS THE SCHOOL REQUIRES FOR A PHYSICAL EXAMINATION
-30 BEFORE A STUDENT PARTICIPATES IN INTERSCHOLASTIC SPORTS.
+29 (2) THE CARDIOVASCULAR PRESCREENING SHALL BE OFFERED AS
+30 PART OF THE PROCESS THE SCHOOL REQUIRES FOR A PHYSICAL EXAMINATION
+31 BEFORE A STUDENT PARTICIPATES IN INTERSCHOLASTIC SPORTS.
 
-31 (3) A CARDIOVASCULAR PRESCREENING IS NOT REQUIRED UNDER
-32 THIS SECTION IF:
+32 (3) A CARDIOVASCULAR PRESCREENING IS NOT REQUIRED UNDER
+33 THIS SECTION IF:
 
-33 (I) THE SCHOOL OR LOCAL SCHOOL SYSTEM DOES NOT
-34 REQUIRE A PHYSICAL EXAMINATION BEFORE A STUDENT PARTICIPATES IN
-35 INTERSCHOLASTIC SPORTS; OR
-END OF PAGE 4
+34 (I) THE SCHOOL OR LOCAL SCHOOL SYSTEM DOES NOT
+35 REQUIRE A PHYSICAL EXAMINATION BEFORE A STUDENT PARTICIPATES IN
+36 INTERSCHOLASTIC SPORTS; OR
 
 START OF PAGE 5
-HOUSE BILL 837 5
 
 1 (II) SUBJECT TO PARAGRAPH (4) OF THIS SUBSECTION, THE
 2 CARDIOVASCULAR PRESCREENING IS NOT AVAILABLE FOR FREE.
@@ -261,20 +247,27 @@ HOUSE BILL 837 5
 
 31 (5) “Youth sports program” means a program organized for recreational
 32 athletic competition or instruction for participants who are under the age of 19 years.
-END OF PAGE 5
+
+33 (b) (1) A youth sports program shall make available information on
+34 concussions, head injuries, and sudden cardiac arrest developed by the State Department
+35 of Education under §§ 7–433 and 7–436 of the Education Article to coaches, youth athletes,
+36 and the parents or guardians of youth athletes.
 
 START OF PAGE 6
-HOUSE BILL 837 6
 
-1 (b) (1) A youth sports program shall make available information on
-2 concussions, head injuries, and sudden cardiac arrest developed by the State Department
-3 of Education under §§ 7–433 and 7–436 of the Education Article to coaches, youth athletes,
-4 and the parents or guardians of youth athletes.
+1 (2) A coach of a youth sports program shall review the information provided
+2 in paragraph (1) of this subsection.
 
-5 (2) A coach of a youth sports program shall review the information provided
-6 in paragraph (1) of this subsection.
+3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+4 1, 2026.
 
-7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-8 1, 2026.
-END OF PAGE 6
-</bill>
+5 Approved:
+
+6 ________________________________________________________________________________
+7 Governor.
+
+8 ________________________________________________________________________________
+9 Speaker of the House of Delegates.
+
+10 ________________________________________________________________________________
+11 President of the Senate.

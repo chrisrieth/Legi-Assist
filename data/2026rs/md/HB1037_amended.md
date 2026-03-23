@@ -11,72 +11,319 @@ Wims
 Introduced and read first time: February 9, 2026
 Assigned to: Environment and Transportation
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Public Service Commission – Broadband and Voice Over Internet Protocol
-3 Service – Study
+3 Service – ~~Oversight~~ Study
+4 ~~(Broadband Accountability and Affordability Act)~~
 
-5 FOR the purpose of requiring the Public Service Commission to conduct a study and make
-6 recommendations on the potential scope, structure, and implementation of Commission
-7 oversight of broadband service and voice over Internet protocol service;
-11 and generally relating to broadband service and voice over Internet protocol service.
+5 FOR the purpose of ~~authorizing~~ requiring the Public Service Commission to ~~exercise~~ ~~certain~~
+6 ~~oversight~~ ~~of~~ ~~broadband~~ ~~service~~ ~~and~~ ~~voice~~ ~~over~~ ~~Internet~~ ~~protocol~~ ~~service;~~ ~~requiring~~ ~~the~~
+7 ~~Commission~~ ~~to~~ ~~assess~~ ~~the~~ ~~adequacy~~ ~~of~~ ~~certain~~ ~~plans~~ ~~for~~ ~~each~~ ~~Internet~~ ~~service~~
+8 ~~provider;~~ ~~authorizing~~ ~~the~~ ~~Commission~~ ~~to~~ ~~conduct~~ ~~certain~~ ~~evaluations~~ ~~or~~ ~~audits~~ ~~and~~
+9 ~~require~~ ~~certain~~ ~~remedial~~ ~~action~~ ~~under~~ ~~certain~~ ~~circumstances;~~ ~~repealing~~ ~~provisions~~ ~~of~~
+10 ~~law~~ ~~prohibiting~~ ~~the~~ ~~Commission~~ ~~from~~ ~~regulating~~ ~~voice~~ ~~over~~ ~~Internet~~ ~~protocol~~ ~~service;~~
+11 conduct a study and make recommendations on the potential scope, structure, and
+12 implementation of Commission oversight of broadband service and voice over
+13 Internet protocol service.
+14 ~~and generally relating to broadband service and voice over~~
+15 ~~Internet protocol service.~~
+16 ~~BY adding to~~
+17 ~~Article – Public Utilities~~
+18 ~~Section 5–107~~
+19 ~~Annotated Code of Maryland~~
+20 ~~(2025 Replacement Volume and 2025 Supplement)~~
+21 ~~BY repealing~~
+22 ~~Article – Public Utilities~~
 
-23 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-24 That
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1037*
+END OF PAGE 1
 
-(a) (1) In this section the following words have the meanings indicated.
+START OF PAGE 2
+HOUSE BILL 1037
 
-(2) (i) “Broadband service” means a mass–market retail service that provides the capability to transmit data to and receive data from all or substantially all Internet endpoints, including any capabilities that are incidental to and enable the operation of communications services provided by an Internet service provider.
+1 ~~Section 8–601 and 8–602 and the subtitle “Subtitle 6. Voice over Internet Protocol~~
+2 ~~Service”~~
+3 ~~Annotated Code of Maryland~~
+4 ~~(2025 Replacement Volume and 2025 Supplement)~~
 
-(ii) “Broadband service” does not include dial–up Internet service.
+5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+6 That:
 
-(3) “Internet service provider” means an entity that provides broadband service to a customer in the State through any of the following modes:
+7 (a) (1) In this section the following words have the meanings indicated.
 
-(i) wireline;
+8 (2) (i) “Broadband service” means a mass–market retail service that
+9 provides the capability to transmit data to and receive data from all or substantially all
+10 Internet endpoints, including any capabilities that are incidental to and enable the
+11 operation of communications services provided by an Internet service provider.
 
-(ii) fixed wireless;
+12 (ii) “Broadband service” does not include dial–up Internet service.
 
-(iii) mobile wireless; or
+13 (3) “Internet service provider” means an entity that provides broadband
+14 service to a customer in the State through any of the following modes:
 
-(iv) satellite.
+15 (i) wireline;
 
-(4) (i) “Voice over Internet protocol service” or “VoIP service” means any service that:
+16 (ii) fixed wireless;
 
-1. enables real–time two–way voice communications that originate from or terminate to the subscriber end user’s location requiring Internet protocol or any successor protocol to Internet protocol; and
+17 (iii) mobile wireless; or
 
-2. requires a broadband connection from the user’s location.
+18 (iv) satellite.
 
-(ii) “Voice over Internet protocol service” or “VoIP service” includes any service that allows users generally to receive calls that originate on the public switched telephone network and to terminate calls to the public switched telephone network.
+19 (4) (i) “Voice over Internet protocol service” or “VoIP service” means
+20 any service that:
 
-(b) The Public Service Commission shall conduct a study and make recommendations regarding the potential scope, structure, and implementation of Commission oversight of broadband service and VoIP service in the State, including considering:
+21 1. enables real–time two–way voice communications that
+22 originate from or terminate to the subscriber end user’s location requiring Internet protocol
+23 or any successor protocol to Internet protocol; and
 
-(1) the extent to which federal jurisdiction preempts State regulation of broadband service and VoIP service;
+24 2. requires a broadband connection from the user’s location.
 
-(2) an appropriate regulatory framework to implement oversight of broadband service and VoIP service that encompasses:
+25 (ii) “Voice over Internet protocol service” or “VoIP service” includes
+26 any service that allows users generally to receive calls that originate on the public switched
+27 telephone network and to terminate calls to the public switched telephone network.
 
-(i) standards for Internet service provider resiliency and reliability, including the requirement to submit outage data;
+28 (b) The Public Service Commission shall conduct a study and make
+29 recommendations regarding the potential scope, structure, and implementation of
+30 Commission oversight of broadband service and VoIP service in the State, including
+31 considering:
+END OF PAGE 2
 
-(ii) standards for Internet service provider emergency preparedness;
+START OF PAGE 3
+HOUSE BILL 1037 3
 
-(iii) public disclosure reporting requirements for the availability, deployment, pricing, and adoption of broadband services and VoIP services;
+1 (1) the extent to which federal jurisdiction preempts State regulation of
+2 broadband service and VoIP service;
 
-(iv) a customer complaint process at the Commission; and
+3 (2) an appropriate regulatory framework to implement oversight of
+4 broadband service and VoIP service that encompasses:
 
-(v) a publicly accessible resource that contains information on broadband services, including prices;
+5 (i) standards for Internet service provider resiliency and reliability,
+6 including the requirement to submit outage data;
 
-(3) the applicability of the current regulatory framework for landline telecommunications to the regulation of broadband services and VoIP services;
+7 (ii) standards for Internet service provider emergency preparedness;
 
-(4) the expected cost to the Commission to implement the appropriate regulatory framework and obtain the resources necessary to regulate broadband services and VoIP services;
+8 (iii) public disclosure reporting requirements for the availability,
+9 deployment, pricing, and adoption of broadband services and VoIP services;
 
-(5) statutory mechanisms and regulatory mechanisms utilized in other states to oversee broadband services and VoIP services; and
+10 (iv) a customer complaint process at the Commission; and
 
-(6) any legislative changes that must be enacted to establish the Commission’s oversight authority.
+11 (v) a publicly accessible resource that contains information on
+12 broadband services, including prices;
 
-(c) On or before December 31, 2026, the Public Service Commission shall report, in accordance with § 2–1257 of the State Government Article, its findings and recommendations to the Senate Committee on Education, Energy, and the Environment, the House Environment and Transportation Committee, and the General Assembly.
+13 (3) the applicability of the current regulatory framework for landline
+14 telecommunications to the regulation of broadband services and VoIP services;
 
-20 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-21 July 1, 2026.
+15 (4) the expected cost to the Commission to implement the appropriate
+16 regulatory framework and obtain the resources necessary to regulate broadband services
+17 and VoIP services;
+
+18 (5) statutory mechanisms and regulatory mechanisms utilized in other
+19 states to oversee broadband services and VoIP services; and
+
+20 (6) any legislative changes that must be enacted to establish the
+21 Commission’s oversight authority.
+
+22 (c) On or before December 31, 2026, the Public Service Commission shall report,
+23 in accordance with § 2–1257 of the State Government Article, its findings and
+24 recommendations to the Senate Committee on Education, Energy, and the Environment,
+25 the House Environment and Transportation Committee, and the General Assembly.
+
+26 ~~Article – Public Utilities~~
+
+27 ~~5–107.~~
+
+28 ~~ (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS~~
+29 ~~INDICATED.~~
+
+30 ~~ (2) (I) “BROADBAND SERVICE” MEANS A MASS–MARKET RETAIL~~
+31 ~~SERVICE THAT PROVIDES THE CAPABILITY TO TRANSMIT DATA TO AND RECEIVE~~
+END OF PAGE 3
+
+START OF PAGE 4
+4 HOUSE BILL 1037
+
+1 ~~DATA FROM ALL OR SUBSTANTIALLY ALL INTERNET ENDPOINTS, INCLUDING ANY~~
+2 ~~CAPABILITIES THAT ARE INCIDENTAL TO AND ENABLE THE OPERATION OF~~
+3 ~~COMMUNICATIONS SERVICES PROVIDED BY A WIRELINE, FIXED WIRELESS, MOBILE~~
+4 ~~WIRELESS BROADBAND, OR SATELLITE SERVICE PROVIDER.~~
+
+5 ~~ (II) “BROADBAND SERVICE” DOES NOT INCLUDE DIAL–UP~~
+6 ~~INTERNET SERVICE.~~
+
+7 ~~ (3) “INTERNET SERVICE PROVIDER” MEANS AN ENTITY THAT~~
+8 ~~PROVIDES BROADBAND SERVICE TO A CUSTOMER IN THE STATE.~~
+
+9 ~~ (4) (I) “VOICE OVER INTERNET PROTOCOL SERVICE” OR “VOIP~~
+10 ~~SERVICE” MEANS ANY SERVICE THAT:~~
+
+11 ~~ 1. ENABLES REAL–TIME TWO–WAY VOICE~~
+12 ~~COMMUNICATIONS THAT ORIGINATE FROM OR TERMINATE TO THE SUBSCRIBER END~~
+13 ~~USER’S LOCATION REQUIRING INTERNET PROTOCOL OR ANY SUCCESSOR PROTOCOL~~
+14 ~~TO INTERNET PROTOCOL; AND~~
+
+15 ~~ 2. REQUIRES A BROADBAND CONNECTION FROM THE~~
+16 ~~USER’S LOCATION.~~
+
+17 ~~ (II) “VOICE OVER INTERNET PROTOCOL SERVICE” OR “VOIP~~
+18 ~~SERVICE” INCLUDES ANY SERVICE THAT ALLOWS USERS GENERALLY TO RECEIVE~~
+19 ~~CALLS THAT ORIGINATE ON THE PUBLIC SWITCHED TELEPHONE NETWORK AND TO~~
+20 ~~TERMINATE CALLS TO THE PUBLIC SWITCHED TELEPHONE NETWORK.~~
+
+21 ~~ (B) THE COMMISSION MAY EXERCISE OVERSIGHT OF BROADBAND SERVICE~~
+22 ~~AND VOIP SERVICE.~~
+
+23 ~~ (C) THE COMMISSION SHALL ADOPT REGULATIONS TO IMPLEMENT~~
+24 ~~EFFECTIVE OVERSIGHT OF THE QUALITY, RELIABILITY, AND RESILIENCE OF~~
+25 ~~BROADBAND SERVICE AND VOIP SERVICE, INCLUDING:~~
+
+26 ~~ (1) ESTABLISHING STANDARDS TO ENSURE THE RESILIENCE AND~~
+27 ~~RELIABILITY OF BROADBAND INFRASTRUCTURE;~~
+
+28 ~~ (2) REQUIRING EACH INTERNET SERVICE PROVIDER TO:~~
+
+29 ~~ (I) SUBMIT INFORMATION RELATING TO NETWORK~~
+30 ~~RELIABILITY, INCLUDING REPORTING OUTAGES;~~
+END OF PAGE 4
+
+START OF PAGE 5
+HOUSE BILL 1037 5
+
+1 ~~ (II) MAINTAIN NETWORKS SUFFICIENTLY IN ORDER TO ENSURE~~
+2 ~~RELIABLE, SAFE, AND ADEQUATE SERVICES;~~
+
+3 ~~ (III) REPORT DATA ON THE AVAILABILITY, DEPLOYMENT,~~
+4 ~~PRICING, AND ADOPTION OF BROADBAND SERVICES AND VOIP SERVICES; AND~~
+
+5 ~~ (IV) SUBMIT TO THE COMMISSION THE PROVIDER’S PLANS FOR~~
+6 ~~EMERGENCY PREPAREDNESS AND POSTEMERGENCY NETWORK RESTORATION;~~
+
+7 ~~ (3) ESTABLISHING A SYSTEM FOR ASSESSING THE ADEQUACY OF~~
+8 ~~INTERNET SERVICE PROVIDERS’ PLANS FOR EMERGENCY PREPAREDNESS AND~~
+9 ~~POSTEMERGENCY NETWORK RESTORATION; AND~~
+
+10 ~~ (4) ESTABLISHING MINIMUM REQUIREMENTS FOR BACKUP POWER~~
+11 ~~GENERATION.~~
+
+12 ~~ (D) THE COMMISSION SHALL ASSESS THE ADEQUACY OF EACH INTERNET~~
+13 ~~SERVICE PROVIDER’S PLAN FOR EMERGENCY PREPAREDNESS AND~~
+14 ~~POSTEMERGENCY NETWORK RESTORATION IN ACCORDANCE WITH REGULATIONS~~
+15 ~~ADOPTED UNDER THIS SECTION.~~
+
+16 ~~ (E) (1) ON RECEIPT OF A COMPLAINT FROM A CUSTOMER OR BASED ON~~
+17 ~~DATA COLLECTED FROM PROVIDERS, THE COMMISSION MAY CONDUCT AN~~
+18 ~~EVALUATION OR AUDIT OF AN INTERNET SERVICE PROVIDER’S FACILITIES AND~~
+19 ~~INFRASTRUCTURE TO ASSESS SERVICE QUALITY, PUBLIC SAFETY CONCERNS, OR~~
+20 ~~NETWORK RESILIENCE.~~
+
+21 ~~ (2) THE COMMISSION MAY HOLD A HEARING AS PART OF THE~~
+22 ~~EVALUATION OR AUDIT AUTHORIZED UNDER PARAGRAPH (1) OF THIS SUBSECTION.~~
+
+23 ~~ (3) IF THE COMMISSION DETERMINES THAT THE PRACTICES,~~
+24 ~~FACILITIES, OR SERVICES OF AN INTERNET SERVICE PROVIDER ARE UNJUST,~~
+25 ~~UNREASONABLE, UNSAFE, IMPROPER, OR INADEQUATE TO ENSURE NETWORK~~
+26 ~~RELIABILITY, RESILIENCE, AND PUBLIC SAFETY IN ACCORDANCE WITH THE~~
+27 ~~STANDARDS ESTABLISHED UNDER SUBSECTION (C) OF THIS SECTION, THE~~
+28 ~~COMMISSION MAY REQUIRE THE PROVIDER TO UNDERTAKE REMEDIAL ACTIONS.~~
+
+29 ~~ (F) ON OR BEFORE JANUARY 1, 2028, AND EACH JANUARY 1 THEREAFTER,~~
+30 ~~THE COMMISSION SHALL REPORT TO THE GENERAL ASSEMBLY, IN ACCORDANCE~~
+31 ~~WITH § 2–1257 OF THE STATE GOVERNMENT ARTICLE, ON PROGRESS MADE~~
+32 ~~TOWARD IMPROVING SERVICE QUALITY, PUBLIC SAFETY, AND NETWORK~~
+33 ~~RESILIENCE.~~
 END OF PAGE 5
+
+START OF PAGE 6
+6 HOUSE BILL 1037
+
+1 ~~ (G) (1) NOTHING IN THIS SECTION MAY BE CONSTRUED TO LIMIT ANY~~
+2 ~~RIGHT OR AUTHORITY GRANTED TO THE OFFICE OF STATEWIDE BROADBAND~~
+3 ~~UNDER TITLE 6.5 OF THE HOUSING AND COMMUNITY DEVELOPMENT ARTICLE.~~
+
+4 ~~ (2) THE COMMISSION MAY COORDINATE WITH THE OFFICE OF~~
+5 ~~STATEWIDE BROADBAND WHEN COLLECTING DATA TO CARRY OUT THE PROVISIONS~~
+6 ~~OF THIS SECTION.~~
+
+7 ~~ [Subtitle 6. Voice over Internet Protocol Service.] ~~
+
+8 ~~ [8–601. ~~
+
+9 ~~ In this subtitle: ~~
+
+10 ~~ (1) “voice over Internet protocol service” or “VoIP service” means any ~~
+11 ~~ service that: ~~
+
+12 ~~ (i) enables real–time two–way voice communications that originate ~~
+13 ~~ from or terminate to the subscriber end user’s location requiring Internet protocol or any ~~
+14 ~~ successor protocol to Internet protocol; and ~~
+
+15 ~~ (ii) requires a broadband connection from the user’s location; and ~~
+
+16 ~~ (2) “voice over Internet protocol service” or “VoIP service” includes any ~~
+17 ~~ such service that permits users generally to receive calls that originate on the public ~~
+18 ~~ switched telephone network and to terminate calls to the public switched telephone ~~
+19 ~~ network.] ~~
+
+20 ~~ [8–602. ~~
+
+21 ~~ (a) The Commission does not have jurisdiction over the regulation of VoIP service, ~~
+22 ~~ including the imposition of regulatory fees, certification requirements, and the filing or ~~
+23 ~~ approval of tariffs. ~~
+
+24 ~~ (b) Nothing in this subtitle may be construed to: ~~
+
+25 ~~ (1) require or prohibit the assessment of 9–1–1 fees in accordance with § ~~
+26 ~~ 1–310 of the Public Safety Article on VoIP; ~~
+
+27 ~~ (2) require or prohibit the assessment of fees for telecommunications relay ~~
+28 ~~ service under Title 3, Subtitle 8 of the State Finance and Procurement Article; ~~
+
+29 ~~ (3) require or prohibit the payment of any switched network access rates ~~
+30 ~~ or other intercarrier compensation rates that may be determined to apply; ~~
+END OF PAGE 6
+
+START OF PAGE 7
+HOUSE BILL 1037 7
+
+1 ~~ (4) relieve a company that is otherwise subject to § 8–201 of this title of its ~~
+2 ~~ obligation to provide telephone lifeline service over local exchange access lines that are ~~
+3 ~~ subject to the Commission’s jurisdiction; ~~
+
+4 ~~ (5) exempt VoIP service from generally applicable State and federal laws ~~
+5 ~~ relating to public safety, consumer protection, and unfair and deceptive trade practices, or ~~
+6 ~~ to exempt VoIP service from the authority of the Division of Consumer Protection in the ~~
+7 ~~ Office of the Attorney General; or ~~
+
+8 ~~ (6) remove the Commission’s jurisdiction over circuit switched local ~~
+9 ~~ exchange access service. ~~
+
+10 ~~ (c) A company that moves a customer from a Commission–approved tariff service ~~
+11 ~~ to VoIP service shall notify the customer that the Commission does not have jurisdiction ~~
+12 ~~ over the regulation of VoIP service and that complaints about VoIP service may be filed ~~
+13 ~~ with the Division of Consumer Protection in the Office of the Attorney General.] ~~
+
+14 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+15 ~~October~~ July 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 7
 </bill>

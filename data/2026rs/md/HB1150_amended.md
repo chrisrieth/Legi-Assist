@@ -5,19 +5,25 @@ HOUSE BILL 1150
 J2 6lr2189
 CF SB 506
 
-By: Delegates Kerr, Alston, Bagnall, Cullison, Guzzone, Hill, Kaufman, Lopez, Martinez, Rosenberg, Ross, Taveras, White Holland, and Woorman
+By: ~~Delegate~~ ~~Kerr~~ Delegates Kerr, Alston, Bagnall, Cullison, Guzzone, Hill,
+Kaufman, Lopez, Martinez, Rosenberg, Ross, Taveras, White Holland, and
+Woorman
 Introduced and read first time: February 11, 2026
 Assigned to: Health
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Health Occupations – Pharmacists – Minor Conditions and HIV Prevention and
-3 Treatment (Rapid Testing and Preventive Care Act)
+3 Treatment
+4 (Rapid Testing and Preventive Care Act)
 
-4
-5 FOR the purpose of authorizing pharmacists, under certain circumstances, to prescribe,
+5 FOR the authorize pharmacists, under certain circumstances, to prescribe,
 6 administer, and dispense certain drugs or devices and perform and interpret certain
 7 laboratory tests; repealing provisions establishing and governing the
 8 Nonoccupational Postexposure Prophylaxis (nPEP) Standing Order Program;
@@ -36,193 +42,199 @@ A BILL ENTITLED
 19 BY repealing and reenacting, without amendments,
 20 Article – Health Occupations
 21 Section 12–101(a)
-22 Annotated Code of Maryland
-23 (2021 Replacement Volume and 2025 Supplement)
-
-24 BY repealing and reenacting, with amendments,
-25 Article – Health Occupations
-26 Section 12–101(x)
-27 Annotated Code of Maryland
-28 (2021 Replacement Volume and 2025 Supplement)
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1150*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1150*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1150
 
-1 BY adding to
-2 Article – Health Occupations
-3 Section 12–515 and 12–516
-4 Annotated Code of Maryland
-5 (2021 Replacement Volume and 2025 Supplement)
+1 Annotated Code of Maryland
+2 (2021 Replacement Volume and 2025 Supplement)
 
-6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-7 That Sections(s) 13–5301 through 13–5303 and the subtitle “Subtitle 53. Nonoccupational
-8 Postexposure Prophylaxis (nPEP) Standing Order Program” of Article – Health – General
-9 of the Annotated Code of Maryland be repealed.
+3 BY repealing and reenacting, with amendments,
+4 Article – Health Occupations
+5 Section 12–101(x)
+6 Annotated Code of Maryland
+7 (2021 Replacement Volume and 2025 Supplement)
 
-10 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
-11 as follows:
+8 BY adding to
+9 Article – Health Occupations
+10 Section 12–515 and 12–516
+11 Annotated Code of Maryland
+12 (2021 Replacement Volume and 2025 Supplement)
 
-12 Article – Health Occupations
+13 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+14 That Sections(s) 13–5301 through 13–5303 and the subtitle “Subtitle 53. Nonoccupational
+15 Postexposure Prophylaxis (nPEP) Standing Order Program” of Article – Health – General
+16 of the Annotated Code of Maryland be repealed.
 
-13 12–101.
+17 SECTION 2. AND BE IT FURTHER ENACTED, That the Laws of Maryland read
+18 as follows:
 
-14 (a) In this title the following words have the meanings indicated.
+19 Article – Health Occupations
 
-15 (x) (1) “Practice pharmacy” means to engage in any of the following activities:
+20 12–101.
 
-16 (i) Providing pharmaceutical care;
+21 (a) In this title the following words have the meanings indicated.
 
-17 (ii) Compounding, dispensing, or distributing prescription drugs or
-18 devices;
+22 (x) (1) “Practice pharmacy” means to engage in any of the following activities:
 
-19 (iii) Compounding or dispensing nonprescription drugs or devices;
+23 (i) Providing pharmaceutical care;
 
-20 (iv) Monitoring prescriptions for prescription and nonprescription
-21 drugs or devices;
+24 (ii) Compounding, dispensing, or distributing prescription drugs or
+25 devices;
 
-22 (v) Providing information, explanation, or recommendations to
-23 patients and health care practitioners about the safe and effective use of prescription or
-24 nonprescription drugs or devices;
+26 (iii) Compounding or dispensing nonprescription drugs or devices;
 
-25 (vi) Identifying and appraising problems concerning the use or
-26 monitoring of therapy with drugs or devices;
+27 (iv) Monitoring prescriptions for prescription and nonprescription
+28 drugs or devices;
 
-27 (vii) Acting within the parameters of a therapy management contract,
-28 as provided under Subtitle 6A of this title;
+29 (v) Providing information, explanation, or recommendations to
+30 patients and health care practitioners about the safe and effective use of prescription or
+31 nonprescription drugs or devices;
 
-29 (viii) Administering vaccinations in accordance with § 12–508 of this
-30 title or self–administered drugs or maintenance injectable medications in accordance with
-31 § 12–509 of this title;
+32 (vi) Identifying and appraising problems concerning the use or
+33 monitoring of therapy with drugs or devices;
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1150 3
 
-1 (ix) Delegating a pharmacy act to a registered pharmacy technician,
-2 pharmacy student, or an individual engaged in a Board approved pharmacy technician
-3 training program;
+1 (vii) Acting within the parameters of a therapy management contract,
+2 as provided under Subtitle 6A of this title;
 
-4 (x) Supervising a delegated pharmacy act performed by a registered
-5 pharmacy technician, pharmacy student, or an individual engaged in a Board approved
-6 pharmacy technician training program;
+3 (viii) Administering vaccinations in accordance with § 12–508 of this
+4 title or self–administered drugs or maintenance injectable medications in accordance with
+5 § 12–509 of this title;
 
-7 (xi) Providing drug therapy management in accordance with §
-8 19–713.6 of the Health – General Article;
+6 (ix) Delegating a pharmacy act to a registered pharmacy technician,
+7 pharmacy student, or an individual engaged in a Board approved pharmacy technician
+8 training program;
 
-9 (xii) Prescribing and dispensing contraceptive medications and
-10 self–administered contraceptive devices approved by the U.S. Food and Drug
-11 Administration;
+9 (x) Supervising a delegated pharmacy act performed by a registered
+10 pharmacy technician, pharmacy student, or an individual engaged in a Board approved
+11 pharmacy technician training program;
 
-12 (xiii) Prescribing and dispensing nicotine replacement therapy
-13 medications; [or
+12 (xi) Providing drug therapy management in accordance with §
+13 19–713.6 of the Health – General Article;
 
-14 (xiv) If the pharmacist is registered with the Nonoccupational
-15 Postexposure Prophylaxis (nPEP) Standing Order Program established under § 13–5302 of
-16 the Health – General Article, dispensing nonoccupational postexposure prophylaxis (nPEP)
-17 medication approved by the U.S. Food and Drug Administration and in accordance with
-18 “Updated Guidelines for Antiretroviral Postexposure Prophylaxis After Sexual, Injection
-19 Drug Use, or Other Nonoccupational Exposure to HIV – United States 2016” or subsequent
-20 guidelines published by the federal Centers for Disease Control and Prevention]
+14 (xii) Prescribing and dispensing contraceptive medications and
+15 self–administered contraceptive devices approved by the U.S. Food and Drug
+16 Administration;
 
-21 (XIV) IN ACCORDANCE WITH § 12–515 OF THIS TITLE,
-22 PRESCRIBING DRUGS OR DEVICES, EXCLUDING CONTROLLED SUBSTANCES, THAT
-23 ARE PRESCRIBED:
+17 (xiii) Prescribing and dispensing nicotine replacement therapy
+18 medications; [or
 
-24 1. IN ACCORDANCE WITH THE PRODUCT’S U.S. FOOD
-25 AND DRUG ADMINISTRATION–APPROVED LABELING; AND
+19 (xiv) If the pharmacist is registered with the Nonoccupational
+20 Postexposure Prophylaxis (nPEP) Standing Order Program established under § 13–5302 of
+21 the Health – General Article, dispensing nonoccupational postexposure prophylaxis (nPEP)
+22 medication approved by the U.S. Food and Drug Administration and in accordance with
+23 “Updated Guidelines for Antiretroviral Postexposure Prophylaxis After Sexual, Injection
+24 Drug Use, or Other Nonoccupational Exposure to HIV – United States 2016” or subsequent
+25 guidelines published by the federal Centers for Disease Control and Prevention]
 
-26 2. TO TREAT CONDITIONS THAT HAVE A TEST THAT IS USED TO GUIDE DIAGNOSIS OR
-27 CLINICAL DECISION MAKING THAT IS CLASSIFIED AS WAIVED UNDER THE FEDERAL
-28 CLINICAL LABORATORY IMPROVEMENT AMENDMENTS OF 1988; OR
+26 (XIV) IN ACCORDANCE WITH § 12–515 OF THIS TITLE,
+27 PRESCRIBING DRUGS OR DEVICES, EXCLUDING CONTROLLED SUBSTANCES, THAT
+28 ARE PRESCRIBED HAVE A TEST THAT IS USED TO GUIDE
+29 DIAGNOSIS OR CLINICAL DECISION MAKING THAT IS CLASSIFIED AS WAIVED UNDER
+30 THE FEDERAL CLINICAL LABORATORY IMPROVEMENT AMENDMENTS OF 1988; OR
 
-29 (XV) IN ACCORDANCE WITH § 12–516 OF THIS TITLE:
+31 (XV) IN ACCORDANCE WITH § 12–516 OF THIS TITLE:
+
+32 1. PERFORMING AND INTERPRETING LABORATORY
+33 TESTS FOR HUMAN IMMUNODEFICIENCY VIRUS; AND
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 1150
 
-1 1. PERFORMING AND INTERPRETING LABORATORY
-2 TESTS FOR HUMAN IMMUNODEFICIENCY VIRUS; AND
+1 2. PRESCRIBING AND DISPENSING PRE–EXPOSURE
+2 PROPHYLAXIS AND POSTEXPOSURE PROPHYLAXIS MEDICATIONS.
 
-3 2. PRESCRIBING AND DISPENSING PRE–EXPOSURE
-4 PROPHYLAXIS AND POSTEXPOSURE PROPHYLAXIS MEDICATIONS.
+3 (2) “Practice pharmacy” does not include the operations of a person who
+4 holds a permit issued under § 12–6C–03 of this title.
 
-5 (2) “Practice pharmacy” does not include the operations of a person who
-6 holds a permit issued under § 12–6C–03 of this title.
+5 12–515.
 
-7 12–515.
+6 (A) IN ACCORDANCE WITH A STATEWIDE WRITTEN PROTOCOL ESTABLISHED
+7 BY THE STATE BOARD OF PHARMACY, A PHARMACIST MAY ORDER A TEST FOR, TEST
+8 FOR, SCREEN FOR, AND TREAT MINOR CONDITIONS, INCLUDING:
 
-8 (A) IN ACCORDANCE WITH A STATEWIDE WRITTEN PROTOCOL ESTABLISHED
-9 BY THE STATE BOARD OF PHARMACY, A PHARMACIST MAY ORDER A TEST FOR,
-10 TEST FOR, SCREEN FOR, AND TREAT MINOR CONDITIONS, INCLUDING:
+9 (1) GROUP A STREPTOCOCCUS PHARYNGITIS;
 
-11 (1) GROUP A STREPTOCOCCUS PHARYNGITIS;
+10 (2) INFLUENZA;
 
-12 (2) INFLUENZA;
+11 (3) COVID–19 AND OTHER RESPIRATORY ILLNESSES,
+12 CONDITIONS, OR DISEASES;
 
-13 (3) COVID–19 AND OTHER RESPIRATORY ILLNESSES, CONDITIONS,
-14 OR DISEASES;
+13 (4) ATHLETE’S FOOT; AND
 
-15 (4) ATHLETE’S FOOT; AND
+14 (5) OTHER EMERGING AND EXISTING PUBLIC HEALTH THREATS
+15 IDENTIFIED BY THE DEPARTMENT, IF AUTHORIZED BY AN ORDER, A RULE, OR A
+16 REGULATION.
 
-16 (5) OTHER EMERGING AND EXISTING PUBLIC HEALTH THREATS
-17 IDENTIFIED BY THE DEPARTMENT, IF AUTHORIZED BY AN ORDER, A RULE, OR A
-18 REGULATION.
+17 (B) (1) A PHARMACIST WHO ORDERS A TEST FOR, TESTS FOR, SCREENS
+18 FOR, OR TREATS A HEALTH CONDITION UNDER THIS SECTION MAY USE ANY TEST
+19 THAT MAY GUIDE CLINICAL DECISION MAKING THAT IS CLASSIFIED AS WAIVED
+20 UNDER THE FEDERAL CLINICAL LABORATORY IMPROVEMENT AMENDMENTS OF
+21 1988, THE FEDERAL RULES ADOPTED UNDER THE FEDERAL CLINICAL LABORATORY
+22 IMPROVEMENT AMENDMENTS OF 1988, OR ANY SCREENING PROCEDURE THAT IS
+23 ESTABLISHED BY STATEWIDE WRITTEN PROTOCOL.
 
-19 (B) (1) A PHARMACIST WHO ORDERS A TEST FOR, TESTS FOR, SCREENS FOR, OR
-20 TREATS A HEALTH CONDITION UNDER THIS SECTION MAY USE ANY TEST THAT MAY
-21 GUIDE CLINICAL DECISION MAKING THAT IS CLASSIFIED AS WAIVED UNDER THE
-22 FEDERAL CLINICAL LABORATORY IMPROVEMENT AMENDMENTS OF 1988, THE
-23 FEDERAL RULES ADOPTED UNDER THE FEDERAL CLINICAL LABORATORY
-24 IMPROVEMENT AMENDMENTS OF 1988, OR ANY SCREENING PROCEDURE THAT IS
-25 ESTABLISHED BY STATEWIDE WRITTEN PROTOCOL.
+24 (2) A TEST PERFORMED UNDER THIS SUBSECTION DOES NOT
+25 REQUIRE A LETTER OF EXCEPTION FROM THE DEPARTMENT.
 
-26 (2) A TEST PERFORMED UNDER THIS SUBSECTION DOES NOT
-27 REQUIRE A LETTER OF EXCEPTION FROM THE DEPARTMENT.
+26 (C) A PHARMACIST MAY DELEGATE THE ADMINISTRATIVE AND TECHNICAL
+27 TASKS OF PERFORMING A TEST CLASSIFIED AS WAIVED UNDER THE FEDERAL
+28 CLINICAL LABORATORY IMPROVEMENT AMENDMENTS OF 1988 TO:
+
+29 (1) A REGISTERED PHARMACY TECHNICIAN; OR
+
+30 (2) A REGISTERED PHARMACY INTERN.
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 1150 5
 
-1 (C) A PHARMACIST MAY DELEGATE THE ADMINISTRATIVE AND TECHNICAL
-2 TASKS OF PERFORMING A TEST CLASSIFIED AS WAIVED UNDER THE FEDERAL
-3 CLINICAL LABORATORY IMPROVEMENT AMENDMENTS OF 1988 TO:
+1 12–516.
 
-4 (1) A REGISTERED PHARMACY TECHNICIAN; OR
+2 (A) THE DEPARTMENT MAY ESTABLISH A STATEWIDE WRITTEN PROTOCOL
+3 FOR THE DELIVERY OF PRE–EXPOSURE PROPHYLAXIS AND POSTEXPOSURE
+4 PROPHYLAXIS MEDICATIONS FOR THE PREVENTION AND TREATMENT OF HUMAN
+5 IMMUNODEFICIENCY VIRUS.
 
-5 (2) A REGISTERED PHARMACY INTERN.
+6 (B) IN ACCORDANCE WITH THE STATEWIDE WRITTEN PROTOCOL
+7 ESTABLISHED UNDER SUBSECTION (A) OF THIS SECTION, A PHARMACIST MAY:
 
-6
-7
-8
+8 (1) PERFORM AND INTERPRET LABORATORY TESTS;
 
-9 12–516.
+9 (2) CONDUCT ASSESSMENTS AND CONSULTATIONS;
 
-10 (A) THE DEPARTMENT MAY ESTABLISH A STATEWIDE WRITTEN PROTOCOL
-11 FOR THE DELIVERY OF PRE–EXPOSURE PROPHYLAXIS AND POSTEXPOSURE
-12 PROPHYLAXIS MEDICATIONS FOR THE PREVENTION AND TREATMENT OF HUMAN
-13 IMMUNODEFICIENCY VIRUS.
+10 (3) INITIATE, DISPENSE, OR ADMINISTER:
 
-14 (B) IN ACCORDANCE WITH THE STATEWIDE WRITTEN PROTOCOL
-15 ESTABLISHED UNDER SUBSECTION (A) OF THIS SECTION, A PHARMACIST MAY:
+11 (I) PRE–EXPOSURE PROPHYLAXIS MEDICATIONS; OR
 
-16 (1) PERFORM AND INTERPRET LABORATORY TESTS;
+12 (II) POSTEXPOSURE PROPHYLAXIS MEDICATIONS; AND
 
-17 (2) CONDUCT ASSESSMENTS AND CONSULTATIONS;
+13 (4) PROVIDE REFERRALS FOR ADDITIONAL CARE.
 
-18 (3) INITIATE, DISPENSE, OR ADMINISTER:
+14 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
+15 October 1, 2026.
 
-19 (I) PRE–EXPOSURE PROPHYLAXIS MEDICATIONS; OR
+Approved:
 
-20 (II) POSTEXPOSURE PROPHYLAXIS MEDICATIONS; AND
+________________________________________________________________________________
+Governor.
 
-21 (4) PROVIDE REFERRALS FOR ADDITIONAL CARE.
+________________________________________________________________________________
+Speaker of the House of Delegates.
 
-22 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect
-23 October 1, 2026.
+________________________________________________________________________________
+President of the Senate.
 END OF PAGE 5
 </bill>

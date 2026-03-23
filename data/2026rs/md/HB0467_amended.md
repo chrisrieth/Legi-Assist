@@ -3,34 +3,38 @@ START OF PAGE 1
 HOUSE BILL 467
 
 E5 6lr0767
-CF 6lr0726
+CF SB 822
 
 By: Delegates Embry, Boyce, Fair, Kaufman, Moreno, Pasteur, Phillips, Ruth,
-Simmons, Stinnett, Wolek, Conaway, and Woods
+Simmons, Stinnett, ~~and~~ ~~Wolek~~ Wolek, Conaway, and Woods
 Introduced and read first time: January 23, 2026
 Assigned to: Judiciary
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Correctional Services – Maryland Parole Commission – Improvements in
 3 Transparency and Equity
 
-4 For the purpose of requiring the annual report of the Maryland Parole Commission to
+4 FOR the purpose of requiring the annual report of the Maryland Parole Commission to
 5 include certain information; altering a certain provision of law to require the
-6 Commission to provide certain documents to a certain incarcerated individual and the incarcerated individual’s representative at a
-7 certain time, rather than allow the incarcerated individual to examine the
-8 documents on request; requiring the Commission to document, state on the record,
-9 provide to an incarcerated individual, and make available to the public certain
-10 information; altering the time periods within which the Commission is required to
-11 issue certain reports; providing that the Commission does not have the authority to
-12 permanently deny parole; providing that a certain incarcerated individual is entitled
-13 to a subsequent parole hearing at a certain time; requiring the Commission to record
-14 each hearing at a certain time; requiring each hearing recording to be made available
-15 to the public subject to certain disclosure requirements, to be redacted in a certain manner, to be retained for a certain amount
-16 of time, and to contain certain materials; and generally relating to the Maryland
-17 Parole Commission.
+6 Commission to provide certain documents to a certain incarcerated individual and the incarcerated individual’s representative at a certain time, rather than allow the
+7 incarcerated individual to examine the documents on request; requiring the
+8 Commission to document, state on the record, provide to an incarcerated individual,
+9 and make available to the public certain information; altering the time periods
+10 within which the Commission is required to issue certain reports; providing that the
+11 Commission does not have the authority to permanently deny parole; providing that
+12 a certain incarcerated individual is entitled to a subsequent parole hearing at a
+13 certain time; requiring the Commission to record each hearing at a certain time;
+14 requiring each hearing recording to be made available to the public subject to certain
+15 disclosure requirements, to be redacted in a certain manner, to be retained for a
+16 certain amount of time, and to contain certain materials; and generally relating to
+17 the Maryland Parole Commission.
 
 18 BY repealing and reenacting, with amendments,
 19 Article – Correctional Services
@@ -38,299 +42,326 @@ A BILL ENTITLED
 21 Annotated Code of Maryland
 22 (2025 Replacement Volume)
 
-23 BY adding to
-24 Article – Correctional Services
-25 Section 7–307.1 and 7–307.2
-26 Annotated Code of Maryland
-27 (2025 Replacement Volume)
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0467*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0467*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 467
 
-1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-2 That the Laws of Maryland read as follows:
+1 BY adding to
+2 Article – Correctional Services
+3 Section 7–307.1 and 7–307.2
+4 Annotated Code of Maryland
+5 (2025 Replacement Volume)
 
-3 Article – Correctional Services
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
 
-4 7–208.
+8 Article – Correctional Services
 
-5 (A) The Commission shall:
+9 7–208.
 
-6 (1) maintain a record of its actions;
+10 (A) The Commission shall:
 
-7 (2) make an annual report to the Governor of its work; and
+11 (1) maintain a record of its actions;
 
-8 (3) make appropriate recommendations for the improvement of its
-9 functions.
+12 (2) make an annual report to the Governor of its work; and
 
-10 (B) THE ANNUAL REPORT REQUIRED UNDER SUBSECTION (A)(2) OF THIS
-11 SECTION SHALL INCLUDE THE FOLLOWING INFORMATION, DISAGGREGATED BY
-12 RACE OF THE RELEVANT INCARCERATED INDIVIDUALS:
+13 (3) make appropriate recommendations for the improvement of its
+14 functions.
 
-13 (1) THE NUMBER OF CASES IN WHICH THE COMMISSION GRANTED
-14 PAROLE;
+15 (B) THE ANNUAL REPORT REQUIRED UNDER SUBSECTION (A)(2) OF THIS
+16 SECTION SHALL INCLUDE THE FOLLOWING INFORMATION, DISAGGREGATED BY
+17 RACE OF THE RELEVANT INCARCERATED INDIVIDUALS:
 
-15 (2) THE NUMBER OF CASES IN WHICH THE COMMISSION DENIED
-16 PAROLE AND THE REASON FOR EACH DENIAL;
+18 (1) THE NUMBER OF CASES IN WHICH THE COMMISSION GRANTED
+19 PAROLE;
 
-17 (3) THE NUMBER OF INCARCERATED INDIVIDUALS WHO WERE
-18 GRANTED ADMINISTRATIVE RELEASE;
+20 (2) THE NUMBER OF CASES IN WHICH THE COMMISSION DENIED
+21 PAROLE AND THE REASON FOR EACH DENIAL;
 
-19 (4) THE NUMBER OF HEARINGS HELD AND THE PURPOSE OF EACH
-20 HEARING;
+22 (3) THE NUMBER OF INCARCERATED INDIVIDUALS WHO WERE
+23 GRANTED ADMINISTRATIVE RELEASE;
 
-21 (5) THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE
-22 PAROLE–ELIGIBLE BUT HAVE NOT BEEN GRANTED PAROLE;
+24 (4) THE NUMBER OF HEARINGS HELD AND THE PURPOSE OF EACH
+25 HEARING;
 
-23 (6) THE NUMBER OF ADMINISTRATIVE REVIEWS COMPLETED BY
-24 THE COMMISSION; AND
+26 (5) THE NUMBER OF INCARCERATED INDIVIDUALS WHO ARE
+27 PAROLE–ELIGIBLE BUT HAVE NOT BEEN GRANTED PAROLE;
 
-25 (7) THE NUMBER OF PAROLE REVOCATION HEARINGS HELD AND
-26 THE OUTCOME OF EACH PAROLE REVOCATION HEARING.
-
-27 7–303.
-
-28 (a) Before any hearing on parole release, the Commission shall give the
-29 incarcerated individual AND THE INCARCERATED INDIVIDUAL’S REPRESENTATIVE:
-
-30 (1) adequate and timely written notice of:
-
-31 [(1)] (I) the date, time, and place of the hearing; and
+28 (6) THE NUMBER OF ADMINISTRATIVE REVIEWS COMPLETED BY THE
+29 COMMISSION; AND
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 467 3
 
-1 [(2)] (II) the factors that the Commission or hearing examiner will
-2 consider in determining whether the incarcerated individual is suitable for parole; AND
+1 (7) THE NUMBER OF PAROLE REVOCATION HEARINGS HELD AND THE
+2 OUTCOME OF EACH PAROLE REVOCATION HEARING.
 
-3 (2) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION,
-4 COPIES OF ALL DOCUMENTS that the Commission or hearing examiner will use in
-5 determining whether the incarcerated individual is suitable for parole, INCLUDING:
+3 7–303.
 
-6 (I) THE CASE PLAN;
+4 (a) Before any hearing on parole release, the Commission shall give the
+5 incarcerated individual AND THE INCARCERATED INDIVIDUAL’S REPRESENTATIVE:
 
-7 (II) THE PRE–PAROLE SUMMARY;
+6 (1) adequate and timely written notice of:
 
-8 (III) THE FULL REPORT OF ANY RISK ASSESSMENT
-9 COMPLETED IN PREPARATION FOR THE HEARING ON PAROLE RELEASE; AND
+7 [(1)] (I) the date, time, and place of the hearing; and
 
-10 (IV) THE CASE MANAGER’S RECOMMENDATION.
+8 [(2)] (II) the factors that the Commission or hearing examiner will
+9 consider in determining whether the incarcerated individual is suitable for parole[.
 
-11 (B) (1) A document, or a portion of it, is not available for
-12 examination if the Commission determines that:
+10 (b) (1) (i) Except as provided in subparagraph (ii) of this paragraph, the
+11 notice also shall indicate that, before the hearing, the incarcerated individual or the
+12 incarcerated individual’s representative may, on request, examine any document]; AND
 
-13 (I) the document or portion contains a diagnostic
-14 opinion AND THE DIAGNOSING CLINICIAN HAS DETERMINED IN WRITING THAT DISCLOSURE OF THE DIAGNOSTIC OPINION IS CONTRAINDICATED;
+13 (2) EXCEPT AS PROVIDED IN SUBSECTION (B) OF THIS SECTION,
+14 COPIES OF ALL DOCUMENTS that the Commission or hearing examiner will use in
+15 determining whether the incarcerated individual is suitable for parole, INCLUDING:
 
-15 (II) the incarcerated individual’s knowledge of the
-16 document or portion would disrupt seriously a program of rehabilitation;
+16 (I) THE CASE PLAN;
 
-17 (III) the document or portion contains sources of
-18 information obtained on a promise of confidentiality; or
+17 (II) THE PRE–PAROLE SUMMARY;
 
-19 (IV) the document or portion is otherwise privileged.
+18 (III) THE FULL REPORT OF ANY RISK ASSESSMENT COMPLETED
+19 IN PREPARATION FOR THE HEARING ON PAROLE RELEASE; AND
 
-20 (2) If the Commission determines that a document or a
-21 portion of it is not available for examination, the Commission shall notify the incarcerated
-22 individual that:
+20 (IV) THE CASE MANAGER’S RECOMMENDATION.
 
-23 (I) the document or portion is not available for
-24 examination; and
+21 [(ii)] (B) (1) A document, or a portion of it, is not available for
+22 examination[,] if the Commission determines that:
 
-25 (II) on request and if appropriate, the Commission will
-26 provide the incarcerated individual or the incarcerated individual’s representative with the
-27 substance of any information contained in the document or portion.
+23 [1.] (I) the document or portion contains a diagnostic
+24 opinion AND THE DIAGNOSING CLINICIAN HAS DETERMINED IN WRITING THAT
+25 DISCLOSURE OF THE DIAGNOSTIC OPINION IS CONTRAINDICATED;
 
-28 (C) The Commission shall delete the address and phone number of
-29 the victim or the victim’s designated representative from a document before the
-30 incarcerated individual or the incarcerated individual’s representative examines the
-31 document.
+26 [2.] (II) the incarcerated individual’s knowledge of the
+27 document or portion would disrupt seriously a program of rehabilitation;
 
-32 7–304.
-
-33 (b) The vote of each commissioner when acting collectively or in a panel, to
-34 approve or deny parole, THE PANEL’S REASONING AND JUSTIFICATIONS
+28 [3.] (III) the document or portion contains sources of
+29 information obtained on a promise of confidentiality; or
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 467
 
-1 FOR THE PANEL’S DECISION, and a vote to close or restrict access to a parole hearing
-2 under subsection (d) of this section, shall be made available to the public.
+1 [4.] (IV) the document or portion is otherwise privileged.
 
-3 7–305.
+2 [(iii)] (2) If the Commission determines that a document or a
+3 portion of it is not available for examination, the Commission shall notify the incarcerated
+4 individual that:
 
-4 Each hearing examiner and commissioner determining whether an incarcerated
-5 individual is suitable for parole, and the Commission before entering into a predetermined
-6 parole release agreement, shall consider:
+5 [1.] (I) the document or portion is not available for
+6 examination; and
 
-7 (7) ANY VICTIM’S ORIGINAL OR SUBSEQUENTLY FILED VICTIM
-8 IMPACT STATEMENT, an updated victim impact statement, or ANY recommendation
-9 prepared under § 7–801 of this title;
+7 [2.] (II) on request and if appropriate, the Commission will
+8 provide the incarcerated individual or the incarcerated individual’s representative with the
+9 substance of any information contained in the document or portion.
 
-10 7–306.
+10 [(2)] (C) The Commission shall delete the address and phone number of
+11 the victim or the victim’s designated representative from a document before the
+12 incarcerated individual or the incarcerated individual’s representative examines the
+13 document.
 
-11 (a) (1) The chairperson of the Commission shall assign hearing examiners, or
-12 commissioners acting as hearing examiners, as required to hear cases for parole.
+14 7–304.
 
-13 (2) Each proceeding before a hearing examiner shall be conducted in
-14 accordance with this section.
+15 (b) The vote of each commissioner when acting collectively or in a panel, to
+16 approve or deny parole, ~~EACH COMMISSIONER’S~~ THE PANEL’S REASONING AND
+17 JUSTIFICATIONS FOR THE ~~COMMISSIONER’S VOTE~~ PANEL’S DECISION, and a vote to
+18 close or restrict access to a parole hearing under subsection (d) of this section, shall be made
+19 available to the public.
 
-15 (b) The Commission shall keep a record of each hearing conducted by a hearing
-16 examiner.
+20 7–305.
 
-17 (c) A hearing examiner shall determine if an incarcerated individual is suitable
-18 for parole in accordance with the factors and other information specified in § 7–305 of this
-19 subtitle.
+21 Each hearing examiner and commissioner determining whether an incarcerated
+22 individual is suitable for parole, and the Commission before entering into a predetermined
+23 parole release agreement, shall consider:
 
-20 (d) (1) At the conclusion of the hearing, the hearing examiner shall inform the
-21 incarcerated individual of the hearing examiner’s recommendation for parole or denial of
-22 parole.
+24 (7) ANY VICTIM’S ORIGINAL OR SUBSEQUENTLY FILED VICTIM
+25 IMPACT STATEMENT, an updated victim impact statement, or ANY recommendation
+26 prepared under § 7–801 of this title;
 
-23 (2) Within [21] 14 days after the hearing, the hearing examiner shall give
-24 to the Commission, the Commissioner of Correction, and the incarcerated individual a
-25 written report of the hearing examiner’s findings and recommendation for parole or denial
-26 of parole, INCLUDING THE REASONING AND JUSTIFICATIONS FOR THE
-27 RECOMMENDATION.
+27 7–306.
 
-28 (3) The Commissioner of Correction or the incarcerated individual may file
-29 with the Commission written exceptions to the report of a hearing examiner no later than
-30 30 days after the report is received.
+28 (a) (1) The chairperson of the Commission shall assign hearing examiners, or
+29 commissioners acting as hearing examiners, as required to hear cases for parole.
 
-31 (e) (1) Subject to paragraph (2) of this subsection, one commissioner assigned
-32 by the chairperson of the Commission shall review summarily the recommendation of the
-33 hearing examiner.
+30 (2) Each proceeding before a hearing examiner shall be conducted in
+31 accordance with this section.
+
+32 (b) The Commission shall keep a record of each hearing conducted by a hearing
+33 examiner.
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 467 5
 
-1 (2) (i) The Commission, on its own initiative or on the filing of an
-2 exception, may schedule a hearing on the record by the entire Commission or by a panel of
-3 at least two commissioners assigned by the chairperson of the Commission.
+1 (c) A hearing examiner shall determine if an incarcerated individual is suitable
+2 for parole in accordance with the factors and other information specified in § 7–305 of this
+3 subtitle.
 
-4 (ii) The Commission or panel shall render a written decision on the
-5 appeal.
+4 (d) (1) At the conclusion of the hearing, the hearing examiner shall inform the
+5 incarcerated individual of the hearing examiner’s recommendation for parole or denial of
+6 parole.
 
-6 (iii) The decision of the Commission or panel is final.
+7 (2) Within [21] 14 days after the hearing, the hearing examiner shall give
+8 to the Commission, the Commissioner of Correction, and the incarcerated individual a
+9 written report of the hearing examiner’s findings and recommendation for parole or denial
+10 of parole, INCLUDING THE REASONING AND JUSTIFICATIONS FOR THE
+11 RECOMMENDATION.
 
-7 (3) If an exception is not filed and the Commission does not act on its own
-8 initiative within the 30–DAY appeal period established under subsection (d)(3) of this section,
-9 the recommendation of the hearing examiner is approved.
+12 (3) The Commissioner of Correction or the incarcerated individual may file
+13 with the Commission written exceptions to the report of a hearing examiner no later than
+14 ~~5~~ 30 days after the report is received.
 
-10 (4) (I) THE COMMISSION SHALL PROMPTLY GIVE THE
-11 INCARCERATED INDIVIDUAL WRITTEN NOTICE OF ITS FINAL DECISION UNDER THIS
-12 SECTION.
+15 (e) (1) Subject to paragraph (2) of this subsection, one commissioner assigned
+16 by the chairperson of the Commission shall review summarily the recommendation of the
+17 hearing examiner.
 
-13 (II) IF THE COMMISSION’S FINAL DECISION UNDER THIS
-14 SECTION IS TO DENY PAROLE, THE NOTICE REQUIRED UNDER SUBPARAGRAPH (I) OF
-15 THIS PARAGRAPH SHALL INCLUDE THE DATE OF THE INCARCERATED INDIVIDUAL’S
-16 NEXT PAROLE HEARING, IN ACCORDANCE WITH § 7–307.1 OF THIS SUBTITLE.
+18 (2) (i) The Commission, on its own initiative or on the filing of an
+19 exception, may schedule a hearing on the record by the entire Commission or by a panel of
+20 at least two commissioners assigned by the chairperson of the Commission.
 
-17 7–307.
+21 (ii) The Commission or panel shall render a written decision on the
+22 appeal.
 
-18 (a) (1) Except as provided in subsection (c) of this section, the chairperson of
-19 the Commission shall assign at least two commissioners to hear cases for parole release as
-20 a panel.
+23 (iii) The decision of the Commission or panel is final.
 
-21 (2) Each proceeding before a Commission panel shall be conducted in
-22 accordance with this section.
+24 (3) If an exception is not filed and the Commission does not act on its own
+25 initiative within the ~~5–day~~ 30–DAY appeal period established under subsection (d)(3) of
+26 this section, the recommendation of the hearing examiner is approved.
 
-23 (b) (1) (i) A Commission panel that consists of two commissioners shall
-24 determine, by unanimous vote, whether the incarcerated individual is suitable for parole
-25 in accordance with the factors and other information specified in § 7–305 of this subtitle.
+27 (4) (I) THE COMMISSION SHALL PROMPTLY GIVE THE
+28 INCARCERATED INDIVIDUAL WRITTEN NOTICE OF ITS FINAL DECISION UNDER THIS
+29 SECTION.
 
-26 (ii) If the two–commissioner panel is unable to reach a unanimous
-27 decision, the chairperson of the Commission shall convene a three–commissioner panel as
-28 soon as practicable to rehear the case.
+30 (II) IF THE COMMISSION’S FINAL DECISION UNDER THIS
+31 SECTION IS TO DENY PAROLE, THE NOTICE REQUIRED UNDER SUBPARAGRAPH (I) OF
+32 THIS PARAGRAPH SHALL INCLUDE THE DATE OF THE INCARCERATED INDIVIDUAL’S
+33 NEXT PAROLE HEARING, IN ACCORDANCE WITH § 7–307.1 OF THIS SUBTITLE.
 
-29 (2) A Commission panel that consists of three commissioners shall
-30 determine, by majority vote, whether the incarcerated individual is suitable for parole in
-31 accordance with the factors and other information specified in § 7–305 of this subtitle.
-
-32 (c) For an incarcerated individual who has been sentenced to life imprisonment
-33 after being convicted of a crime committed on or after October 1, 2021, at least six
+34 7–307.
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 467
 
-1 affirmative votes are required to approve the incarcerated individual for parole, based on
-2 consideration of the factors specified in § 7–305 of this subtitle.
+1 (a) (1) Except as provided in subsection (c) of this section, the chairperson of
+2 the Commission shall assign at least two commissioners to hear cases for parole release as
+3 a panel.
 
-3 (d) (1) The Commission panel shall inform the incarcerated individual and the
-4 appropriate correctional authority of the Commission’s FINAL decision as soon as possible, BUT NOT LATER THAN 12 MONTHS AFTER THE DATE OF THE PAROLE HEARING, INCLUDING ANY SUBSEQUENT INFORMATION GATHERING OR REVIEW.
+4 (2) Each proceeding before a Commission panel shall be conducted in
+5 accordance with this section.
 
-5 (2) If parole is denied, the Commission shall, WITHIN 14 DAYS AFTER THE
-6 HEARING, give the incarcerated individual:
+6 (b) (1) (i) A Commission panel that consists of two commissioners shall
+7 determine, by unanimous vote, whether the incarcerated individual is suitable for parole
+8 in accordance with the factors and other information specified in § 7–305 of this subtitle.
 
-7 (I) a written report of its findings [within 30 days after the hearing],
-8 INCLUDING THE REASONING AND JUSTIFICATIONS FOR THE DECISION; AND
+9 (ii) If the two–commissioner panel is unable to reach a unanimous
+10 decision, the chairperson of the Commission shall convene a three–commissioner panel as
+11 soon as practicable to rehear the case.
 
-9 (II) WRITTEN NOTICE OF THE DATE OF THE INCARCERATED
-10 INDIVIDUAL’S NEXT PAROLE HEARING, IN ACCORDANCE WITH § 7–307.1 OF THIS
-11 SUBTITLE.
+12 (2) A Commission panel that consists of three commissioners shall
+13 determine, by majority vote, whether the incarcerated individual is suitable for parole in
+14 accordance with the factors and other information specified in § 7–305 of this subtitle.
 
-12 7–307.1.
+15 (c) For an incarcerated individual who has been sentenced to life imprisonment
+16 after being convicted of a crime committed on or after October 1, 2021, at least six
+17 affirmative votes are required to approve the incarcerated individual for parole, based on
+18 consideration of the factors specified in § 7–305 of this subtitle.
 
-13 (A) THE COMMISSION DOES NOT HAVE THE AUTHORITY TO PERMANENTLY
-14 DENY PAROLE.
+19 (d) (1) The Commission panel shall inform the incarcerated individual and the
+20 appropriate correctional authority of the Commission’s FINAL decision as soon as possible,
+21 BUT NOT LATER THAN 12 MONTHS AFTER THE DATE OF THE PAROLE HEARING,
+22 INCLUDING ANY SUBSEQUENT INFORMATION GATHERING OR REVIEW.
 
-15 (B) AN INCARCERATED INDIVIDUAL IS ENTITLED TO A SUBSEQUENT
-16 PAROLE HEARING:
+23 (2) If parole is denied, the Commission shall, WITHIN 14 DAYS AFTER THE
+24 HEARING, give the incarcerated individual:
 
-17 (1) FOR AN INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF
-18 INCARCERATION OF 10 YEARS OR LESS, NOT LATER THAN 2 YEARS AFTER EACH
-19 PAROLE HEARING THAT RESULTS IN A DENIAL OF PAROLE;
+25 (I) a written report of its findings [within 30 days after the hearing],
+26 INCLUDING THE REASONING AND JUSTIFICATIONS FOR THE DECISION; AND
 
-20 (2) EXCEPT AS PROVIDED IN ITEM (3) OF THIS SUBSECTION, FOR AN
-21 INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF INCARCERATION
-22 EXCEEDING 10 YEARS, NOT LATER THAN 3 YEARS AFTER EACH PAROLE HEARING
-23 THAT RESULTS IN A DENIAL OF PAROLE; AND
+27 (II) WRITTEN NOTICE OF THE DATE OF THE INCARCERATED
+28 INDIVIDUAL’S NEXT PAROLE HEARING, IN ACCORDANCE WITH § 7–307.1 OF THIS
+29 SUBTITLE.
 
-24 (3) FOR AN INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF
-25 INCARCERATION EXCEEDING 20 YEARS FOR A CRIME AGAINST AN INDIVIDUAL, NOT
-26 LATER THAN 3 YEARS AFTER THE FIRST PAROLE HEARING THAT RESULTS IN A
-27 DENIAL OF PAROLE AND NOT LATER THAN 5 YEARS THEREAFTER.
+30 7–307.1.
 
-28 7–307.2.
-
-29 (A) THE COMMISSION SHALL RECORD EACH HEARING.
-
-30 (B) EACH HEARING RECORDING SHALL BE:
+31 (A) THE COMMISSION DOES NOT HAVE THE AUTHORITY TO PERMANENTLY
+32 DENY PAROLE.
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 467 7
 
-1 (1) REDACTED OF ALL PERSONALLY IDENTIFIABLE INFORMATION OF
-2 THE VICTIM;
+1 (B) AN INCARCERATED INDIVIDUAL IS ENTITLED TO A SUBSEQUENT
+2 PAROLE HEARING:
 
-3 (2) MADE READILY AVAILABLE AT NO COST TO THE INCARCERATED INDIVIDUAL; AND
+3 (1) FOR AN INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF
+4 INCARCERATION OF 10 YEARS OR LESS, NOT LATER THAN 2 YEARS AFTER EACH
+5 PAROLE HEARING THAT RESULTS IN A DENIAL OF PAROLE;
 
-4 (3) SUBJECT TO THE DISCLOSURE PROVISIONS OF § 3–602 OF THIS ARTICLE.
+6 (2) EXCEPT AS PROVIDED IN ITEM (3) OF THIS SUBSECTION, FOR AN
+7 INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF INCARCERATION
+8 EXCEEDING 10 YEARS, NOT LATER THAN 3 YEARS AFTER EACH PAROLE HEARING
+9 THAT RESULTS IN A DENIAL OF PAROLE; AND
 
-5 (C) EACH HEARING RECORDING SHALL BE RETAINED ELECTRONICALLY
-6 UNTIL 3 YEARS AFTER THE INCARCERATED INDIVIDUAL IS RELEASED FROM
-7 INCARCERATION, ALL POSTINCARCERATION SUPERVISION IS COMPLETED, AND ALL
-8 APPEALS ARE EXHAUSTED, WHICHEVER HAPPENS LAST.
+10 (3) FOR AN INCARCERATED INDIVIDUAL SENTENCED TO A PERIOD OF
+11 INCARCERATION EXCEEDING 20 YEARS FOR A CRIME AGAINST AN INDIVIDUAL, NOT
+12 LATER THAN 3 YEARS AFTER THE FIRST PAROLE HEARING THAT RESULTS IN A
+13 DENIAL OF PAROLE AND NOT LATER THAN 5 YEARS THEREAFTER.
 
-9 (D) AT THE CONCLUSION OF EACH HEARING, THE PRESIDING
-10 COMMISSIONER SHALL STATE THE FINDINGS, REASONING, AND JUSTIFICATIONS OF
-11 THE COMMISSION ON THE RECORD.
+14 7–307.2.
 
-12 (E) ANY STATEMENTS, RECOMMENDATIONS, AND OTHER MATERIALS
-13 CONSIDERED BY THE COMMISSION SHALL BE INCORPORATED INTO THE RECORDING
-14 OF THE HEARING, UNLESS CONFIDENTIALITY IS NECESSARY TO PRESERVE
-15 INSTITUTIONAL SECURITY OR THE SECURITY OF PERSONS WHO MIGHT BE
-16 ENDANGERED BY DISCLOSURE.
+15 (A) THE COMMISSION SHALL RECORD EACH HEARING.
 
-17 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-18 October 1, 2026.
+16 (B) EACH HEARING RECORDING SHALL BE:
+
+17 (1) REDACTED OF ALL PERSONALLY IDENTIFIABLE INFORMATION OF
+18 THE VICTIM;
+
+19 (2) MADE READILY AVAILABLE AT NO COST TO THE INCARCERATED
+20 INDIVIDUAL; AND
+
+21 (3) SUBJECT TO THE DISCLOSURE PROVISIONS OF § 3–602 OF THIS
+22 ARTICLE.
+
+23 (C) EACH HEARING RECORDING SHALL BE RETAINED ELECTRONICALLY
+24 UNTIL 3 YEARS AFTER THE INCARCERATED INDIVIDUAL IS RELEASED FROM
+25 INCARCERATION, ALL POSTINCARCERATION SUPERVISION IS COMPLETED, AND ALL
+26 APPEALS ARE EXHAUSTED, WHICHEVER HAPPENS LAST.
+
+27 (D) AT THE CONCLUSION OF EACH HEARING, THE PRESIDING
+28 COMMISSIONER SHALL STATE THE FINDINGS, REASONING, AND JUSTIFICATIONS OF
+29 THE COMMISSION ON THE RECORD.
+
+30 (E) ANY STATEMENTS, RECOMMENDATIONS, AND OTHER MATERIALS
+31 CONSIDERED BY THE COMMISSION SHALL BE INCORPORATED INTO THE RECORDING
 END OF PAGE 7
+
+START OF PAGE 8
+8 HOUSE BILL 467
+
+1 OF THE HEARING, UNLESS CONFIDENTIALITY IS NECESSARY TO PRESERVE
+2 INSTITUTIONAL SECURITY OR THE SECURITY OF PERSONS WHO MIGHT BE
+3 ENDANGERED BY DISCLOSURE.
+
+4 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+5 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 8
 </bill>

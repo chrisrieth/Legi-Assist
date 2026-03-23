@@ -5,11 +5,15 @@ HOUSE BILL 305
 N1 6lr0914
 HB 335/25 – ENT
 
-By: Baltimore County Delegation
+By: ~~Delegate~~ ~~Grammer~~ <u>Baltimore County Delegation</u>
 Introduced and read first time: January 15, 2026
 Assigned to: Government, Labor, and Elections
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
@@ -39,214 +43,229 @@ A BILL ENTITLED
 
 20 (a) (1) In this section the following words have the meanings indicated.
 
-21 (2) (I) “Community association” means a Maryland nonprofit
-22 ASSOCIATION, corporation, OR OTHER ORGANIZATION that IS:
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0305*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0305*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 305
 
-1 [(i) Is comprised of at least 20% of the total number of households as
-2 members, with a minimum membership of 25 households, of a local community that
-3 consists of 40 or more individual households as defined by specific geographic boundaries
-4 in the bylaws or charter of the community association;
+1 (2) (I) “Community association” means a Maryland nonprofit
+2 ASSOCIATION, corporation, OR OTHER ORGANIZATION that IS:
 
-5 (ii) Requires, as a condition of membership, the payment of
-6 monetary dues at least annually;]
+3 [(i) Is comprised of at least 20% of the total number of households as
+4 members, with a minimum membership of 25 households, of a local community that
+5 consists of 40 or more individual households as defined by specific geographic boundaries
+6 in the bylaws or charter of the community association;
 
-7 1. COMPOSED OF RESIDENTS OF A COMMUNITY THAT IS
-8 DEFINED BY SPECIFIC GEOGRAPHIC BOUNDARIES IN THE BYLAWS OR CHARTER OF
-9 THE COMMUNITY ASSOCIATION;
+7 (ii) Requires, as a condition of membership, the payment of
+8 monetary dues at least annually;]
 
-10 [(iii)] 2. [Is operated] OPERATED primarily for the promotion of
-11 social welfare and general neighborhood improvement and enhancement;
+9 1. COMPOSED OF RESIDENTS OF A COMMUNITY THAT IS
+10 DEFINED BY SPECIFIC GEOGRAPHIC BOUNDARIES IN THE BYLAWS OR CHARTER OF
+11 THE COMMUNITY ASSOCIATION;
 
-12 [(iv) Has been in existence for at least 1 year when it files suit under
-13 this section;]
+12 [(iii)] 2. [Is operated] OPERATED primarily for the promotion of
+13 social welfare and general neighborhood improvement and enhancement;
 
-14 [(v) 1.] 3. [Is exempt] EXEMPT from taxation under § 501(c)(3) or
-15 (4) OR § 528 of the Internal Revenue Code; [or
+14 [(iv) Has been in existence for at least 1 year when it files suit under
+15 this section;]
 
-16 2. Has been included for a period of at least 1 year prior to
-17 bringing an action under this section in the “Directory of Organizations in Baltimore
-18 County” that is published by the Baltimore County Public Library;] and
+16 [(v) 1.] 3. [Is exempt] EXEMPT from taxation under § 501(c)(3) or
+17 (4) OR § 528 of the Internal Revenue Code; [or
 
-19 [(vi)] 4. [Is] INCORPORATED AND in good standing WITH THE
-20 STATE DEPARTMENT OF ASSESSMENTS AND TAXATION.
+18 2. Has been included for a period of at least 1 year prior to
+19 bringing an action under this section in the “Directory of Organizations in Baltimore
+20 County” that is published by the Baltimore County Public Library;] and
 
-21 (II) “COMMUNITY ASSOCIATION” INCLUDES A MARYLAND
-22 NONPROFIT ASSOCIATION, CORPORATION, OR OTHER ORGANIZATION THAT:
+21 [(vi)] 4. [Is] INCORPORATED AND in good standing WITH THE
+22 STATE DEPARTMENT OF ASSESSMENTS AND TAXATION.
 
-23 1. MEETS THE REQUIREMENTS OF AN INDIVIDUAL
-24 COMMUNITY ASSOCIATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH; AND
+23 (II) “COMMUNITY ASSOCIATION” INCLUDES A MARYLAND
+24 NONPROFIT ASSOCIATION, CORPORATION, OR OTHER ORGANIZATION THAT:
 
-25 2. REPRESENTS TWO OR MORE INDIVIDUAL COMMUNITY
-26 ASSOCIATIONS.
+25 1. MEETS THE REQUIREMENTS OF AN INDIVIDUAL
+26 COMMUNITY ASSOCIATION UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH; AND
 
-27 (3) (I) “Local code violation” means a violation under ARTICLE 13,
-28 Title [22.] 7. “Nuisances” OR, EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
-29 PARAGRAPH, ARTICLE 35, “BUILDINGS AND HOUSING” of the Baltimore County Code
-30 [1988] 2015, AS AMENDED.
+27 2. REPRESENTS TWO OR MORE INDIVIDUAL COMMUNITY
+28 ASSOCIATIONS.
 
-31 (II) “LOCAL CODE VIOLATION” DOES NOT INCLUDE A
-32 VIOLATION UNDER:
+29 (3) (I) “Local code violation” means a violation under ARTICLE 13,
+30 Title [22.] 7. “Nuisances” OR, EXCEPT AS PROVIDED IN SUBPARAGRAPH (II) OF THIS
+31 PARAGRAPH, ARTICLE 35, “BUILDINGS AND HOUSING” of the Baltimore County Code
+32 [1988] 2015, AS AMENDED.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 305 3
 
-1 1. ARTICLE 35, TITLE 4. “RENT ESCROW LAW” OF THE
-2 BALTIMORE COUNTY CODE 2015, AS AMENDED; OR
+1 (II) “LOCAL CODE VIOLATION” DOES NOT INCLUDE A
+2 VIOLATION UNDER:
 
-3 2. ANY STORMWATER MANAGEMENT PROVISION OF THE
-4 BALTIMORE COUNTY CODE.
+3 1. ARTICLE 35, TITLE 4. “RENT ESCROW LAW” OF THE
+4 BALTIMORE COUNTY CODE 2015, AS AMENDED; OR
 
-5 (4) “Nuisance” means, within the boundaries of the community
-6 represented by the community association, an act or condition created, performed, or
-7 maintained on private property that constitutes a local code violation and that:
+5 2. ANY STORMWATER MANAGEMENT PROVISION OF THE
+6 BALTIMORE COUNTY CODE.
 
-8 (i) Negatively impacts the well–being of other residents of the
-9 neighborhood; and
+7 (4) “Nuisance” means, within the boundaries of the community
+8 represented by the community association, an act or condition created, performed, or
+9 maintained on private property that constitutes a local code violation and that:
 
-10 (ii) 1. Is injurious to public health, safety, or welfare of
-11 neighboring residents; or
+10 (i) Negatively impacts the well–being of other residents of the
+11 neighborhood; and
 
-12 2. Obstructs the reasonable use of other property in the
-13 neighborhood.
+12 (ii) 1. Is injurious to public health, safety, or welfare of
+13 neighboring residents; or
 
-14 (b) This section only applies to a nuisance located within the boundaries of
-15 Baltimore County.
+14 2. Obstructs the reasonable use of other property in the
+15 neighborhood.
 
-16 (c) (1) A community association may seek injunctive and other equitable relief
-17 in the Circuit Court for Baltimore County for abatement of a nuisance upon showing that:
+16 (b) This section only applies to a nuisance located within the boundaries of
+17 Baltimore County.
 
-18 (i) The notice requirements under paragraphs (2) and (3) of this
-19 subsection have been satisfied; and
+18 (c) (1) A community association may seek injunctive and other equitable relief
+19 in the Circuit Court for Baltimore County for abatement of a nuisance upon showing that:
 
-20 (ii) The nuisance has not been abated.
+20 (i) The notice requirements under paragraphs (2) and (3) of this
+21 subsection have been satisfied; and
 
-21 (2) (i) 1. An action may not be brought under this section based on
-22 a nuisance until 60 days after the community association gives notice of the violation and
-23 of the community association’s intent to bring an action under this section by certified mail,
-24 return receipt requested, to the County Code enforcement agency.
+22 (ii) The nuisance has not been abated.
 
-25 2. IF THE APPROPRIATE COUNTY CODE ENFORCEMENT
-26 AGENCY IS THE BALTIMORE COUNTY DEPARTMENT OF HOUSING AND COMMUNITY
-27 DEVELOPMENT, AN ACTION UNDER THIS SECTION MAY NOT BE BROUGHT IF THE
-28 BALTIMORE COUNTY DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
-29 PROVIDES A WRITTEN RESPONSE TO THE COMMUNITY ASSOCIATION WITHIN 60 DAYS
-30 AFTER RECEIVING THE NOTICE REQUIRED UNDER THIS SUBPARAGRAPH THAT THE
-31 PROPERTY THAT IS THE SUBJECT OF THE VIOLATION IS PART OF AN ACTIVE CODE
-32 ENFORCEMENT PLAN.
+23 (2) (i) 1. An action may not be brought under this section based on
+24 a nuisance until 60 days after the community association gives notice of the violation and
+25 of the community association’s intent to bring an action under this section by certified mail,
+26 return receipt requested, to the County Code enforcement agency.
 
-33 (ii) An action under this section may not be brought if the County
-34 Code enforcement agency has filed an action for equitable relief from the nuisance.
+27 2. IF THE APPROPRIATE COUNTY CODE ENFORCEMENT
+28 AGENCY IS THE BALTIMORE COUNTY DEPARTMENT OF HOUSING AND COMMUNITY
+29 DEVELOPMENT, AN ACTION UNDER THIS SECTION MAY NOT BE BROUGHT IF THE
+30 BALTIMORE COUNTY DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+31 PROVIDES A WRITTEN RESPONSE TO THE COMMUNITY ASSOCIATION WITHIN 60 DAYS
+32 AFTER RECEIVING THE NOTICE REQUIRED UNDER THIS SUBPARAGRAPH THAT THE
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 305
 
-1 (3) (i) An action may not be brought under this section until 60 days
-2 after the tenant, if any, and owner of record receive notice by certified mail, return receipt
-3 requested, from the community association that a nuisance exists and that legal action may
-4 be taken if the nuisance is not abated.
+1 PROPERTY THAT IS THE SUBJECT OF THE VIOLATION IS PART OF AN ACTIVE CODE
+2 ENFORCEMENT PLAN.
 
-5 (ii) The notice shall specify:
+3 (ii) An action under this section may not be brought if the County
+4 Code enforcement agency has filed an action for equitable relief from the nuisance.
 
-6 1. The nature of the alleged nuisance;
+5 (3) (i) An action may not be brought under this section until 60 days
+6 after the tenant, if any, and owner of record receive notice by certified mail, return receipt
+7 requested, from the community association that a nuisance exists and that legal action may
+8 be taken if the nuisance is not abated.
 
-7 2. The date and time of day the nuisance was first
-8 documented;
+9 (ii) The notice shall specify:
 
-9 3. The location on the property where the nuisance is
-10 allegedly occurring; and
+10 1. The nature of the alleged nuisance;
 
-11 4. The relief sought.
+11 2. The date and time of day the nuisance was first
+12 documented;
 
-12 (iii) 1. THE NOTICE SHALL BE PROVIDED TO THE TENANT, IF
-13 ANY, AND THE OWNER OF RECORD IN THE SAME MANNER AS SERVICE OF PROCESS
-14 IN A CIVIL IN PERSONAM ACTION UNDER THE MARYLAND RULES.
+13 3. The location on the property where the nuisance is
+14 allegedly occurring; and
 
-15 2. ADEQUATE AND SUFFICIENT NOTICE MAY BE GIVEN
-16 TO THE TENANT, IF ANY, AND THE OWNER OF RECORD BY SENDING A COPY OF THE
-17 NOTICE BY REGULAR MAIL AND POSTING A COPY OF THE NOTICE ON THE PROPERTY
-18 WHERE THE NUISANCE IS ALLEGEDLY OCCURRING, IF NOTICE SENT BY CERTIFIED
-19 MAIL IS:
+15 4. The relief sought.
 
-20 A. RETURNED UNCLAIMED OR REFUSED;
+16 (iii) 1. THE NOTICE SHALL BE PROVIDED TO THE TENANT, IF
+17 ANY, AND THE OWNER OF RECORD IN THE SAME MANNER AS SERVICE OF PROCESS
+18 IN A CIVIL IN PERSONAM ACTION UNDER THE MARYLAND RULES.
 
-21 B. DESIGNATED BY THE POST OFFICE TO BE
-22 UNDELIVERABLE FOR ANY OTHER REASON; OR
+19 2. ADEQUATE AND SUFFICIENT NOTICE MAY BE GIVEN
+20 TO THE TENANT, IF ANY, AND THE OWNER OF RECORD BY SENDING A COPY OF THE
+21 NOTICE BY REGULAR MAIL AND POSTING A COPY OF THE NOTICE ON THE PROPERTY
+22 WHERE THE NUISANCE IS ALLEGEDLY OCCURRING, IF NOTICE SENT BY CERTIFIED
+23 MAIL IS:
 
-23 C. SIGNED FOR BY A PERSON OTHER THAN THE
-24 ADDRESSEE.
+24 A. RETURNED UNCLAIMED OR REFUSED;
 
-25 (IV) In filing a suit under this section, an officer of the community
-26 association shall certify to the court:
+25 B. DESIGNATED BY THE POST OFFICE TO BE
+26 UNDELIVERABLE FOR ANY OTHER REASON; OR
 
-27 1. What steps the community association has taken to satisfy
-28 the notice requirements under this subsection; and
+27 C. SIGNED FOR BY A PERSON OTHER THAN THE
+28 ADDRESSEE.
 
-29 2. That each condition precedent to the filing of an action
-30 under this section has been met.
+29 (IV) In filing a suit under this section, an officer of the community
+30 association shall certify to the court:
+
+31 1. What steps the community association has taken to satisfy
+32 the notice requirements under this subsection; and
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 305 5
 
-1 [(4) The court shall determine in what amount and under what conditions,
-2 if any, a bond shall be filed by a community association in an action for relief under this
-3 section.]
+1 2. That each condition precedent to the filing of an action
+2 under this section has been met.
 
-4 (4) (I) AN ACTION MAY NOT BE BROUGHT AGAINST AN OWNER OF
-5 RESIDENTIAL RENTAL PROPERTY UNLESS, PRIOR TO THE PROVISION OF NOTICE
-6 UNDER PARAGRAPH (3)(I) OF THIS SUBSECTION, A NOTICE OF VIOLATION RELATING
-7 TO THE NUISANCE HAS FIRST BEEN ISSUED BY AN APPROPRIATE CODE
-8 ENFORCEMENT AGENCY.
+3 [(4) The court shall determine in what amount and under what conditions,
+4 if any, a bond shall be filed by a community association in an action for relief under this
+5 section.]
 
-9 (II) IN THE CASE OF A NUISANCE BASED ON A HOUSING OR
-10 BUILDING CODE VIOLATION, OTHER THAN A RECURRENT SANITATION VIOLATION,
-11 RELIEF MAY NOT BE GRANTED UNDER THIS SECTION UNLESS A VIOLATION NOTICE
-12 RELATING TO THE NUISANCE HAS BEEN ISSUED BY AN OFFICIAL OF THE STATE OR
-13 BALTIMORE COUNTY AND REMAINS OUTSTANDING AFTER A PERIOD OF 75 DAYS.
+6 (4) (I) AN ACTION MAY NOT BE BROUGHT AGAINST AN OWNER OF
+7 RESIDENTIAL RENTAL PROPERTY UNLESS, PRIOR TO THE PROVISION OF NOTICE
+8 UNDER PARAGRAPH (3)(I) OF THIS SUBSECTION, A NOTICE OF VIOLATION RELATING
+9 TO THE NUISANCE HAS FIRST BEEN ISSUED BY AN APPROPRIATE CODE
+10 ENFORCEMENT AGENCY.
 
-14 (d) A political subdivision of the State or any agency of a political subdivision is
-15 not subject to any action brought under this section or an action resulting from an action
-16 brought under this section against a private property owner.
+11 (II) IN THE CASE OF A NUISANCE BASED ON A HOUSING OR
+12 BUILDING CODE VIOLATION, OTHER THAN A RECURRENT SANITATION VIOLATION,
+13 RELIEF MAY NOT BE GRANTED UNDER THIS SECTION UNLESS A VIOLATION NOTICE
+14 RELATING TO THE NUISANCE HAS BEEN ISSUED BY AN OFFICIAL OF THE STATE OR
+15 BALTIMORE COUNTY AND REMAINS OUTSTANDING AFTER A PERIOD OF 75 DAYS.
 
-17 (e) (1) Subject to paragraph (2) of this subsection, this section may not be
-18 construed to abrogate any equitable or legal right or remedy otherwise available under the
-19 law to abate a nuisance.
+16 (d) A political subdivision of the State or any agency of a political subdivision is
+17 not subject to any action brought under this section or an action resulting from an action
+18 brought under this section against a private property owner.
 
-20 (2) This section may not be construed as granting standing for an action:
+19 (e) (1) Subject to paragraph (2) of this subsection, this section may not be
+20 construed to abrogate any equitable or legal right or remedy otherwise available under the
+21 law to abate a nuisance.
 
-21 (i) Challenging any zoning, development, special exception, or
-22 variance application or approval;
+22 (2) This section may not be construed as granting standing for an action:
 
-23 (ii) In which the alleged nuisance consists of:
+23 (i) Challenging any zoning, development, special exception, or
+24 variance application or approval;
 
-24 1. A condition relating to lead paint;
+25 (ii) In which the alleged nuisance consists of:
 
-25 2. An interior physical defect of a property, except in
-26 situations that present a threat to neighboring properties; or
+26 1. A condition relating to lead paint;
 
-27 3. A vacant dwelling that is maintained in a boarded
-28 condition, free from trash and debris, and secure against trespassers and weather entry;
+27 2. An interior physical defect of a property, except in
+28 situations that present a threat to neighboring properties; or
 
-29 (iii) Involving any violation of alcoholic beverages laws under the
-30 Alcoholic Beverages and Cannabis Article; or
+29 3. A vacant dwelling that is maintained in a boarded
+30 condition, free from trash and debris, and secure against trespassers and weather entry;
 
-31 (iv) Involving any matter in which a certificate, license, permit, or
-32 registration is required or allowed under the Environment Article.
-
-33 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+31 (iii) Involving any violation of alcoholic beverages laws under the
+32 Alcoholic Beverages and Cannabis Article; or
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 305
 
-1 October 1, 2026.
-END OF PAGE 6</bill>
+1 (iv) Involving any matter in which a certificate, license, permit, or
+2 registration is required or allowed under the Environment Article.
+
+3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+4 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 6
+</bill>

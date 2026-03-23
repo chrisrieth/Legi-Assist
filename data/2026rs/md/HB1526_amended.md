@@ -9,7 +9,11 @@ By: Carroll County Delegation
 Introduced and read first time: February 13, 2026
 Assigned to: Government, Labor, and Elections
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
@@ -19,177 +23,199 @@ A BILL ENTITLED
 4 FOR the purpose of establishing in Carroll County a Class 1 distillery on–premises
 5 consumption permit; authorizing the Board of License Commissioners for Carroll
 6 County to issue the permit to a holder of a Class 1 distillery license; authorizing the
-7 holder of the permit to sell, prepare, and serve certain food, nonalcoholic beverages, and alcoholic
-8 beverages for on–premises consumption; authorizing the holder of the permit to use the licensed premises for events; and generally relating to Class 1 distillery
-9 on–premises consumption permits in Carroll County.
+7 holder of the permit to sell<u>, prepare, and serve</u> certain food, nonalcoholic beverages,
+8 and alcoholic beverages for on–premises consumption; <u>authorizing the holder of the</u>
+9 <u>permit to use the licensed premises for events;</u> and generally relating to Class 1
+10 distillery on–premises consumption permits in Carroll County.
 
-10 BY repealing and reenacting, without amendments,
-11 Article – Alcoholic Beverages and Cannabis
-12 Section 2–202(a), (e), and (i) and 16–102
-13 Annotated Code of Maryland
-14 (2024 Replacement Volume and 2025 Supplement)
+11 BY repealing and reenacting, without amendments,
+12 Article – Alcoholic Beverages and Cannabis
+13 Section 2–202(a), (e), and (i) and 16–102
+14 Annotated Code of Maryland
+15 (2024 Replacement Volume and 2025 Supplement)
 
-15 BY repealing and reenacting, with amendments,
-16 Article – Alcoholic Beverages and Cannabis
-17 Section 16–401
-18 Annotated Code of Maryland
-19 (2024 Replacement Volume and 2025 Supplement)
+16 BY repealing and reenacting, with amendments,
+17 Article – Alcoholic Beverages and Cannabis
+18 Section 16–401
+19 Annotated Code of Maryland
+20 (2024 Replacement Volume and 2025 Supplement)
 
-20 BY adding to
-21 Article – Alcoholic Beverages and Cannabis
-22 Section 16–406
-23 Annotated Code of Maryland
-24 (2024 Replacement Volume and 2025 Supplement)
-
-25 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-26 That the Laws of Maryland read as follows:
+21 BY adding to
+22 Article – Alcoholic Beverages and Cannabis
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1526*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1526*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1526
 
-1 Article – Alcoholic Beverages and Cannabis
+1 Section 16–406
+2 Annotated Code of Maryland
+3 (2024 Replacement Volume and 2025 Supplement)
 
-2 2–202.
+4 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+5 That the Laws of Maryland read as follows:
 
-3 (a) There is a Class 1 distillery license.
+6 Article – Alcoholic Beverages and Cannabis
 
-4 (e) Subject to subsection (f) of this section, a license holder may conduct the
-5 activities specified in subsections (c)(5) and (i)(2) of this section from 10 a.m. to 10 p.m. each
-6 day.
+7 2–202.
 
-7 (i) (1) A local licensing board may grant an on–site consumption permit for
-8 use at the location of the Class 1 distillery license to a holder of a Class 1 distillery license.
+8 (a) There is a Class 1 distillery license.
 
-9 (2) (i) The permit authorizes the holder to sell mixed drinks made from
-10 liquor that the holder produces that is mixed with other nonalcoholic ingredients for
-11 on–premises consumption.
+9 (e) Subject to subsection (f) of this section, a license holder may conduct the
+10 activities specified in subsections (c)(5) and (i)(2) of this section from 10 a.m. to 10 p.m. each
+11 day.
 
-12 (ii) The holder may not use more than an aggregate of 7,750 gallons
-13 annually of liquor the holder produces for mixed drinks sold under subparagraph (i) of this
-14 paragraph.
+12 (i) (1) A local licensing board may grant an on–site consumption permit for
+13 use at the location of the Class 1 distillery license to a holder of a Class 1 distillery license.
 
-15 (3) A local licensing board:
+14 (2) (i) The permit authorizes the holder to sell mixed drinks made from
+15 liquor that the holder produces that is mixed with other nonalcoholic ingredients for
+16 on–premises consumption.
 
-16 (i) may establish and charge a permit fee; and
+17 (ii) The holder may not use more than an aggregate of 7,750 gallons
+18 annually of liquor the holder produces for mixed drinks sold under subparagraph (i) of this
+19 paragraph.
 
-17 (ii) shall require the permit holder to:
+20 (3) A local licensing board:
 
-18 1. comply with the alcohol awareness requirements under §
-19 4–505 of this article; and
+21 (i) may establish and charge a permit fee; and
 
-20 2. abide by all applicable trade practice restrictions.
+22 (ii) shall require the permit holder to:
 
-21 16–102.
+23 1. comply with the alcohol awareness requirements under §
+24 4–505 of this article; and
 
-22 This title applies only in Carroll County.
+25 2. abide by all applicable trade practice restrictions.
 
-23 16–401.
+26 16–102.
 
-24 (a) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
-25 Division I of this article apply in the county without exception or variation:
+27 This title applies only in Carroll County.
 
-26 (1) § 2–201 (“Issuance by Comptroller”);
+28 16–401.
 
-27 (2) [§ 2–202 (“Class 1 distillery license”);
-
-28 (3)] § 2–203 (“Class 9 limited distillery license”);
+29 (a) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
+30 Division I of this article apply in the county without exception or variation:
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1526 3
 
-1 [(4)] (3) § 2–204 (“Class 2 rectifying license”);
+1 (1) § 2–201 (“Issuance by Comptroller”);
 
-2 [(5)] (4) § 2–205 (“Class 3 winery license”);
+2 (2) [§ 2–202 (“Class 1 distillery license”);
 
-3 [(6)] (5) § 2–207 (“Class 5 brewery license”);
+3 (3)] § 2–203 (“Class 9 limited distillery license”);
 
-4 [(7)] (6) § 2–210 (“Class 8 farm brewery license”);
+4 [(4)] (3) § 2–204 (“Class 2 rectifying license”);
 
-5 [(8)] (7) § 2–211 (“Residency requirement”);
+5 [(5)] (4) § 2–205 (“Class 3 winery license”);
 
-6 [(9)] (8) § 2–212 (“Additional licenses”);
+6 [(6)] (5) § 2–207 (“Class 5 brewery license”);
 
-7 [(10)] (9) § 2–213 (“Additional fees”);
+7 [(7)] (6) § 2–210 (“Class 8 farm brewery license”);
 
-8 [(11)] (10) § 2–214 (“Sale or delivery restricted”);
+8 [(8)] (7) § 2–211 (“Residency requirement”);
 
-9 [(12)] (11) § 2–216 (“Interaction between manufacturing entities and
-10 retailers”);
+9 [(9)] (8) § 2–212 (“Additional licenses”);
 
-11 [(13)] (12) § 2–217 (“Distribution of alcoholic beverages — Prohibited
-12 practices”); and
+10 [(10)] (9) § 2–213 (“Additional fees”);
 
-13 [(14)] (13) § 2–218 (“Restrictive agreements between producers and
-14 retailers — Prohibited”).
+11 [(11)] (10) § 2–214 (“Sale or delivery restricted”);
 
-15 (b) Section 2–215 (“Beer sale on credit to retail dealer prohibited”) of Division I of
-16 this article does not apply in the county.
+12 [(12)] (11) § 2–216 (“Interaction between manufacturing entities and
+13 retailers”);
 
-17 (c) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
-18 Division I of this article apply in the county:
+14 [(13)] (12) § 2–217 (“Distribution of alcoholic beverages — Prohibited
+15 practices”); and
 
-19 (1) § 2–202 (“CLASS 1 DISTILLERY LICENSE”), SUBJECT TO § 16–406
-20 OF THIS SUBTITLE;
+16 [(14)] (13) § 2–218 (“Restrictive agreements between producers and
+17 retailers — Prohibited”).
 
-21 (2) § 2–206 (“Class 4 limited winery license”), subject to § 16–403 of this
-22 subtitle;
+18 (b) Section 2–215 (“Beer sale on credit to retail dealer prohibited”) of Division I of
+19 this article does not apply in the county.
 
-23 [(2)] (3) § 2–208 (“Class 6 pub–brewery license”), subject to § 16–404 of
-24 this subtitle; and
+20 (c) The following sections of Title 2, Subtitle 2 (“Manufacturer’s Licenses”) of
+21 Division I of this article apply in the county:
 
-25 [(3)] (4) § 2–209 (“Class 7 micro–brewery license”), subject to § 16–405 of
-26 this subtitle.
+22 (1) § 2–202 (“CLASS 1 DISTILLERY LICENSE”), SUBJECT TO § 16–406
+23 OF THIS SUBTITLE;
 
-27 16–406.
+24 (2) § 2–206 (“Class 4 limited winery license”), subject to § 16–403 of this
+25 subtitle;
+
+26 [(2)] (3) § 2–208 (“Class 6 pub–brewery license”), subject to § 16–404 of
+27 this subtitle; and
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 1526
 
-1 (A) THERE IS A CLASS 1 DISTILLERY ON–SITE CONSUMPTION PERMIT.
+1 [(3)] (4) § 2–209 (“Class 7 micro–brewery license”), subject to § 16–405 of
+2 this subtitle.
 
-2 (B) THE PERMIT MAY BE ISSUED TO A HOLDER OF A CLASS 1 DISTILLERY
-3 LICENSE.
+3 16–406.
 
-4 (C) THE PERMIT SERVES AS THE ON–PREMISES CONSUMPTION PERMIT
-5 REQUIRED UNDER § 2–202(E) AND (I) OF THIS ARTICLE.
+4 (A) THERE IS A CLASS 1 DISTILLERY ON–SITE CONSUMPTION PERMIT.
 
-6 (D) (1) THE PERMIT AUTHORIZES THE HOLDER TO SELL, PREPARE, AND SERVE:
+5 (B) THE PERMIT MAY BE ISSUED TO A HOLDER OF A CLASS 1 DISTILLERY
+6 LICENSE.
 
-7 (I) FOOD;
+7 (C) THE PERMIT SERVES AS THE ON–PREMISES CONSUMPTION PERMIT
+8 REQUIRED UNDER § 2–202(E) AND (I) OF THIS ARTICLE.
 
-8 (II) NONALCOHOLIC BEVERAGES; AND
+9 (D) <u>(1)</u> THE PERMIT AUTHORIZES THE HOLDER TO SELL<u>, PREPARE, AND</u>
+10 <u>SERVE</u>:
 
-9 (III) ALCOHOLIC BEVERAGES, INCLUDING BRANDY, RUM, WHISKEY,
-10 AND NEUTRAL SPIRITS THAT ARE DISTILLED, RECTIFIED, BLENDED, AND BOTTLED
-11 AT THE DISTILLERY FOR ON– AND OFF–PREMISES CONSUMPTION TO THE EXTENT
-12 THE PERMIT HOLDER IS AUTHORIZED UNDER THE CLASS 1 DISTILLERY LICENSE.
+11 ~~ (1) ~~ <u>(I)</u> FOOD;
 
-13 (2) THE AUTHORIZATION TO SELL, PREPARE, AND SERVE FOOD AND NONALCOHOLIC BEVERAGES
-14 UNDER THIS SUBSECTION IS SUBJECT TO APPROVAL BY THE CARROLL COUNTY HEALTH
-15 DEPARTMENT.
+12 ~~ (2) ~~ <u>(II)</u> NONALCOHOLIC BEVERAGES; AND
 
-16 (E) (1) THE PERMIT AUTHORIZES THE HOLDER TO USE THE LICENSED
-17 PREMISES FOR EVENTS.
+13 ~~ (3) ~~ <u>(III)</u> ALCOHOLIC BEVERAGES, INCLUDING BRANDY, RUM,
+14 WHISKEY, AND NEUTRAL SPIRITS THAT ARE DISTILLED, RECTIFIED, BLENDED, AND
+15 BOTTLED AT THE DISTILLERY FOR ON– AND OFF–PREMISES CONSUMPTION TO THE
+16 EXTENT THE PERMIT HOLDER IS AUTHORIZED UNDER THE CLASS 1 DISTILLERY
+17 LICENSE.
 
-18 (2) ANY ON–PREMISES CONSUMPTION OF ALCOHOLIC BEVERAGES
-19 AT AN EVENT HELD IN ACCORDANCE WITH PARAGRAPH (1) OF THIS SUBSECTION
-20 SHALL COMPLY WITH SUBSECTION (D) OF THIS SECTION.
+18 ~~ (E) ~~ <u>(2)</u> THE AUTHORIZATION TO SELL<u>, PREPARE, AND SERVE</u> FOOD AND
+19 NONALCOHOLIC BEVERAGES UNDER THIS ~~SECTION~~ <u>SUBSECTION</u> IS SUBJECT TO
+20 APPROVAL BY THE CARROLL COUNTY HEALTH DEPARTMENT.
 
-21 (F) AN APPLICATION FOR A PERMIT UNDER THIS SECTION SHALL INCLUDE
-22 A DIAGRAM OF THE PROPOSED AREA FOR CONSUMPTION UNDER THE PERMIT AND
-23 SHOW CLEAR DELINEATION FROM THE MANUFACTURING AND PROCESSING
-24 FACILITIES.
+21 <u>(E) (1) THE PERMIT AUTHORIZES THE HOLDER TO USE THE LICENSED</u>
+22 <u>PREMISES FOR EVENTS.</u>
 
-25 (G) THE BOARD SHALL ADOPT REGULATIONS TO CARRY OUT THIS SECTION
-26 AND TO SET THE ANNUAL PERMIT FEE.
+23 <u>(2) ANY ON–PREMISES CONSUMPTION OF ALCOHOLIC BEVERAGES AT</u>
+24 <u>AN EVENT HELD IN ACCORDANCE WITH PARAGRAPH (1) OF THIS SUBSECTION SHALL</u>
+25 <u>COMPLY WITH SUBSECTION (D) OF THIS SECTION.</u>
 
-27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-28 1, 2026.
+26 (F) AN APPLICATION FOR A PERMIT UNDER THIS SECTION SHALL INCLUDE
+27 A DIAGRAM OF THE PROPOSED AREA FOR CONSUMPTION UNDER THE PERMIT AND
+28 SHOW CLEAR DELINEATION FROM THE MANUFACTURING AND PROCESSING
+29 FACILITIES.
 END OF PAGE 4
+
+START OF PAGE 5
+HOUSE BILL 1526 5
+
+1 (G) THE BOARD SHALL ADOPT REGULATIONS TO CARRY OUT THIS SECTION
+2 AND TO SET THE ANNUAL PERMIT FEE.
+
+3 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+4 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 5
 </bill>

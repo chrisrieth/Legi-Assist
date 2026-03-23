@@ -3,19 +3,23 @@ START OF PAGE 1
 HOUSE BILL 664
 
 A2 6lr1720
-CF 6lr1722
+CF SB 897
 
 By: Cecil County Delegation
 Introduced and read first time: January 30, 2026
 Assigned to: Government, Labor, and Elections
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Cecil County – Alcoholic Beverages – Alteration of License Quota
 
-3 FOR the purpose of altering the quota on the number of alcoholic beverages licenses that
+3 For the purpose of altering the quota on the number of alcoholic beverages licenses that
 4 the Board of License Commissioners for Cecil County may issue to apply only to
 5 Class A licenses based on a certain ratio; and generally relating to alcoholic
 6 beverages in Cecil County.
@@ -39,32 +43,49 @@ A BILL ENTITLED
 
 20 17–102.
 
-21 This title applies only in Cecil County.
-
-22 17–1601.
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0664*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0664*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 664
 
-1 (a) (1) EXCEPT AS PROVIDED IN PARAGRAPH (2) OF THIS SUBSECTION AND SUBJECT TO PARAGRAPH (3) of this subsection, the Board may not issue a
-2 number of CLASS A licenses that, in the aggregate, exceeds 1 for every [400] 2,000
-3 registered voters or major fraction in the county, as determined by the current registration
-4 of voters.
-5 (2) THE BOARD MAY ISSUE NOT FEWER THAN 2 CLASS A LICENSES
-6 IN EACH ELECTION DISTRICT OF THE COUNTY.
-7 (3) [A Class BLX beer, wine, and liquor restaurant license, Class C club
-8 license, motel–restaurant complex license, hotel–restaurant complex license, or Class GC
-9 (golf course) beer, wine, and liquor (on–sale) license] NO OTHER CLASS OF LICENSE may
-10 [not] be counted in the computation of the aggregate number of licenses.
+1 This title applies only in Cecil County.
 
-11 (b) The quota shall be computed and applied separately for each election district
-12 of the county.
+2 17–1601.
 
-13 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-14 1, 2026.
+3 (a) (1) ~~Subject to paragraph (2)~~ <u>EXCEPT AS PROVIDED IN PARAGRAPH (2)</u>
+4 <u>OF THIS SUBSECTION AND SUBJECT TO PARAGRAPH (3)</u> of this subsection, the Board
+5 may not issue a number of CLASS A licenses that, in the aggregate, exceeds 1 for every
+6 [400] ~~1,200~~ <u>2,000</u> registered voters or major fraction in the county, as determined by the
+7 current registration of voters.
+
+8 <u>(2) THE BOARD MAY ISSUE NOT FEWER THAN 2 CLASS A LICENSES IN</u>
+9 <u>EACH ELECTION DISTRICT OF THE COUNTY.</u>
+
+10 ~~(2)~~ <u>(3)</u> [A Class BLX beer, wine, and liquor restaurant license, Class C
+11 club license, motel–restaurant complex license, hotel–restaurant complex license, or Class
+12 GC (golf course) beer, wine, and liquor (on–sale) license] NO OTHER CLASS OF LICENSE
+13 may [not] be counted in the computation of the aggregate number of licenses.
+
+14 (b) The quota shall be computed and applied separately for each election district
+15 of the county.
+
+16 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+17 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
 END OF PAGE 2
 </bill>

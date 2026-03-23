@@ -4,11 +4,15 @@ HOUSE BILL 1381
 
 R5 6lr2523
 
-By: Delegates Guyton and Lewis
+By: ~~Delegate~~ ~~Guyton~~ Delegates Guyton and Lewis
 Introduced and read first time: February 13, 2026
 Assigned to: Environment and Transportation
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
@@ -38,64 +42,81 @@ A BILL ENTITLED
 
 20 21–101.
 
-21 (a) In this title and Title 25 of this article the following words have the meanings
-22 indicated.
-
-23 (c) “Bicycle path” means any travelway designed and designated by signing or
-24 signing and marking for bicycle use, located within its own right–of–way or in a shared
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1381*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1381*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1381
 
-1 right–of–way, and physically separated from motor vehicle traffic by berm, shoulder, curb,
-2 or other similar device.
+1 (a) In this title and Title 25 of this article the following words have the meanings
+2 indicated.
 
-3 (e) “Bike lane” means any portion of a roadway or shoulder designated for single
-4 directional bicycle flow.
+3 (c) “Bicycle path” means any travelway designed and designated by signing or
+4 signing and marking for bicycle use, located within its own right–of–way or in a shared
+5 right–of–way, and physically separated from motor vehicle traffic by berm, shoulder, curb,
+6 or other similar device.
 
-5 21–1003.
+7 (e) “Bike lane” means any portion of a roadway or shoulder designated for single
+8 directional bicycle flow.
 
-6 (a) The provisions of this section apply except as necessary to avoid conflict with
-7 other traffic or in compliance with law or the directions of a police officer or traffic control
-8 device.
+9 21–1003.
 
-9 (GG) (1) THIS SUBSECTION DOES NOT APPLY TO:
+10 (a) The provisions of this section apply except as necessary to avoid conflict with
+11 other traffic or in compliance with law or the directions of a police officer or traffic control
+12 device.
 
-10 (I) AN AUTHORIZED EMERGENCY VEHICLE;
+13 (GG) (1) THIS SUBSECTION DOES NOT APPLY TO:
 
-11 (II) A TRANSIT VEHICLE;
+14 (I) AN AUTHORIZED EMERGENCY VEHICLE;
 
-12 (III) A VEHICLE PICKING UP OR DISCHARGING INDIVIDUALS
-13 WITH DISABILITIES;
+15 (II) A TRANSIT VEHICLE;
 
-14 (IV) A VEHICLE THAT HAS BECOME SO DISABLED WHILE ON THE
-15 HIGHWAY THAT THE DRIVER CANNOT AVOID STOPPING AND TEMPORARILY
-16 STANDING OR PARKING THE VEHICLE;
+16 (III) A VEHICLE PICKING UP OR DISCHARGING INDIVIDUALS
+17 WITH DISABILITIES;
 
-17 (V) IF NO OTHER PARKING SPACE, SHOULDER, OR OTHER CURB SPACE IS AVAILABLE
-18 ON THE BLOCK, A VEHICLE WHILE LOADING OR UNLOADING GOODS FOR
-19 PICK UP OR DELIVERY:
+18 (IV) A VEHICLE THAT HAS BECOME SO DISABLED WHILE ON THE
+19 HIGHWAY THAT THE DRIVER CANNOT AVOID STOPPING AND TEMPORARILY
+20 STANDING OR PARKING THE VEHICLE; ~~OR~~
 
-20 1. A. IF AUTHORIZED UNDER
-21 LOCAL LAW, FOR A PERIOD OF TIME NOT EXCEEDING 30
-22 MINUTES; AND
+21 (V) ~~A~~ IF NO OTHER PARKING SPACE, SHOULDER, OR OTHER
+22 CURB SPACE IS AVAILABLE ON THE BLOCK, A VEHICLE WHILE LOADING OR
+23 UNLOADING GOODS FOR PICK UP OR DELIVERY:
 
-23 B. THAT IS DISPLAYING FLASHING HAZARD WARNING
-24 LIGHTS; OR
+24 1. A. ~~UNLESS~~ ~~A~~ ~~SHORTER~~ ~~PERIOD~~ ~~OF~~ ~~TIME~~ ~~IS~~
+25 ~~IMPOSED~~ ~~UNDER~~ ~~A~~ IF AUTHORIZED UNDER LOCAL LAW, FOR A PERIOD OF TIME NOT
+26 EXCEEDING 30 MINUTES; AND
 
-25 2. UNDER A LOCAL CURBSIDE PARKING PERMIT; OR
+27 B. THAT IS DISPLAYING FLASHING HAZARD WARNING
+28 LIGHTS; OR
 
-26 (VI) A VEHICLE ASSOCIATED WITH CONSTRUCTION OR
-27 MAINTENANCE ACTIVITIES IN OR ADJACENT TO THE RIGHT–OF–WAY.
-
-28 (2) UNLESS AUTHORIZED BY A LOCAL JURISDICTION, A PERSON MAY
-29 NOT STOP, STAND, OR PARK A VEHICLE IN A BIKE LANE OR BICYCLE PATH.
-
-30 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-31 October 1, 2026.
+29 2. UNDER A LOCAL CURBSIDE PARKING PERMIT; OR
 END OF PAGE 2
+
+START OF PAGE 3
+HOUSE BILL 1381 3
+
+1 (VI) A VEHICLE ASSOCIATED WITH CONSTRUCTION OR
+2 MAINTENANCE ACTIVITIES IN OR ADJACENT TO THE RIGHT–OF–WAY.
+
+3 (2) UNLESS AUTHORIZED BY A LOCAL JURISDICTION, A PERSON MAY
+4 NOT STOP, STAND, OR PARK A VEHICLE IN A BIKE LANE OR BICYCLE PATH.
+
+5 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+6 October 1, 2026.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 3
 </bill>

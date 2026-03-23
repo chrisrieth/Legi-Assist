@@ -8,808 +8,856 @@ By: Delegates Behler, D. Jones, Foley, Healey, and Holmes
 Introduced and read first time: February 5, 2026
 Assigned to: Environment and Transportation
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
-2 Anne Arundel, Montgomery, and Prince George’s Counties – Crosswalk Monitoring
-3 Systems
+2 Anne Arundel ~~County~~ ~~and~~ ~~the~~ ~~City~~ ~~of~~ ~~Annapolis,~~ Montgomery, and Prince
+3 George’s Counties – Crosswalk Monitoring Systems
 
-4 FOR the purpose of authorizing the use of crosswalk monitoring systems in Anne Arundel,
-5 Montgomery, and Prince George’s counties and municipalities in those counties, if authorized by local law; requiring the fines
-6 collected by a political subdivision as a result of violations enforced by a crosswalk
-7 monitoring system to be used to improve safety at certain crosswalks by funding the
-8 implementation of infrastructure enhancements; providing that certain provisions of
-9 law and protections relating to the inspection, use, removal, and destruction of recorded
-10 images and associated data apply to recorded images produced by a crosswalk
-11 monitoring system; providing that the
-12 owner or driver of a motor vehicle recorded failing to yield to a pedestrian crossing a
-13 roadway in a crosswalk is subject to a citation and a certain civil penalty under
-14 certain circumstances; establishing certain defenses to a charge of an alleged
-15 violation recorded by a crosswalk monitoring system; prohibiting a contractor
-16 administering a crosswalk monitoring system from being compensated in a certain
-17 manner; and generally relating to the use of crosswalk monitoring systems in Anne
-18 Arundel, Montgomery, and Prince George’s counties and municipalities in those counties.
+4 FOR the purpose of authorizing the use of crosswalk monitoring systems in Anne Arundel
+5 ~~County~~ ~~and~~ ~~the~~ ~~City~~ ~~of~~ ~~Annapolis,~~ Montgomery, and Prince George’s counties and
+6 municipalities in those counties, if authorized by local law; requiring the fines
+7 collected by a political subdivision as a result of violations enforced by a crosswalk
+8 monitoring system to be used to improve safety at certain crosswalks by funding the
+9 implementation of infrastructure enhancements; providing that certain provisions of
+10 law and protections relating to the inspection, use, removal, and destruction of
+11 recorded images and associated data apply to recorded images produced by a
+12 crosswalk monitoring system; providing that the owner or driver of a motor vehicle
+13 recorded failing to yield to a pedestrian crossing a roadway in a crosswalk is subject
+14 to a citation and a certain civil penalty under certain circumstances; establishing
+15 certain defenses to a charge of an alleged violation recorded by a crosswalk
+16 monitoring system; prohibiting a contractor administering a crosswalk monitoring
+17 system from being compensated in a certain manner; and generally relating to the
+18 use of crosswalk monitoring systems in Anne Arundel ~~County~~ ~~and~~ ~~the~~ ~~City~~ ~~of~~
+19 ~~Annapolis,~~ Montgomery, and Prince George’s counties and municipalities in those
+20 counties.
 
-19 BY repealing and reenacting, with amendments,
-20 Article – Courts and Judicial Proceedings
-21 Section 4–401(13), 7–302(e)(1) through (3) and (4)(i), and 10–311
-22 Annotated Code of Maryland
-23 (2020 Replacement Volume and 2025 Supplement)
-
-24 BY adding to
-25 Article - Courts and Judicial Proceedings
-26 Section 7-302(e)(4)(viii)
-27 Annotated Code of Maryland
-28 (2020 Replacement Volume and 2025 Supplement)
-
-29 BY repealing and reenacting, with amendments,
-30 Article - General Provisions
-31 Section 4-321
-32 Annotated Code of Maryland
-33 (2019 Replacement Volume and 2025 Supplement)
-
-34 BY repealing and reenacting, with amendments,
-35 Article - Transportation
-36 Section 12-113.1(b)
-37 Annotated Code of Maryland
-38 (2020 Replacement Volume and 2025 Supplement)
-
-39 BY repealing and reenacting, without amendments,
-40 Article – Transportation
-41 Section 21–502
-42 Annotated Code of Maryland
-43 (2020 Replacement Volume and 2025 Supplement)
-
-44 BY adding to
-45 Article – Transportation
-46 Section 21–502.2
-47 Annotated Code of Maryland
-48 (2020 Replacement Volume and 2025 Supplement)
+21 BY repealing and reenacting, with amendments,
+22 Article – Courts and Judicial Proceedings
+23 Section 4–401(13), 7–302(e)(1) through (3) and (4)(i), and 10–311
+24 Annotated Code of Maryland
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0938*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0938*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 938
 
-1 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-2 That the Laws of Maryland read as follows:
+1 (2020 Replacement Volume and 2025 Supplement)
 
+2 BY adding to
 3 Article – Courts and Judicial Proceedings
+4 Section 7–302(e)(4)(viii)
+5 Annotated Code of Maryland
+6 (2020 Replacement Volume and 2025 Supplement)
 
-4 4–401.
+7 BY repealing and reenacting, with amendments,
+8 Article – General Provisions
+9 Section 4–321
+10 Annotated Code of Maryland
+11 (2019 Replacement Volume and 2025 Supplement)
 
-5 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
-6 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
+12 BY repealing and reenacting, with amendments,
+13 Article – Transportation
+14 Section 12–113.1(b)
+15 Annotated Code of Maryland
+16 (2020 Replacement Volume and 2025 Supplement)
 
-7 (13) A proceeding for a civil infraction under § 21–202.1, § 21–502.2, §
-8 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3
-9 of the Transportation Article or § 10–112 of the Criminal Law Article;
+17 BY repealing and reenacting, without amendments,
+18 Article – Transportation
+19 Section 21–502
+20 Annotated Code of Maryland
+21 (2020 Replacement Volume and 2025 Supplement)
 
-10 7–302.
+22 BY adding to
+23 Article – Transportation
+24 Section 21–502.2
+25 Annotated Code of Maryland
+26 (2020 Replacement Volume and 2025 Supplement)
 
-11 (e) (1) (i) A citation issued under § 21–202.1, § 21–502.2, § 21–706.1, §
-12 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
-13 Article shall provide that the person receiving the citation may elect to stand trial by
-14 notifying the issuing agency of the person’s intention to stand trial at least 5 days before
-15 the date of payment as set forth in the citation.
+27 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+28 That the Laws of Maryland read as follows:
 
-16 (ii) On receipt of the notice to stand trial, the agency shall forward
-17 to the District Court having venue a copy of the citation and a copy of the notice from the
-18 person who received the citation indicating the person’s intention to stand trial.
+29 Article – Courts and Judicial Proceedings
 
-19 (iii) On receipt thereof, the District Court shall schedule the case for
-20 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
-21 of the District Court.
+30 4–401.
 
-22 (2) (i) A citation issued as the result of any of the following systems or
-23 cameras controlled by a political subdivision shall provide that, in an uncontested case, the
-24 penalty shall be paid directly to that political subdivision:
+31 Except as provided in § 4–402 of this subtitle, and subject to the venue provisions of
+32 Title 6 of this article, the District Court has exclusive original civil jurisdiction in:
 
-25 1. A vehicle height monitoring system;
+33 (13) A proceeding for a civil infraction under § 21–202.1, § 21–502.2, §
+34 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3
+35 of the Transportation Article or § 10–112 of the Criminal Law Article;
 
-26 2. A traffic control signal monitoring system;
-
-27 3. A speed monitoring system;
-
-28 4. A work zone speed control system;
-
-29 5. A stop sign monitoring system;
-
-30 6. A CROSSWALK MONITORING SYSTEM;
-
-31 7. A school bus monitoring camera;
+36 7–302.
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 938 3
 
-1 [7.] 8. A bus lane monitoring system; or
+1 (e) (1) (i) A citation issued under § 21–202.1, § 21–502.2, § 21–706.1, §
+2 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the Transportation
+3 Article shall provide that the person receiving the citation may elect to stand trial by
+4 notifying the issuing agency of the person’s intention to stand trial at least 5 days before
+5 the date of payment as set forth in the citation.
 
-2 [8.] 9. A noise abatement monitoring system.
+6 (ii) On receipt of the notice to stand trial, the agency shall forward
+7 to the District Court having venue a copy of the citation and a copy of the notice from the
+8 person who received the citation indicating the person’s intention to stand trial.
 
-3 (ii) A citation issued as the result of any of the following systems or
-4 cameras controlled by a political subdivision shall provide that, in a contested case, the
-5 penalty shall be paid directly to the District Court:
+9 (iii) On receipt thereof, the District Court shall schedule the case for
+10 trial and notify the defendant of the trial date under procedures adopted by the Chief Judge
+11 of the District Court.
 
-6 1. A vehicle height monitoring system;
+12 (2) (i) A citation issued as the result of any of the following systems or
+13 cameras controlled by a political subdivision shall provide that, in an uncontested case, the
+14 penalty shall be paid directly to that political subdivision:
 
-7 2. A traffic control signal monitoring system;
+15 1. A vehicle height monitoring system;
 
-8 3. A speed monitoring system;
+16 2. A traffic control signal monitoring system;
 
-9 4. A work zone speed control system;
+17 3. A speed monitoring system;
 
-10 5. A stop sign monitoring system;
+18 4. A work zone speed control system;
 
-11 6. A CROSSWALK MONITORING SYSTEM;
+19 5. A stop sign monitoring system;
 
-12 7. A school bus monitoring camera;
+20 6. A CROSSWALK MONITORING SYSTEM;
 
-13 [7.] 8. A bus lane monitoring system; or
+21 7. A school bus monitoring camera;
 
-14 [8.] 9. A noise abatement monitoring system.
+22 [7.] 8. A bus lane monitoring system; or
 
-15 (iii) A citation issued as the result of any of the following systems or
-16 cameras controlled by a State agency shall provide that, in an uncontested or contested
-17 case, the penalty shall be paid directly to the District Court:
+23 [8.] 9. A noise abatement monitoring system.
 
-18 1. A traffic control signal monitoring system;
+24 (ii) A citation issued as the result of any of the following systems or
+25 cameras controlled by a political subdivision shall provide that, in a contested case, the
+26 penalty shall be paid directly to the District Court:
 
-19 2. A work zone speed control system;
+27 1. A vehicle height monitoring system;
 
-20 3. A speed monitoring system; or
+28 2. A traffic control signal monitoring system;
 
-21 4. A bus lane monitoring system.
-
-22 (3) (i) Except as provided in subparagraphs (ii) and (iii) of this
-23 paragraph and paragraph (6) of this subsection, civil penalties resulting from citations
-24 issued using a vehicle height monitoring system, traffic control signal monitoring system,
-25 speed monitoring system, work zone speed control system, stop sign monitoring system,
-26 CROSSWALK MONITORING SYSTEM, school bus monitoring camera, bus lane monitoring
-27 system, or a noise abatement monitoring system that are collected by the District Court
+29 3. A speed monitoring system;
 END OF PAGE 3
 
 START OF PAGE 4
 4 HOUSE BILL 938
 
-1 shall be collected in accordance with subsection (a) of this section and distributed in
-2 accordance with § 12–118 of the Transportation Article.
+1 4. A work zone speed control system;
 
-3 (ii) 1. The fines collected by the District Court as a result of
-4 violations enforced by speed monitoring systems on Interstate 695 in Baltimore County and
-5 Interstate 83 in Baltimore County shall be remitted to the Comptroller for distribution to
-6 the State Highway Administration to be used solely to:
+2 5. A stop sign monitoring system;
 
-7 A. Recover the cost of implementing and administering the
-8 speed monitoring systems on Interstate 695 in Baltimore County and Interstate 83 in
-9 Baltimore County; and
+3 6. A CROSSWALK MONITORING SYSTEM;
 
-10 B. Assist in covering the cost of roadway and safety
-11 improvements on Interstate 695 in Baltimore County and Interstate 83 in Baltimore
-12 County.
+4 7. A school bus monitoring camera;
 
-13 2. Fines distributed to the State Highway Administration
-14 under subsubparagraph 1 of this subparagraph are supplemental to and are not intended
-15 to take the place of funding that would otherwise be appropriated for uses described under
-16 subsubparagraph 1 of this subparagraph.
+5 [7.] 8. A bus lane monitoring system; or
 
-17 (iii) Civil penalties resulting from citations issued using a speed
-18 monitoring system controlled by the Maryland Transportation Authority that are collected
-19 by the District Court shall be collected in accordance with subsection (a) of this section and
-20 remitted to the Maryland Transportation Authority.
+6 [8.] 9. A noise abatement monitoring system.
 
-21 (4) (i) Except as provided in paragraphs (5) and (6) of this subsection,
-22 from the fines collected by a political subdivision as a result of violations enforced by speed
-23 monitoring systems, work zone speed control systems, stop sign monitoring systems,
-24 CROSSWALK MONITORING SYSTEMS, school bus monitoring cameras, bus lane
-25 monitoring systems, or noise abatement monitoring systems, a political subdivision:
+7 (iii) A citation issued as the result of any of the following systems or
+8 cameras controlled by a State agency shall provide that, in an uncontested or contested
+9 case, the penalty shall be paid directly to the District Court:
 
-26 1. May recover the costs of implementing and administering
-27 the speed monitoring systems, work zone speed control systems, stop sign monitoring
-28 systems, school bus monitoring cameras, CROSSWALK MONITORING SYSTEMS, bus lane
-29 monitoring systems, or noise abatement monitoring systems; and
+10 1. A traffic control signal monitoring system;
 
-30 2. Subject to subparagraphs (ii), (iii), (iv), AND (VIII) of this
-31 paragraph, may spend any remaining balance solely for public safety purposes, including
-32 pedestrian or highway safety programs.
+11 2. A work zone speed control system;
 
-33 (VIII) FROM THE FINES COLLECTED BY A POLITICAL
-34 SUBDIVISION AS A RESULT OF VIOLATIONS ENFORCED BY CROSSWALK
-35 MONITORING SYSTEMS PLACED IN ACCORDANCE WITH § 21–502.2 OF THE
-36 TRANSPORTATION ARTICLE, ANY BALANCE REMAINING AFTER THE ALLOCATION
-37 OF FINES UNDER SUBPARAGRAPH (I)1 OF THIS PARAGRAPH SHALL BE USED TO
-38 IMPROVE SAFETY AT CROSSWALKS AT WHICH A CROSSWALK MONITORING
-39 SYSTEM IS PLACED BY FUNDING THE IMPLEMENTATION OF INFRASTRUCTURE
-40 ENHANCEMENTS INCLUDING:
+12 3. A speed monitoring system; or
 
-41 1. HAWK SIGNALS;
+13 4. A bus lane monitoring system.
 
-42 2. BEACONS;
+14 (3) (i) Except as provided in subparagraphs (ii) and (iii) of this
+15 paragraph and paragraph (6) of this subsection, civil penalties resulting from citations
+16 issued using a vehicle height monitoring system, traffic control signal monitoring system,
+17 speed monitoring system, work zone speed control system, stop sign monitoring system,
+18 CROSSWALK MONITORING SYSTEM, school bus monitoring camera, bus lane monitoring
+19 system, or a noise abatement monitoring system that are collected by the District Court
+20 shall be collected in accordance with subsection (a) of this section and distributed in
+21 accordance with § 12–118 of the Transportation Article.
 
-43 3. RAISED CROSSWALKS;
+22 (ii) 1. The fines collected by the District Court as a result of
+23 violations enforced by speed monitoring systems on Interstate 695 in Baltimore County and
+24 Interstate 83 in Baltimore County shall be remitted to the Comptroller for distribution to
+25 the State Highway Administration to be used solely to:
 
-44 4. PYLONS; AND
+26 A. Recover the cost of implementing and administering the
+27 speed monitoring systems on Interstate 695 in Baltimore County and Interstate 83 in
+28 Baltimore County; and
 
-45 5. PEDESTRIAN PUSH–BUTTON SYSTEMS.
-
-46 10–311.
-
-47 (a) A recorded image of a motor vehicle produced by a traffic control signal
-48 monitoring system in accordance with § 21–202.1 of the Transportation Article is
-49 admissible in a proceeding concerning a civil citation issued under that section for a
-50 violation of § 21–202(h) of the Transportation Article without authentication.
+29 B. Assist in covering the cost of roadway and safety
+30 improvements on Interstate 695 in Baltimore County and Interstate 83 in Baltimore
+31 County.
 END OF PAGE 4
 
 START OF PAGE 5
 HOUSE BILL 938 5
 
-1 (b) A recorded image of a motor vehicle produced by a speed monitoring system
-2 in accordance with § 21–809 or § 21–810 of the Transportation Article is admissible in a
-3 proceeding concerning a civil citation issued under that section for a violation of Title 21,
-4 Subtitle 8 of the Transportation Article without authentication.
+1 2. Fines distributed to the State Highway Administration
+2 under subsubparagraph 1 of this subparagraph are supplemental to and are not intended
+3 to take the place of funding that would otherwise be appropriated for uses described under
+4 subsubparagraph 1 of this subparagraph.
 
-5 (c) A recorded image of a motor vehicle produced by a school bus monitoring
-6 camera in accordance with § 21–706.1 of the Transportation Article is admissible in a
-7 proceeding concerning a civil citation issued under that section for a violation of § 21–706
-8 of the Transportation Article without authentication.
+5 (iii) Civil penalties resulting from citations issued using a speed
+6 monitoring system controlled by the Maryland Transportation Authority that are collected
+7 by the District Court shall be collected in accordance with subsection (a) of this section and
+8 remitted to the Maryland Transportation Authority.
 
-9 (d) A recorded image of a motor vehicle produced by a vehicle height monitoring
-10 system in accordance with § 24–111.3 of the Transportation Article is admissible in a
-11 proceeding concerning a civil citation issued under that section for a violation of a State or
-12 local law restricting the presence of certain vehicles during certain times without
-13 authentication.
+9 (4) (i) Except as provided in paragraphs (5) and (6) of this subsection,
+10 from the fines collected by a political subdivision as a result of violations enforced by speed
+11 monitoring systems, work zone speed control systems, stop sign monitoring systems,
+12 CROSSWALK MONITORING SYSTEMS, school bus monitoring cameras, bus lane
+13 monitoring systems, or noise abatement monitoring systems, a political subdivision:
 
-14 (e) A recorded image of a motor vehicle produced by a bus lane monitoring system
-15 in accordance with § 21–1134 of the Transportation Article is admissible in a proceeding
-16 concerning a civil citation issued under that section for a violation of § 21–1133 of the
-17 Transportation Article without authentication.
+14 1. May recover the costs of implementing and administering
+15 the speed monitoring systems, work zone speed control systems, stop sign monitoring
+16 systems, school bus monitoring cameras, CROSSWALK MONITORING SYSTEMS, bus lane
+17 monitoring systems, or noise abatement monitoring systems; and
 
-18 (f) A recorded image of a motor vehicle and any relevant recorded audio produced
-19 by a noise abatement monitoring system in conjunction with a noise measuring device in
-20 accordance with § 22–612 of the Transportation Article is admissible in a proceeding
-21 concerning a civil citation issued under that section for a violation of § 22–602 of the
-22 Transportation Article without authentication.
+18 2. Subject to subparagraphs (ii), (iii), ~~and~~, (iv), AND (VIII) of
+19 this paragraph, may spend any remaining balance solely for public safety purposes,
+20 including pedestrian or highway safety programs.
 
-23 (g) A recorded image of a motor vehicle produced by a stop sign monitoring system
-24 in accordance with § 21–707.1 of the Transportation Article is admissible in a proceeding
-25 concerning a civil citation issued under that section for a violation of § 21–707 of the
-26 Transportation Article without authentication.
+21 (VIII) FROM THE FINES COLLECTED BY A POLITICAL SUBDIVISION
+22 AS A RESULT OF VIOLATIONS ENFORCED BY CROSSWALK MONITORING SYSTEMS
+23 PLACED IN ACCORDANCE WITH § 21–502.2 OF THE TRANSPORTATION ARTICLE, ANY
+24 BALANCE REMAINING AFTER THE ALLOCATION OF FINES UNDER SUBPARAGRAPH
+25 (I)1 OF THIS PARAGRAPH SHALL BE USED TO IMPROVE SAFETY AT CROSSWALKS AT
+26 WHICH A CROSSWALK MONITORING SYSTEM IS PLACED BY FUNDING THE
+27 IMPLEMENTATION OF INFRASTRUCTURE ENHANCEMENTS INCLUDING:
 
-27 (h) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A CROSSWALK
-28 MONITORING SYSTEM IN ACCORDANCE WITH § 21–502.2 OF THE TRANSPORTATION
-29 ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A CIVIL CITATION ISSUED
-30 UNDER THAT SECTION FOR A VIOLATION OF § 21–502(A)(2) OF THE
-31 TRANSPORTATION ARTICLE WITHOUT AUTHENTICATION.
+28 1. HAWK SIGNALS;
 
-32 (I) In any other judicial proceeding, a recorded image produced by a vehicle
-33 height monitoring system, traffic control signal monitoring system, speed monitoring
-34 system, work zone speed control system, stop sign monitoring system, CROSSWALK
-35 MONITORING SYSTEM, school bus monitoring camera, or bus lane monitoring system or a
-36 recorded image and any relevant recorded audio produced by a noise abatement monitoring
-37 system in conjunction with a noise measuring device is admissible as otherwise provided
-38 by law.
+29 2. BEACONS;
 
-39 Article – General Provisions
+30 3. RAISED CROSSWALKS;
 
-40 4–321.
+31 4. PYLONS; AND
 
-41 (a) In this section, “recorded image” or “recorded images” has the meaning
-42 stated in § 21–202.1, § 21–502.2, § 21–706.1, § 21–809, § 21–810, § 21–1134, § 22–612, or §
-43 24–111.3 of the Transportation Article.
+32 5. PEDESTRIAN PUSH–BUTTON SYSTEMS.
 
-44 (b) Except as provided in subsection (c) of this section, a custodian shall deny
-45 inspection of recorded images produced by:
-
-46 (1) a traffic control signal monitoring system operated under § 21–202.1
-47 of the Transportation Article;
-
-48 (2) A CROSSWALK MONITORING SYSTEM OPERATED UNDER § 21–
-49 502.2 OF THE TRANSPORTATION ARTICLE;
-
-50 (3) an automated railroad grade crossing enforcement system operated
-51 under § 21–704.1 of the Transportation Article;
-
-52 [(3)] (4) a school bus monitoring camera operated under § 21–706.1 of
-53 the Transportation Article;
-
-54 [(4)] (5) a stop sign monitoring system operated under § 21–707.1 of
-55 the Transportation Article;
-
-56 [(5)] (6) a speed monitoring system operated under § 21–809 of the
-57 Transportation Article;
-
-58 [(6)] (7) a work zone speed control system operated under § 21–810 of
-59 the Transportation Article;
-
-60 [(7)] (8) a bus lane monitoring system operated under § 21–1134 of the
-61 Transportation Article;
-
-62 [(8)] (9) a noise abatement monitoring system operated under § 22–
-63 612 of the Transportation Article; or
-
-64 [(9)] (10) a vehicle height monitoring system operated under § 24–
-65 111.3 of the Transportation Article.
-
-66 (c) A custodian shall allow inspection of recorded images:
-
-67 (1) as required in § 12–113.1, § 21–202.1, § 21–502.2, § 21–704.1, § 21–
-68 706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the
-69 Transportation Article;
-
-70 (2) by any person issued a citation under § 21–202.1, § 21–502.2, § 21–
-71 704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of
-72 the Transportation Article, or by an attorney of record for the person; or
-
-73 (3) by an employee or agent of an agency in an investigation or a
-74 proceeding relating to the imposition of or indemnification from civil liability under §
-75 21–202.1, § 21–502.2, § 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–
-76 1134, § 22–612, or § 24–111.3 of the Transportation Article.
+33 10–311.
 END OF PAGE 5
 
 START OF PAGE 6
 6 HOUSE BILL 938
 
-1 Article – Transportation
+1 (a) A recorded image of a motor vehicle produced by a traffic control signal
+2 monitoring system in accordance with § 21–202.1 of the Transportation Article is
+3 admissible in a proceeding concerning a civil citation issued under that section for a
+4 violation of § 21–202(h) of the Transportation Article without authentication.
 
-2 12–113.1.
+5 (b) A recorded image of a motor vehicle produced by a speed monitoring system
+6 in accordance with § 21–809 or § 21–810 of the Transportation Article is admissible in a
+7 proceeding concerning a civil citation issued under that section for a violation of Title 21,
+8 Subtitle 8 of the Transportation Article without authentication.
 
-3 (b) This section applies to:
+9 (c) A recorded image of a motor vehicle produced by a school bus monitoring
+10 camera in accordance with § 21–706.1 of the Transportation Article is admissible in a
+11 proceeding concerning a civil citation issued under that section for a violation of § 21–706
+12 of the Transportation Article without authentication.
 
-4 (1) Traffic control signal monitoring systems under § 21–202.1 of this
-5 article;
+13 (d) A recorded image of a motor vehicle produced by a vehicle height monitoring
+14 system in accordance with § 24–111.3 of the Transportation Article is admissible in a
+15 proceeding concerning a civil citation issued under that section for a violation of a State or
+16 local law restricting the presence of certain vehicles during certain times without
+17 authentication.
 
-6 (2) CROSSWALK MONITORING SYSTEMS UNDER § 21–502.2 OF
-7 THIS ARTICLE;
+18 (e) A recorded image of a motor vehicle produced by a bus lane monitoring system
+19 in accordance with § 21–1134 of the Transportation Article is admissible in a proceeding
+20 concerning a civil citation issued under that section for a violation of § 21–1133 of the
+21 Transportation Article without authentication.
 
-8 (3) Automated railroad grade crossing enforcement systems under §
-9 21–704.1 of this article;
+22 (f) A recorded image of a motor vehicle and any relevant recorded audio produced
+23 by a noise abatement monitoring system in conjunction with a noise measuring device in
+24 accordance with § 22–612 of the Transportation Article is admissible in a proceeding
+25 concerning a civil citation issued under that section for a violation of § 22–602 of the
+26 Transportation Article without authentication.
 
-10 [(3)] (4) School bus monitoring cameras under § 21–706.1 of this
-11 article;
+27 (g) A recorded image of a motor vehicle produced by a some sign monitoring system
+28 in accordance with § 21–707.1 of the Transportation Article is admissible in a proceeding
+29 concerning a civil citation issued under that section for a violation of § 21–707 of the
+30 Transportation Article without authentication.
 
-12 [(4)] (5) Stop sign monitoring systems under § 21–707.1 of this article;
+31 (h) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A CROSSWALK
+32 MONITORING SYSTEM IN ACCORDANCE WITH § 21–502.2 OF THE TRANSPORTATION
+33 ARTICLE IS ADMISSIBLE IN A PROCEEDING CONCERNING A CIVIL CITATION ISSUED
+34 UNDER THAT SECTION FOR A VIOLATION OF § 21–502(A)(2) OF THE
+35 TRANSPORTATION ARTICLE WITHOUT AUTHENTICATION.
 
-13 [(5)] (6) Speed monitoring systems under § 21–809 of this article;
-
-14 [(6)] (7) Work zone speed control systems under § 21–810 of this
-15 article;
-
-16 [(7)] (8) Bus lane monitoring systems under § 21–1134 of this article;
-
-17 [(8)] (9) Noise abatement monitoring systems under § 22–612 of this
-18 article;
-
-19 [(9)] (10) Vehicle height monitoring systems under § 24–111.3 of this
-20 article; and
-
-21 [(10)] (11) Any other automated traffic enforcement system authorized
-22 under State law.
-
-23 21–502.
-
-24 (a) (1) This subsection does not apply where:
-
-25 (i) A pedestrian tunnel or overhead pedestrian crossing is provided,
-26 as described in § 21–503(b) of this subtitle; or
-
-27 (ii) A traffic control signal is in operation.
-
-28 (2) The driver of a vehicle shall come to a stop when a pedestrian crossing
-29 the roadway in a crosswalk is:
-
-30 (i) On the half of the roadway on which the vehicle is traveling; or
-
-31 (ii) Approaching from an adjacent lane on the other half of the
-32 roadway.
-
-33 (b) A pedestrian may not suddenly leave a curb or other place of safety and walk
-34 or run into the path of a vehicle which is so close that it is impossible for the driver to yield.
-
-35 (c) If, at a marked crosswalk or at an unmarked crosswalk at an intersection, a
-36 vehicle is stopped to let a pedestrian cross the roadway, the driver of any other vehicle
-37 approaching from the rear may not overtake and pass the stopped vehicle.
-
-38 (d) A person may not commit a violation of subsection (a) or (c) of this section that
-39 contributes to an accident.
-
-40 (e) A person convicted of a violation of subsection (d) of this section is subject to
-41 imprisonment not exceeding 2 months or a fine not exceeding $1,000 or both.
-
-42 21–502.2.
-
-43 (A) THIS SECTION APPLIES ONLY IN :
-
-44 (1) ANNE ARUNDEL COUNTY, MONTGOMERY COUNTY, AND PRINCE
-45 GEORGE’S COUNTY; AND
-
-46 (2) MUNICIPALITIES LOCATED IN ANNE ARUNDEL COUNTY,
-47 MONTGOMERY COUNTY, AND PRINCE GEORGE’S COUNTY.
-
-48 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-49 INDICATED.
-
-50 (2) “AGENCY” MEANS A LAW ENFORCEMENT AGENCY THAT IS
-51 AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND VEHICLE
-52 LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
-
-53 (3) “CROSSWALK MONITORING SYSTEM” MEANS A DEVICE DESIGNED
-54 TO CAPTURE A RECORDED IMAGE OF A VIOLATION.
+36 (I) In any other judicial proceeding, a recorded image produced by a vehicle
+37 height monitoring system, traffic control signal monitoring system, speed monitoring
+38 system, work zone speed control system, stop sign monitoring system, CROSSWALK
 END OF PAGE 6
 
 START OF PAGE 7
 HOUSE BILL 938 7
 
-1 (4) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
-2 VEHICLE OR LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR MORE.
+1 MONITORING SYSTEM, school bus monitoring camera, or bus lane monitoring system or a
+2 recorded image and any relevant recorded audio produced by a noise abatement monitoring
+3 system in conjunction with a noise measuring device is admissible as otherwise provided
+4 by law.
 
-3 (II) “OWNER” DOES NOT INCLUDE:
+5 Article – General Provisions
 
-4 1. A MOTOR VEHICLE LEASING COMPANY; OR
+6 4–321.
 
-5 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
-6 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+7 (a) In this section, “recorded image” or “recorded images” has the meaning stated
+8 in § 21–202.1, § 21–706.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the
+9 Transportation Article.
 
-7 (5) “RECORDED IMAGE” MEANS IMAGES RECORDED BY A CROSSWALK
-8 MONITORING SYSTEM:
+10 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+11 inspection of recorded images produced by:
 
-9 (I) ON:
+12 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+13 the Transportation Article;
 
-10 1. TWO OR MORE PHOTOGRAPHS;
+14 (2) A CROSSWALK MONITORING SYSTEM OPERATED UNDER §
+15 21–502.2 OF THE TRANSPORTATION ARTICLE;
 
-11 2. TWO OR MORE MICROPHOTOGRAPHS;
+16 (3) an automated railroad grade crossing enforcement system operated
+17 under § 21–704.1 of the Transportation Article;
 
-12 3. TWO OR MORE ELECTRONIC IMAGES;
+18 [(3)] (4) a school bus monitoring camera operated under § 21–706.1 of the
+19 Transportation Article;
 
-13 4. VIDEOTAPE; OR
+20 [(4)] (5) a stop sign monitoring system operated under § 21–707.1 of the
+21 Transportation Article;
 
-14 5. ANY OTHER MEDIUM; AND
+22 [(5)] (6) a speed monitoring system operated under § 21–809 of the
+23 Transportation Article;
 
-15 (II) SHOWING A MOTOR VEHICLE AND, ON AT LEAST ONE IMAGE
-16 OR PORTION OF TAPE, CLEARLY IDENTIFYING THE REGISTRATION PLATE NUMBER
-17 OF THE MOTOR VEHICLE.
+24 [(6)] (7) a work zone speed control system operated under § 21–810 of the
+25 Transportation Article;
 
-18 (6) (I) “VIOLATION” MEANS A FAILURE TO COME TO A
-19 STOP AT A CROSSWALK IN VIOLATION OF § 21–502(A)(2) OF THIS SUBTITLE.
+26 [(7)] (8) a bus lane monitoring system operated under § 21–1134 of the
+27 Transportation Article;
 
-20 (II) “VIOLATION” DOES NOT INCLUDE ANY ACTION A DRIVER IS
-21 INSTRUCTED TO TAKE BY A POLICE OFFICER.
+28 [(8)] (9) a noise abatement monitoring system operated under § 22–612
+29 of the Transportation Article; or
 
-22 (C) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (6) OF THIS
-23 SUBSECTION, AN AGENCY MAY USE CROSSWALK MONITORING SYSTEMS:
-
-24 (I) ON HIGHWAYS MAINTAINED BY A LOCAL JURISDICTION, IF
-25 AUTHORIZED BY THE GOVERNING BODY OF THE LOCAL JURISDICTION; OR
+30 [(9)] (10) a vehicle height monitoring system operated under § 24–111.3 of
+31 the Transportation Article.
 END OF PAGE 7
 
 START OF PAGE 8
 8 HOUSE BILL 938
 
-1 (II) ON STATE HIGHWAYS, IF AUTHORIZED BY THE STATE
-2 HIGHWAY ADMINISTRATION.
+1 (c) A custodian shall allow inspection of recorded images:
 
-3 (2) (I) 1. A CROSSWALK MONITORING SYSTEM MAY NOT BE USED IN A LOCAL JURISDICTION UNDER THIS
-4 SECTION UNLESS ITS USE IS AUTHORIZED BY THE GOVERNING BODY OF THE LOCAL
-5 JURISDICTION BY LOCAL LAW ENACTED AFTER REASONABLE NOTICE AND A PUBLIC
-6 HEARING; AND
+2 (1) as required in § 12–113.1, § 21–202.1, § 21–502.2, § 21–704.1, §
+3 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3 of the
+4 Transportation Article;
 
-7 2. MAY BE USED ONLY AT A LOCATION APPROVED BY THE
-8 GOVERNING BODY OF THE LOCAL JURISDICTION.
+5 (2) by any person issued a citation under § 21–202.1, § 21–502.2, §
+6 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or § 24–111.3
+7 of the Transportation Article, or by an attorney of record for the person; or
 
-9 (II) IN MONTGOMERY COUNTY, A CROSSWALK MONITORING
-10 SYSTEM MAY BE USED ONLY:
+8 (3) by an employee or agent of an agency in an investigation or a proceeding
+9 relating to the imposition of or indemnification from civil liability under § 21–202.1, §
+10 21–502.2, § 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 22–612, or
+11 § 24–111.3 of the Transportation Article.
 
-11 1. AT A LOCATION IDENTIFIED USING METHODOLOGY
-12 FOR THE PLACEMENT OF AUTOMATED TRAFFIC ENFORCEMENT SYSTEMS IN THE
-13 COUNTY IN EXISTENCE ON JUNE 30, 2026; OR
+12 Article – Transportation
 
-14 2. FOR A STATE HIGHWAY, AT A LOCATION
-15 APPROVED BY THE MONTGOMERY COUNTY COUNCIL.
+13 12–113.1.
 
-16 (3) A COUNTY SHALL PRIORITIZE THE PLACEMENT OF CROSSWALK
-17 MONITORING SYSTEMS WITHIN MUNICIPALITIES THAT HAVE HIGH VIOLATION
-18 RATES.
+14 (b) This section applies to:
 
-19 (4) BEFORE BEGINNING USE OF CROSSWALK MONITORING SYSTEMS,
-20 AN AGENCY SHALL PUBLISH NOTICE THAT THE AGENCY HAS ADOPTED THE USE OF
-21 CROSSWALK MONITORING SYSTEMS ON ITS WEBSITE AND IN A NEWSPAPER OF
-22 GENERAL CIRCULATION IN THE JURISDICTION IN WHICH THE CROSSWALK
-23 MONITORING SYSTEM WILL BE USED.
+15 (1) Traffic control signal monitoring systems under § 21–202.1 of this
+16 article;
 
-24 (5) (I) SUBJECT TO SUBPARAGRAPH (II) OF THIS PARAGRAPH, A LOCAL JURISDICTION THAT PLACES A CROSSWALK MONITORING SYSTEM UNDER THIS SECTION SHALL PROMINENTLY PLACE
-25 SIGNS ON HIGHWAYS WITHIN THE LOCAL JURISDICTION PROVIDING NOTICE THAT
-26 CROSSWALK MONITORING SYSTEMS ARE USED IN THE LOCAL JURISDICTION.
+17 (2) CROSSWALK MONITORING SYSTEMS UNDER § 21–502.2 OF THIS
+18 ARTICLE;
 
-27 (II) BEFORE PLACING A SIGN ON A STATE HIGHWAY UNDER THIS PARAGRAPH, A LOCAL JURISDICTION SHALL OBTAIN THE APPROVAL OF THE STATE HIGHWAY ADMINISTRATION.
+19 (3) Automated railroad grade crossing enforcement systems under §
+20 21–704.1 of this article;
 
-28 (III) SIGNAGE PLACED UNDER SUBPARAGRAPHS (I) AND (II)
-29 OF THIS PARAGRAPH SHALL BE WITHIN A PROXIMATE DISTANCE TO ANY ACTIVE
-30 CROSSWALK MONITORING SYSTEM.
+21 [(3)] (4) School bus monitoring cameras under § 21–706.1 of this article;
 
-31 (6) IN MONTGOMERY COUNTY, CROSSWALK MONITORING
-32 SYSTEMS MAY NOT BE USED AT MORE THAN 30 LOCATIONS IN MONTGOMERY
-33 COUNTY.
+22 [(4)] (5) Stop sign monitoring systems under § 21–707.1 of this article;
 
-34 (D) A RECORDED IMAGE UNDER THIS SECTION INDICATING THAT THE
-35 DRIVER OF A MOTOR VEHICLE HAS COMMITTED A VIOLATION SHALL INCLUDE:
+23 [(5)] (6) Speed monitoring systems under § 21–809 of this article;
 
-36 (1) THE TIME AND DATE OF THE VIOLATION; AND
+24 [(6)] (7) Work zone speed control systems under § 21–810 of this article;
 
-37 (2) TO THE EXTENT POSSIBLE, THE LOCATION OF THE VIOLATION.
+25 [(7)] (8) Bus lane monitoring systems under § 21–1134 of this article;
 
-38 (E) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
-39 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
-40 OR, IN ACCORDANCE WITH SUBSECTION (F)(3) OR (H)(4) OR (5) OF THIS SECTION,
-41 THE DRIVER OF A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR
+26 [(8)] (9) Noise abatement monitoring systems under § 22–612 of this
+27 article;
+
+28 [(9)] (10) Vehicle height monitoring systems under § 24–111.3 of this
+29 article; and
 END OF PAGE 8
 
 START OF PAGE 9
 HOUSE BILL 938 9
 
-1 VEHICLE IS RECORDED BY A CROSSWALK MONITORING SYSTEM DURING THE
-2 COMMISSION OF A VIOLATION.
+1 [(10)] (11) Any other automated traffic enforcement system authorized
+2 under State law.
 
-3 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED $65.
+3 21–502.
 
-4 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
-5 PRESCRIBE:
+4 (a) (1) This subsection does not apply where:
 
-6 (I) A UNIFORM CITATION FORM CONSISTENT WITH
-7 SUBSECTION (F)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+5 (i) A pedestrian tunnel or overhead pedestrian crossing is provided,
+6 as described in § 21–503(b) of this subtitle; or
 
-8 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
-9 CITATION, TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
-10 WITHOUT APPEARING IN DISTRICT COURT.
+7 (ii) A traffic control signal is in operation.
 
-11 (F) (1) SUBJECT TO THE PROVISIONS OF PARAGRAPHS (2) THROUGH (5)
-12 OF THIS SUBSECTION, AN AGENCY SHALL MAIL TO THE OWNER LIABLE UNDER
-13 SUBSECTION (E) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
+8 (2) The driver of a vehicle shall come to a stop when a pedestrian crossing
+9 the roadway in a crosswalk is:
 
-14 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
-15 THE VEHICLE;
+10 (i) On the half of the roadway on which the vehicle is traveling; or
 
-16 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
-17 INVOLVED IN THE VIOLATION;
+11 (ii) Approaching from an adjacent lane on the other half of the
+12 roadway.
 
-18 (III) THE VIOLATION CHARGED;
+13 (b) A pedestrian may not suddenly leave a curb or other place of safety and walk
+14 or run into the path of a vehicle which is so close that it is impossible for the driver to yield.
 
-19 (IV) TO THE EXTENT POSSIBLE, THE LOCATION OF THE
-20 VIOLATION;
+15 (c) If, at a marked crosswalk or at an unmarked crosswalk at an intersection, a
+16 vehicle is stopped to let a pedestrian cross the roadway, the driver of any other vehicle
+17 approaching from the rear may not overtake and pass the stopped vehicle.
 
-21 (V) THE DATE AND TIME OF THE VIOLATION;
+18 (d) A person may not commit a violation of subsection (a) or (c) of this section that
+19 contributes to an accident.
 
-22 (VI) A COPY OF THE RECORDED IMAGE;
+20 (e) A person convicted of a violation of subsection (d) of this section is subject to
+21 imprisonment not exceeding 2 months or a fine not exceeding $1,000 or both.
 
-23 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
-24 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
+22 21–502.2.
 
-25 (VIII) A SIGNED STATEMENT BY A TECHNICIAN EMPLOYED BY THE
-26 AGENCY THAT, BASED ON THE INSPECTION OF THE RECORDED IMAGE, THE MOTOR
-27 VEHICLE WAS BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
+23 (A) THIS SECTION APPLIES ONLY IN: (1)
 
-28 (IX) A STATEMENT THAT THE RECORDED IMAGE IS EVIDENCE OF
-29 A VIOLATION; AND
+24 ANNE ARUNDEL COUNTY, MONTGOMERY COUNTY, AND PRINCE
+25 GEORGE’S COUNTY; AND
+
+26 (2) MUNICIPALITIES LOCATED IN ANNE ARUNDEL COUNTY,
+27 MONTGOMERY COUNTY, AND PRINCE GEORGE’S COUNTY.
+
+28 (B) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+29 INDICATED.
 END OF PAGE 9
 
 START OF PAGE 10
 10 HOUSE BILL 938
 
-1 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
-2 LIABLE UNDER THIS SECTION:
+1 (2) “AGENCY” MEANS A LAW ENFORCEMENT AGENCY THAT IS
+2 AUTHORIZED TO ISSUE A CITATION FOR A VIOLATION OF THE MARYLAND VEHICLE
+3 LAW OR OF LOCAL TRAFFIC LAWS OR REGULATIONS.
 
-3 1. OF THE MANNER AND TIME IN WHICH LIABILITY AS
-4 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+4 (3) “CROSSWALK MONITORING SYSTEM” MEANS A DEVICE DESIGNED
+5 TO CAPTURE A RECORDED IMAGE OF A VIOLATION.
 
-5 2. THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
-6 CONTEST LIABILITY IN A TIMELY MANNER IS AN ADMISSION OF LIABILITY AND MAY
-7 RESULT IN REFUSAL OR SUSPENSION OF THE MOTOR VEHICLE REGISTRATION.
+6 ~~(4)~~ ~~“LOCAL~~ ~~JURISDICTION”~~ ~~MEANS~~ ~~ANNE~~ ~~ARUNDEL~~ ~~COUNTY~~ ~~OR~~ ~~THE~~
+7 ~~CITY~~ ~~OF~~ ~~ANNAPOLIS.~~
 
-8 (2) THE AGENCY MAY MAIL A WARNING NOTICE IN PLACE OF A
-9 CITATION TO THE OWNER LIABLE UNDER SUBSECTION (E) OF THIS SECTION.
+8 ~~(5)~~ (4) (I) “OWNER” MEANS THE REGISTERED OWNER OF A
+9 MOTOR VEHICLE OR LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR
+10 MORE.
 
-10 (3) (I) BEFORE MAILING A CITATION TO A MOTOR VEHICLE
-11 RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION, AN AGENCY
-12 SHALL MAIL A NOTICE TO THE MOTOR VEHICLE RENTAL COMPANY STATING THAT A
-13 CITATION WILL BE MAILED TO THE MOTOR VEHICLE RENTAL COMPANY UNLESS,
-14 WITHIN 45 DAYS AFTER RECEIVING THE NOTICE, THE MOTOR VEHICLE RENTAL
-15 COMPANY PROVIDES THE AGENCY WITH:
+11 (II) “OWNER” DOES NOT INCLUDE:
 
-16 1. A STATEMENT MADE UNDER OATH THAT STATES THE
-17 NAME AND LAST KNOWN MAILING ADDRESS OF THE INDIVIDUAL DRIVING OR
-18 RENTING THE MOTOR VEHICLE WHEN THE VIOLATION OCCURRED;
+12 1. A MOTOR VEHICLE LEASING COMPANY; OR
 
-19 2. A. A STATEMENT MADE UNDER OATH THAT
-20 STATES THAT THE MOTOR VEHICLE RENTAL COMPANY IS UNABLE TO DETERMINE
-21 WHO WAS DRIVING THE VEHICLE AT THE TIME THE VIOLATION OCCURRED BECAUSE
-22 THE MOTOR VEHICLE WAS STOLEN AT THE TIME OF THE VIOLATION; AND
+13 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+14 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
 
-23 B. A COPY OF THE POLICE REPORT ASSOCIATED WITH
-24 THE MOTOR VEHICLE THEFT CLAIMED UNDER ITEM A OF THIS ITEM; OR
+15 ~~(6)~~ (5) “RECORDED IMAGE” MEANS IMAGES RECORDED BY A
+16 CROSSWALK MONITORING SYSTEM:
 
-25 3. PAYMENT FOR THE PENALTY ASSOCIATED WITH THE
-26 VIOLATION.
+17 (I) ON:
 
-27 (II) AN AGENCY MAY NOT MAIL A CITATION TO A MOTOR
-28 VEHICLE RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION IF
-29 THE MOTOR VEHICLE RENTAL COMPANY COMPLIES WITH SUBPARAGRAPH (I) OF
-30 THIS PARAGRAPH.
+18 1. TWO OR MORE PHOTOGRAPHS;
 
-31 (4) EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION
-32 AND SUBSECTION (H)(4) AND (5) OF THIS SECTION, A CITATION ISSUED UNDER THIS
-33 SECTION SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER THE ALLEGED
-34 VIOLATION.
+19 2. TWO OR MORE MICROPHOTOGRAPHS;
+
+20 3. TWO OR MORE ELECTRONIC IMAGES;
+
+21 4. VIDEOTAPE; OR
+
+22 5. ANY OTHER MEDIUM; AND
+
+23 (II) SHOWING A MOTOR VEHICLE AND, ON AT LEAST ONE IMAGE
+24 OR PORTION OF TAPE, CLEARLY IDENTIFYING THE REGISTRATION PLATE NUMBER
+25 OF THE MOTOR VEHICLE.
+
+26 ~~(7)~~ (6) (I) “VIOLATION” MEANS A FAILURE TO COME TO A
+27 ~~COMPLETE~~ STOP AT A CROSSWALK IN VIOLATION OF § 21–502(A)(2) OF THIS
+28 SUBTITLE.
 END OF PAGE 10
 
 START OF PAGE 11
 HOUSE BILL 938 11
 
-1 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
-2 THIS SUBSECTION MAY:
+1 (II) “VIOLATION” DOES NOT INCLUDE ANY ACTION A DRIVER IS
+2 INSTRUCTED TO TAKE BY A POLICE OFFICER.
 
-3 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
-4 INSTRUCTIONS ON THE CITATION; OR
+3 (C) (1) SUBJECT TO PARAGRAPHS (2) THROUGH ~~(5)~~ (6) OF THIS
+4 SUBSECTION, AN AGENCY MAY USE CROSSWALK MONITORING SYSTEMS:
 
-5 (II) ELECT TO STAND TRIAL FOR THE ALLEGED VIOLATION.
+5 (I) ON HIGHWAYS MAINTAINED BY A LOCAL JURISDICTION, IF
+6 AUTHORIZED BY THE GOVERNING BODY OF THE LOCAL JURISDICTION; OR
 
-6 (G) (1) A CERTIFICATE ALLEGING THAT A VIOLATION OCCURRED, SWORN
-7 TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT OFFICER EMPLOYED
-8 BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON THE INSPECTION OF A
-9 RECORDED IMAGE, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
-10 CERTIFICATE AND SHALL BE ADMISSIBLE IN ANY PROCEEDING CONCERNING THE
-11 ALLEGED VIOLATION.
+7 (II) ON STATE HIGHWAYS, IF AUTHORIZED BY THE STATE
+8 HIGHWAY ADMINISTRATION.
 
-12 (2) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
-13 PREPONDERANCE OF THE EVIDENCE.
+9 (2) (I) A CROSSWALK MONITORING SYSTEM:
 
-14 (H) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
-15 VIOLATION:
+10 ~~(I)~~ 1. MAY NOT BE USED IN A LOCAL JURISDICTION UNDER
+11 THIS SECTION UNLESS ITS USE IS AUTHORIZED BY THE GOVERNING BODY OF THE
+12 LOCAL JURISDICTION BY LOCAL LAW ENACTED AFTER REASONABLE NOTICE AND A
+13 PUBLIC HEARING; AND
 
-16 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
-17 THE MOTOR VEHICLE OR REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
-18 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
-19 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+14 ~~(II)~~ 2. MAY BE USED ONLY AT A LOCATION APPROVED BY
+15 THE GOVERNING BODY OF THE LOCAL JURISDICTION.
 
-20 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
-21 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
-22 VEHICLE AT THE TIME OF THE VIOLATION; AND
+16 (II) IN MONTGOMERY COUNTY, A CROSSWALK MONITORING
+17 SYSTEM MAY BE USED ONLY:
 
-23 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
-24 COURT CONSIDERS PERTINENT.
+18 1. AT A LOCATION IDENTIFIED USING METHODOLOGY
+19 FOR THE PLACEMENT OF AUTOMATED TRAFFIC ENFORCEMENT SYSTEMS IN THE
+20 COUNTY IN EXISTENCE ON JUNE 30, 2026; OR
 
-25 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
-26 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
-27 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
-28 THE VIOLATION, THE OWNER MUST SUBMIT PROOF THAT A POLICE REPORT ABOUT
-29 THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN A TIMELY
-30 MANNER.
+21 2. FOR A STATE HIGHWAY, AT A LOCATION APPROVED
+22 BY THE MONTGOMERY COUNTY COUNCIL.
 
-31 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
-32 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
-33 TO THE DISTRICT COURT EVIDENCE TO THE SATISFACTION OF THE DISTRICT
+23 (3) ~~THE~~ A COUNTY SHALL PRIORITIZE THE PLACEMENT OF
+24 CROSSWALK MONITORING SYSTEMS WITHIN MUNICIPALITIES THAT HAVE HIGH
+25 VIOLATION RATES.
+
+26 (4) BEFORE BEGINNING USE OF CROSSWALK MONITORING SYSTEMS,
+27 AN AGENCY SHALL PUBLISH NOTICE THAT THE AGENCY HAS ADOPTED THE USE OF
+28 CROSSWALK MONITORING SYSTEMS ON ITS WEBSITE AND IN A NEWSPAPER OF
+29 GENERAL CIRCULATION IN THE JURISDICTION IN WHICH THE CROSSWALK
+30 MONITORING SYSTEM WILL BE USED.
+
+31 (5) (I) ~~THE~~ ~~LOCAL~~ ~~JURISDICTION~~ SUBJECT TO SUBPARAGRAPH
+32 (II) OF THIS PARAGRAPH, A LOCAL JURISDICTION THAT PLACES A CROSSWALK
 END OF PAGE 11
 
 START OF PAGE 12
 12 HOUSE BILL 938
 
-1 COURT OF WHO WAS OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION,
-2 INCLUDING, AT A MINIMUM, THE OPERATOR’S NAME AND CURRENT ADDRESS.
+1 MONITORING SYSTEM UNDER THIS SECTION SHALL PROMINENTLY PLACE SIGNS ON
+2 HIGHWAYS WITHIN THE LOCAL JURISDICTION PROVIDING NOTICE THAT
+3 CROSSWALK MONITORING SYSTEMS ARE USED IN THE LOCAL JURISDICTION.
 
-3 (4) (I) THE PROVISIONS OF THIS PARAGRAPH APPLY ONLY TO A
-4 CITATION THAT INVOLVES A CLASS E (TRUCK) VEHICLE WITH A REGISTERED GROSS
-5 WEIGHT OF 26,001 POUNDS OR MORE, CLASS F (TRACTOR) VEHICLE, CLASS G
-6 (TRAILER) VEHICLE OPERATED IN COMBINATION WITH A CLASS F (TRACTOR)
-7 VEHICLE, OR CLASS P (PASSENGER BUS) VEHICLE.
+4 (II) ~~THE~~ ~~STATE~~ ~~HIGHWAY~~ ~~ADMINISTRATION~~ ~~SHALL~~ ~~PLACE~~
+5 ~~SIGNS~~ ~~PROMINENTLY~~ ~~PROVIDING~~ ~~NOTICE~~ ~~THAT~~ ~~CROSSWALK~~ ~~MONITORING~~ ~~SYSTEMS~~
+6 ~~ARE~~ ~~IN~~ ~~USE~~ ~~ON~~ ~~STATE~~ ~~HIGHWAYS~~ BEFORE PLACING A SIGN ON A STATE HIGHWAY
+7 UNDER THIS PARAGRAPH, A LOCAL JURISDICTION SHALL OBTAIN THE APPROVAL OF
+8 THE STATE HIGHWAY ADMINISTRATION.
 
-8 (II) TO SATISFY THE EVIDENTIARY BURDEN UNDER
-9 PARAGRAPH (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN A CITATION
-10 DESCRIBED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY PROVIDE TO THE
-11 DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND MAILED
-12 BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+9 (III) SIGNAGE PLACED UNDER SUBPARAGRAPHS (I) AND (II) OF
+10 THIS PARAGRAPH SHALL BE WITHIN A PROXIMATE DISTANCE TO ANY ACTIVE
+11 CROSSWALK MONITORING SYSTEM.
 
-13 1. STATES THAT THE PERSON NAMED IN THE CITATION
-14 WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION; AND
+12 (6) IN MONTGOMERY COUNTY, CROSSWALK MONITORING SYSTEMS
+13 MAY NOT BE USED AT MORE THAN 30 LOCATIONS IN MONTGOMERY COUNTY.
 
-15 2. PROVIDES THE NAME, ADDRESS, AND DRIVER’S
-16 LICENSE IDENTIFICATION NUMBER OF THE PERSON WHO WAS OPERATING THE
-17 VEHICLE AT THE TIME OF THE VIOLATION.
+14 (D) A RECORDED IMAGE UNDER THIS SECTION INDICATING THAT THE
+15 DRIVER OF A MOTOR VEHICLE HAS COMMITTED A VIOLATION SHALL INCLUDE:
 
-18 (5) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
-19 IN THE CITATION WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE
-20 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (4)(II)2 OF THIS
-21 SUBSECTION IDENTIFYING THE PERSON DRIVING THE VEHICLE AT THE TIME OF THE
-22 VIOLATION, THE CLERK OF COURT SHALL PROVIDE TO THE AGENCY ISSUING THE
-23 CITATION A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING THE
-24 VEHICLE AT THE TIME OF THE VIOLATION.
+16 (1) THE TIME AND DATE OF THE VIOLATION; AND
 
-25 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
-26 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE AGENCY
-27 MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (F) OF THIS SECTION TO THE
-28 PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE VEHICLE AT THE TIME
-29 OF THE VIOLATION.
+17 (2) TO THE EXTENT POSSIBLE, THE LOCATION OF THE VIOLATION.
 
-30 (III) A CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
-31 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
-32 EVIDENCE FROM THE DISTRICT COURT.
+18 (E) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+19 CITATION FROM A POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER
+20 OR, IN ACCORDANCE WITH SUBSECTION (F)(3) OR (H)(4) OR (5) OF THIS SECTION,
+21 THE DRIVER OF A MOTOR VEHICLE IS SUBJECT TO A CIVIL PENALTY IF THE MOTOR
+22 VEHICLE IS RECORDED BY A CROSSWALK MONITORING SYSTEM DURING THE
+23 COMMISSION OF A VIOLATION.
 
-33 (I) IF THE CIVIL PENALTY IS NOT PAID AND THE VIOLATION IS NOT
-34 CONTESTED, THE ADMINISTRATION MAY REFUSE TO REGISTER OR REREGISTER OR
-35 MAY SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE.
+24 (2) A CIVIL PENALTY UNDER THIS SUBSECTION MAY NOT EXCEED ~~$40~~
+25 $65.
+
+26 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL
+27 PRESCRIBE:
+
+28 (I) A UNIFORM CITATION FORM CONSISTENT WITH
+29 SUBSECTION (F)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+
+30 (II) A CIVIL PENALTY, WHICH SHALL BE INDICATED ON THE
+31 CITATION, TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+32 WITHOUT APPEARING IN DISTRICT COURT.
 END OF PAGE 12
 
 START OF PAGE 13
 HOUSE BILL 938 13
 
-1 (J) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
-2 SECTION:
+1 (F) (1) SUBJECT TO THE PROVISIONS OF PARAGRAPHS (2) THROUGH (5)
+2 OF THIS SUBSECTION, AN AGENCY SHALL MAIL TO THE OWNER LIABLE UNDER
+3 SUBSECTION (E) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
 
-3 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
-4 POINTS UNDER § 16–402 OF THIS ARTICLE AND MAY NOT BE RECORDED BY THE
-5 ADMINISTRATION ON THE DRIVING RECORD OF THE OWNER OR DRIVER OF THE
-6 VEHICLE; AND
+4 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+5 THE VEHICLE;
 
-7 (2) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
-8 INSURANCE COVERAGE.
+6 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+7 INVOLVED IN THE VIOLATION;
 
-9 (K) (1) IN CONSULTATION WITH LAW ENFORCEMENT AGENCIES, THE CHIEF
-10 JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE ISSUANCE
-11 OF CITATIONS, TRIALS FOR VIOLATIONS, AND THE COLLECTION OF CIVIL PENALTIES
-12 IMPOSED UNDER THIS SECTION.
+8 (III) THE VIOLATION CHARGED;
 
-13 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
-14 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
-15 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
-16 UNDER THIS SECTION.
+9 (IV) TO THE EXTENT POSSIBLE, THE LOCATION OF THE
+10 VIOLATION;
 
-17 (L) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
-18 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
-19 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+11 (V) THE DATE AND TIME OF THE VIOLATION;
 
-20 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A CROSSWALK
-21 MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS GENERATED BY
-22 A CROSSWALK MONITORING SYSTEM ON BEHALF OF A LOCAL JURISDICTION, THE
-23 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET BASIS ON THE
-24 NUMBER OF CITATIONS ISSUED OR PAID.
+12 (VI) A COPY OF THE RECORDED IMAGE;
 
-25 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
-26 2027, Anne Arundel County, Montgomery County, and Prince
-27 George’s County, respectively, jointly with any municipalities in the respective counties
-28 that implement and use crosswalk monitoring systems, shall
-29 report to the Governor and, in accordance with § 2–1257 of the State Government Article, the
-30 General Assembly on:
+13 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+14 DATE BY WHICH THE CIVIL PENALTY MUST BE PAID;
 
-31 (1) through October 1, 2027:
+15 (VIII) A SIGNED STATEMENT BY A TECHNICIAN EMPLOYED BY THE
+16 AGENCY THAT, BASED ON THE INSPECTION OF THE RECORDED IMAGE, THE MOTOR
+17 VEHICLE WAS BEING OPERATED DURING THE COMMISSION OF A VIOLATION;
 
-32 (i) the time period during which crosswalk monitoring systems were
-33 in use in the local jurisdiction; and
+18 (IX) A STATEMENT THAT THE RECORDED IMAGE IS EVIDENCE OF
+19 A VIOLATION; AND
 
-34 (ii) the number of warnings and citations issued as a result of
-35 violations recorded by a crosswalk monitoring system in the local jurisdiction over the
-36 reported time period, by location and date;
+20 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+21 LIABLE UNDER THIS SECTION:
 
-37 (2) (i) the costs associated with implementing and operating crosswalk
-38 monitoring systems; and
+22 1. OF THE MANNER AND TIME IN WHICH LIABILITY AS
+23 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
 
-39 (ii) the revenue collected on a monthly basis as a result of violations
-40 recorded by crosswalk monitoring systems;
+24 2. THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+25 CONTEST LIABILITY IN A TIMELY MANNER IS AN ADMISSION OF LIABILITY AND MAY
+26 RESULT IN REFUSAL OR SUSPENSION OF THE MOTOR VEHICLE REGISTRATION.
+
+27 (2) THE AGENCY MAY MAIL A WARNING NOTICE IN PLACE OF A
+28 CITATION TO THE OWNER LIABLE UNDER SUBSECTION (E) OF THIS SECTION.
+
+29 (3) (I) BEFORE MAILING A CITATION TO A MOTOR VEHICLE
+30 RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION, AN AGENCY
 END OF PAGE 13
 
 START OF PAGE 14
 14 HOUSE BILL 938
 
-1 (3) appropriate locations for the deployment of crosswalk monitoring
-2 systems;
+1 SHALL MAIL A NOTICE TO THE MOTOR VEHICLE RENTAL COMPANY STATING THAT A
+2 CITATION WILL BE MAILED TO THE MOTOR VEHICLE RENTAL COMPANY UNLESS,
+3 WITHIN 45 DAYS AFTER RECEIVING THE NOTICE, THE MOTOR VEHICLE RENTAL
+4 COMPANY PROVIDES THE AGENCY WITH:
 
-3 (4) the performance and reliability of crosswalk monitoring systems used
-4 by the local jurisdiction; and
+5 1. A STATEMENT MADE UNDER OATH THAT STATES THE
+6 NAME AND LAST KNOWN MAILING ADDRESS OF THE INDIVIDUAL DRIVING OR
+7 RENTING THE MOTOR VEHICLE WHEN THE VIOLATION OCCURRED;
 
-5 (5) the effectiveness of crosswalk monitoring systems in reducing
-6 violations, crashes, and pedestrian injuries in the local jurisdiction generally and in areas
-7 where the crosswalk monitoring systems were implemented and used.
+8 2. A. A STATEMENT MADE UNDER OATH THAT
+9 STATES THAT THE MOTOR VEHICLE RENTAL COMPANY IS UNABLE TO DETERMINE
+10 WHO WAS DRIVING THE VEHICLE AT THE TIME THE VIOLATION OCCURRED BECAUSE
+11 THE MOTOR VEHICLE WAS STOLEN AT THE TIME OF THE VIOLATION; AND
 
-8 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
-9 1, 2026. It shall remain effective for a period of 5 years and, at the end of June 30, 2031,
-10 this Act, with no further action required by the General Assembly, shall be abrogated and
-11 of no further force and effect.
-END OF PAGE 14</bill>
+12 B. A COPY OF THE POLICE REPORT ASSOCIATED WITH
+13 THE MOTOR VEHICLE THEFT CLAIMED UNDER ITEM A OF THIS ITEM; OR
+
+14 3. PAYMENT FOR THE PENALTY ASSOCIATED WITH THE
+15 VIOLATION.
+
+16 (II) AN AGENCY MAY NOT MAIL A CITATION TO A MOTOR
+17 VEHICLE RENTAL COMPANY LIABLE UNDER SUBSECTION (E) OF THIS SECTION IF
+18 THE MOTOR VEHICLE RENTAL COMPANY COMPLIES WITH SUBPARAGRAPH (I) OF
+19 THIS PARAGRAPH.
+
+20 (4) EXCEPT AS PROVIDED IN PARAGRAPH (3) OF THIS SUBSECTION
+21 AND SUBSECTION (H)(4) AND (5) OF THIS SECTION, A CITATION ISSUED UNDER THIS
+22 SECTION SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER THE ALLEGED
+23 VIOLATION.
+
+24 (5) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+25 THIS SUBSECTION MAY:
+
+26 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+27 INSTRUCTIONS ON THE CITATION; OR
+
+28 (II) ELECT TO STAND TRIAL FOR THE ALLEGED VIOLATION.
+
+29 (G) (1) A CERTIFICATE ALLEGING THAT A VIOLATION OCCURRED, SWORN
+30 TO OR AFFIRMED BY A DULY AUTHORIZED LAW ENFORCEMENT OFFICER EMPLOYED
+31 BY OR UNDER CONTRACT WITH AN AGENCY, BASED ON THE INSPECTION OF A
+32 RECORDED IMAGE, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
+33 CERTIFICATE AND SHALL BE ADMISSIBLE IN ANY PROCEEDING CONCERNING THE
+34 ALLEGED VIOLATION.
+END OF PAGE 14
+
+START OF PAGE 15
+HOUSE BILL 938 15
+
+1 (2) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
+2 PREPONDERANCE OF THE EVIDENCE.
+
+3 (H) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+4 VIOLATION:
+
+5 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+6 THE MOTOR VEHICLE OR REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+7 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+8 OR POSSESSION OF THE OWNER AT THE TIME OF THE VIOLATION;
+
+9 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+10 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+11 VEHICLE AT THE TIME OF THE VIOLATION; AND
+
+12 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+13 COURT CONSIDERS PERTINENT.
+
+14 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+15 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+16 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+17 THE VIOLATION, THE OWNER MUST SUBMIT PROOF THAT A POLICE REPORT ABOUT
+18 THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN A TIMELY
+19 MANNER.
+
+20 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+21 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+22 TO THE DISTRICT COURT EVIDENCE TO THE SATISFACTION OF THE DISTRICT
+23 COURT OF WHO WAS OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION,
+24 INCLUDING, AT A MINIMUM, THE OPERATOR’S NAME AND CURRENT ADDRESS.
+
+25 (4) (I) THE PROVISIONS OF THIS PARAGRAPH APPLY ONLY TO A
+26 CITATION THAT INVOLVES A CLASS E (TRUCK) VEHICLE WITH A REGISTERED GROSS
+27 WEIGHT OF 26,001 POUNDS OR MORE, CLASS F (TRACTOR) VEHICLE, CLASS G
+28 (TRAILER) VEHICLE OPERATED IN COMBINATION WITH A CLASS F (TRACTOR)
+29 VEHICLE, OR CLASS P (PASSENGER BUS) VEHICLE.
+
+30 (II) TO SATISFY THE EVIDENTIARY BURDEN UNDER
+31 PARAGRAPH (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN A CITATION
+32 DESCRIBED UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH MAY PROVIDE TO THE
+33 DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND MAILED
+34 BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+END OF PAGE 15
+
+START OF PAGE 16
+16 HOUSE BILL 938
+
+1 1. STATES THAT THE PERSON NAMED IN THE CITATION
+2 WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION; AND
+
+3 2. PROVIDES THE NAME, ADDRESS, AND DRIVER’S
+4 LICENSE IDENTIFICATION NUMBER OF THE PERSON WHO WAS OPERATING THE
+5 VEHICLE AT THE TIME OF THE VIOLATION.
+
+6 (5) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+7 IN THE CITATION WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE
+8 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (4)(II)2 OF THIS
+9 SUBSECTION IDENTIFYING THE PERSON DRIVING THE VEHICLE AT THE TIME OF THE
+10 VIOLATION, THE CLERK OF COURT SHALL PROVIDE TO THE AGENCY ISSUING THE
+11 CITATION A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS OPERATING THE
+12 VEHICLE AT THE TIME OF THE VIOLATION.
+
+13 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+14 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE AGENCY
+15 MAY ISSUE A CITATION AS PROVIDED IN SUBSECTION (F) OF THIS SECTION TO THE
+16 PERSON WHO THE EVIDENCE INDICATES WAS OPERATING THE VEHICLE AT THE TIME
+17 OF THE VIOLATION.
+
+18 (III) A CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+19 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+20 EVIDENCE FROM THE DISTRICT COURT.
+
+21 (I) IF THE CIVIL PENALTY IS NOT PAID AND THE VIOLATION IS NOT
+22 CONTESTED, THE ADMINISTRATION MAY REFUSE TO REGISTER OR REREGISTER OR
+23 MAY SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE.
+
+24 (J) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+25 SECTION:
+
+26 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+27 POINTS UNDER § 16–402 OF THIS ARTICLE AND MAY NOT BE RECORDED BY THE
+28 ADMINISTRATION ON THE DRIVING RECORD OF THE OWNER OR DRIVER OF THE
+29 VEHICLE; AND
+
+30 (2) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+31 INSURANCE COVERAGE.
+
+32 (K) (1) IN CONSULTATION WITH LAW ENFORCEMENT AGENCIES, THE
+33 CHIEF JUDGE OF THE DISTRICT COURT SHALL ADOPT PROCEDURES FOR THE
+34 ISSUANCE OF CITATIONS, TRIALS FOR VIOLATIONS, AND THE COLLECTION OF CIVIL
+35 PENALTIES IMPOSED UNDER THIS SECTION.
+END OF PAGE 16
+
+START OF PAGE 17
+HOUSE BILL 938 17
+
+1 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+2 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+3 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+4 UNDER THIS SECTION.
+
+5 (L) (1) AN AGENCY OR AN AGENT OR A CONTRACTOR DESIGNATED BY THE
+6 AGENCY SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED UNDER THIS
+7 SECTION IN COORDINATION WITH THE DISTRICT COURT.
+
+8 (2) IF A CONTRACTOR IN ANY MANNER OPERATES A CROSSWALK
+9 MONITORING SYSTEM OR ADMINISTERS OR PROCESSES CITATIONS GENERATED BY
+10 A CROSSWALK MONITORING SYSTEM ON BEHALF OF A LOCAL JURISDICTION, THE
+11 CONTRACTOR’S FEE MAY NOT BE CONTINGENT ON A PER–TICKET BASIS ON THE
+12 NUMBER OF CITATIONS ISSUED OR PAID.
+
+13 SECTION 2. AND BE IT FURTHER ENACTED, That, on or before December 1,
+14 2027, ~~the~~ ~~Anne~~ ~~Arundel~~ ~~County~~ ~~Council~~ ~~and~~ ~~the~~ ~~Annapolis~~ ~~City~~ ~~Council~~ ~~shall~~ ~~jointly~~ Anne
+15 Arundel County, Montgomery County, and Prince George’s County, respectively, jointly
+16 with any municipalities in the respective counties that implement and use crosswalk
+17 monitoring systems, shall report to the Governor and, in accordance with § 2–1257 of the
+18 State Government Article, the General Assembly on:
+
+19 (1) through October 1, 2027:
+
+20 (i) the time period during which crosswalk monitoring systems were
+21 in use in the local jurisdiction; and
+
+22 (ii) the number of warnings and citations issued as a result of
+23 violations recorded by a crosswalk monitoring system in the local jurisdiction over the
+24 reported time period, by location and date;
+
+25 (2) (i) the costs associated with implementing and operating crosswalk
+26 monitoring systems; and
+
+27 (ii) the revenue collected on a monthly basis as a result of violations
+28 recorded by crosswalk monitoring systems;
+
+29 (3) appropriate locations for the deployment of crosswalk monitoring
+30 systems;
+
+31 (4) the performance and reliability of crosswalk monitoring systems used
+32 by the local jurisdiction; and
+END OF PAGE 17
+
+START OF PAGE 18
+18 HOUSE BILL 938
+
+1 (5) the effectiveness of crosswalk monitoring systems in reducing
+2 violations, crashes, and pedestrian injuries in the local jurisdiction generally and in areas
+3 where the crosswalk monitoring systems were implemented and used.
+
+4 SECTION 3. AND BE IT FURTHER ENACTED, That this Act shall take effect July
+5 1, 2026. It shall remain effective for a period of 5 years and, at the end of June 30, 2031,
+6 this Act, with no further action required by the General Assembly, shall be abrogated and
+7 of no further force and effect.
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 18
+</bill>

@@ -5,17 +5,22 @@ HOUSE BILL 1219
 C4, M3 6lr2155
 CF SB 739
 
-By: Delegates Fraser–Hidalgo, Behler, Boyce, Foley, Holmes, Lewis, Stein, and Ziegler
+By: ~~Delegate~~ ~~Fraser–Hidalgo~~ <u>Delegates Fraser–Hidalgo, Behler, Boyce, Foley,</u>
+<u>Holmes, Lewis, Stein, and Ziegler</u>
 Introduced and read first time: February 11, 2026
 Assigned to: Environment and Transportation and Judiciary
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Climate Change, Homeowner’s Insurance, and Emergency Management – Study
 
-3 FOR the property of requiring the University System of Maryland to conduct a study to
+3 FOR the purpose of requiring the University System of Maryland to conduct a study to
 4 evaluate the relationship between climate change, homeowner’s insurance, and
 5 emergency and disaster preparedness; and generally relating to a study on the
 6 relationship between climate change, homeowner’s insurance, and emergency
@@ -37,102 +42,105 @@ A BILL ENTITLED
 17 (2) one member of the House of Delegates, appointed by the Speaker of the
 18 House;
 
-19 (3) the Department of Natural Resources;
-
-20 (4) the Department of the Environment;
-
-21 (5) the Maryland Department of Emergency Management;
-
-22 (6) the Maryland Insurance Administration;
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1219*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1219*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 1219
 
-1 (7) a County Emergency Manager, appointed by the Maryland Association
-2 of Counties; and
+1 (3) the Department of Natural Resources;
 
-3 (8) a Municipal Emergency Manager, appointed by the Maryland
-4 Municipal League.
+2 (4) the Department of the Environment;
 
-5 (c) The study shall evaluate:
+3 (5) the Maryland Department of Emergency Management;
 
-6 (1) the extent to which climate change has contributed to the decreasing
-7 availability of and increasing costs associated with homeowner’s insurance;
+4 (6) the Maryland Insurance Administration;
 
-8 (2) the impact of recent and future changes in federal policies and grant
-9 funding streams related to disaster preparedness, response, recovery, mitigation, and
-10 resilience;
+5 (7) a County Emergency Manager, appointed by the Maryland Association
+6 of Counties; and
 
-11 (3) how federal funding has supported emergency management
-12 capabilities across the five emergency management mission areas identified by the Federal
-13 Emergency Management Agency; and
+7 (8) a Municipal Emergency Manager, appointed by the Maryland
+8 Municipal League.
 
-14 (4) existing local resources or reserve funds available for disaster recovery
-15 needs.
+9 (c) The study shall evaluate:
 
-16 (d) (1) On or before July 1, 2027, the University System of Maryland shall
-17 submit its findings and recommendations to the General Assembly, in accordance with §
-18 2–1257 of the State Government Article.
+10 (1) the extent to which climate change has contributed to the decreasing
+11 availability of and increasing costs associated with homeowner’s insurance;
 
-19 (2) The report required under this subsection shall:
+12 (2) the impact of recent and future changes in federal policies and grant
+13 funding streams related to disaster preparedness, response, recovery, mitigation, and
+14 resilience;
 
-20 (i) include an overview of the current state of the National Flood
-21 Insurance Program, Community Rating System, and the private flood insurance market;
-22 and
+15 (3) how federal funding has supported emergency management
+16 capabilities across the five emergency management mission areas identified by the Federal
+17 Emergency Management Agency; and
 
-23 (ii) make recommendations on:
+18 (4) existing local resources or reserve funds available for disaster recovery
+19 needs.
 
-24 1. how the State can incentivize residents to invest in
-25 improvements to protect homes or mitigate damage from extreme weather events, using:
+20 (d) (1) On or before ~~January~~ <u>July</u> 1, 2027, the University System of Maryland
+21 shall submit its findings and recommendations to the General Assembly, in accordance
+22 with § 2–1257 of the State Government Article.
 
-26 A. tax credits;
+23 (2) The report required under this subsection shall:
 
-27 B. waivers;
+24 (i) include an overview of the current state of the National Flood
+25 Insurance Program, Community Rating System, and the private flood insurance market;
+26 and
 
-28 C. grants;
+27 (ii) make recommendations on:
 
-29 D. loans; or
+28 1. how the State can incentivize residents to invest in
+29 improvements to protect homes or mitigate damage from extreme weather events, using:
+
+30 A. tax credits;
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 1219 3
 
-1 E. free inspections of structural enhancements by municipal
-2 or State officials;
+1 B. waivers;
 
-3 2. potential modifications to the Insurance Article to better
-4 ensure that insurers adequately adjust rates for policyholders who:
+2 C. grants;
 
-5 A. have invested in improvements that have been proven to
-6 enhance resilience to severe weather; or
+3 D. loans; or
 
-7 B. are located in an area where improvements have been
-8 made to local infrastructure or local building codes that reduce risk to the insured home;
+4 E. free inspections of structural enhancements by municipal
+5 or State officials;
 
-9 3. best practices for funding emergency management
-10 capabilities based on an evaluation of similar practices in other states;
+6 2. potential modifications to the Insurance Article to better
+7 ensure that insurers adequately adjust rates for policyholders who:
 
-11 4. potential modifications to § 14–110.5 of the Public Safety
-12 Article;
+8 A. have invested in improvements that have been proven to
+9 enhance resilience to severe weather; or
 
-13 5. recurring dedicated funding mechanisms;
+10 B. are located in an area where improvements have been
+11 made to local infrastructure or local building codes that reduce risk to the insured home;
 
-14 6. annual per capita funding levels; and
+12 3. best practices for funding emergency management
+13 capabilities based on an evaluation of similar practices in other states;
 
-15 7. allocation ratios between emergency management
-16 programing, including training and staff, and disaster response funds for recovery
-17 assistance.
+14 4. potential modifications to § 14–110.5 of the Public Safety
+15 Article;
 
-18 (e) Notwithstanding any other provision of law, up to $100,000 of the money
-19 in the Strategic Energy Investment Fund established under § 9–20B–05 of the State
-20 Government Article is authorized to be used by the University System of Maryland to
-21 conduct the study required under subsection (a) of this section.
+16 5. recurring dedicated funding mechanisms;
 
-22 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
-23 1, 2026.
+17 6. annual per capita funding levels; and
+
+18 7. allocation ratios between emergency management
+19 programing, including training and staff, and disaster response funds for recovery
+20 assistance.
+
+21 <u>(e) Notwithstanding any other provision of law, up to $100,000 of the money in</u>
+22 <u>the Strategic Energy Investment Fund established under § 9–20B–05 of the State</u>
+23 <u>Government Article is authorized to be used by the University System of Maryland to</u>
+24 <u>conduct the study required under subsection (a) of this section.</u>
+
+25 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect June
+26 1, 2026.
 END OF PAGE 3
 </bill>

@@ -2,131 +2,147 @@
 START OF PAGE 1
 HOUSE BILL 639
 
-R2, E4 6lr1940
-CF 6lr1941
-
-By: Delegates Charkoudian, Allen, Behler, Foley, Lewis, and Stein
+By: Delegates Charkoudian, Allen, Behler, Foley, Lewis,
+and Stein
 Introduced and read first time: January 30, 2026
 Assigned to: Environment and Transportation
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
 2 Transportation – Aviation – Passenger Health and Safety
 3 (Aviation Health and Safety Act)
 
-4 FOR the purpose of requiring certain aeronautical service
-7 providers that service a flight with detained individuals to request to see a warrant for the detained individual, and to note whether there is a warrant and the type of warrant; requiring certain aeronautical service
-9 providers to compile and submit to the
-10 Administration certain reports; and generally relating to health and safety of
-15 aircraft passengers.
+4 FOR the purpose of requiring certain aeronautical service providers that service a flight
+5 with detained individuals to request to see a warrant for the detained individual, and to
+6 note whether there is a warrant and the type of warrant; requiring certain
+7 aeronautical service providers to compile and submit to the Administration certain
+8 reports; and generally relating to health and safety of aircraft passengers.
 
-16 BY repealing and reenacting, without amendments,
-17 Article – Transportation
-18 Section 5–101(a) and (b)
-19 Annotated Code of Maryland
-20 (2020 Replacement Volume and 2025 Supplement)
+9 BY repealing and reenacting, without amendments,
+10 Article – Transportation
+11 Section 5–101(a) and (b)
+12 Annotated Code of Maryland
+13 (2020 Replacement Volume and 2025 Supplement)
 
-21 BY adding to
-22 Article – Transportation
-23 Section 5–107
-24 Annotated Code of Maryland
-25 (2020 Replacement Volume and 2025 Supplement)
-
-26 Preamble
+14 BY adding to
+15 Article – Transportation
+16 Section 5–107
+17 Annotated Code of Maryland
+18 (2020 Replacement Volume and 2025 Supplement)
 
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb0639*
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb0639*
 END OF PAGE 1
 
 START OF PAGE 2
 2 HOUSE BILL 639
 
-1 WHEREAS, In the event of an emergency that occurs at an airport facility, the
-2 State’s fire, rescue, and emergency medical services, as well as the State’s health care
-3 systems, are tasked with responding to these emergencies, and as such the responders and
-4 health care systems require medical information about potential patients; now, therefore,
+1 Preamble
 
-5 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-6 That the Laws of Maryland read as follows:
+2 WHEREAS, In the event of an emergency that occurs at an airport facility, the
+3 State’s fire, rescue, and emergency medical services, as well as the State’s health care
+4 systems, are tasked with responding to these emergencies, and as such the responders and
+5 health care systems require medical information about potential patients; now, therefore,
 
-7 Article – Transportation
+6 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+7 That the Laws of Maryland read as follows:
 
-8 5–101.
+8 Article – Transportation
 
-9 (a) In this title the following words have the meanings indicated.
+9 5–101.
 
-10 (b) “Administration” means the Maryland Aviation Administration.
+10 (a) In this title the following words have the meanings indicated.
 
-11 5–107.
+11 (b) “Administration” means the Maryland Aviation Administration.
 
-12 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-13 INDICATED.
+12 5–107.
 
-14 (2) “AVIATION SERVICE COMPANY” MEANS A SINGLE–SERVICE FIXED
-21 BASE OPERATOR (FBO) THAT OFFERS SPECIALIZED AERONAUTICAL SERVICES.
+13 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+14 INDICATED.
 
-22 (3) (I) “DETAINED INDIVIDUAL” MEANS A PASSENGER WHO IS
-23 TRAVELING INVOLUNTARILY OR WHILE BEING HELD IN ANY KIND OF RESTRAINT.
+15 (2) “AVIATION SERVICE COMPANY” MEANS A SINGLE–SERVICE FIXED
+16 BASE OPERATOR (FBO) THAT OFFERS SPECIALIZED AERONAUTICAL SERVICES.
 
-(II) “DETAINED INDIVIDUAL” DOES NOT INCLUDE:
+17 (3) (I) “DETAINED INDIVIDUAL” MEANS A PASSENGER WHO
+18 IS TRAVELING INVOLUNTARILY OR WHILE BEING HELD IN ANY KIND OF RESTRAINT.
 
-1. A PASSENGER WHO IS USING A SEAT BELT THAT IS
-STANDARD EQUIPMENT ON THE AIRCRAFT; OR
+19 (II) “DETAINED INDIVIDUAL” DOES NOT INCLUDE:
 
-2. A CHILD PASSENGER IN A CHILD SAFETY SEAT.
+20 1. A PASSENGER WHO IS USING A SEAT BELT THAT IS
+21 STANDARD EQUIPMENT ON THE AIRCRAFT; OR
 
-24 (4) “FIXED BASE OPERATOR” OR “FBO” MEANS A COMMERCIAL
-25 BUSINESS THAT AN AIRPORT HAS GRANTED THE RIGHT TO:
+22 2. A CHILD PASSENGER IN A CHILD SAFETY SEAT.
 
-26 (I) OPERATE AT AN AIRPORT FACILITY; AND
+23 (4) “FIXED BASE OPERATOR” OR “FBO” MEANS A COMMERCIAL
+24 BUSINESS THAT AN AIRPORT HAS GRANTED THE RIGHT TO:
 
-27 (II) PROVIDE AERONAUTICAL SERVICES.
+25 (I) OPERATE AT AN AIRPORT FACILITY; AND
+
+26 (II) PROVIDE AERONAUTICAL SERVICES.
+
+27 (B) IF AN FBO OR AVIATION SERVICE COMPANY SERVICES A FLIGHT WITH
+28 A DETAINED INDIVIDUAL ON BOARD, THE FBO OR AVIATION SERVICE COMPANY
+29 SHALL:
+
+30 (1) REQUEST TO SEE THE WARRANT THAT AUTHORIZES THE
+31 TRANSPORT OF THE DETAINED INDIVIDUAL; AND
 END OF PAGE 2
 
 START OF PAGE 3
 HOUSE BILL 639 3
 
-(B) IF AN FBO OR AVIATION SERVICE COMPANY SERVICES A FLIGHT
-WITH A DETAINED INDIVIDUAL ON BOARD, THE FBO OR AVIATION SERVICE
-COMPANY SHALL:
+1 (2) NOTE WHETHER THERE IS A WARRANT, AND WHETHER THE
+2 WARRANT IS A JUDICIAL WARRANT OR AN ADMINISTRATIVE WARRANT.
 
-(1) REQUEST TO SEE THE WARRANT THAT AUTHORIZES THE
-TRANSPORT OF THE DETAINED INDIVIDUAL; AND
+3 (C) EACH FBO OR AVIATION SERVICE COMPANY SHALL:
 
-(2) NOTE WHETHER THERE IS A WARRANT, AND WHETHER THE
-WARRANT IS A JUDICIAL WARRANT OR AN ADMINISTRATIVE WARRANT.
+4 (1) COMPILE A REPORT THAT DOCUMENTS:
 
-(C) EACH FBO OR AVIATION SERVICE COMPANY SHALL:
+5 (I) THE NUMBER OF FLIGHTS:
 
-(1) COMPILE A REPORT THAT DOCUMENTS:
+6 1. THE FBO OR AVIATION SERVICE COMPANY SERVICED
+7 THAT HAD A DETAINED INDIVIDUAL ON BOARD;
 
-(I) THE NUMBER OF FLIGHTS:
+8 2. THAT HAD A JUDICIAL WARRANT FOR ALL DETAINED
+9 INDIVIDUALS ON BOARD;
 
-1. THE FBO OR AVIATION SERVICE COMPANY
-SERVICED THAT HAD A DETAINED INDIVIDUAL ON BOARD;
+10 3. THAT HAD A JUDICIAL WARRANT AND AN
+11 ADMINISTRATIVE WARRANT FOR DETAINED INDIVIDUALS ON BOARD;
 
-2. THAT HAD A JUDICIAL WARRANT FOR ALL
-DETAINED INDIVIDUALS ON BOARD;
+12 4. THAT HAD DETAINED INDIVIDUALS ON BOARD AND
+13 WERE REFUELED WITH DETAINED INDIVIDUALS ON BOARD; AND
 
-3. THAT HAD A JUDICIAL WARRANT AND AN
-ADMINISTRATIVE WARRANT FOR DETAINED INDIVIDUALS ON BOARD;
+14 5. WHERE THE DETAINED INDIVIDUALS WERE REMOVED
+15 FROM THE PLANE DURING REFUELING, FOR THE PURPOSE OF REFUELING SAFETY;
+16 AND
 
-4. THAT HAD DETAINED INDIVIDUALS ON BOARD AND
-WERE REFUELED WITH DETAINED INDIVIDUALS ON BOARD; AND
+17 (II) ANY FLIGHT THAT DOES NOT HAVE A WARRANT FOR
+18 DETAINED INDIVIDUALS ON BOARD; AND
 
-5. WHERE THE DETAINED INDIVIDUALS WERE
-REMOVED FROM THE PLANE DURING REFUELING, FOR THE PURPOSE OF
-REFUELING SAFETY; AND
+19 (2) SUBMIT MONTHLY TO THE ADMINISTRATION THE REPORTS
+20 DESCRIBED IN THIS SUBSECTION.
 
-(II) ANY FLIGHT THAT DOES NOT HAVE A WARRANT FOR
-DETAINED INDIVIDUALS ON BOARD; AND
+21 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
+22 October 1, 2026.
 
-(2) SUBMIT MONTHLY TO THE ADMINISTRATION THE REPORTS
-DESCRIBED IN THIS SUBSECTION.
+23 Approved:
 
-7 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-8 October 1, 2026.
-END OF PAGE 6
-</bill> Maryland. Apply the instructions in the amendment to the bill. Respond ONLY with the resulting markdown.
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 3
+</bill>

@@ -1,721 +1,813 @@
+<bill>
+START OF PAGE 1
 HOUSE BILL 1614
 
 R5 6lr3104
 
-By: Delegates Arentz, Boyce, Foley, Guyton, Healey, Lewis, and Ziegler
+By: ~~Delegate~~ ~~Arentz~~ Delegates Arentz, Boyce, Foley, Guyton, Healey, Lewis, and
+Ziegler
 Introduced and read first time: February 19, 2026
 Assigned to: Rules and Executive Nominations
+Re–referred to: Environment and Transportation, February 26, 2026
 
-A BILL ENTITLED
+Committee Report: Favorable with amendments
+House action: Adopted
+Read second time: March 9, 2026
+
+CHAPTER ______
 
 1 AN ACT concerning
 
-2 Maryland Transportation Authority – Lane Use Control Signal
-3 Monitoring Systems
+2 Maryland Transportation Authority – ~~Use~~ ~~of~~ ~~Lane~~ ~~Direction~~ Lane Use Control
+3 Signal Monitoring Systems
 
-4 FOR the purpose of authorizing the Maryland Transportation Authority to use
-5 lane use control signal monitoring systems on a highway under the jurisdiction of the
-6 Maryland Transportation Authority to
+4 FOR the purpose of authorizing the Maryland Transportation Authority ~~Police~~ ~~Force~~ to use
+5 lane ~~direction~~ use control signal monitoring systems on ~~the~~ ~~Chesapeake~~ ~~Bay~~ ~~Bridge~~
+6 a highway under the jurisdiction of the Maryland Transportation Authority to
 7 enforce motor vehicle offenses for entering or traveling in a lane over which a red
-8 lane use control signal is shown; requiring the District Court to remit to the
-9 Maryland Transportation Authority any civil penalties collected by the Court
-10 resulting from a citation issued using a lane use control signal monitoring
-11 system operated by the Authority; and generally
-12 relating to the use of lane use control signal monitoring systems by the
-13 Maryland Transportation Authority.
+8 lane ~~direction~~ use control signal is shown; requiring the District Court to remit to
+9 the Maryland Transportation Authority any civil penalties collected by the Court
+10 resulting from a citation issued using a lane ~~direction~~ use control signal monitoring
+11 system operated by the Authority; ~~requiring~~ ~~the~~ ~~State~~ ~~Highway~~ ~~Administration~~ ~~to~~
+12 ~~provide~~ ~~the~~ ~~Authority~~ ~~with~~ ~~access~~ ~~to~~ ~~certain~~ ~~contacts~~ ~~and~~ ~~processes;~~ and generally
+13 relating to the use of lane ~~direction~~ use control signal monitoring systems by the
+14 Maryland Transportation Authority.
+
+15 BY repealing and reenacting, with amendments,
+16 Article – Courts and Judicial Proceedings
+17 Section 7–301(a)(1) and (2), 7–302(e)(2)(iii) and (3)(iii), and 10–311
+18 Annotated Code of Maryland
+19 (2020 Replacement Volume and 2025 Supplement)
+
+20 BY repealing and reenacting, without amendments,
+21 Article – Courts and Judicial Proceedings
+
+EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
+[Brackets] indicate matter deleted from existing law.
+Underlining indicates amendments to bill.
+~~Strike~~ ~~out~~ indicates matter stricken from the bill by amendment or deleted from the law by
+amendment. *hb1614*
+END OF PAGE 1
+
+START OF PAGE 2
+2 HOUSE BILL 1614
+
+1 Section 7–302(a)
+2 Annotated Code of Maryland
+3 (2020 Replacement Volume and 2025 Supplement)
+
+4 BY repealing and reenacting, with amendments,
+5 Article – General Provisions
+6 Section 4–321
+7 Annotated Code of Maryland
+8 (2019 Replacement Volume and 2025 Supplement)
+
+9 BY repealing and reenacting, with amendments,
+10 Article – Insurance
+11 Section 11–215(e) and 11–318(e)
+12 Annotated Code of Maryland
+13 (2017 Replacement Volume and 2025 Supplement)
 
 14 BY repealing and reenacting, with amendments,
-15 Article – Courts and Judicial Proceedings
-16 Section 7–301(a)(1) and (2), 7–302(e)(2)(iii) and (3)(iii), and 10–311
+15 Article – Transportation
+16 Section 12–113.1(b), 21–204.1, 26–305(a), and 26–401
 17 Annotated Code of Maryland
 18 (2020 Replacement Volume and 2025 Supplement)
 
 19 BY repealing and reenacting, without amendments,
-20 Article – Courts and Judicial Proceedings
-21 Section 7–302(a)
+20 Article – Transportation
+21 Section 12–113.1(c)(1), ~~21–204.1,~~ and 21–1401(a), (b), and (c)
 22 Annotated Code of Maryland
 23 (2020 Replacement Volume and 2025 Supplement)
 
-24 BY repealing and reenacting, with amendments,
-25 Article – General Provisions
-26 Section 4–321
+24 BY adding to
+25 Article – Transportation
+26 Section 21–1404.1
 27 Annotated Code of Maryland
-28 (2019 Replacement Volume and 2025 Supplement)
+28 (2020 Replacement Volume and 2025 Supplement)
 
-EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
-[Brackets] indicate matter deleted from existing law. *hb1614*
+29 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+30 That the Laws of Maryland read as follows:
 
-2 HOUSE BILL 1614
+31 Article – Courts and Judicial Proceedings
 
-1 BY repealing and reenacting, with amendments,
-2 Article – Insurance
-3 Section 11–215(e) and 11–318(e)
-4 Annotated Code of Maryland
-5 (2017 Replacement Volume and 2025 Supplement)
+32 7–301.
 
-6 BY repealing and reenacting, with amendments,
-7 Article – Transportation
-8 Section 12–113.1(b), 21–204.1, 26–305(a), and 26–401
-9 Annotated Code of Maryland
-10 (2020 Replacement Volume and 2025 Supplement)
+33 (a) (1) Except as provided in paragraphs (2) and (3) of this subsection, the
+34 court costs in a traffic case, including parking and impounding cases, cases under §
+35 21–202.1, § 21–809, § 21–810, § 21–1404.1, § 21–1414, or § 24–111.3 of the Transportation
+36 Article in which costs are imposed, and cases under § 10–112 of the Criminal Law Article
+37 in which costs are imposed:
+END OF PAGE 2
 
-11 BY repealing and reenacting, without amendments,
-12 Article – Transportation
-13 Section 12–113.1(c)(1) and 21–1401(a), (b), and (c)
-14 Annotated Code of Maryland
-15 (2020 Replacement Volume and 2025 Supplement)
-
-16 BY adding to
-17 Article – Transportation
-18 Section 21–1404.1
-19 Annotated Code of Maryland
-20 (2020 Replacement Volume and 2025 Supplement)
-
-21 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-22 That the Laws of Maryland read as follows:
-
-23 Article – Courts and Judicial Proceedings
-
-24 7–301.
-
-25 (a) (1) Except as provided in paragraphs (2) and (3) of this subsection, the
-26 court costs in a traffic case, including parking and impounding cases, cases under §
-27 21–202.1, § 21–809, § 21–810, § 21–1404.1, § 21–1414, or § 24–111.3 of the Transportation
-28 Article in which costs are imposed, and cases under § 10–112 of the Criminal Law Article
-29 in which costs are imposed:
-
-30 (i) Are $22.50; and
-
-31 (ii) Shall also be applicable to those cases in which the defendant
-32 elects to waive the defendant’s right to trial and pay the fine or penalty deposit established
-33 by the Chief Judge of the District Court by administrative regulation.
-
-34 (2) In an uncontested case under § 21–202.1, § 21–809, § 21–810, §
-35 21–1404.1, § 21–1414, or § 24–111.3 of the Transportation Article, an uncontested case
-36 under § 10–112 of the Criminal Law Article, or an uncontested parking or impounding case
-
+START OF PAGE 3
 HOUSE BILL 1614 3
 
-1 in which the fines are paid directly to a political subdivision or municipality, costs are $2.00,
-2 which costs shall be paid to and retained by the political subdivision or municipality.
+1 (i) Are $22.50; and
 
-3 7–302.
+2 (ii) Shall also be applicable to those cases in which the defendant
+3 elects to waive the defendant’s right to trial and pay the fine or penalty deposit established
+4 by the Chief Judge of the District Court by administrative regulation.
 
-4 (a) Except as provided in subsections (b) through (g) of this section, the clerks of
-5 the District Court shall:
+5 (2) In an uncontested case under § 21–202.1, § 21–809, § 21–810, §
+6 21–1404.1, § 21–1414, or § 24–111.3 of the Transportation Article, an uncontested case
+7 under § 10–112 of the Criminal Law Article, or an uncontested parking or impounding case
+8 in which the fines are paid directly to a political subdivision or municipality, costs are $2.00,
+9 which costs shall be paid to and retained by the political subdivision or municipality.
 
-6 (1) Collect costs, fines, forfeitures, or penalties imposed by the court; and
+10 7–302.
 
-7 (2) Remit them to the State under a system agreed upon by the Chief Judge
-8 of the District Court and the Comptroller.
+11 (a) Except as provided in subsections (b) through (g) of this section, the clerks of
+12 the District Court shall:
 
-9 (e) (2) (iii) A citation issued as the result of any of the following systems or
-10 cameras controlled by a State agency shall provide that, in an uncontested or contested
-11 case, the penalty shall be paid directly to the District Court:
+13 (1) Collect costs, fines, forfeitures, or penalties imposed by the court; and
 
-12 1. A traffic control signal monitoring system;
+14 (2) Remit them to the State under a system agreed upon by the Chief Judge
+15 of the District Court and the Comptroller.
 
-13 2. A work zone speed control system;
+16 (e) (2) (iii) A citation issued as the result of any of the following systems or
+17 cameras controlled by a State agency shall provide that, in an uncontested or contested
+18 case, the penalty shall be paid directly to the District Court:
 
-14 3. A speed monitoring system; [or]
+19 1. A traffic control signal monitoring system;
 
-15 4. A bus lane monitoring system; OR
+20 2. A work zone speed control system;
 
-16 5. A LANE USE CONTROL SIGNAL MONITORING
-17 SYSTEM.
+21 3. A speed monitoring system; [or]
 
-18 (3) (iii) Civil penalties resulting from citations issued using a speed
-19 monitoring system OR A LANE USE CONTROL SIGNAL MONITORING SYSTEM
-20 controlled by the Maryland Transportation Authority that are collected by the District
-21 Court shall be collected in accordance with subsection (a) of this section and remitted to the
-22 Maryland Transportation Authority.
+22 4. A bus lane monitoring system; OR
 
-23 10–311.
+23 5. A LANE ~~DIRECTION~~ USE CONTROL SIGNAL
+24 MONITORING SYSTEM.
 
-24 (a) A recorded image of a motor vehicle produced by a traffic control signal
-25 monitoring system in accordance with § 21–202.1 of the Transportation Article is
-26 admissible in a proceeding concerning a civil citation issued under that section for a
-27 violation of § 21–202(h) of the Transportation Article without authentication.
+25 (3) (iii) Civil penalties resulting from citations issued using a speed
+26 monitoring system OR A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING
+27 SYSTEM controlled by the Maryland Transportation Authority that are collected by the
+28 District Court shall be collected in accordance with subsection (a) of this section and
+29 remitted to the Maryland Transportation Authority.
 
-28 (b) A recorded image of a motor vehicle produced by a speed monitoring system
-29 in accordance with § 21–809 or § 21–810 of the Transportation Article is admissible in a
-30 proceeding concerning a civil citation issued under that section for a violation of Title 21,
-31 Subtitle 8 of the Transportation Article without authentication.
+30 10–311.
+END OF PAGE 3
 
+START OF PAGE 4
 4 HOUSE BILL 1614
 
-1 (c) A recorded image of a motor vehicle produced by a school bus monitoring
-2 camera in accordance with § 21–706.1 of the Transportation Article is admissible in a
-3 proceeding concerning a civil citation issued under that section for a violation of § 21–706
-4 of the Transportation Article without authentication.
+1 (a) A recorded image of a motor vehicle produced by a traffic control signal
+2 monitoring system in accordance with § 21–202.1 of the Transportation Article is
+3 admissible in a proceeding concerning a civil citation issued under that section for a
+4 violation of § 21–202(h) of the Transportation Article without authentication.
 
-5 (d) A recorded image of a motor vehicle produced by a vehicle height monitoring
-6 system in accordance with § 24–111.3 of the Transportation Article is admissible in a
-7 proceeding concerning a civil citation issued under that section for a violation of a State or
-8 local law restricting the presence of certain vehicles during certain times without
-9 authentication.
+5 (b) A recorded image of a motor vehicle produced by a speed monitoring system
+6 in accordance with § 21–809 or § 21–810 of the Transportation Article is admissible in a
+7 proceeding concerning a civil citation issued under that section for a violation of Title 21,
+8 Subtitle 8 of the Transportation Article without authentication.
 
-10 (e) A recorded image of a motor vehicle produced by a bus lane monitoring system
-11 in accordance with § 21–1134 of the Transportation Article is admissible in a proceeding
-12 concerning a civil citation issued under that section for a violation of § 21–1133 of the
-13 Transportation Article without authentication.
+9 (c) A recorded image of a motor vehicle produced by a school bus monitoring
+10 camera in accordance with § 21–706.1 of the Transportation Article is admissible in a
+11 proceeding concerning a civil citation issued under that section for a violation of § 21–706
+12 of the Transportation Article without authentication.
 
-14 (f) A recorded image of a motor vehicle and any relevant recorded audio produced
-15 by a noise abatement monitoring system in conjunction with a noise measuring device in
-16 accordance with § 22–612 of the Transportation Article is admissible in a proceeding
-17 concerning a civil citation issued under that section for a violation of § 22–602 of the
-18 Transportation Article without authentication.
+13 (d) A recorded image of a motor vehicle produced by a vehicle height monitoring
+14 system in accordance with § 24–111.3 of the Transportation Article is admissible in a
+15 proceeding concerning a civil citation issued under that section for a violation of a State or
+16 local law restricting the presence of certain vehicles during certain times without
+17 authentication.
 
-19 (g) A recorded image of a motor vehicle produced by a stop sign monitoring system
-20 in accordance with § 21–707.1 of the Transportation Article is admissible in a proceeding
-21 concerning a civil citation issued under that section for a violation of § 21–707 of the
-22 Transportation Article without authentication.
+18 (e) A recorded image of a motor vehicle produced by a bus lane monitoring system
+19 in accordance with § 21–1134 of the Transportation Article is admissible in a proceeding
+20 concerning a civil citation issued under that section for a violation of § 21–1133 of the
+21 Transportation Article without authentication.
 
-23 (h) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A LANE
-24 USE CONTROL SIGNAL MONITORING SYSTEM IN ACCORDANCE WITH §
-25 21–1404.1 OF THE TRANSPORTATION ARTICLE IS ADMISSIBLE IN A PROCEEDING
-26 CONCERNING A CIVIL CITATION ISSUED UNDER THAT SECTION FOR A VIOLATION OF
-27 § 21–204.1 OF THE TRANSPORTATION ARTICLE WITHOUT AUTHENTICATION.
+22 (f) A recorded image of a motor vehicle and any relevant recorded audio produced
+23 by a noise abatement monitoring system in conjunction with a noise measuring device in
+24 accordance with § 22–612 of the Transportation Article is admissible in a proceeding
+25 concerning a civil citation issued under that section for a violation of § 22–602 of the
+26 Transportation Article without authentication.
 
-28 (I) In any other judicial proceeding, a recorded image produced by a vehicle
-29 height monitoring system, traffic control signal monitoring system, speed monitoring
-30 system, work zone speed control system, stop sign monitoring system, school bus
-31 monitoring camera, or bus lane monitoring system or a recorded image and any relevant
-32 recorded audio produced by a noise abatement monitoring system in conjunction with a
-33 noise measuring device is admissible as otherwise provided by law.
+27 (g) A recorded image of a motor vehicle produced by a stop sign monitoring system
+28 in accordance with § 21–707.1 of the Transportation Article is admissible in a proceeding
+29 concerning a civil citation issued under that section for a violation of § 21–707 of the
+30 Transportation Article without authentication.
 
-34 Article – General Provisions
+31 (h) A RECORDED IMAGE OF A MOTOR VEHICLE PRODUCED BY A LANE
+32 ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM IN ACCORDANCE WITH §
+33 21–1404.1 OF THE TRANSPORTATION ARTICLE IS ADMISSIBLE IN A PROCEEDING
+34 CONCERNING A CIVIL CITATION ISSUED UNDER THAT SECTION FOR A VIOLATION OF
+35 § 21–204.1 OF THE TRANSPORTATION ARTICLE WITHOUT AUTHENTICATION.
 
-35 4–321.
+36 (I) In any other judicial proceeding, a recorded image produced by a vehicle
+37 height monitoring system, traffic control signal monitoring system, speed monitoring
+38 system, work zone speed control system, stop sign monitoring system, school bus
+END OF PAGE 4
 
+START OF PAGE 5
 HOUSE BILL 1614 5
 
-1 (a) In this section, “recorded image” or “recorded images” has the meaning stated
-2 in § 21–202.1, § 21–706.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612, or §
-3 24–111.3 of the Transportation Article.
+1 monitoring camera, or bus lane monitoring system or a recorded image and any relevant
+2 recorded audio produced by a noise abatement monitoring system in conjunction with a
+3 noise measuring device is admissible as otherwise provided by law.
 
-4 (b) Except as provided in subsection (c) of this section, a custodian shall deny
-5 inspection of recorded images produced by:
+4 Article – General Provisions
 
-6 (1) a traffic control signal monitoring system operated under § 21–202.1 of
-7 the Transportation Article;
+5 4–321.
 
-8 (2) an automated railroad grade crossing enforcement system operated
-9 under § 21–704.1 of the Transportation Article;
+6 (a) In this section, “recorded image” or “recorded images” has the meaning stated
+7 in § 21–202.1, § 21–706.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612, or §
+8 24–111.3 of the Transportation Article.
 
-10 (3) a school bus monitoring camera operated under § 21–706.1 of the
-11 Transportation Article;
+9 (b) Except as provided in subsection (c) of this section, a custodian shall deny
+10 inspection of recorded images produced by:
 
-12 (4) a stop sign monitoring system operated under § 21–707.1 of the
-13 Transportation Article;
+11 (1) a traffic control signal monitoring system operated under § 21–202.1 of
+12 the Transportation Article;
 
-14 (5) a speed monitoring system operated under § 21–809 of the
-15 Transportation Article;
+13 (2) an automated railroad grade crossing enforcement system operated
+14 under § 21–704.1 of the Transportation Article;
 
-16 (6) a work zone speed control system operated under § 21–810 of the
-17 Transportation Article;
+15 (3) a school bus monitoring camera operated under § 21–706.1 of the
+16 Transportation Article;
 
-18 (7) a bus lane monitoring system operated under § 21–1134 of the
-19 Transportation Article;
+17 (4) a stop sign monitoring system operated under § 21–707.1 of the
+18 Transportation Article;
 
-20 (8) A LANE USE CONTROL SIGNAL MONITORING SYSTEM
-21 OPERATED UNDER § 21–1404.1 OF THE TRANSPORTATION ARTICLE;
+19 (5) a speed monitoring system operated under § 21–809 of the
+20 Transportation Article;
 
-22 (9) a noise abatement monitoring system operated under § 22–612 of the
-23 Transportation Article; or
+21 (6) a work zone speed control system operated under § 21–810 of the
+22 Transportation Article;
 
-24 [(9)] (10) a vehicle height monitoring system operated under § 24–111.3 of
-25 the Transportation Article.
+23 (7) a bus lane monitoring system operated under § 21–1134 of the
+24 Transportation Article;
 
-26 (c) A custodian shall allow inspection of recorded images:
+25 (8) A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM
+26 OPERATED UNDER § 21–1404.1 OF THE TRANSPORTATION ARTICLE;
 
-27 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, §
-28 21–707.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612, or § 24–111.3 of the
-29 Transportation Article;
+27 (9) a noise abatement monitoring system operated under § 22–612 of the
+28 Transportation Article; or
 
-30 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
-31 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612, or § 24–111.3
-32 of the Transportation Article, or by an attorney of record for the person; or
+29 [(9)] (10) a vehicle height monitoring system operated under § 24–111.3 of
+30 the Transportation Article.
 
+31 (c) A custodian shall allow inspection of recorded images:
+END OF PAGE 5
+
+START OF PAGE 6
 6 HOUSE BILL 1614
 
-1 (3) by an employee or agent of an agency in an investigation or a proceeding
-2 relating to the imposition of or indemnification from civil liability under § 21–202.1, §
-3 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612,
-4 or § 24–111.3 of the Transportation Article.
+1 (1) as required in § 12–113.1, § 21–202.1, § 21–704.1, § 21–706.1, §
+2 21–707.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612, or § 24–111.3 of the
+3 Transportation Article;
 
-5 Article – Insurance
+4 (2) by any person issued a citation under § 21–202.1, § 21–704.1, §
+5 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612, or § 24–111.3
+6 of the Transportation Article, or by an attorney of record for the person; or
 
-6 11–215.
+7 (3) by an employee or agent of an agency in an investigation or a proceeding
+8 relating to the imposition of or indemnification from civil liability under § 21–202.1, §
+9 21–704.1, § 21–706.1, § 21–707.1, § 21–809, § 21–810, § 21–1134, § 21–1404.1, § 22–612,
+10 or § 24–111.3 of the Transportation Article.
 
-7 (e) For purposes of reclassifying an insured in a classification that entails a
-8 higher premium, an insurer under an automobile insurance policy may not consider a
-9 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
-10 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–1404.1, or § 24–111.3 of the
-11 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
-12 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
-13 Administration, as provided in § 16–117(b) of the Transportation Article.
+11 Article – Insurance
 
-14 11–318.
+12 11–215.
 
-15 (e) For purposes of reclassifying an insured in a classification that entails a
-16 higher premium, an insurer under an automobile insurance policy may not consider a
-17 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
-18 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–1404.1, or § 24–111.3 of the
-19 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
-20 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
-21 Administration, as provided in § 16–117(b) of the Transportation Article.
+13 (e) For purposes of reclassifying an insured in a classification that entails a
+14 higher premium, an insurer under an automobile insurance policy may not consider a
+15 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
+16 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–1404.1, or § 24–111.3 of the
+17 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
+18 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
+19 Administration, as provided in § 16–117(b) of the Transportation Article.
 
-22 Article – Transportation
+20 11–318.
 
-23 12–113.1.
+21 (e) For purposes of reclassifying an insured in a classification that entails a
+22 higher premium, an insurer under an automobile insurance policy may not consider a
+23 probation before judgment disposition of a motor vehicle law offense, a civil penalty imposed
+24 pursuant to § 21–202.1, § 21–809, § 21–810, § 21–1404.1, or § 24–111.3 of the
+25 Transportation Article, or a first offense of driving with an alcohol concentration of 0.08 or
+26 more under § 16–205.1 of the Transportation Article on record with the Motor Vehicle
+27 Administration, as provided in § 16–117(b) of the Transportation Article.
 
-24 (b) This section applies to:
+28 Article – Transportation
 
-25 (1) Traffic control signal monitoring systems under § 21–202.1 of this
-26 article;
+29 12–113.1.
 
-27 (2) Automated railroad grade crossing enforcement systems under §
-28 21–704.1 of this article;
+30 (b) This section applies to:
 
-29 (3) School bus monitoring cameras under § 21–706.1 of this article;
+31 (1) Traffic control signal monitoring systems under § 21–202.1 of this
+32 article;
 
-30 (4) Stop sign monitoring systems under § 21–707.1 of this article;
+33 (2) Automated railroad grade crossing enforcement systems under §
+34 21–704.1 of this article;
+END OF PAGE 6
 
-31 (5) Speed monitoring systems under § 21–809 of this article;
-
-32 (6) Work zone speed control systems under § 21–810 of this article;
-
+START OF PAGE 7
 HOUSE BILL 1614 7
 
-1 (7) Bus lane monitoring systems under § 21–1134 of this article;
+1 (3) School bus monitoring cameras under § 21–706.1 of this article;
 
-2 (8) LANE USE CONTROL SIGNAL MONITORING SYSTEMS
-3 UNDER § 21–1404.1 OF THIS ARTICLE;
+2 (4) Stop sign monitoring systems under § 21–707.1 of this article;
 
-4 (9) Noise abatement monitoring systems under § 22–612 of this article;
+3 (5) Speed monitoring systems under § 21–809 of this article;
 
-5 [(9)] (10) Vehicle height monitoring systems under § 24–111.3 of this
-6 article; and
+4 (6) Work zone speed control systems under § 21–810 of this article;
 
-7 [(10)] (11) Any other automated traffic enforcement system authorized
-8 under State law.
+5 (7) Bus lane monitoring systems under § 21–1134 of this article;
 
-9 (c) (1) Except as provided in paragraphs (2) and (3) of this subsection, an
-10 agency may not access or use a recorded image or associated data without a warrant,
-11 subpoena, or court order unless the access or use is for an appropriate traffic enforcement
-12 purpose.
+6 (8) LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEMS
+7 UNDER § 21–1404.1 OF THIS ARTICLE;
 
-13 21–204.1.
+8 (9) Noise abatement monitoring systems under § 22–612 of this article;
 
-14 Where lane USE control signals are placed over the individual lanes of a
-15 highway, vehicular traffic may travel in any lane over which a green signal is shown, but
-16 may not enter or travel in any lane over which a red signal is shown.
+9 [(9)] (10) Vehicle height monitoring systems under § 24–111.3 of this
+10 article; and
 
-17 21–1401.
+11 [(10)] (11) Any other automated traffic enforcement system authorized
+12 under State law.
 
-18 (a) In this subtitle the following words have the meanings indicated.
+13 (c) (1) Except as provided in paragraphs (2) and (3) of this subsection, an
+14 agency may not access or use a recorded image or associated data without a warrant,
+15 subpoena, or court order unless the access or use is for an appropriate traffic enforcement
+16 purpose.
 
-19 (b) “Approach” means any roadway, overhead structure, ramp, bridge, causeway,
-20 entrance, and exit provided as a means of access to or departure from an Authority
-21 highway.
+17 21–204.1.
 
-22 (c) “AUTHORITY HIGHWAY” MEANS:
+18 Where lane ~~direction~~ USE control signals are placed over the individual lanes of a
+19 highway, vehicular traffic may travel in any lane over which a green signal is shown, but
+20 may not enter or travel in any lane over which a red signal is shown.
 
-23 (1) EACH HIGHWAY, TUNNEL, AND BRIDGE WITHIN THE JURISDICTION OF THE
-24 MARYLAND TRANSPORTATION AUTHORITY; AND
+21 21–1401.
 
-25 (2) EACH APPROACH TO THESE HIGHWAYS, TUNNELS, AND BRIDGES.
+22 (a) In this subtitle the following words have the meanings indicated.
 
-26 21–1404.1.
+23 (b) “Approach” means any roadway, overhead structure, ramp, bridge, causeway,
+24 entrance, and exit provided as a means of access to or departure from an Authority
+25 highway.
 
-27 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
-28 INDICATED.
+26 (C) “AUTHORITY HIGHWAY” MEANS:
 
-29 (2) “LANE USE CONTROL SIGNAL MONITORING
-30 SYSTEM” MEANS A DEVICE THAT HAS ONE OR MORE MOTOR VEHICLE SENSORS CONNECTED
+27 (1) EACH HIGHWAY, TUNNEL, AND BRIDGE WITHIN THE JURISDICTION OF THE
+28 MARYLAND TRANSPORTATION AUTHORITY; AND
+END OF PAGE 7
 
+START OF PAGE 8
 8 HOUSE BILL 1614
 
-1 TO A CAMERA SYSTEM CAPABLE OF PRODUCING RECORDED IMAGES OF MOTOR
-2 VEHICLES BEING USED IN THE COMMISSION OF A VIOLATION.
+1 (2) EACH APPROACH TO THESE HIGHWAYS, TUNNELS, AND BRIDGES.
 
-3 (3) “LANE USE CONTROL SIGNAL MONITORING SYSTEM
-4 OPERATOR” MEANS AN INDIVIDUAL WHO HAS BEEN TRAINED AND CERTIFIED TO
-5 OPERATE A LANE USE CONTROL SIGNAL MONITORING SYSTEM.
+2 21–1404.1.
 
-6 (4) (I) “OWNER” MEANS THE REGISTERED OWNER OF A MOTOR
-7 VEHICLE OR A LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS OR
-8 LONGER.
+3 (A) (1) IN THIS SECTION THE FOLLOWING WORDS HAVE THE MEANINGS
+4 INDICATED.
 
-9 (II) “OWNER” DOES NOT INCLUDE:
+5 ~~ (2) “CHESAPEAKE BAY BRIDGE” MEANS THE WILLIAM PRESTON
+6 LANE, JR., MEMORIAL CHESAPEAKE BAY BRIDGE, THE PARALLEL CHESAPEAKE
+7 BAY BRIDGE, AND ANY APPROACHES TO THE BRIDGES. ~~
 
-10 1. A MOTOR VEHICLE RENTAL OR LEASING COMPANY;
-11 OR
+8 (3) (2) “LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING
+9 SYSTEM” MEANS A DEVICE THAT HAS ONE OR MORE MOTOR VEHICLE SENSORS
+10 CONNECTED TO A CAMERA SYSTEM CAPABLE OF PRODUCING RECORDED IMAGES OF
+11 MOTOR VEHICLES BEING USED IN THE COMMISSION OF A VIOLATION.
 
-12 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
-13 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
+12 (4) (3) “LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING
+13 SYSTEM OPERATOR” MEANS AN INDIVIDUAL WHO HAS BEEN TRAINED AND
+14 CERTIFIED TO OPERATE A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING
+15 SYSTEM.
 
-14 (5) “RECORDED IMAGE” MEANS AN IMAGE RECORDED BY A LANE
-15 USE CONTROL SIGNAL MONITORING SYSTEM:
+16 (5) (4) (I) “OWNER” MEANS THE REGISTERED OWNER OF A
+17 MOTOR VEHICLE OR A LESSEE OF A MOTOR VEHICLE UNDER A LEASE OF 6 MONTHS
+18 OR LONGER.
 
-16 (I) ON:
+19 (II) “OWNER” DOES NOT INCLUDE:
 
-17 1. A PHOTOGRAPH;
+20 1. A MOTOR VEHICLE RENTAL OR LEASING COMPANY;
+21 OR
 
-18 2. A MICROPHOTOGRAPH;
+22 2. A HOLDER OF A SPECIAL REGISTRATION PLATE
+23 ISSUED UNDER TITLE 13, SUBTITLE 9, PART III OF THIS ARTICLE.
 
-19 3. AN ELECTRONIC IMAGE;
+24 (6) (5) “RECORDED IMAGE” MEANS AN IMAGE RECORDED BY A
+25 LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM:
 
-20 4. VIDEOTAPE; OR
+26 (I) ON:
 
-21 5. ANY OTHER MEDIUM; AND
+27 1. A PHOTOGRAPH;
 
-22 (II) SHOWING:
+28 2. A MICROPHOTOGRAPH;
 
-23 1. THE REAR OF A MOTOR VEHICLE; AND
+29 3. AN ELECTRONIC IMAGE;
+END OF PAGE 8
 
-24 2. ON AT LEAST ONE IMAGE OR PORTION OF TAPE, A
-25 CLEAR AND LEGIBLE IDENTIFICATION OF THE ENTIRE REGISTRATION PLATE
-26 NUMBER OF THE MOTOR VEHICLE.
-
+START OF PAGE 9
 HOUSE BILL 1614 9
 
-1 (6) “VIOLATION” MEANS A VIOLATION OF § 21–204.1 OF THIS TITLE
-2 FOR ENTERING OR TRAVELING IN A LANE OVER WHICH A RED LANE USE
-3 CONTROL SIGNAL IS SHOWN.
+1 4. VIDEOTAPE; OR
 
-4 (B) THIS SECTION APPLIES ONLY TO AN AUTHORITY HIGHWAY.
+2 5. ANY OTHER MEDIUM; AND
 
-5 (C) (1) THE MARYLAND TRANSPORTATION AUTHORITY
-6 MAY USE A LANE USE CONTROL SIGNAL MONITORING SYSTEM THAT MEETS
-7 THE REQUIREMENTS OF THIS SUBSECTION TO RECORD THE IMAGES OF MOTOR
-8 VEHICLES BEING USED IN THE COMMISSION OF A VIOLATION.
+3 (II) SHOWING:
 
-9 (2) (I) A LANE USE CONTROL SIGNAL MONITORING SYSTEM
-10 MAY BE USED ONLY IF, IN ACCORDANCE WITH THE MARYLAND MANUAL ON
-11 UNIFORM TRAFFIC CONTROL DEVICES, A CONSPICUOUS ROAD SIGN IS PLACED AT
-12 A REASONABLE DISTANCE CONSISTENT WITH NATIONAL GUIDELINES BEFORE THE
-13 LANE USE CONTROL SIGNAL MONITORING SYSTEM ALERTING DRIVERS THAT
-14 A LANE USE CONTROL SIGNAL MONITORING SYSTEM MAY BE IN OPERATION
-15 ON AN AUTHORITY HIGHWAY.
+4 1. THE REAR OF A MOTOR VEHICLE; AND
 
-16 (II) BEFORE ACTIVATING A LANE USE CONTROL SIGNAL
-17 MONITORING SYSTEM, THE MARYLAND TRANSPORTATION AUTHORITY SHALL
-18 PROMINENTLY PUBLISH NOTICE OF THE IMPLEMENTATION AND USE OF THE LANE
-19 USE CONTROL SIGNAL MONITORING SYSTEM ON ITS WEBSITE.
+5 2. ON AT LEAST ONE IMAGE OR PORTION OF TAPE, A
+6 CLEAR AND LEGIBLE IDENTIFICATION OF THE ENTIRE REGISTRATION PLATE
+7 NUMBER OF THE MOTOR VEHICLE.
 
-20 (III) MULTIPLE LANE USE CONTROL SIGNAL
-21 MONITORING SYSTEMS MAY BE IMPLEMENTED AND USED AT THE SAME TIME IN THE
-22 SAME DIRECTION ON AN AUTHORITY HIGHWAY.
+8 (7) (6) “VIOLATION” MEANS A VIOLATION OF § 21–204.1 OF THIS
+9 TITLE FOR ENTERING OR TRAVELING IN A LANE OVER WHICH A RED LANE
+10 ~~DIRECTION~~ USE CONTROL SIGNAL IS SHOWN.
 
-23 (3) (I) A LANE USE CONTROL SIGNAL MONITORING SYSTEM
-24 OPERATOR SHALL COMPLETE TRAINING BY THE MANUFACTURER OF THE LANE
-25 USE CONTROL SIGNAL MONITORING SYSTEM IN THE PROCEDURES FOR
-26 SETTING UP, TESTING, AND OPERATING LANE USE CONTROL SIGNAL
-27 MONITORING SYSTEMS.
+11 (B) THIS SECTION APPLIES ONLY TO ~~THE~~ ~~CHESAPEAKE~~ ~~BAY~~ ~~BRIDGE~~ AN
+12 AUTHORITY HIGHWAY.
 
-28 (II) ON COMPLETION OF THE TRAINING, THE MANUFACTURER
-29 SHALL ISSUE A SIGNED CERTIFICATE TO THE LANE USE CONTROL SIGNAL
-30 MONITORING SYSTEM OPERATOR.
+13 (C) (1) THE MARYLAND TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~
+14 MAY USE A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM THAT
+15 MEETS THE REQUIREMENTS OF THIS SUBSECTION TO RECORD THE IMAGES OF
+16 MOTOR VEHICLES BEING USED IN THE COMMISSION OF A VIOLATION.
 
-31 (III) THE CERTIFICATE OF TRAINING SHALL BE ADMITTED AS
-32 EVIDENCE IN ANY COURT PROCEEDING FOR A VIOLATION.
+17 (2) (I) A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING
+18 SYSTEM MAY BE USED ONLY IF, IN ACCORDANCE WITH THE MARYLAND MANUAL ON
+19 UNIFORM TRAFFIC CONTROL DEVICES, A CONSPICUOUS ROAD SIGN IS PLACED AT
+20 A REASONABLE DISTANCE CONSISTENT WITH NATIONAL GUIDELINES BEFORE THE
+21 LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM ALERTING DRIVERS
+22 THAT A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM MAY BE IN
+23 OPERATION ON ~~THE~~ ~~CHESAPEAKE~~ ~~BAY~~ ~~BRIDGE~~ AN AUTHORITY HIGHWAY.
 
+24 (II) BEFORE ACTIVATING A LANE ~~DIRECTION~~ USE CONTROL
+25 SIGNAL MONITORING SYSTEM, THE MARYLAND TRANSPORTATION AUTHORITY
+26 SHALL PROMINENTLY PUBLISH NOTICE OF THE IMPLEMENTATION AND USE OF THE
+27 LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM ON ITS WEBSITE.
+
+28 (III) MULTIPLE LANE ~~DIRECTION~~ USE CONTROL SIGNAL
+29 MONITORING SYSTEMS MAY BE IMPLEMENTED AND USED AT THE SAME TIME IN THE
+30 SAME DIRECTION ON ~~THE~~ ~~CHESAPEAKE~~ ~~BAY~~ ~~BRIDGE~~ AN AUTHORITY HIGHWAY.
+END OF PAGE 9
+
+START OF PAGE 10
 10 HOUSE BILL 1614
 
-1 (4) A LANE USE CONTROL SIGNAL MONITORING SYSTEM
-2 OPERATOR SHALL FILL OUT AND SIGN A DAILY SET–UP LOG FOR A LANE USE
-3 CONTROL SIGNAL MONITORING SYSTEM THAT:
+1 (3) (I) A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING
+2 SYSTEM OPERATOR SHALL COMPLETE TRAINING BY THE MANUFACTURER OF THE
+3 LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM IN THE PROCEDURES
+4 FOR SETTING UP, TESTING, AND OPERATING LANE ~~DIRECTION~~ USE CONTROL SIGNAL
+5 MONITORING SYSTEMS.
 
-4 (I) STATES THE DATE AND TIME WHEN AND THE LOCATION
-5 WHERE THE LANE USE CONTROL SIGNAL MONITORING SYSTEM WAS SET UP;
+6 (II) ON COMPLETION OF THE TRAINING, THE MANUFACTURER
+7 SHALL ISSUE A SIGNED CERTIFICATE TO THE LANE DIRECTION USE
+8 CONTROL SIGNAL MONITORING SYSTEM OPERATOR.
 
-6 (III) SHALL BE ADMITTED AS EVIDENCE IN ANY COURT
-7 PROCEEDING FOR A VIOLATION.
+9 (III) THE CERTIFICATE OF TRAINING SHALL BE ADMITTED AS
+10 EVIDENCE IN ANY COURT PROCEEDING FOR A VIOLATION.
 
-8 (D) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
-9 CITATION FROM A MARYLAND TRANSPORTATION AUTHORITY POLICE OFFICER OR
-10 ANOTHER POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER OR, IN
-11 ACCORDANCE WITH SUBSECTION (G)(4) OF THIS SECTION, THE DRIVER OF A MOTOR
-12 VEHICLE IS SUBJECT TO A CIVIL PENALTY IF AN IMAGE OF THE MOTOR VEHICLE IS
-13 RECORDED BY A LANE USE CONTROL SIGNAL MONITORING SYSTEM IN
-14 ACCORDANCE WITH SUBSECTION (C) OF THIS SECTION BEING USED IN THE
-15 COMMISSION OF A VIOLATION.
+11 (4) A LANE USE CONTROL SIGNAL MONITORING SYSTEM
+12 OPERATOR SHALL FILL OUT AND SIGN A DAILY SET–UP LOG FOR A LANE USE
+13 CONTROL SIGNAL MONITORING SYSTEM THAT:
 
-16 (2) A CIVIL PENALTY UNDER THIS SUBSECTION IS:
+14 ~~(I) STATES THE DATE AND TIME WHEN AND THE LOCATION
+15 WHERE THE LANE DIRECTION USE CONTROL SIGNAL MONITORING SYSTEM WAS SET
+16 UP;
 
-17 (I) FOR A FIRST VIOLATION OCCURRING ON A SINGLE TRIP
-18 TRAVELING IN ONE DIRECTION, $90;
+17 (II) STATES THAT THE LANE DIRECTION CONTROL SIGNAL
+18 MONITORING SYSTEM OPERATOR SUCCESSFULLY PERFORMED, AND THE DEVICE
+19 PASSED, THE MANUFACTURER–SPECIFIED SELF–TESTS OF THE LANE DIRECTION
+20 CONTROL SIGNAL MONITORING SYSTEM BEFORE PRODUCING A RECORDED IMAGE;
 
+21 (III) SHALL BE KEPT ON FILE; AND~~
+
+22 (IV) (III) SHALL BE ADMITTED AS EVIDENCE IN ANY COURT
+23 PROCEEDING FOR A VIOLATION.
+
+24 ~~(5) (I) A LANE DIRECTION CONTROL SIGNAL MONITORING SYSTEM
+25 SHALL UNDERGO AN ANNUAL CALIBRATION CHECK PERFORMED BY AN
+26 INDEPENDENT CALIBRATION LABORATORY.
+
+27 (II) THE INDEPENDENT CALIBRATION LABORATORY SHALL
+28 ISSUE A SIGNED CERTIFICATE OF CALIBRATION AFTER THE ANNUAL CALIBRATION
+29 CHECK THAT:
+
+30 1. SHALL BE KEPT ON FILE; AND
+
+31 2. SHALL BE ADMITTED AS EVIDENCE IN ANY COURT
+32 PROCEEDING FOR A VIOLATION.~~
+END OF PAGE 10
+
+START OF PAGE 11
 HOUSE BILL 1614 11
 
-1 (II) FOR A SECOND VIOLATION OCCURRING ON THE SAME TRIP
-2 WHILE TRAVELING IN THE SAME DIRECTION AS THE FIRST VIOLATION, $180; AND
+1 (D) (1) UNLESS THE DRIVER OF THE MOTOR VEHICLE RECEIVED A
+2 CITATION FROM A MARYLAND TRANSPORTATION AUTHORITY ~~POLICE~~ ~~OFFICER~~ REPRESENTATIVE OR CONTRACTOR OR
+3 ANOTHER POLICE OFFICER AT THE TIME OF THE VIOLATION, THE OWNER OR, IN
+4 ACCORDANCE WITH SUBSECTION (G)(4) OF THIS SECTION, THE DRIVER OF A MOTOR
+5 VEHICLE IS SUBJECT TO A CIVIL PENALTY IF AN IMAGE OF THE MOTOR VEHICLE IS
+6 RECORDED BY A LANE USE CONTROL SIGNAL MONITORING SYSTEM IN
+7 ACCORDANCE WITH SUBSECTION (C) OF THIS SECTION BEING USED IN THE
+8 COMMISSION OF A VIOLATION.
 
-3 (III) FOR A THIRD OR SUBSEQUENT VIOLATION OCCURRING ON
-4 THE SAME TRIP WHILE TRAVELING IN THE SAME DIRECTION AS THE SECOND, THIRD,
-5 OR SUBSEQUENT VIOLATION, $270.
+9 (2) A CIVIL PENALTY UNDER THIS SUBSECTION IS:
 
-6 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL:
+10 (I) FOR A FIRST VIOLATION OCCURRING ON A SINGLE TRIP
+11 TRAVELING IN ONE DIRECTION, $90;
 
-7 (I) PRESCRIBE A UNIFORM CITATION FORM CONSISTENT WITH
-8 SUBSECTION (E)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
+12 (II) FOR A SECOND VIOLATION OCCURRING ON THE SAME TRIP
+13 WHILE TRAVELING IN THE SAME DIRECTION AS THE FIRST VIOLATION, $180; AND
 
-9 (II) INDICATE ON THE CITATION THE AMOUNT OF THE CIVIL
-10 PENALTY TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
-11 WITHOUT APPEARING IN DISTRICT COURT.
+14 (III) FOR A THIRD OR SUBSEQUENT VIOLATION OCCURRING ON
+15 THE SAME TRIP WHILE TRAVELING IN THE SAME DIRECTION AS THE SECOND, THIRD,
+16 OR SUBSEQUENT VIOLATION, $270.
 
-12 (E) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (5) OF THIS
-13 SUBSECTION, THE MARYLAND TRANSPORTATION AUTHORITY
-14 OR ITS CONTRACTOR SHALL MAIL TO THE OWNER ALLEGED TO BE LIABLE UNDER
-15 SUBSECTION (D) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
+17 (3) FOR PURPOSES OF THIS SECTION, THE DISTRICT COURT SHALL:
 
-16 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
-17 THE VEHICLE;
+18 (I) PRESCRIBE A UNIFORM CITATION FORM CONSISTENT WITH
+19 SUBSECTION (E)(1) OF THIS SECTION AND § 7–302 OF THE COURTS ARTICLE; AND
 
-18 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
-19 INVOLVED IN THE ALLEGED VIOLATION;
+20 (II) INDICATE ON THE CITATION THE AMOUNT OF THE CIVIL
+21 PENALTY TO BE PAID BY PERSONS WHO CHOOSE TO PREPAY THE CIVIL PENALTY
+22 WITHOUT APPEARING IN DISTRICT COURT.
 
-20 (III) THE VIOLATION CHARGED;
+23 (E) (1) SUBJECT TO PARAGRAPHS (2) THROUGH (5) OF THIS
+24 SUBSECTION, THE MARYLAND TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~ OR
+25 ITS CONTRACTOR SHALL MAIL TO THE OWNER ALLEGED TO BE LIABLE UNDER
+26 SUBSECTION (D) OF THIS SECTION A CITATION THAT SHALL INCLUDE:
 
-21 (IV) THE LOCATION WHERE THE ALLEGED VIOLATION
-22 OCCURRED;
+27 (I) THE NAME AND ADDRESS OF THE REGISTERED OWNER OF
+28 THE VEHICLE;
 
-23 (V) THE DATE AND TIME OF THE ALLEGED VIOLATION;
+29 (II) THE REGISTRATION NUMBER OF THE MOTOR VEHICLE
+30 INVOLVED IN THE ALLEGED VIOLATION;
 
-24 (VI) AT LEAST ONE RECORDED IMAGE OF THE VEHICLE WITH A
-25 DATA BAR IMPRINTED ON EACH IMAGE THAT SHOWS THE MOTOR VEHICLE BEING
-26 USED IN THE COMMISSION OF A VIOLATION AND THE DATE AND TIME THE IMAGE WAS
-27 RECORDED;
+31 (III) THE VIOLATION CHARGED;
+END OF PAGE 11
 
-28 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
-29 DATE BY WHICH THE CIVIL PENALTY SHOULD BE PAID;
-
+START OF PAGE 12
 12 HOUSE BILL 1614
 
-1 (VIII) A SIGNED STATEMENT BY A MARYLAND TRANSPORTATION
-2 AUTHORITY REPRESENTATIVE OR CONTRACTOR THAT, BASED ON INSPECTION OF RECORDED IMAGES,
-3 THE MOTOR VEHICLE WAS BEING USED IN THE COMMISSION OF A VIOLATION;
+1 (IV) THE LOCATION WHERE THE ALLEGED VIOLATION
+2 OCCURRED;
 
-4 (IX) A STATEMENT THAT RECORDED IMAGES ARE EVIDENCE OF
-5 A VIOLATION;
+3 (V) THE DATE AND TIME OF THE ALLEGED VIOLATION;
 
-6 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
-7 LIABLE UNDER THIS SECTION OF THE MANNER AND TIME IN WHICH LIABILITY AS
-8 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
+4 (VI) AT LEAST ONE RECORDED IMAGE OF THE VEHICLE WITH A
+5 DATA BAR IMPRINTED ON EACH IMAGE THAT SHOWS THE MOTOR VEHICLE BEING
+6 USED IN THE COMMISSION OF A VIOLATION AND THE DATE AND TIME THE IMAGE WAS
+7 RECORDED;
 
-9 (XI) INFORMATION ADVISING THE PERSON ALLEGED TO BE
-10 LIABLE UNDER THIS SECTION THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
-11 CONTEST LIABILITY IN A TIMELY MANNER:
+8 (VII) THE AMOUNT OF THE CIVIL PENALTY IMPOSED AND THE
+9 DATE BY WHICH THE CIVIL PENALTY SHOULD BE PAID;
 
-12 1. IS AN ADMISSION OF LIABILITY;
+10 (VIII) A SIGNED STATEMENT BY A MARYLAND TRANSPORTATION
+11 AUTHORITY ~~POLICE~~ ~~OFFICER~~ REPRESENTATIVE OR CONTRACTOR THAT, BASED ON
+12 INSPECTION OF RECORDED IMAGES, THE MOTOR VEHICLE WAS BEING USED IN THE
+13 COMMISSION OF A VIOLATION;
 
-13 2. MAY RESULT IN THE REFUSAL TO REGISTER THE
-14 MOTOR VEHICLE; AND
+14 (IX) A STATEMENT THAT RECORDED IMAGES ARE EVIDENCE OF
+15 A VIOLATION;
 
-15 3. MAY RESULT IN THE SUSPENSION OF THE MOTOR
-16 VEHICLE REGISTRATION.
+16 (X) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+17 LIABLE UNDER THIS SECTION OF THE MANNER AND TIME IN WHICH LIABILITY AS
+18 ALLEGED IN THE CITATION MAY BE CONTESTED IN THE DISTRICT COURT; AND
 
-17 (2) THE MARYLAND TRANSPORTATION AUTHORITY
-18 OR ITS CONTRACTOR MAY MAIL A WARNING NOTICE INSTEAD OF A CITATION TO AN
-19 OWNER ALLEGED TO BE LIABLE UNDER SUBSECTION (D) OF THIS SECTION.
+19 (XI) INFORMATION ADVISING THE PERSON ALLEGED TO BE
+20 LIABLE UNDER THIS SECTION THAT FAILURE TO PAY THE CIVIL PENALTY OR TO
+21 CONTEST LIABILITY IN A TIMELY MANNER:
 
-20 (3) EXCEPT AS PROVIDED IN SUBSECTION (G)(4) OF THIS SECTION,
-21 THE MARYLAND TRANSPORTATION AUTHORITY
-22 OR ITS CONTRACTOR MAY NOT MAIL A CITATION TO A PERSON WHO IS NOT AN OWNER.
+22 1. IS AN ADMISSION OF LIABILITY;
 
-23 (4) EXCEPT AS PROVIDED IN SUBSECTION (G)(4) OF THIS SECTION, A
-24 CITATION ISSUED UNDER THIS SECTION SHALL BE MAILED NOT LATER THAN 2
-25 WEEKS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS REGISTERED IN THIS
-26 STATE, AND NOT LATER THAN 30 DAYS AFTER THE ALLEGED VIOLATION IF THE
-27 VEHICLE IS REGISTERED IN ANOTHER STATE.
+23 2. MAY RESULT IN THE REFUSAL TO REGISTER THE
+24 MOTOR VEHICLE; AND
 
-28 (5) TO MAIL THE CITATION OR WARNING NOTICE, THE MARYLAND
-29 TRANSPORTATION AUTHORITY OR ITS CONTRACTOR SHALL USE:
+25 3. MAY RESULT IN THE SUSPENSION OF THE MOTOR
+26 VEHICLE REGISTRATION.
 
-30 (I) THE CURRENT MAILING ADDRESS ON FILE WITH THE
-31 ADMINISTRATION; OR
+27 (2) THE MARYLAND TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~
+28 OR ITS CONTRACTOR MAY MAIL A WARNING NOTICE INSTEAD OF A CITATION TO AN
+29 OWNER ALLEGED TO BE LIABLE UNDER SUBSECTION (D) OF THIS SECTION.
+END OF PAGE 12
 
+START OF PAGE 13
 HOUSE BILL 1614 13
 
-1 (II) IF A MAILING ADDRESS IS UNAVAILABLE, THE CURRENT
-2 RESIDENTIAL ADDRESS ON FILE WITH THE ADMINISTRATION.
+1 (3) EXCEPT AS PROVIDED IN SUBSECTION (G)(4) OF THIS SECTION,
+2 THE MARYLAND TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~ OR ITS
+3 CONTRACTOR MAY NOT MAIL A CITATION TO A PERSON WHO IS NOT AN OWNER.
 
-3 (6) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
-4 THIS SUBSECTION MAY:
+4 (4) EXCEPT AS PROVIDED IN SUBSECTION (G)(4) OF THIS SECTION, A
+5 CITATION ISSUED UNDER THIS SECTION SHALL BE MAILED NOT LATER THAN 2
+6 WEEKS AFTER THE ALLEGED VIOLATION IF THE VEHICLE IS REGISTERED IN THIS
+7 STATE, AND NOT LATER THAN 30 DAYS AFTER THE ALLEGED VIOLATION IF THE
+8 VEHICLE IS REGISTERED IN ANOTHER STATE.
 
-5 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
-6 INSTRUCTIONS ON THE CITATION; OR
+9 (5) TO MAIL THE CITATION OR WARNING NOTICE, THE MARYLAND
+10 TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~ OR ITS CONTRACTOR SHALL USE:
 
-7 (II) ELECT TO STAND TRIAL IN THE DISTRICT COURT FOR THE
-8 ALLEGED VIOLATION.
+11 (I) THE CURRENT MAILING ADDRESS ON FILE WITH THE
+12 ADMINISTRATION; OR
 
-9 (F) (1) A CERTIFICATE ALLEGING THAT THE VIOLATION OF THIS
-10 SUBTITLE OCCURRED AND THE REQUIREMENTS UNDER SUBSECTION (C) OF THIS
-11 SECTION HAVE BEEN SATISFIED, SWORN TO, OR AFFIRMED BY A MARYLAND
-12 TRANSPORTATION AUTHORITY REPRESENTATIVE OR CONTRACTOR, BASED ON INSPECTION OF
-13 RECORDED IMAGES PRODUCED BY A LANE USE
-14 MONITORING SYSTEM, SHALL BE EVIDENCE OF THE FACTS CONTAINED IN THE
-15 CERTIFICATE AND SHALL BE ADMISSIBLE IN A PROCEEDING ALLEGING A VIOLATION
-16 UNDER THIS SECTION WITHOUT THE PRESENCE OR TESTIMONY OF THE LANE
-17 USE CONTROL SIGNAL MONITORING SYSTEM OPERATOR WHO PERFORMED
-18 THE REQUIREMENTS UNDER SUBSECTION (C) OF THIS SECTION.
+13 (II) IF A MAILING ADDRESS IS UNAVAILABLE, THE CURRENT
+14 RESIDENTIAL ADDRESS ON FILE WITH THE ADMINISTRATION.
 
-19 (2) IF A PERSON WHO RECEIVED A CITATION UNDER SUBSECTION (E)
-20 OF THIS SECTION DESIRES A LANE USE CONTROL SIGNAL MONITORING
-21 SYSTEM OPERATOR TO BE PRESENT AND TESTIFY AT TRIAL, THE PERSON SHALL
-22 NOTIFY THE COURT AND THE MARYLAND TRANSPORTATION AUTHORITY
-23 IN WRITING NOT LATER THAN 20 DAYS BEFORE TRIAL.
+15 (6) A PERSON WHO RECEIVES A CITATION UNDER PARAGRAPH (1) OF
+16 THIS SUBSECTION MAY:
 
-24 (3) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
-25 PREPONDERANCE OF EVIDENCE.
+17 (I) PAY THE CIVIL PENALTY IN ACCORDANCE WITH
+18 INSTRUCTIONS ON THE CITATION; OR
 
-26 (G) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
-27 VIOLATION:
+19 (II) ELECT TO STAND TRIAL IN THE DISTRICT COURT FOR THE
+20 ALLEGED VIOLATION.
 
-28 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
-29 THE MOTOR VEHICLE OR THE REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
-30 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
-31 OR POSSESSION OF THE VEHICLE OWNER AT THE TIME OF THE VIOLATION;
+21 (F) (1) A CERTIFICATE ALLEGING THAT THE VIOLATION OF THIS
+22 SUBTITLE OCCURRED AND THE REQUIREMENTS UNDER SUBSECTION (C) OF THIS
+23 SECTION HAVE BEEN SATISFIED, SWORN TO, OR AFFIRMED BY A MARYLAND
+24 TRANSPORTATION AUTHORITY ~~POLICE~~ ~~OFFICER~~ REPRESENTATIVE OR
+25 CONTRACTOR, BASED ON INSPECTION OF RECORDED IMAGES PRODUCED BY A LANE
+26 ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM, SHALL BE EVIDENCE OF
+27 THE FACTS CONTAINED IN THE CERTIFICATE AND SHALL BE ADMISSIBLE IN A
+28 PROCEEDING ALLEGING A VIOLATION UNDER THIS SECTION WITHOUT THE
+29 PRESENCE OR TESTIMONY OF THE LANE ~~DIRECTION~~ USE CONTROL SIGNAL
+30 MONITORING SYSTEM OPERATOR WHO PERFORMED THE REQUIREMENTS UNDER
+31 SUBSECTION (C) OF THIS SECTION.
 
-32 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
-33 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
-34 VEHICLE AT THE TIME OF THE VIOLATION; AND
+32 (2) IF A PERSON WHO RECEIVED A CITATION UNDER SUBSECTION (E)
+33 OF THIS SECTION DESIRES A LANE ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING
+34 SYSTEM OPERATOR TO BE PRESENT AND TESTIFY AT TRIAL, THE PERSON SHALL
+END OF PAGE 13
 
+START OF PAGE 14
 14 HOUSE BILL 1614
 
-1 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
-2 COURT DEEMS PERTINENT.
+1 NOTIFY THE COURT AND THE MARYLAND TRANSPORTATION AUTHORITY ~~POLICE~~
+2 ~~FORCE~~ IN WRITING NOT LATER THAN 20 DAYS BEFORE TRIAL.
 
-3 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
-4 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
-5 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
-6 THE VIOLATION, THE OWNER SHALL SUBMIT PROOF THAT A POLICE REPORT
-7 REGARDING THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN
-8 A TIMELY MANNER.
+3 (3) ADJUDICATION OF LIABILITY SHALL BE BASED ON A
+4 PREPONDERANCE OF EVIDENCE.
 
-9 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
-10 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
-11 TO THE DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND
-12 MAILED BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
+5 (G) (1) THE DISTRICT COURT MAY CONSIDER IN DEFENSE OF A
+6 VIOLATION:
 
-13 (I) STATES THAT THE PERSON NAMED IN THE CITATION WAS
-14 NOT OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION; AND
+7 (I) SUBJECT TO PARAGRAPH (2) OF THIS SUBSECTION, THAT
+8 THE MOTOR VEHICLE OR THE REGISTRATION PLATES OF THE MOTOR VEHICLE WERE
+9 STOLEN BEFORE THE VIOLATION OCCURRED AND WERE NOT UNDER THE CONTROL
+10 OR POSSESSION OF THE VEHICLE OWNER AT THE TIME OF THE VIOLATION;
 
-15 (II) INCLUDES ANY OTHER CORROBORATING EVIDENCE.
+11 (II) SUBJECT TO PARAGRAPH (3) OF THIS SUBSECTION,
+12 EVIDENCE THAT THE PERSON NAMED IN THE CITATION WAS NOT OPERATING THE
+13 VEHICLE AT THE TIME OF THE VIOLATION; AND
 
-16 (4) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
-17 IN THE CITATION WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE
-18 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (3) OF THIS SUBSECTION
-19 IDENTIFYING THE PERSON OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION,
-20 THE CLERK OF THE COURT MAY PROVIDE TO THE MARYLAND TRANSPORTATION
-21 AUTHORITY A COPY OF ANY EVIDENCE SUBSTANTIATING WHO WAS
-22 OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION.
+14 (III) ANY OTHER ISSUES AND EVIDENCE THAT THE DISTRICT
+15 COURT DEEMS PERTINENT.
 
-23 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
-24 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE MARYLAND
-25 TRANSPORTATION AUTHORITY MAY ISSUE A CITATION AS
-26 PROVIDED IN SUBSECTION (E) OF THIS SECTION TO THE PERSON WHO THE
-27 EVIDENCE INDICATES WAS OPERATING THE VEHICLE AT THE TIME OF THE
-28 VIOLATION.
+16 (2) TO DEMONSTRATE THAT THE MOTOR VEHICLE OR THE
+17 REGISTRATION PLATES WERE STOLEN BEFORE THE VIOLATION OCCURRED AND
+18 WERE NOT UNDER THE CONTROL OR POSSESSION OF THE OWNER AT THE TIME OF
+19 THE VIOLATION, THE OWNER SHALL SUBMIT PROOF THAT A POLICE REPORT
+20 REGARDING THE STOLEN MOTOR VEHICLE OR REGISTRATION PLATES WAS FILED IN
+21 A TIMELY MANNER.
 
-29 (III) ANY CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
-30 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
-31 EVIDENCE FROM THE DISTRICT COURT.
+22 (3) TO SATISFY THE EVIDENTIARY BURDEN UNDER PARAGRAPH
+23 (1)(II) OF THIS SUBSECTION, THE PERSON NAMED IN THE CITATION SHALL PROVIDE
+24 TO THE DISTRICT COURT A LETTER, SWORN TO OR AFFIRMED BY THE PERSON AND
+25 MAILED BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED, THAT:
 
-32 (H) IF A PERSON LIABLE UNDER THIS SECTION DOES NOT PAY THE CIVIL
-33 PENALTY OR CONTEST THE VIOLATION, THE ADMINISTRATION MAY:
+26 (I) STATES THAT THE PERSON NAMED IN THE CITATION WAS
+27 NOT OPERATING THE VEHICLE AT THE TIME OF THE VIOLATION; AND
 
+28 (II) INCLUDES ANY OTHER CORROBORATING EVIDENCE.
+
+29 (4) (I) IF THE DISTRICT COURT FINDS THAT THE PERSON NAMED
+30 IN THE CITATION WAS NOT OPERATING THE VEHICLE AT THE TIME OF THE
+31 VIOLATION OR RECEIVES EVIDENCE UNDER PARAGRAPH (3) OF THIS SUBSECTION
+32 IDENTIFYING THE PERSON ~~DRIVING~~ OPERATING THE VEHICLE AT THE TIME OF THE
+33 VIOLATION, THE CLERK OF THE COURT MAY PROVIDE TO THE MARYLAND
+END OF PAGE 14
+
+START OF PAGE 15
 HOUSE BILL 1614 15
 
-1 (1) REFUSE TO REGISTER OR REREGISTER THE REGISTRATION OF
-2 THE MOTOR VEHICLE CITED FOR THE VIOLATION; OR
+1 TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~ A COPY OF ANY EVIDENCE
+2 SUBSTANTIATING WHO WAS OPERATING THE VEHICLE AT THE TIME OF THE
+3 VIOLATION.
 
-3 (2) SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE CITED FOR
-4 THE VIOLATION.
+4 (II) ON RECEIPT OF SUBSTANTIATING EVIDENCE FROM THE
+5 DISTRICT COURT UNDER SUBPARAGRAPH (I) OF THIS PARAGRAPH, THE MARYLAND
+6 TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~ MAY ISSUE A CITATION AS
+7 PROVIDED IN SUBSECTION (E) OF THIS SECTION TO THE PERSON WHO THE
+8 EVIDENCE INDICATES WAS OPERATING THE VEHICLE AT THE TIME OF THE
+9 VIOLATION.
 
-5 (I) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
-6 SECTION:
+10 (III) ANY CITATION ISSUED UNDER SUBPARAGRAPH (II) OF THIS
+11 PARAGRAPH SHALL BE MAILED NOT LATER THAN 2 WEEKS AFTER RECEIPT OF THE
+12 EVIDENCE FROM THE DISTRICT COURT.
 
-7 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
-8 POINTS UNDER § 16–402 OF THIS ARTICLE;
+13 (H) IF A PERSON LIABLE UNDER THIS SECTION DOES NOT PAY THE CIVIL
+14 PENALTY OR CONTEST THE VIOLATION, THE ADMINISTRATION MAY:
 
-9 (2) MAY NOT BE RECORDED BY THE ADMINISTRATION ON THE
-10 DRIVING RECORD OF THE OWNER OR DRIVER OF THE VEHICLE;
+15 (1) REFUSE TO REGISTER OR REREGISTER THE REGISTRATION OF
+16 THE MOTOR VEHICLE CITED FOR THE VIOLATION; OR
 
-11 (3) MAY BE TREATED AS A PARKING VIOLATION FOR PURPOSES OF §
-12 26–305 OF THIS ARTICLE; AND
+17 (2) SUSPEND THE REGISTRATION OF THE MOTOR VEHICLE CITED FOR
+18 THE VIOLATION.
 
-13 (4) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
-14 INSURANCE COVERAGE.
+19 (I) A VIOLATION FOR WHICH A CIVIL PENALTY IS IMPOSED UNDER THIS
+20 SECTION:
 
-15 (J) (1) IN CONSULTATION WITH THE MARYLAND TRANSPORTATION
-16 AUTHORITY, THE CHIEF JUDGE OF THE DISTRICT COURT SHALL
-17 ADOPT PROCEDURES FOR THE ISSUANCE OF CITATIONS, THE TRIAL OF CIVIL
-18 VIOLATIONS, AND THE COLLECTION OF CIVIL PENALTIES UNDER THIS SECTION.
+21 (1) IS NOT A MOVING VIOLATION FOR THE PURPOSE OF ASSESSING
+22 POINTS UNDER § 16–402 OF THIS ARTICLE;
 
-19 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
-20 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
-21 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
-22 UNDER THIS SECTION.
+23 (2) MAY NOT BE RECORDED BY THE ADMINISTRATION ON THE
+24 DRIVING RECORD OF THE OWNER OR DRIVER OF THE VEHICLE;
 
-23 (K) (1) THE MARYLAND TRANSPORTATION AUTHORITY
-24 OR ITS CONTRACTOR SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED
-25 UNDER THIS SECTION IN COORDINATION WITH THE DISTRICT COURT.
+25 (3) MAY BE TREATED AS A PARKING VIOLATION FOR PURPOSES OF §
+26 26–305 OF THIS ARTICLE; AND
 
-26 (2) IF A CONTRACTOR PROVIDES, DEPLOYS, OR OPERATES A LANE
-27 USE CONTROL SIGNAL MONITORING SYSTEM FOR THE MARYLAND
-28 TRANSPORTATION AUTHORITY, THE CONTRACTOR’S FEE MAY NOT
-29 BE CONTINGENT ON THE NUMBER OF CITATIONS ISSUED OR PAID.
+27 (4) MAY NOT BE CONSIDERED IN THE PROVISION OF MOTOR VEHICLE
+28 INSURANCE COVERAGE.
 
-30 (L) THE MARYLAND TRANSPORTATION AUTHORITY SHALL ADOPT
-31 REGULATIONS ESTABLISHING STANDARDS AND PROCEDURES FOR LANE USE
-32 CONTROL SIGNAL MONITORING SYSTEMS AUTHORIZED UNDER THIS SECTION.
+29 (J) (1) IN CONSULTATION WITH THE MARYLAND TRANSPORTATION
+30 AUTHORITY ~~POLICE~~ ~~FORCE~~, THE CHIEF JUDGE OF THE DISTRICT COURT SHALL
+31 ADOPT PROCEDURES FOR THE ISSUANCE OF CITATIONS, THE TRIAL OF CIVIL
+32 VIOLATIONS, AND THE COLLECTION OF CIVIL PENALTIES UNDER THIS SECTION.
+END OF PAGE 15
 
+START OF PAGE 16
 16 HOUSE BILL 1614
 
-1 26–305.
+1 (2) THE STANDARDS AND REQUIREMENTS FOR THE USE,
+2 PROCESSING, AND DISPOSAL OF RECORDED IMAGES AND ASSOCIATED DATA
+3 ESTABLISHED UNDER § 12–113.1 OF THIS ARTICLE APPLY TO CITATIONS ISSUED
+4 UNDER THIS SECTION.
 
-2 (a) The Administration may not register or transfer the registration of any vehicle
-3 involved in a parking violation under this subtitle, a violation under any federal parking
-4 regulation that applies to property in this State under the jurisdiction of the U.S.
-5 government, a violation of § 21–202(h) of this article as determined under § 21–202.1 of this
-6 article or Title 21, Subtitle 8 of this article as determined under § 21–809 or § 21–810 of
-7 this article, A VIOLATION OF § 21–204.1 OF THIS ARTICLE AS DETERMINED UNDER §
-8 21–1404.1 OF THIS ARTICLE, or a violation of the Illegal Dumping and Litter Control Law
-9 under § 10–110 of the Criminal Law Article or a local law or ordinance adopted by
-10 Baltimore City relating to the unlawful disposal of litter as determined under § 10–112 of
-11 the Criminal Law Article, if:
+5 (K) (1) THE MARYLAND TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~
+6 OR ITS CONTRACTOR SHALL ADMINISTER AND PROCESS CIVIL CITATIONS ISSUED
+7 UNDER THIS SECTION IN COORDINATION WITH THE DISTRICT COURT.
 
-12 (1) It is notified by a political subdivision or authorized State agency that
-13 the person cited for the violation under this subtitle, § 21–202.1, § 21–809, or § 21–810 of
-14 this article, or § 10–110 or § 10–112 of the Criminal Law Article has failed to either:
+8 (2) IF A CONTRACTOR PROVIDES, DEPLOYS, OR OPERATES A LANE
+9 ~~DIRECTION~~ USE CONTROL SIGNAL MONITORING SYSTEM FOR THE MARYLAND
+10 TRANSPORTATION AUTHORITY ~~POLICE~~ ~~FORCE~~, THE CONTRACTOR’S FEE MAY NOT
+11 BE CONTINGENT ON THE NUMBER OF CITATIONS ISSUED OR PAID.
 
-15 (i) Pay the fine for the violation by the date specified in the citation;
-16 or
+12 (L) THE MARYLAND TRANSPORTATION AUTHORITY SHALL ADOPT
+13 REGULATIONS ESTABLISHING STANDARDS AND PROCEDURES FOR LANE ~~DIRECTION~~
+14 USE CONTROL SIGNAL MONITORING SYSTEMS AUTHORIZED UNDER THIS SECTION.
 
-17 (ii) File a notice of his intention to stand trial for the violation;
+15 26–305.
 
-18 (2) It is notified by the District Court that a person who has elected to stand
-19 trial for the violation under this subtitle, under § 21–202.1, § 21–809, or § 21–810 of this
-20 article, or under § 10–110 or § 10–112 of the Criminal Law Article has failed to appear for
-21 trial; or
+16 (a) The Administration may not register or transfer the registration of any vehicle
+17 involved in a parking violation under this subtitle, a violation under any federal parking
+18 regulation that applies to property in this State under the jurisdiction of the U.S.
+19 government, a violation of § 21–202(h) of this article as determined under § 21–202.1 of this
+20 article or Title 21, Subtitle 8 of this article as determined under § 21–809 or § 21–810 of
+21 this article, A VIOLATION OF § 21–204.1 OF THIS ARTICLE AS DETERMINED UNDER §
+22 21–1404.1 OF THIS ARTICLE, or a violation of the Illegal Dumping and Litter Control Law
+23 under § 10–110 of the Criminal Law Article or a local law or ordinance adopted by
+24 Baltimore City relating to the unlawful disposal of litter as determined under § 10–112 of
+25 the Criminal Law Article, if:
 
-22 (3) It is notified by a U.S. District Court that a person cited for a violation
-23 under a federal parking regulation:
+26 (1) It is notified by a political subdivision or authorized State agency that
+27 the person cited for the violation under this subtitle, § 21–202.1, § 21–809, or § 21–810 of
+28 this article, or § 10–110 or § 10–112 of the Criminal Law Article has failed to either:
 
-24 (i) Has failed to pay the fine for the violation by the date specified
-25 in the federal citation; or
+29 (i) Pay the fine for the violation by the date specified in the citation;
+30 or
 
-26 (ii) Either has failed to file a notice of the person’s intention to stand
-27 trial for the violation, or, if electing to stand trial, has failed to appear for trial.
+31 (ii) File a notice of his intention to stand trial for the violation;
 
-28 26–401.
+32 (2) It is notified by the District Court that a person who has elected to stand
+33 trial for the violation under this subtitle, under § 21–202.1, § 21–809, or § 21–810 of this
+34 article, or under § 10–110 or § 10–112 of the Criminal Law Article has failed to appear for
+35 trial; or
+END OF PAGE 16
 
-29 If a person is taken before a District Court commissioner or is given a traffic citation
-30 or a civil citation under § 21–202.1, § 21–809, § 21–810, § 21–1404.1, § 21–1414, or §
-31 24–111.3 of this article containing a notice to appear in court, the commissioner or court
-32 shall be one that sits within the county in which the offense allegedly was committed.
+START OF PAGE 17
+HOUSE BILL 1614 17
 
-33 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect October 1, 2026.
+1 (3) It is notified by a U.S. District Court that a person cited for a violation
+2 under a federal parking regulation:
+
+3 (i) Has failed to pay the fine for the violation by the date specified
+4 in the federal citation; or
+
+5 (ii) Either has failed to file a notice of the person’s intention to stand
+6 trial for the violation, or, if electing to stand trial, has failed to appear for trial.
+
+7 26–401.
+
+8 If a person is taken before a District Court commissioner or is given a traffic citation
+9 or a civil citation under § 21–202.1, § 21–809, § 21–810, § 21–1404.1, § 21–1414, or §
+10 24–111.3 of this article containing a notice to appear in court, the commissioner or court
+11 shall be one that sits within the county in which the offense allegedly was committed.
+
+12 SECTION 2. ~~AND BE IT FURTHER ENACTED, That this Act shall take effect
+13 October 1, 2026.~~
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 17
+</bill>

@@ -1,5 +1,6 @@
 <bill>
 START OF PAGE 1
+SECOND PRINTING
 HOUSE BILL 816
 
 C4 6lr2702
@@ -15,17 +16,19 @@ Reassigned: Judiciary, February 6, 2026
 Committee Report: Favorable with amendments
 House action: Adopted
 Read second time: March 9, 2026
+Returned to second reading: March 10, 2026
+House action: Adopted with floor amendments
+Read second time: March 10, 2026
 
 CHAPTER ______
 
 1 AN ACT concerning
 
-2 Maryland Automobile Insurance Fund – Affordability Program and Industry Automobile
-3 Insurance Association Assessments
+2 Maryland Automobile Insurance Fund – Affordability ~~–~~ ~~Purpose~~ ~~of~~ ~~Fund~~ ~~and~~
+3 ~~Authorized~~ ~~Program~~ Program and Industry Automobile Insurance Association
+4 Assessments
 
-4 
-
-5 ~~altering~~ ~~the~~ ~~purpose~~ ~~of~~ ~~the~~ ~~Maryland~~ ~~Automobile~~ ~~Insurance~~ ~~Fund~~ ~~to~~
+5 FOR the purpose of ~~altering~~ ~~the~~ ~~purpose~~ ~~of~~ ~~the~~ ~~Maryland~~ ~~Automobile~~ ~~Insurance~~ ~~Fund~~ ~~to~~
 6 ~~specify~~ ~~that~~ ~~the~~ ~~financial~~ ~~security~~ ~~provided~~ ~~by~~ ~~the~~ ~~Fund~~ ~~be~~ ~~provided~~ ~~at~~ ~~rates~~ ~~that~~ ~~are~~
 7 ~~affordable;~~ altering the cap on a certain assessment allocation percentage required
 8 to be calculated by the Board of Directors of the Industry Automobile Insurance
@@ -40,10 +43,6 @@ CHAPTER ______
 16 Annotated Code of Maryland
 17 (2017 Replacement Volume and 2025 Supplement)
 
-18 BY repealing and reenacting, with amendments,
-19 Article – Insurance
-20 Section 20–405(d) and 20–507(b)
-
 EXPLANATION: CAPITALS INDICATE MATTER ADDED TO EXISTING LAW.
 [Brackets] indicate matter deleted from existing law.
 Underlining indicates amendments to bill.
@@ -54,53 +53,50 @@ END OF PAGE 1
 START OF PAGE 2
 2 HOUSE BILL 816
 
-1 Annotated Code of Maryland
-2 (2017 Replacement Volume and 2025 Supplement)
+1 BY repealing and reenacting, with amendments,
+2 Article – Insurance
+3 Section ~~20–301(a)~~ 20–405(d) and 20–507(b)
+4 Annotated Code of Maryland
+5 (2017 Replacement Volume and 2025 Supplement)
 
-3 BY adding to
-4 Article – Insurance
-5 Section 20–521
-6 Annotated Code of Maryland
-7 (2017 Replacement Volume and 2025 Supplement)
+6 BY adding to
+7 Article – Insurance
+8 Section 20–521
+9 Annotated Code of Maryland
+10 (2017 Replacement Volume and 2025 Supplement)
 
-8 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
-9 That the Laws of Maryland read as follows:
+11 SECTION 1. BE IT ENACTED BY THE GENERAL ASSEMBLY OF MARYLAND,
+12 That the Laws of Maryland read as follows:
 
-10 Article – Insurance
+13 Article – Insurance
 
-11 20–101.
+14 20–101.
 
-12 (a) In this title the following words have the meanings indicated.
+15 (a) In this title the following words have the meanings indicated.
 
-13 (b) “Association” means the Industry Automobile Insurance Association.
+16 (b) “Association” means the Industry Automobile Insurance Association.
 
-14 (d) “Board of Directors” means the Board of Directors of the Association.
+17 (d) “Board of Directors” means the Board of Directors of the Association.
 
-15 (f) “Executive Director” means the Executive Director of the Fund.
+18 (f) “Executive Director” means the Executive Director of the Fund.
 
-16 (g) “Fund” means the Maryland Automobile Insurance Fund.
+19 (g) “Fund” means the Maryland Automobile Insurance Fund.
 
-17 ~~20–301.~~
+20 20–405.
 
-18 ~~(a)~~ ~~The~~ ~~purpose~~ ~~of~~ ~~the~~ ~~Fund~~ ~~is~~ ~~to~~ ~~provide~~ ~~the~~ ~~financial~~ ~~security~~ ~~required~~ ~~under~~ ~~§~~
-19 ~~17–103~~ ~~of~~ ~~the~~ ~~Transportation~~ ~~Article~~ ~~AT~~ ~~AFFORDABLE~~ ~~RATES~~ ~~to~~ ~~those~~ ~~eligible~~ ~~persons~~
-20 ~~that~~ ~~are~~ ~~unable~~ ~~to~~ ~~obtain~~ ~~it~~ ~~from~~ ~~an~~ ~~Association~~ ~~member.~~
+21 (d) (1) The Board of Directors shall calculate assessment allocation
+22 percentages for commercial auto and private passenger auto divisions by dividing the most
+23 recent certified assessment for commercial auto and private passenger auto divisions by
+24 the total of:
 
-21 20–405.
+25 (i) the respective aggregate net direct written premiums obtained
+26 under subsection (c) of this section; and
 
-22 (d) (1) The Board of Directors shall calculate assessment allocation
-23 percentages for commercial auto and private passenger auto divisions by dividing the most
-24 recent certified assessment for commercial auto and private passenger auto divisions by
-25 the total of:
+27 (ii) the respective total net direct written premiums of the Fund for
+28 the same period.
 
-26 (i) the respective aggregate net direct written premiums obtained
-27 under subsection (c) of this section; and
-
-28 (ii) the respective total net direct written premiums of the Fund for
-29 the same period.
-
-30 (2) The assessment allocation percentage for the private passenger auto
-31 division may not exceed [3%] 1%.
+29 (2) The assessment allocation percentage for the private passenger auto
+30 division may not exceed [3%] 1%.
 END OF PAGE 2
 
 START OF PAGE 3
@@ -122,11 +118,11 @@ HOUSE BILL 816 3
 
 11 (I) base premiums on one or both of the following items:
 
-12 [(i)] 1. the number of points accumulated by an insured or
+12 [1.] 1. the number of points accumulated by an insured or
 13 applicant for insurance under the point system provided for in Title 16, Subtitle 4 of the
 14 Transportation Article; or
 
-15 [(ii)] 2. the prior claims experience of an insured or applicant for
+15 [2.] 2. the prior claims experience of an insured or applicant for
 16 insurance; AND
 
 17 (II) ESTABLISH AN AFFORDABILITY PROGRAM ~~THAT~~ ~~MAY~~
@@ -195,6 +191,23 @@ START OF PAGE 4
 26 NONCOMPLIANCE WITH § 20–306 OF THIS TITLE.
 
 27 SECTION 2. AND BE IT FURTHER ENACTED, That this Act shall take effect
-28 July 1, 2027.
+28 ~~October~~ July 1, ~~2026~~ 2027. It shall remain effective for a period of 2 years and, at the end
+29 of June 30, 2029, this Act, with no further action required by the General Assembly, shall
+30 be abrogated and of no further force and effect.
 END OF PAGE 4
+
+START OF PAGE 5
+HOUSE BILL 816 5
+
+Approved:
+
+________________________________________________________________________________
+Governor.
+
+________________________________________________________________________________
+Speaker of the House of Delegates.
+
+________________________________________________________________________________
+President of the Senate.
+END OF PAGE 5
 </bill>

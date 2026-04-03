@@ -17,5 +17,9 @@
   "homepage": "https://github.com/Maryland-State-Innovation-Team/Legi-Assist#readme",
   "devDependencies": {
     "tailwindcss": "^3.4.19"
+  },
+  "dependencies": {
+    "node": "^25.9.0",
+    "vercel": "^50.38.3"
   }
 }

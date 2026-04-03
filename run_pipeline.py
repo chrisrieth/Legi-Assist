@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from google import genai
 from openai import OpenAI
 import ollama
+import anthropic
 
 # Import our new modules
 from pipeline.state import PipelineState
@@ -24,6 +25,10 @@ def setup_client(family, model_name):
         key = os.getenv("OPENAI_API_KEY")
         if not key: raise ValueError("Missing OPENAI_API_KEY")
         return OpenAI(api_key=key)
+    elif family == 'claude':
+        key = os.getenv("ANTHROPIC_API_KEY")
+        if not key: raise ValueError("Missing ANTHROPIC_API_KEY")
+        return anthropic.Anthropic(api_key=key)
     else:
         ollama.pull(model_name)
         return ollama.chat
@@ -31,7 +36,7 @@ def setup_client(family, model_name):
 def main():
     parser = argparse.ArgumentParser(description='Maryland Legislation Pipeline')
     parser.add_argument('--year', type=int, default=2026, help='Session Year')
-    parser.add_argument('--model-family', default='gemini', choices=['gemini', 'gpt', 'ollama'])
+    parser.add_argument('--model-family', default='gemini', choices=['gemini', 'gpt', 'ollama', 'claude'])
     parser.add_argument('--model', default='gemini-3-flash-preview', help='Model Name')
     parser.add_argument('--debug', action='store_true', help='Limit processing to first 10 bills')
     args = parser.parse_args()

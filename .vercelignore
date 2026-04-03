@@ -1,2 +1,6 @@
 node_modules
 venv
+*.py
+__pycache__
+.env
+requirements.txt

@@ -1,4 +1,4 @@
-# LLM (OpenAI/Gemini) helpers for plan areas pipeline
+# LLM (OpenAI/Gemini/Claude) helpers for plan areas pipeline
 
 import os
 import json
@@ -11,6 +11,7 @@ from google.genai.types import GenerateContentConfig
 import ollama
 from ollama import chat
 from ollama import ChatResponse
+import anthropic
 
 def query_llm_with_retries(client, prompt, value, response_format, model_name, max_retries=5, model_family='gemini'):
     """
@@ -79,9 +80,28 @@ def query_llm_with_retries(client, prompt, value, response_format, model_name, m
                     )
                     return response.choices[0].message.content
 
+            elif model_family == 'claude':
+                if response_format:
+                    response = client.messages.parse(
+                        model=model_name,
+                        max_tokens=16000,
+                        system=prompt,
+                        messages=[{"role": "user", "content": value}],
+                        output_format=response_format,
+                    )
+                    return response.parsed_output.model_dump()
+                else:
+                    response = client.messages.create(
+                        model=model_name,
+                        max_tokens=16000,
+                        system=prompt,
+                        messages=[{"role": "user", "content": value}],
+                    )
+                    return next((b.text for b in response.content if b.type == "text"), None)
+
             else:
                 raise ValueError(f"Unknown model_family: {model_family}")
-        except (google.genai.errors.ServerError, OpenAIError) as e:
+        except (google.genai.errors.ServerError, OpenAIError, anthropic.RateLimitError, anthropic.APIStatusError) as e:
             print(f"Connection error: {e}")
             if attempt < max_retries - 1:
                 sleep_duration = (2 ** attempt) * 1

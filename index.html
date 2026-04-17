@@ -64,6 +64,89 @@
         Skip to main content
     </a>
     <div id="app" v-cloak class="flex flex-col h-full font-sans-md text-slate-900">
+        <!-- Prototype Sign-In Banner (visible on all views) -->
+        <div class="bg-white border-bottom border-base-lighter display-flex flex-align-center flex-justify-end padding-x-3 shrink-0 z-40" style="min-height: 3rem;">
+            <div class="position-relative" ref="userMenuContainer">
+                <!-- Signed Out: Sign In button -->
+                <button
+                    v-if="!currentUser"
+                    @click="toggleUserDropdown"
+                    @keydown.escape="showUserDropdown = false"
+                    class="usa-button bg-red-800 hover:bg-red-900 display-flex flex-align-center gap-1 margin-0 font-sans-sm"
+                    aria-haspopup="menu"
+                    :aria-expanded="showUserDropdown"
+                >
+                    <i class="ph ph-user-circle text-lg" aria-hidden="true"></i>
+                    <span>Sign In</span>
+                    <i class="ph ph-caret-down text-sm" aria-hidden="true"></i>
+                </button>
+
+                <!-- Signed In: Welcome button -->
+                <button
+                    v-else
+                    @click="toggleUserDropdown"
+                    @keydown.escape="showUserDropdown = false"
+                    class="usa-button usa-button--unstyled display-flex flex-align-center gap-1 margin-0 padding-y-05 padding-x-2 text-base-darker hover:text-primary radius-pill hover:bg-base-lightest transition-colors font-sans-sm"
+                    aria-haspopup="menu"
+                    :aria-expanded="showUserDropdown"
+                >
+                    <i class="ph-fill ph-user-circle text-xl text-primary" aria-hidden="true"></i>
+                    <span>Welcome, <strong>{{ currentUser }}</strong></span>
+                    <i class="ph ph-caret-down text-sm" aria-hidden="true"></i>
+                </button>
+
+                <!-- Dropdown: Signed Out (pick a user) -->
+                <ul
+                    v-if="showUserDropdown && !currentUser"
+                    role="menu"
+                    aria-label="Sign in as"
+                    class="position-absolute right-0 margin-top-1 bg-white border-1px border-base-lighter shadow-2 radius-md z-50 list-none padding-0 overflow-hidden"
+                    style="min-width: 12rem;"
+                >
+                    <li class="padding-x-2 padding-y-1 font-sans-3xs text-uppercase text-base-dark text-bold border-bottom border-base-lighter" style="letter-spacing: 0.05em;">
+                        Sign in as
+                    </li>
+                    <li v-for="name in availableUsers" :key="name" role="none">
+                        <button
+                            type="button"
+                            role="menuitem"
+                            @click="signIn(name)"
+                            @keydown.escape="showUserDropdown = false"
+                            class="usa-button usa-button--unstyled width-full display-flex flex-align-center gap-1 padding-x-2 padding-y-1 text-base-darker hover:bg-base-lightest hover:text-primary text-no-underline font-sans-sm text-left"
+                        >
+                            <i class="ph ph-user text-base" aria-hidden="true"></i>
+                            <span>{{ name }}</span>
+                        </button>
+                    </li>
+                </ul>
+
+                <!-- Dropdown: Signed In (sign out) -->
+                <ul
+                    v-if="showUserDropdown && currentUser"
+                    role="menu"
+                    aria-label="Account menu"
+                    class="position-absolute right-0 margin-top-1 bg-white border-1px border-base-lighter shadow-2 radius-md z-50 list-none padding-0 overflow-hidden"
+                    style="min-width: 12rem;"
+                >
+                    <li class="padding-x-2 padding-y-1 font-sans-3xs text-uppercase text-base-dark text-bold border-bottom border-base-lighter" style="letter-spacing: 0.05em;">
+                        Signed in as {{ currentUser }}
+                    </li>
+                    <li role="none">
+                        <button
+                            type="button"
+                            role="menuitem"
+                            @click="signOut"
+                            @keydown.escape="showUserDropdown = false"
+                            class="usa-button usa-button--unstyled width-full display-flex flex-align-center gap-1 padding-x-2 padding-y-1 text-base-darker hover:bg-base-lightest hover:text-primary text-no-underline font-sans-sm text-left"
+                        >
+                            <i class="ph ph-sign-out text-base" aria-hidden="true"></i>
+                            <span>Sign Out</span>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
         <!-- Landing View -->
         <div v-if="currentView === 'landing'" class="flex-1 overflow-y-auto bg-white flex flex-col">
             <main id="main-content" tabindex="-1">
@@ -1211,6 +1294,10 @@
                 const activeBill = ref(null);
                 const pendingBillId = ref(null);
                 const showAboutModal = ref(false);
+                const currentUser = ref(null);
+                const showUserDropdown = ref(false);
+                const userMenuContainer = ref(null);
+                const availableUsers = ['Francesca', 'Tony', 'Susan'];
                 const favorites = ref(new Set());
                 const showFavoritesOnly = ref(false);
                 const showFilterDrawer = ref(false);
@@ -1284,6 +1371,23 @@
                     if (sponsorFilterContainer.value && !sponsorFilterContainer.value.contains(event.target)) {
                         showSponsorList.value = false;
                     }
+                    if (userMenuContainer.value && !userMenuContainer.value.contains(event.target)) {
+                        showUserDropdown.value = false;
+                    }
+                };
+
+                const toggleUserDropdown = () => {
+                    showUserDropdown.value = !showUserDropdown.value;
+                };
+                const signIn = (name) => {
+                    currentUser.value = name;
+                    sessionStorage.setItem('legi_current_user', name);
+                    showUserDropdown.value = false;
+                };
+                const signOut = () => {
+                    currentUser.value = null;
+                    sessionStorage.removeItem('legi_current_user');
+                    showUserDropdown.value = false;
                 };
 
                 const clearFilters = async () => {
@@ -2108,6 +2212,11 @@
                     
                     favorites.value = initialFavs;
 
+                    try {
+                        const savedUser = sessionStorage.getItem('legi_current_user');
+                        if (savedUser) currentUser.value = savedUser;
+                    } catch (e) { console.warn('SessionStorage read failed', e); }
+
                     await fetchAgencies();
                     initFromUrl();
                     fetchData();
@@ -2201,7 +2310,9 @@
                     filtersHeading, mobileFiltersHeading, focusNextItem,
                     favorites, showFavoritesOnly, toggleFavorite, isFavorite,
                     currentView, enterDashboard, handleFocusOut, scrollToFocusedItem,
-                    broadSubjectsOpen, narrowSubjectsOpen
+                    broadSubjectsOpen, narrowSubjectsOpen,
+                    currentUser, showUserDropdown, userMenuContainer, availableUsers,
+                    toggleUserDropdown, signIn, signOut
                 };
             }
         }).mount('#app');
